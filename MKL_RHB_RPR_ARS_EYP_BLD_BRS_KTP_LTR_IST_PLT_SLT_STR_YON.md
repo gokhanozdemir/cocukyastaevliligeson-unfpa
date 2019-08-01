@@ -3,32 +3,1505 @@
 
 # Araştırmalar
 ***
+## Erken Yaşta Evlilikin Toplumsal Meşruiyeti
+*ARS_01*
+
+**ÖZET**  
+Erken yaşta ve zorla evlilikler dünyada ve ülkemizde önemli bir toplumsal sorun
+olarak varlığını devam ettirmektedir. Biz bu çalışmada Güneydoğu Anadolu Bölgesi’nin
+Diyarbakır, Şanlıurfa ve Siirt illerinde erken ve zorla evlendirilen kadınlar ve bu evlilikleri
+karara bağlayan karar vericilerle derinlemesine görüşmeler kullanarak bu sorunu konu edinen
+nitel bir araştırma yürüttük. Amacımız bu evliliklerin içinde gerçekleştikleri toplumsal
+koşulları, evlilik süreçlerini, meşruiyet kaynaklarını, nasıl meşrulaştırıldıklarını kadınların
+(kurbanların) ve karar vericilerin (faillerin) gözünden açığa çıkarmak ve anlayabilmektir.
+Erken evliliklerin toplum tarafından onaylanmasını ve meşru görülmesini sağlayan
+nedenler ekonomik ve toplumsal olarak gruplandırılabilir. Ekonomik nedenlerin başında kente
+göçmüş geniş ailelerin yaşadıkları işsizlik, yoksulluk gelmektedir. Kalabalık, çok çocuklu
+aileler kız çocuklarını erken yaşta evlendirerek hem bir boğazdan kurtulmakta, hem de bu
+çalışmada yaygın olarak ortaya çıkmamakla birlikte başlık parası alarak ekonomik gelir elde
+etmektedir. Erken evliliklere meşruiyet sağlayan diğer bir ekonomik bağlam kız çocuklarının
+ev içinde kullanılan karşılıksız emekleridir. Özellikle akraba evliliklerinde, yaşlı kuşaklar
+baba soyu öncelikli olmak üzere, yakın akrabaların kız çocuklarını bir sosyal güvenlik
+güvencesi olarak görmektedirler. Ayrıca kız çocukları ücretsiz ev işlerini, evdeki diğer bakım
+hizmetlerini yerine getirmek amacıyla küçük yaşta evlendirilmektedir.
+Erken evliliklerin meşrulaştırıldığı ve toplumsal kabul gördüğü diğer zemin ataerkil
+toplumsal değerler, gelenekler, görenekler ve töre alanıdır. Bu alanda kız çocukları “çocuk”
+olarak değil, küçük kadınlar olarak görülmekte ve küçük yaşta evlendirilerek kadınlık rollerini
+üstlenmeleri beklenmektedir. Ayrıca ataerkil toplumsal değerler alanı, toplumsal saygınlık ve
+onuru kız çocuklarının bedeni ve cinselliği üzerinden tanımladığı için kız çocukları erken
+evlendirilerek bedenleri ve cinsellikleri denetim altına alınmaktadır. Görüşülen karar vericiler
+tarafından sıklıkla “namusa leke gelmesi”, “dedi kodu çıkması” gibi bağlamlarla toplumsal
+baskı ve dışlamaya işaret edilmektedir. Erken evlilikleri meşrulaştıran diğer bir önemli unsur
+“evde kalma” söylemidir. Karar vericiler “evde kalmış” kızların kuma olarak verildiğini veya
+kimsenin evlenmek istemediği erkeklerle evlendirildiğini ifade etmektedirler. Bunlarla birlikte
+karar vericilerin anlatımlarından evliliğin başlı başına esas, evlilik yaşının ikincil olduğu
+anlaşılmaktadır.
+Erken ve zorla evlendirilen kız çocukları farklı sorunlarla karşılaşmakta ve yaşam
+boyu bunlarla boğuşmak zorunda kalmaktadırlar. Her şeyden önce gelişim psikolojisi
+bağlamında bakıldığında çocuk yaşta ailelerinde koparılmakta ve yabancı bir ortama savrulmaktadırlar. Kız çocukları yeni girdikleri bu ortamda yabancılık hissetmekte, ev
+içindeki hiyerarşik ilişkiler içinde aşağılanmakta, dışlanmakta, simgesel ve fiziksel şiddete
+maruz kalmaktadırlar. Aile büyükleri bu çocukların ailelerini görmelerine izin vermemekte,
+kendi ailelerine olabildiğince erken bağlanmasını sağlamak amacıyla çocuk doğurmaya
+zorlamaktadırlar. Kadınlar bu nedenle tıbbi tedavi görmeye zorlandıklarını anlatmaktadırlar.
+Diğer taraftan bu çocuklar evlendirildikleri eşlerinin aileleriyle birlikte yaşamakta, kalabalık
+ailenin bütün yükünü omuzlamak zorunda kalmaktadırlar. Erken evlendirilen kız çocukları ve
+bebekleri ayrıca hamilelik ve doğum sırasında sağlık problemi yaşamaktadırlar.
+Erken ve zorla evlendirilen kız çocukları evliliklerine anne-baba, erkek kardeş, amca,
+hala gibi yaşlı akrabaların karar verdiklerini belirtmektedirler. Karar vericiler ise akraba
+evliliklerinin erken evlilikleri arttırdığını ifade etmektedirler. Erken evliliklerde sıklıkla
+akraba, berdel ve görücü usulü evliliklere rastlanmaktadır. Bununla birlikte bazı kız çocukları
+kendi isteğiyle evlenmektedirler. Berdel evlilikleri sıklıkla önce erkek kardeş için amca veya
+halakızının getirilmesiyle başlamakta, karşılığında yaşına bakılmaksızın kız kardeş
+verilmektedir. Ancak kadınlar ve karar vericiler akraba evliliklerinin evlilikte problem olması
+durumunda dostluk ilişkilerin bozduğunu, akraba olunduğu için sessiz kalındığını olumsuz
+yönler olarak belirtmektedirler. Ayrıca berdel evliliklerin aynı zamanda sorunların da
+karşılıklı takası olduğunu ifade etmektedirler.
+Erken ve zorla evlendirilen kız çocukları evliliklerinin dini nikahla meşrulaştırıldığını,
+daha sonra 18 yaşına geldiklerinde resmi nikahlarının yapıldığını belirtmektedirler. Bu süre
+içinde hastalanan, doktora gitmek zorunda kalan kadınlar doktorların kimi kez evli olduklarını
+öğrenince herhangi bir sorun görmediklerini ve ihbar etmediklerini, bazı doktorların ise ihbar
+durumunda kız çocuklarını mağduriyetlerinin artacağını ve çok geç olduğunu ifade ettiklerini
+belirtmektedirler.
+Erken yaşta zorla evlendirilen kız çocukları eşleriyle ilişkilerinin iyi olduğunu,
+eşlerinin onlara çok yardımcı olduğunu, onları “büyüttüğünü” ve eşin iyi olmaması
+durumunda da kadınların yok olup gideceğini vurgulamaktadırlar. Ancak kaynana ve
+kayınbaba ile yaşadıkları için eşlerinin özellikle annelerinin etkisinde kaldığını ve bu nedenle
+eşler arası ilişkilerin bozulduğunu ifade etmektedirler. Erken ve zorla evlendirilen kadınlar
+evlilikten sonra da karar süreçlerinden dışlandıklarını, onların yerine aile büyüklerinin
+özellikle kaynanaların karar verdiğini ve bu kararlara uymak zorunda olduklarını
+belirtmektedirler.
+Karar vericiler evlenecek erkek ve kadınlarda hangi özelliklerin olması gerektiğine
+yönelik soruya egemen cinsiyetler arası eşitsizliğe uygun yanıtlar vermektedirler. Onlara göre
+erkeklerin evlilik yaşı kadınlardan büyük olmalı, iş ve evi geçindirecek gelir sahibi ve
+askerliğini yapmış olmalıdırlar. Buna karşılık kadınların okumasına ve çalışmasına gerek
+yoktur ve kadınlar uyumlu, sabırlı, idareci, evine bağımlı olma gibi özelliklere sahip
+olmalıdırlar.
+Bu çalışmada ayrıca kadınlara ve karar vericiler erken evliliklerin önlenmesine yönelik
+önerileri sorulmuştur. Kadınlar yaşlı kuşakları değiştirmenin zor olduğunu düşünmekte ve bu
+nedenle esas olarak kız çocuklarının eğitilmesi ve bilinçlendirilmesi gerektiğini
+vurgulamaktadırlar. Çoğunlukla kız çocuklarının okutulması, okula gönderilmesi, meslek ve
+gelir sahibi olması, erken evliliklerin yasal süreçlerde denetim altına alınması ve
+cezalandırılması gerektiğini belirtmektedirler. Bazı kadınlar ve karar vericiler dinsel
+kuralların erken evlilikleri meşrulaştırmada araçsallaştırıldığını ileri sürmekte ve buna bağlı
+olarak dini kanaat önderlerinin ve görevlilerinin bu konuda hutbe okumasını, cemaati
+bilgilendirmesini önermektedirler. Bazı kadınlar ise televizyonlarda izdivaç programları
+yerine erken evlilikler konusunda programlar yapılmasını önermektedirler.
+Kadınların önerilerine benzer öneriler karar vericiler tarafından da ifade edilmektedir.
+Onlar anne-babaların eğitilmesini, kız çocuklarının okutulmasını, yoksulluğun önlenmesini,
+yasal mevzuatın güçlendirilmesini ve uygulanmasını önermektedirler. Bu bağlamda düğün
+salonlarında yaş kontrolü yapılmasını, böylece erken evliliklerin ortaya çıkarılacağını
+belirtmektedirler.
+Sonuç olarak erken evlendirilen kız çocuklarının geleneksel toplumlara özgü çocukluk
+kavrayışı içinde algılandıkları ve aileleri tarafından dokunulmaz, devredilmez hakları olan
+özeneler olarak kavranmadıkları ortaya çıkmaktadır. Erken evlilikler ekonomik ve toplumsal
+değerler alanında meşrulaştırılmakta ve toplumsal onay görmektedirler. Erken evlilikler
+sıklıkla akrabalar arası, berdel ve görücü usulü evliliklerde ortaya çıkmakta ve bir gelenek,
+töre olarak kabul görmektedir.
+Erken ve zorla evlendirilen kız çocukları bir taraftan çocuk olarak görülmekte ve kendi
+kararlarını kendileri veremeyecekleri düşünülerek yaşlı kuşakların denetimine ve kararlarına
+bağımlı tutulmaktadırlar. Ancak diğer taraftan evlenip yetişkin kadın olarak görülerek hata ve
+eksikleri nedeniyle aşağılanmakta, dışlanmakta, simgesel ve fiziksel şiddete maruz
+kalmaktadırlar. Bu çocuklar kente göçmüş, yoksul geniş ailelerin çocukları olarak
+“yağmurdan kaçarken doluya” tutulmaktadırlar.
+Proje ekibi olarak erken ve zorla evliliklerin önlenmesi için her şeyden önce
+“çocuğun”, “çocuk haklarının” ve “çocuğun yüksek yararı”nın merkezde olduğu bir çocukluk
+kavrayışının benimsenmesini, erken ve zorla evlendirilen kız çocuklarının başta çocuk hakları
+olmak üzere, diğer uluslar arası, ulusal sözleşme ve yasalarda yer alan bütün haklarını gerçek
+yaşamda etkili biçimde kullanmalarını sağlayacak, kişisel, aile, toplum ve kamu düzeyinde
+bütün politik alanları kapsayan değişim ve dönüşümler için katılımcı biçimde harekete
+geçilmesini öneriyoruz.
+Erken evliliklerin yine kişisel, aile, toplum ve kamu düzeyinde; bu evliliğe zorlanan
+kız çocuklarına karşı işlenmiş bedensel ve ruhsal işkence, cinsel istismar ve tecavüz suçu
+olarak kavranması ve tanımlanmasını; bu suçların önlenebilmesi için Avrupa Konseyi
+Çocukların Cinsel Sömürü ve İstismara Karşı Korunması Sözleşmesi’nin ruhuna uygun
+biçimde uygulanmasını, tek eksenli olarak ceza artırımını değil, toplumsal yaşamın bütün
+boyutlarını kapsayan bütüncül ve katılımcı bir politikanın oluşturulup uygulanmasını
+öneriyoruz.
+
+?> *Kuruluş adı: Dicle Toplumsal Araştırmalar Merkjezi (DİTAM), KAMER, Diyarbakır Eczacılar Odası; 2014, Türkçe Tema: Çocuk yaşta evlilik, Erken yaşta evlilik*
+
+[Dökümanı İncele](downloads\ARS\ARS_01.pdf ':ignore')
+
+***
+
+## Hane Ziyareti Raporu
+*ARS_02 Klasör*  
+
+**ÖZET**  
+ Klasörde, KAMER Vakfı tarafından 2011-2015 yılları arasında 23 ilde gerçekleştirilen hane ziyaretlerine ilişkin raporlar yer almaktadır. Raporlarda evlenme yaşı ve biçimine ilişkin istatisitklere yer verilmektedir.
+
+?> *Kuruluş adı: KAMER; 2015, Türkçe Tema:Çocuk yaşta evlilik, Erken yaşta evlilik, Zorla evlilik*  
+
+Hane Ziyaretleri, 2011 [Dökümanı İncele](downloads\ARS\ARS_02\hane_ziyaretleri_-_2011.pdf ':ignore')
+
+Hane Ziyaretleri, 2012 [Dökümanı İncele](downloads\ARS\ARS_02\hane_ziyaretleri_-_2012.pdf ':ignore')
+
+Hane Ziyaretleri, 2013 [Dökümanı İncele](downloads\ARS\ARS_02\hane_ziyaretleri_-_2013.pdf ':ignore')
+
+Hane Ziyaretleri, 2014 [Dökümanı İncele](downloads\ARS\ARS_02\hane_ziyaretleri_-_2014.pdf ':ignore')
+
+Hane Ziyaretleri 2015 Sonuçları [Dökümanı İncele](downloads\ARS\ARS_02\hane-ziyaretleri_2015_infografik.pdf ':ignore')
+
+***
+
+## Türkiye'de Evlilik Tercihleri
+*ARS_03*
+
+**ÖZET**  
+Türkiye’de Evlilik Tercihleri
+Türkiye’de 1980’lerden günümüze kadar ortaya çıkan genel eğilimlere baktığımızda; bireylerin giderek daha ileri yaşlarda evlendikleri, eşlerini yakın çevre dışından buldukları, evlilik kararını daha çok kendilerinin aldıkları ve geçmişe nazaran daha sık boşandıkları ve/veya yeniden evlendikleri
+görülmektedir. Bu eğilimlerin toplumsal değişme ve modernleşme süreci ile birlikte yaşanan bireyselleşmenin birer sonucu olarak karşımıza çıktığı söylenebilir. Söz konusu gelişmelerin ani kopuşlar ve dönüşümler şeklinde yaşanmadığı göz önüne alındığında, bu eğilimlerin ilerleyen
+yıllarda da mevcut yönelimde devam edeceği öngörülebilir.
+Evleneceği kişiyi bulmada aile kanalının önemini muhafaza etmesi ve evlilik sürecinde gerçekleştirilen
+törenlerin sayı ve çeşitliliğinde artış yaşanması Türkiye’de evlilik kurumunun hayata geçirilişinde
+sürekliliklerin de söz konusu olduğunu göstermektedir. Buradan hareketle, Türkiye’de evlilik
+tercihlerindeki bireyselleşmenin, bireyin ailesi ile olan ilişkilerini bütünüyle dışlayan bir
+özellik göstermediği söylenebilir. Özetle; evlilik tercihlerinin zaman içindeki seyri; bir yandan
+bireyselleşme yönünde değişim eğilimlerini, diğer yandan da bir düzeyde gelenekselliğin
+sürdürüldüğü bir değişim sürecini göstermektedir.
+Türkiye’de Erken Evlilikler
+Türkiye’de yaşanan demografik dönüşüm, kentleşme, eğitimin yaygınlaşması, gelirin artması,
+yaşam ve tüketim tarzlarında farklılaşma gibi toplumsal dönüşüm süreçlerine bağlı olarak erken
+evliliklerin yaygınlığı giderek azalmaktadır. Erken evliliklerin güncel yaygınlığının tespiti konusunda
+bazı istatistikî göstergelerin oluşturulmasında ve sunulmasında sorunlar olduğu görülmektedir.
+Alanyazın incelemesinde ortaya konulduğu üzere; erken evliliklerin sosyo-ekonomik, sosyo-kültürel ve nüfus hareketlerine bağlı nedenleri vardır. Bu tür evlilikler bazı durumlarda sosyo-kültürel ve ekonomik nedenlerle tercih edilebilmektedir. Bu evliliklerin bir kısmında ciddi sorunlar gözlenmese de genel olarak erken evliliklerin, kız çocuklarının ve gençlerin kişisel gelişimlerini ve sağlıklarını olumsuz yönde etkileyecek sonuçları olabilmektedir. Dolayısıyla bu konu başlı başına sosyal bir olgu olarak ele alınmalıdır.
+Erken Evlilikler Hakkında Uzman Görüşleri
+Araştırma kapsamında mesleki yaşantısında erken evlilik olgusuyla karşılaşan 12 uzman ile derinle-
+mesine görüşmeler yapılmıştır. Bu görüşmelerde değişik meslek gruplarından kişilerin farklı yaklaşım-
+larının ortaya çıkarılmasına çalışılmıştır. Bu amaçla çoğunluğu Ankara’da bulunmakla birlikte Adana,
+İzmir ve Niğde illerinde görev yapan ve hukuk (hâkim ve avukat), sağlık (doktor, hemşire, ebe), sosyal
+çalışma (sosyal çalışmacı, çocuk gelişimci), eğitim, ilahiyat ve sivil toplum kuruluşu faaliyeti alanlarında çalışan ve çalışma yaşamları içinde erken evlilikler ile karşılaşan kişilerin görüşlerine başvurulmuştur.
+Araştırma sürecinde biri Ankara’da diğeri de İstanbul’da gerçekleşen iki bilimsel etkinliğe de katılım
+sağlanmıştır.
+Erken Evlilikler Olgusunun Değerlendirilmesi  
+• Görüşülen uzmanların çoğu erken evlilik olgusunu 18 yaşın altında yapılan tüm evlilikler olarak
+tanımlamaktadır.
+• Uzmanlar, “çocuk gelin” adlandırmasının sakıncalı olduğunu, bu tanımlama ile birlikte çocuk ve
+gelin kavramlarının birlikte kullanılmasının doğru çağrışımlar yapmayacağını ve bu durumun
+erken evliliğe bir tür masumiyet kazandıracağını ifade etmişlerdir.  
+• Uzmanların aktarımına göre; erken evlilikler çeşitli tipolojiler şeklinde gerçekleşmektedir. Bunlar
+arasında sıklıkla dile getirdikleri tipolojiler; 1) zorla evlendirilen küçük yaştaki kız çocuğu ve yetişkin
+birey (aile baskısı-ekonomik yoksunluk nedeniyle), 2) kendi isteği ile evlenen/evlendirilen küçük
+yaştaki kız çocuğu ve yetişkin birey (evden kaçma-aile içi şiddet nedeniyle) ve 3) her iki tarafın
+da 18 yaşın altında olduğu evlilik biçimleri (aile isteği veya gönül ilişkisi-akraba evliliği nedeniyle)
+yer almaktadır.  
+• Erken evliliklerde uzmanların bir kısmı toplumsal yapının etkisini öne çıkarmaktadır. Buna göre
+toplumsal yapıda yerleşik olan adet, gelenek ve benzeri uygulamalar her nesilde kendisini
+yeniden üretmektedir. Erken evlenenlerin “rol model” olarak aldıkları kişiler de erken evlenmiş
+kişiler olabilmektedir.  
+• Uzmanlara göre, kimi zaman çocukların “isteyerek” evlenmelerinin altında yatan bir neden de
+eğitim ve çalışma hayatına katılım yoluyla kazanılması mümkün görünmeyen bir konuma evlilik
+yoluyla erişme arayışı olabilmektedir.  
+• Uzmanlar, erken evlenen kızların önemli bir kısmının eğitim hayatından uzaklaştığını, fiziksel
+ve psikolojik açıdan hazırlıklı olmadıklarını ve ağır sorumlulukları yüklenmek durumunda
+kalabildiklerini belirtmişlerdir.  
+• Erken yaş evliliklerinde eşler arası yaş farkı zaman zaman eşlerin birbirlerinden ve çevrelerinden
+beklentilerini farklılaştırabilmektedir. Bu nedenle bu tür evliliklerde kadına yönelik şiddet vakalarının
+daha sık yaşanabildiği uzmanlarca ifade edilmiştir.  
+Uzmanların Meslekleri / Görevi ile İlgili Deneyimleri  
+• Uzmanlara göre, erken evliliklerde en önemli güçlüklerden biri çocuk ve kadın algısının birbiri
+ile yer değiştirmesidir. Burada en belirleyici etmen; erken evlenen kız çocuklarının, çocuk olma
+hallerinin evlenme yolu ile sonlandığına ilişkin kabuldür.  
+• Erken evlilikler üzerinden gelişen hukuki tartışmalarda ulusal mevzuattaki önemli bir farklılaşma,
+Çocuk Koruma Kanunu ile Medeni Kanun arasındaki çocuk tanımını içeren ilgili hükümlerden
+kaynaklanmaktadır. Bu tür vakalarda hangi mevzuatın geçerli sayılacağının yoruma dayalı olması
+çocuğun aleyhine sonuçlar yaratabilmektedir. Bu olumsuz sonuçların, çocuğun lehine hükümler
+taşıyan Çocuk Koruma Kanunu yerine Medeni Kanun’a atıf yapılarak değerlendirilmesinden
+kaynaklandığı anlaşılmaktadır.
+• Uzmanlar, erken evlenme gerekçelerinin bir bölümünün evlilik öncesi yaşanan cinsel birliktelikler
+olduğunu ifade etmişlerdir. Özellikle 15-18 yaş arasında yaşanan cinsel birlikteliklerde rızanın
+olup olmadığının yorumlamasından kaynaklanan farklılıkların çeşitli tartışmaları ortaya çıkardığı,
+uzmanların belirttiği bir diğer konudur.  
+• Uzmanlar, hukuksal açıdan sorunlu konulardan birinin de her iki tarafın 18 yaşından küçük olması
+durumunda uygulanan mevzuat ile taraflardan birinin yetişkin diğerinin 18 yaş altında olması
+durumunda uygulanan mevzuatın birbirinden ayrışmamış olmasından kaynaklandığını ifade
+etmişlerdir.  
+• 18 yaşının altında resmi olarak gerçekleşen evliliklerde sürece mahkeme ve hâkimler, sosyal
+çalışmacılar ve doktorlar gibi bir dizi meslek elemanı da dâhil olmakta ve bu uzmanların görüşleri
+mahkeme tarafından verilecek karara etkide bulunmaktadır. Konunun çocuk mahkemelerince
+değil aile mahkemelerince karara bağlanması uzmanlarca sorunlu görülmektedir; çünkü bu
+mahkemeler Medeni Kanuna göre hareket ettiğinden evlilik kararını daha kolay verilebilmektedir.  
+• Hâkimin evlenme yönünde karar vermesinin önünde iki büyük nedenin olduğu belirtilmiştir.
+Bunlardan biri evlilik öncesi yaşanan cinsel birliktelik diğeri de bu cinsel birliktelik neticesinde
+gebe kalınmış olmasıdır. Bu iki durumda hâkimler çoğunlukla iki tarafın rızasını esas kabul edip
+evlenme yönünde karar verebilmektedir. Uzmanlar, burada en önemli sorunun evlenme izinlerinin
+yeterli inceleme ve araştırma yapılmadan çoğunlukla evlenme yönünde veriliyor olmasından
+kaynaklandığını ifade etmişlerdir.  
+• Kız çocuğunun 15 yaşından önce yasal olmayan şekilde evlendiği vakalarda eğer bu durum
+mahkemeye intikal etmişse erkek (koca), cinsel istismar suçu ile yargılanmakta ve uzun süren
+mahkûmiyet cezası alabilmektedir. Bu vakaların bir bölümünde evliliklerin gelişim seyri iki tarafın
+da memnuniyeti ile devam etmektedir. Dolayısıyla kocanın uzun süreli mahkûmiyeti, evliliğe
+dışarıdan aile bütünlüğünü bozacak şekilde müdahale biçimini almakta ve geride kalan eş ve
+çocukların mağduriyetine yol açmaktadır. Bu tür özel durumlarda müdahalenin evlilik kurumuna
+zarar verebileceği dolayısıyla mevcut mevzuatın bu gibi durumları yönetmekte yetersiz
+olduğu görüşü uzmanlar tarafından dile getirilmiştir.  
+Uzmanların Önerileri  
+• Bir şekilde erken yaşta evlenmiş kişilerin kurdukları ailelerin parçalanmadan devam edebilmesi
+için çeşitli projeler ve programlar kapsamında eğitim ve danışmanlık hizmeti yürütülmesi, bu
+ailelere ihtiyaç duydukları desteğin sağlanması gereklidir.  
+• Cinsel istismara maruz kalmış ya da erken evlilik yapmış ancak bir süre sonra evliliği sonlanmış
+kız çocuklarının da ekonomik ve duygusal-sosyal açıdan desteklenmesi, bu kız çocuklarının ikinci
+bir defa suiistimallerinin engellenmesi açısından önemlidir.  
+• Erken yaşta evlilik yapmış, boşanmış ya da cinsel istismara maruz kalmış kız çocuklarının
+aileleri tarafından kabul görmeleri önemli bir güçlük olarak dile getirilmektedir. Özellikle sosyal
+çevrelerinden kaynaklı baskı ve dışlama mekanizması bu tür durumdaki bireyleri yalnızlaştırmakta
+ve ailesini de toplumsal dışlanmaya maruz bırakabilmektedir. Bu güçlüğü dile getiren uzmanlar,
+kız çocuklarının aileleri tarafından kabullenilmesini sağlamaya yönelik iyileştirme
+seçeneklerinin önerilmesi gerektiğini dile getirmektedir. Bu seçenekler arasında gerekirse
+aileye bulunduğu mekânı değiştirmenin imkânları da sunulabilmelidir.  
+• Bazı durumlarda mevcut destek mekanizmalarının sağlıklı işletilmesi sürecinde en büyük
+değişkenin meslek memurlarının tutumları arasındaki fark olduğunu dile getiren uzmanlar, sürecin
+kişisel duyarlılıklar üzerinden yürüdüğü ve bu duyarlılığı göstermeyen meslek elemanlarının
+varlığının destek mekanizmasının işletilmesini engellediğini ifade etmektedir.
+• Sivil toplum kuruluşlarının devlet kurumları ile koordineli bir şekilde çalışmaları ve süreçteki
+meslek elemanlarının görevlerini sorumluluk bilinci ve titizlikle sürdürmeleri erken evliliklerin
+önlenmesi, çocuk suiistimallerinin ve cinsel istismarların önlenmesi konunun önem arz eden
+yönlerini oluşturmaktadır.
+• Sivil toplum kuruluşları ve devlet kurumlarının merkezden yereldeki olaylara müdahalesinin sınırlı
+kaldığı, bunun daha da etkili hale getirilmesinde yerel destek mekanizmalarının oluşturulması
+gerektiği dile getirilen bir diğer husustur.
+Öneriler ve Sonuç  
+Değişen aile ve evlilik kurumu yapısını anlamak ve bu süreç içinde ortaya çıkan sorunlara çözüm
+önerileri geliştirebilmek için çeşitli kaynaklardan derlenen bilgileri bir model çerçevesinde ele almak
+gereklidir. Bu kapsamda, aile ve evlilik kurumuna ilişkin süreçleri anlamak için ailenin kendi içiyle ve
+dışıyla etkileşimini sergileyen modellere başvurulabilir.  
+Makro Alana Yönelik Öneriler    
+• Evlilik gibi bireyin tüm yaşam akışını etkileyebilecek nitelikte önemli bir kararı, günümüz koşullarında, 16-17 yaşındaki bireylerin ne kadar sağlıklı verebileceği tartışmalı bir konudur. Esasen yasa koyucu irade, bu yaştaki çocukların evlenebilmesine olağanüstü koşulların belirlediği durumları gözeterek izin vermiştir. Oysa çok özel durumlar için aralık bırakılan bu kapının uygulamada aileler tarafından başka nedenlerle de zorlanarak açılmaya çalışıldığı anlaşılmaktadır. Dolayısıyla, Medeni Kanunda yer alan 18 yaş altında evliliklere, belirli koşullarda izin verilmesi hükümlerine göre karar
+verilirken, gerekli tüm incelemelerin uzmanlarca titizlikle yapılması sağlanmalıdır.  
+• Kadınların ve kız çocuklarının güçlendirilmesine yönelik olarak kadınların eğitim düzeyinin
+yükseltilmesi yönündeki çalışmalara devam edilmelidir. Maddi yoksunluk içindeki ailelerin bir bölümü
+için, kız çocuklarının okuması “boşa harcanan zaman ve yatırım” olarak algılanmaktadır. Dolayısıyla
+eğitimin meslek kazandırıcı bir yöneliminin olması, daha etkili sonuçların alınmasını sağlayacaktır.  
+• Türkiye’deki erken evliliklerin ülke genelindeki yaygınlığını ve zaman içindeki değişimlerini takip
+edebilmek için pek çok toplumsal kesimin üzerinde uzlaşabileceği, referans kaynağı olarak
+görülen araştırmalar yapılması gerekmektedir. Böylece erken evlenme olgusunun kamuoyunda
+kaynağı belirsiz haberler nedeniyle oluşsan algılar üzerinden tartışılmasının önüne geçilebilir.
+Bunun yanı sıra kamu ve sivil toplum kuruluşlarının bir ağ ilişkisi içinde, bu konularda sahip oldukları
+verileri paylaşacakları ve sistemik hale getirecekleri bir iletişim sisteminin kurulması düşünülebilir.  
+Mikro Alana Yönelik Öneriler  
+• Erken evliliklerle ilgili yerel düzeyde oluşturulacak ve yürütülecek olan politikalar kısa ve
+orta vadede sonuç elde etmeye imkân sağlayabilir. Öncelikle bu tür evliliklerin yoğunlaştığı
+bölgelerdeki yapının sosyal ilişkiler ağının ve sosyal dinamiklerin gözlemlenmesi ve mevcut
+durumun anlaşılmasına yönelik çalışmaların yürütülmesi gereklidir.  
+• Aileyi çevreleyen mikro alanda yürütülen faaliyetlerde temel hedefin dışarıdan gelen kaynaklar,
+fikirler ve aktörlerle süreli projeler yapmak olmadığı; bilakis alanda bulunan aktörlerin harekete
+geçirilmesi yoluyla sorunlara kalıcı nitelikte çözümler üretebilmek olduğu unutulmamalıdır.  
+• Hukuk, güvenlik, sağlık ve eğitim alanında çalışanlar soysal çalışmacılar, sivil toplum kuruluşları ile
+yereldeki kamuoyunca önemsenen aktörler gibi paydaşların, erken evliliklere yönelik çalışmalarda
+önemli roller üstlenebilecekleri açıktır. Bununla birlikte, görüşülen uzmanlar tarafından da sıklıkla dile getirildiği üzere, “sosyal çalışmacı” ve “din görevlilerinin” bu süreç içinde oynayacakları rol arttırılabilir.  
+Sonuç  
+Türkiye’nin gelmiş olduğu sosyo-ekonomik ve kültürel gelişim düzeyi ve ortaya koyduğu toplumsal
+hedefler göz önüne alındığında; erken evliliklere yönelik politikalar geliştirmenin gerekli olduğu açık-
+tır. Diğer yandan toplumsal yapı içinde devam edegelen erken evliliklerin sadece yasal mevzuat çerçevesinde kanuna uygun olup olmaması üzerinden değil; oluşum ve gelişim süreçlerine bakılarak
+da değerlendirilmesi gerektiği anlaşılmaktadır. Daha önce erken yapılmış da olsa evlilik kurumunun
+halen sağlıklı koşullarda sürdüğü durumları yönetebilmek açısından mevcut mevzuatın yeniden ele
+alınması gerekli olduğu görülmektedir.
+
+?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı Aile ve Toplum Hizmetleri Genel Müdürlüğü; 2015, Türkçe Tema: Çocuk yaşta evlilik, Zorla evlilik*
+
+[Dökümanı İncele](downloads\ARS\ARS_03.pdf ':ignore')
+
+***
+
+## Çocukların Ev İçinde Yaşadıkları Şiddet Araştırması
+*ARS_04*
+
+**ÖNSÖZ**  
+Çocuğa yönelik şiddet, dünyada ve Türkiye’de toplumun bir çok kesiminde yoğun olarak
+yaşanmaktadır. Bu çocukların sağlıklı bir şekilde, ruhsal, fiziksel, ve sosyal gelişimini
+yaralamakta ve onarılması çok güç kalıcı, olumsuz etkiler bırakmaktadır. Çocukların
+şiddete uğradığı toplumlar, bu durumdan ekonomik, sosyal ve kültürel olarak olumsuz
+etkilenmektedirler.
+Çocuklara yönelik şiddet temel bir insan hakkı ihlalidir. BM Çocuk Haklarına dair Sözleşme
+(ÇHS) de dahil olmak üzere bir sürü insan hakları hukuku belgesi, çocukların şiddete karşı
+korunma haklarını güvence altına almaktadır. Ancak tüm uygulamalara karşın çocuğa
+yönelik şiddet yaygın olarak varolmaya devam etmektedir.
+Bu nedenle bizler bir araya gelerek, çocuğa yönelik ev içi şiddetin önlenmesine katkı
+sağlamak, şiddetin önlenmesinde çözümün parçası olmak amacıyla “Çocuğa Karşı Aile
+İçi Şiddetin Önlenmesi” projesinin çalışmalarına başladık. Elinizde tutmuş olduğunuz
+araştırma, bu projenin faaliyetlerinden biridir.
+Çocukların Ev İçinde Yaşadıkları Şiddet araştırması; halihazırda var olan şiddeti
+“görünür kılmaya” ve şiddetin önlenmesi adına gerekli adımların atılmasını sağlamayı
+amaçlamaktadır. “Şiddet şiddeti doğurur” bakış açısıyla, çocuğa yönelik olarak,ev içinde gerçekleştirilen şiddetin önlenmesinin, diğer alanlarda yaşanan şiddetin önlenmesine de
+katkı sağlayacağına inanılmaktadır.
+Araştırma kapsamında, İstanbul’da, danışman ve psikologlarla birlikte, 49 ilköğretim
+okulundan 440 çocukla görüşülmüş, sonuçlar değerlendirilerek, araştırma raporu
+hazırlanmıştır. Araştırma çocukların ev içinde şiddete tanık olma durumu, fiziksel, duygusal
+şiddet yaşantıları, ev içinde diğer çocuklar tarafından gördükleri şiddet deneyimleri
+ve ihmal edilme yaşantıları üzerine odaklanmaktadır. Araştırma kapsamında ayrıca
+çocukların çocuğa karşı şiddetin önlenmesine yönelik önerileri ve kendileriyle yapılan
+görüşme konusundaki görüşleri sorulmuştur.
+Bu araştırma ile çocuğa karşı şiddetin oluştuğu tüm ortamların birbirinden bağımsız
+olmadığı bilinerek ancak sadece ev içi ortama odaklanarak, çocukların şiddet deneyimlerini
+görünür hale getirmek ve çocukların şiddetin önlenmesine yönelik önerilerini paylaşmak
+amaçlanmıştır. Bu noktada çocukların kendilerini ilgilendiren her konuda deneyimlerinin
+ve görüşlerinin alınmasının onların katılım hakkının bir gereği olduğu ve çocukların kendi
+durumları hakkında “uzman” olduklarının göz önünde tutulması önemlidir.
+
+?> *Kuruluş adı: Genç Hayat Vakfı, Uluslararası Çocuk Merkezi Derneği, Geleceğimizin Çocukları Vakfı; 2012, Türkçe Tema: Çocuğa yönelik şiddet*
+
+[Dökümanı İncele](downloads\ARS\ARS_04.pdf ':ignore')
+
+***
+
+## Türkiye'de Çocuk İstismarı ve Aile içi Şiddet Araştırması
+*ARS_05*
+
+**ÖNSÖZ**  
+Dünya Sağlık Örgütü’nce, “çocuğun sağlığını, fiziksel gelişimini olumsuz yönde etkileyen, bir yetişkin, toplum veya ülkesi tarafından bilerek veya bilmeyerek yapılan davranışlar” çocuk istismarı olarak kabul edilmektedir. Çocukların, ana-babalarının ya da başkalarının bakımında iken “bedensel ve zihinsel şiddetin her türünden” korunmaları gerektiği, ülkemizin de taraf olduğu Çocuk Haklarına dair Sözleşme’de de yer almaktadır.
+Ülkemizde çocuğa yönelik pek çok araştırma gerçekleştirilmektedir. Ancak bu araştırmalar incelendiğinde, çocuk istismarı ve aile içi şiddet konusunda kapsamlı ve derinlemesine yapılmış araştırma verilerinin bulunmadığı görülmektedir. Birleşmiş Milletler (BM) Çocuk Haklarına dair Sözleşme gereği hazırlanarak BM Çocuk Hakları Komitesine sunulan ilk ülke raporumuzu inceleyen Çocuk Hakları Komitesi Sonuç Gözlemlerinde, “Çocuk İstismarı ve İhmali” başlığı altında, 46.
+maddede “...........ev içi şiddet kötü muamele ve cinsel istismar da dahil her tül sömürü hakkında araştırma yaptırmasını taraf devlete tavsiye etmektedir........” denilmektedir.
+Söz konusu araştırmada, Genel Müdürlüğümüz koordinatörlüğünde, Avrupa Birliği’ nin mali katkısı, UNICEF’in teknik desteği ve TUİK’ in önerdiği örneklemlerle, TNS Piar Araştırma Şirketi tarafından, BM Çocuk Hakları Komitesi’nin tavsiye niteliğindeki sonuç gözlemleri de dikkate alınarak, hem kötü muamele gören hem de kötü muamele uygulayanın bakış açısı, niteliksel ve niceliksel olarak araştırılmıştır. 
+Bu araştırmada, ülkemizdeki tüm çocukların her türlü şiddetten koruması, konuya ilişkin koruyucu ve önleyici politikalar ve hizmet modelleri geliştirilmesine yönelik veriler elde edilmesi hedeflenmiş olup niteliksel ve niceliksel yöntemler kullanılmıştır. Araştırmanın öncelikleri açısından, ülkemizdeki çocuk istismarı ve aile içi şiddet konusunda mevcut politikalar ve mevzuata ilişkin ön araştırma yapılarak bir mevcut durum analizi gerçekleştirilmiştir. Araştırmada katılımcıların istismarı önleme ile ilgili önerilerine de yer verilmiştir.
+Araştırmanın sonucunda, çocukları korumak ve iyileştirmek amacıyla geniş anlamda toplumda hassasiyet yaratacak eğitim kampanyalarının başlatılmasının kaçınılmaz olduğu; farkındalık yaratıldıktan sonra ailelere, öğretmenlere ve çocuklara yönelik iyileştirici adımlara ihtiyaç duyulduğu; çocukları istismardan korumak ve aile içi şiddeti önlemek için yalnızca çocuklar ya da ailelerle çalışmanın yeterli olmayacağı ve farklı alanlarda araştırmalar yapılması gerektiği gibi
+ana unsurlar yer almıştır.
+
+?> *Kuruluş adı: SHÇEK, UNICEF; 2010, Türkçe Tema: Çocuk istismarı*
+
+[Dökümanı İncele](downloads\ARS\ARS_05.pdf ':ignore')
+
+***
+
+## Türkiye'deki Namus Cinayetlerinin Dinamikleri
+*ARS_06*
+
+**ÖNSÖZ**  
+191 Ülkenin liderleri, yeni binyılın başında, 2000 yılında Eylül ayında, Birleşmiş Milletler’e ve bu örgütün temel değer ve ilkelerine olan bağlılıklarını yinelemek için New York’taki Birleşmiş Milletler
+merkezinde bir araya geldi. Liderler, yayımladıkları Binyıl Bildirgesi’nde, insan onuru, eşitlik ve özgürlük gibi evrensel değerleri ayakta tutmak konusunda ortak sorumluluk taşıdıklarını kabul ettiler.
+Dünya liderleri, “özgürlüğü”, kadın ve erkeklerin kendi hayatlarını yaşama, çocuklarını onur bir şekilde; açlık, şiddet, baskı ve adaletsizlik konusunda uzak biçimde yetiştirme hakkına sahip olabilmesine duyulan inanç olarak tanımladılar. “Eşitlik” de, kadın ve erkekler için eşit haklar ve fırsatların sağlanması gerektiğinin kabul edilmesi olarak tanımladı.
+Aynı ilkeler, Avrupa Birliği’ne giriş sürecinin yanısıra, temel haklara saygı gösterilmesi ve bunların
+korunmasını öngören Avrupa Birliği siyasi kriterleriyle de aynı paralelde olan, Türkiye’nin kararlı reform ve kalkınma programının da temelini oluşturuyor. Bu alanda önemli ilerlemelere ragmen Türkiye, kadınların sosyal, ekonomik ve siyasiyaşam katılımlarıyla ilgili olarak toplumsal cinsi-
+yet eşitliği konusunda hala ciddi sorunlarla karşıkarşıya...
+2005 Toplumsal Cinsiyet Güçlendirme Ölçümü’ne göre Türkiye, cinsiyet eşitliği ve katılımı konusun-
+da 80 ülke içinde 76’ıncı sırada yer alıyor. Birleşmiş Milletler Kalkınma Programı (UNDP), Türkiye’de kadınların siyasi yaşama katılımın arttırmak, sosyal/ekonomik alanlarda fırsat ve seçeneklerini çoğaltmak amacıyla hükümet, sivil toplum ve BM ailesiyle birlikte çalışıyor. 
+Bununla beraber, Türkiye’de kadınların eşitliği ve özgürlüğüne hiçe saymaya devam eden en dikkat çekici sorunlardan biri, süregelen namus cinayetleri... “Türkiye’de Namus Cinayetlerinin Dinamik-
+leri: Eylem Planı için öneriler” raporu ile UNDP ve UNFPA; farklı yaşta, eğitim düzeyinde ve sosyal yapıda kadın ve erkekler, kamu personeli, dini liderler, Sivil Toplum Kuruluşları ve medya gibi
+toplumun çeşitli kesimlerinin bakış açısını ortaya koyarak, Türkiye’de namus cinayetleri konusundaki tartışmalara katkıda bulunmayı amaçlıyor. En önemlisi, rapor, kamu personelinin aktif olarak
+vatandaşların temel hak ve özgürlüklerini sağlam ve demokratik bir toplumda namus kavramına dayanan cinayetlerin kabul edilebilir olduğu düşüncesini ortadan kaldırma görevini üstlendiğini
+gösteren örnekler veriyor. Bununla beraber rapor, kamu personelinin namus cinayeti düşüncesine destek verdiği, namus cinayetlerinin ve böylece kadın haklarının aşırı derecede ihlal edilmesinin kabul edilebilir olduğu bir ortam yaratılmasına katkı sağladığı örneklerin de altını çiziyor.
+Bu örnekler, Türkiye’de demokratik kurumların, hukukun üstünlüğü, özgürlük ve eşitlik gibi evrensel değerleri ayakta tutma yoluyla, kadın haklarının korunması konusunda üstlenebileceği ve üstlenmesi gereken hayati rolü gösteriyor. Ayrıca hiç kuşkusuz, namus cinayetlerini kabul edilebilir gören zihniyetin ortadan kaldırılması; kamu görevlileri, öğretmenler, polisler, avukatlar, hakimler, yasa koruyucuları, medya, dini liderler, gençlik örgütleri, topluluklar ve ailelerin kendileri de dahil olmak üzere Türk toplumunun bütün kesimlerinin ortak sorumluluğu ... Bu nedenle rapor, devlet çalışmalarının, sivil toplum örgütlerinin, topluluk liderlerinin ve gençlerin, toplumsal cinsiyet eşitliği konusunda eğitilmesi ve “namus” meselelerinin şiddet yerine tartışmalar ve arabuluculuk yoluyla çözülmesini sağlayacak mekanizmaların yaratılması için spesifik öneriler getiriyor.
+Türkiye, namus cinayetlerini konusunu kabullenmez ve bu konuyu ele almazsa, kendi kararlı reform ve gelişme programını uygulama konusunda zorluklarla karşılaşmaya devam edecektir. UNDP ve UNFPA, bu raporun bulgu ve dinamikleriyle, raporun sonundaki tavsiyelerin ciddiyetle ele alınması konusunda ısrarlı ve bu tavsiyelerin, namus cinayetlerinin kabul edilmesi ve işlenmesini önleyerek, Türkiye’nin reform programına çok büyük katkı sağlayacağı kanısında.
+
+?> *Kuruluş adı: UNDP, UNFPA, Nüfusbilim Derneği; 2004, Türkçe Tema: Namus cinayetler, Çocuk yaşta, erken yaşta ve zorla evlilik*
+
+[Dökümanı İncele](downloads\ARS\ARS_06.pdf ':ignore')
+
+***
+
+## Türkiye'de Ensest Sorununu Anlamak
+*ARS_07*
+
+**ÖNSÖZ**  
+Birleşmiş Milletler Nüfus Fonu-UNFPA, tüm dünya üzerinde yürüttüğü çalışmalarını herkesin sağlıklı ve eşit haklardan yararlandıkları bir yaşam sürmelerine adamıştır. Kadın, erkek, çocuk istisnasız bu yaşam; her türlü fiziksel, cinsel ve duygusal istismardan uzak olmalıdır. UNFPA, bu doğrultuda, Türkiye'de de, kadın ve kız çocuklarının insan haklarının korunması, geliştirilmesi, tüm bireyler için üreme sağlığının iyileştirilmesi, üreme sağlığı haklarının yaygınlaştırılması , bu alanlarda ihtiyaç duyulan ekonomik ve sosyal politikaların oluşturulabilmesine yönelik veri ve bilgi ihtiyacının karşılanması için çalışmaktadır.
+Hem dünyada hem de Türkiye'de toplumsal yara haline gelen konulara eğilen araştırmalara destek veren UNFPA bu sayede kamuoyunun dikkatini bu alanlara çekerek önlem alınması ve politika oluşturulmasında önemli çalışmalara imza atmıştır.
+UNFPA bu çerçevede 2005 yılından itibaren hem Dünya'da hem de Türkiye'de ciddi sorun haline gelmiş konuları işaret eden alanlarda araştırmalara imza atmış ve atmaya devam etmektedir. 2005 yılında “Türkiye'de Namus Cinayetlerinin Dinamikleri”, 2006 yılında “Medya ve Kadına Yönelik Şiddet”, 2007 yılında “Türkiye'de Gençlerin Cinsel ve Üreme Sağlık Araştırması” raporları kamuoyunda ses getirmiş ve bu alanlarda politikaların oluşturulmasında önemli roller üstlenmiştir.
+Bu çalışmaya verdiği destekle UNFPA, yine toplumda çok yakıcı ama bir o kadar da üzerinde konuşulmayan bir konu olan ensesti ele almaktadır.
+Ensest, sadece Türkiye'de değil, tüm dünyada, tanımı bir kültürden diğerine değişmekle birlikte, üzeri örtülen, konuşulmayan bir olgudur. Ensest uluslararası sözleşmelerle korunan temel insan haklarına yapılan en korkunç saldırılardan biridir. Bireyin beden bütünlüğünü, mahremiyetini, üreme haklarını elinden alan bu durum, genellikle çocuk yaşta başlayarak uzun süre “aile bütünlüğü”nü bozmamak adına gizli kalarak devam etmekte ve neden olduğu ruhsal, sosyal ve cinsel yaşam sorunları erişkinlikte de sürmektedir.
+Ensest yol açtığı sosyal sonuçların yanısıra, bir cinsel şiddet olgusu olarak, kısa, orta ve uzun vadede üreme sağlığı açısından birçok sağlık sorununa neden olmaktadır. Bu sağlık problemleri başta üreme organları olmak üzere yaralanma ve kanamalar, azalmış cinsel istek, cinsel ilişkide ağrı, cinsel işlev bozuklukları, HIV/AIDS, hepatit gibi cinsel yolla bulaşan enfeksiyonlar, üriner sistem enfeksiyonları, istenmeyen gebelikler, sağlıksız düşükler ve istenmeyen doğumlar gibi fiziksel sağlık sorunları ile depresyon, post-travmatik stres bozukluğu, intihar düşünceleri, sigara, alkol ve madde kullanma gibi ruhsal sağlık bozuklukları şeklinde özetlenebilir.
+“Türkiye'de Ensest Sorununu Anlamak” araştırması, ülkemizde hemen hemen hiç konuşulmayan ve birkaç akademik çalışma dışında çok az bilinen bu konuyu açığa çıkarmak ve konuşulur kılmak amacıyla Birleşmiş Milletler Nüfus Fonu'nun desteğiyle, Nüfusbilim Derneği tarafından yürütülmüştür. Ensest mağdurlarının ihtiyaç duydukları sosyal, hukuki ve sağlık desteği almaları devletin görevleri arasındadır. Bunun sağlanması ise, ancak bir koordinasyon sisteminin varlığı ve işlemesiyle mümkün olabilecektir. Bu çalışmanın alandaki eksikliklerin ve gereksinimlerin tespit edilmesi açısından önemli bir boşluğu doldurmaya ve bundan sonra yapılacak çalışmalara altyapı oluşturmaya hizmet etmesi amaçlanmıştır.
+
+?> *Kuruluş adı: UNFPA, Nüfusbilim Derneği; 2009, Türkçe Tema: Çocuk yaşta, Erken yaşta ve zorla evlilik*
+
+[Dökümanı İncele](downloads\ARS\ARS_07.pdf ':ignore')
+
+***
+
+## Kadına Yönelik Şiddetle Mücadele Projesi
+*ARS_08*
+
+**ÖZET**  
+Başak Kültür Sanat Vakfı tarafından İstanbul, Şanlıurfa ve Mersin'de  yürütülen proje kapsamında gerçekleştirilen araştırmada kadınların evlilik yaşına ilişkin bilgiler yer almaktadır.
+
+?> *Kuruluş adı: Başak Kültür ve Sanat Vakfı; 2012, Türkçe, İngilizce, Kürtçe Tema: Kadına yönelik şiddet*
+
+[Dökümanı İncele](downloads\ARS\ARS_08.pdf ':ignore')
+
+***
+
+## Kadına Yönelik  Aile içi Şiddet Konusunda İlköğretim İkinci Kademe ve Lise Öğrencilerinin Tutumu
+*ARS_09*
+
+**ÖNSÖZ**  
+Tüm dünyada, kadınlar ve kız çocukları sayısız şiddet ediminin kurbanlarıdır. Toplumsal cinsiyete dayalı şiddet sonsuz bir yelpazede meydana gelmekte, neredeyse ana rahminden mezara kadar devam etmektedir. Kadına ve kız çocuklarına yönelik şiddet, sınıf, etnik köken, kültür veya ülkeden bağımsız olarak toplumun her kesiminde görülmektedir.
+Siz bu satırları okurken, dünyanın dört bir yanında milyonlarca kadın şiddet ve istismarın yarattığı travmayı yaşamaktadır. Dünya genelinde her 3 kadından birinin hayatında en az bir kere bu şiddeti yaşadığı tahmin edilmektedir. AB ülkeleri için aynı rakam beşte birdir. Türkiye’deki kadınlar da diğer birçok ülkede olduğu gibi şiddetle karşı karşıya kalmaktadır; yapılan son araştırma, Türkiye’de her 5 kadından ikisinin fiziksel şiddet mağduru olduğunu göstermektedir. Aynı araştırmada, kadınların yüzde 42’sinin fiziksel ve cinsel şiddete, yüzde 44’ünün ise duygusal şiddet ve istismara uğradığı ortaya çıkmıştır. Tüm bunlar kadınların eşleri veya partnerleri tarafından uygulanmıştır.
+Son 30 yıl içinde, toplumsal cinsiyete dayalı şiddet hem Türkiye’de hem de dünya genelinde giderek daha fazla kabul görmeye başlamıştır. Kadına yönelik şiddetle mücadele için en yeni ve en kapsamlı uluslararası araçlardan biri olan “Kadınlara Yönelik Şiddet ve Aile içi Şiddetin Önlenmesi ve Bunlarla Mücadeleye
+İlişkin Avrupa Konseyi Sözleşmesi (İstanbul Sözleşmesi)” İngilizcede 4P ilkesi olarak anılan Önleme (Prevention), Koruma (Protection), Kovuşturma (Prosecution) ve Politika (Policy) ilkelerine dayanmaktadır. Uzun yıllardır, kadına yönelik şiddetle mücadele için gerçekleştirilen tüm müdahaleler büyük oranda koruma ve kovuşturma ilkeleri çerçevesinde şekillendirilmiştir. Ancak politika geliştirme ve önleme, bu müdahale amaçlı müdahalelerin en zayıf halkalarıdır. Önleme amaçlı müdahalelerde en çok dışarıda bırakılan grup çocuklar ve gençler olmuştur. Bazı araştırmalarda da ortaya konduğu gibi, çocuklar ve gençler, doğrudan şiddetin özneleri olmasalar da aile içinde şiddetin sessiz mağdurları olan iki gruptur. Ancak şiddetin öğrenilen bir edim olduğu ve kadına yönelik şiddeti önlemek için müdahalelerin erken çocukluk döneminde başlatılması gerektiği de bilinmektedir.
+Dünya genelinde artan şiddet oranları, şiddetin mağdurları veya tanıkları olarak çocukların bu deneyimleri hakkında ne düşündüklerini anlama ihtiyacını da arttırmıştır. Çocuklar ve şiddet hakkında çok şey yazılıp çizilmiş olsa da, bizzat çocukların bakış açısından aslında çok az şey yazılmıştır. Onların deneyimlerini ve algılarını bilmeden, kadına yönelik şiddeti önlemek için gençlik çağının başlarında uygulanacak müdahaleler geliştirmek imkansızdır.
+Alanında bir ilk olan bu araştırma, okul çağındaki (11-17 yaş grubu) çocukların kadına yönelik şiddet ve çoğu zaman bunun sebebi olan toplumsal cinsiyet eşitsizliği konusundaki algılarını anlamak için gerçekleştirilmiştir. Bu çalışmadan elde edilen sonuçlar üzerine, UNFPA ve ilgili ortakları, okul çağındaki çocuklara yönelik olarak önleme amaçlı müdahaleler geliştirecektir.
+
+?> *Kuruluş adı: UNFPA, Nüfusbilim Derneği; 2013, Türkçe Tema: Kadına yönelik şiddet, Çocuk yaşta evlilik*
+
+[Dökümanı İncele](downloads\ARS\ARS_09.pdf ':ignore')
+
+***
+
+## Yerel Yönetimlerde Cinsiyet Eşiltiği Yaklaşımı: Bir Pilot Çalışma
+*ARS_10*
+
+**ÖZET**  
+KA.DER Ankara'nın, Ankara ve Diyarbakır'dan 4 belediyenin çalışmalarını toplumsal cinsiyet eşiltiği perspektifinden incelendiği araştırmanın sonuçlarını içermektedir.
+
+?> *Kuruluş adı: KA.DER Ankara; 2012, Türkçe Tema: Yerel yönetimler, Toplumsal cinsiyet eşitliği*
+
+[Yazılı kopya]
+
+***
+
+## Adli Süreçte Mağdur Kadınlar
+*ARS_11*
+
+**ÖZET**  
+Araştırma raporunda "Mağdur Kadınlar"ın kolluktan başlayarak adli sürecin tüm aşamalarında karşılaştığı zorluklar kadınların anlatılarına dayanarak aktarılmakta ve çeşitli çözüm önerileri sunulmaktadır.
+
+?> *Kuruluş adı: Adalet Bakanlığı; 2017, Türkçe Tema: Mağdur kadınlar*
+
+[Yazılı kopya]
+
+***
+
+## Evlilik ve Evlenme Yaşı Tartışmaları ve Cinsel İstismar
+*ARS_12*
+
+**ÖZET**  
+KONDA tarafından hazırlanan çalışma; evlenme istatistikleri ile Türkiye toplumunun evlilik yaşına ilişkin görüşlerini, evlilik konusunda güncel tartışmalara bakışını ortaya koymaktadır.
+
+?> *Kuruluş adı: KONDA; 2016, Türkçe Tema: Çocuk yaşta evlilik, İstatistik*
+
+[Dökümanı İncele](downloads\ARS\ARS_12.pdf ':ignore')
+
+***
+
+## Mevsimlik Tarım Göçünden Etkilenen 6-14 Yaş Grubu Çocuklar için Temel Araştırma
+*ARS_13*
+
+**ÖZET**  
+Araştırma, mevsimlik tarım göçünden etkilenen 6-14 yaş grubu çocukların yaşam koşullarına, temel ihtiyaçlarının ne ölçüde karşılandığına odaklanmaktadır.
+
+?> *Kuruluş adı: Kalkınma Atölyesi; 2012, Türkçe Tema: Mevsimlik tarım işçileri*
+
+[Dökümanı İncele](downloads\ARS\ARS_13.pdf ':ignore')
 
 # Bildiriler
+***
+
+## Çocuk Gelin Ayıbı Üzerine Sosyolojik Bir Değerlendirme
+*BLD_01*
+
+**ÖZET**  
+Nurşen Adak tarafından sunulan bilgi yer almaktadır.
+
+?> *Kuruluş adı: Türk Üniversiteli Kadınlar Derneği Antalya Şubesi; 2014, Türkçe Tema: Çocuk yaşta evlilik*
+
+[Dökümanı İncele](downloads\BLD\BLD_01.pdf ':ignore')
+
+***
+
+## Suriyeli Çocukların Erken Yaşta Evlilik Haberlerinin Türk Yazılı Basınında Sunumu
+*BLD_02*
+
+**ÖZET**  
+Uluslararası Göç ve Çocuk Sempozyumunda Gülay Acar Yurtman tarafından sunulan bildiride, yüksek tirajlı iki gazetede Suriyeli çocukların evlendirilmelerine ilişkin haberlerin yaklaşımı ve dili hakkında bilgi verilmiştir.
+
+?> *Kuruluş adı: Üsküdar Üniversitesi; 2016, Türkçe Tema: Çocuk yaşta evlilik, Suriyeli çocuklar, Medya*
+
+[Dökümanı İncele](downloads\BLD\BLD_02.pdf ':ignore')
+
+***
+
+## III. Uluslararası Çocuk Koruma Kongresi 
+*BLD_03*
+
+**ÖZET**  
+30 Eylül- 3 Ekim 2018 tarihlerinde Ordu'da gerçekleştirilen Kongrenin bildiri özteleri kitapçığıdır; çocuk yaşta evlilik konusunda bildirileri de içermektedir.
+
+?> *Kuruluş adı: Çocuk İstismarını ve İhmalini Önleme Derneği, Ordu Üniversitesi, ÇOKMED; 2018, Türkçe Tema: Çouk yaşta evlilik*
+
+[Dökümanı İncele](downloads\BLD\BLD_03.pdf ':ignore')
+
 ***
 
 # Broşürler
 ***
 
+## Daha Dün Çocuktum
+*BRS_01*
+
+**ÖZET**  
+Broşürde çocuk gelin kavramı tanımlanmakta, çocuk yaşta evlilikin sebep ve sonuçları açıklanmakta, ilgili Kanunlar hakkında bilgi verilmekte, çocuk yaşta evlilik ile mücadele konusunda toplumsal cinsiyet eşitliği odaklı öneriler sunulmaktadır.
+
+?> *Kuruluş adı: Bursa Büyükşehir Belediyesi; 2015, Türkçe Tema: Çocuk yaşta evlilik*
+
+[Yazılı kopya]
+
+***
+
+## Gelinlik Giydirildi Çocukluk Sobelendi- Broşür
+*BRS_02*
+
+**ÖZET**  
+Mor Salkım Kadın Dayanışma Derneği'nin "Gelinlik Giydirildi, Çocukluk Sobelendi" projesi kapsamında geliştirilmiştir. Bursa'nın 17 ilçesinde ailelelre ve kamu kurumlarına yönelik gerçekleştirdiği bilgilendirme seminerlerinde kullanılmıştır. Broşürde çocuk ve çocuk evliliği kavramları açıklanmakta, çocuk yaşta evlilikin sonuçları aktarılmakta ve başvurulabilecek kurumların ileitşim bilgileri paylaşılmaktadır.
+
+?> *Kuruluş adı: Mor Salkım Kadın Dayanışma Derneği; Türkçe Tema: Çocuk yaşta evlilik*
+
+[Yazılı kopya]
+
+***
+
+## Information and Resources to Protect against Early Marriages, Forced Marriages and Domestic Violence
+*BRS_03*
+
+**ÖZET**  
+UNHCR tarafından Gazinatep için hazırlanan broşürde iligi kavramların açıklaması, ilgili mevzuat, Türkiye'de evlilik prosedürleri ve Gazantep'te destek alınabilecek kuruluşların iletişim bilgileri yer almaktadır.
+
+?> *Kuruluş adı: UNHCR; 2015, İngilizce Tema: Erken, zorla evlilik, Ev içi şiddet*
+
+[Yazılı kopya]
+
+***
+
+## Çocuk Anneler
+*BRS_04*
+
+**ÖZET**  
+Broşürde ergenlik dönemi hakkında bilgiler ile, çocuk evliliklerinin ve doğumların sonuçları hakkında bilgi verilmektedir.
+
+?> *Kuruluş adı: Harran Üniversitesi, Sağlık Bakanlığı, UNFPA; Türkçe Tema: Çocuk Anneler*
+
+[Dökümanı İncele](downloads\BRS\BRS_04.pdf ':ignore')
+
+***
+
+## Çocuk Yaşta Evlilik Broşürü
+*BRS_05 Klasör*  
+
+**ÖZET**  
+ UNICEF'in teknik desteği ile CARE tarafından hazırlann broşür; çocuk yaşta evlilikin tanımını, önlemek için yapılabilecekleri ve ilgili kurumların telefon numaralarını içermektedir
+
+?> *Kuruluş adı: CARE International, UNICEF; 2018, Türkçe, İngilizce, Arapça Tema: Child marriage*  
+
+Child Marriage part 1, Arabic [Dökümanı İncele](downloads\BRS\BRS_05\Child_Marriage_1_AR.pdf ':ignore')
+
+Child Marriage part 1, Turkish [Dökümanı İncele](downloads\BRS\BRS_05\Child_Marriage_1_TR.pdf ':ignore')
+
+Child Marriage part 1, English [Dökümanı İncele](downloads\BRS\BRS_05\Child_Marriage_1.pdf ':ignore')
+
+Child Marriage part 2, Arabic [Dökümanı İncele](downloads\BRS\BRS_05\Child_Marriage_2_AR.pdf ':ignore')
+
+Child Marriage part 2, Turkish [Dökümanı İncele](downloads\BRS\BRS_05\Child_Marriage_2_TR.pdf ':ignore')
+
+Child Marriage part 2, English [Dökümanı İncele](downloads\BRS\BRS_05\Child_Marriage_2.pdf ':ignore')
+
+***
+
+## Çocuk Yaşta Evlilik
+*BRS_06 Klasör*  
+
+**ÖZET**  
+ Kız ve oğlan çocuklar için geliştirilmiş TASLAK broşürler, çocuk yaşta evlilik hakkında temel bilgi ve mesajları içermektedir.
+
+?> *Kuruluş adı: UNICEF; 2017, Türkçe Tema: Çocuk yaşta evlilik*  
+
+Çocuk Broşür [Dökümanı İncele](downloads\BRS\BRS_06\Cocuk_brosur.pdf ':ignore')
+
+12-18 Yaş Oğlan Çocuk Broşür [Dökümanı İncele](downloads\BRS\BRS_06\erkek_cocuk_brosur_1.pdf ':ignore')
+
+12-18 Yaş Kız Çocuk Broşür [Dökümanı İncele](downloads\BRS\BRS_06\Kiz_Cocuk_Brosur.pdf ':ignore')
+
+12-18 Yaş Kız Çocuk Broşür ![Dökümanı İncele](downloads\AFS\A42.jpg) 
+
+***
+
+## Gelenek ve Kadınlara Şiddet
+*BRS_07*
+
+**ÖZET**  
+Avusturya Federal Sağlık ve Kadın Bakanlığı tarafından hazırlanan broşürde zorla evliliğe ilişkin temel bilgiler ile başvurulacak kuruluşların iletişim bilgileri yer almaktadır.
+
+?> *Kuruluş adı: Avusturya Federal Sağlık ve Kadın Bakanlığı; 2017, Türkçe Tema: Zorla evlilik*
+
+[Dökümanı İncele](downloads\BRS\BRS_07.pdf ':ignore')
+
+***
+
+## Genç Kızları Güçlendirme Projesi
+*BRS_08*
+
+**ÖZET**  
+Mavi Kalem Derneği tarafından hazırlanan broşürde, genç kadınları ilgilendiren sağlık, toplumsal cinsiyet, ergenlik gibi konularda bilgi verilmektedir.
+
+?> *Kuruluş adı: Mavi Kalem Derneği; Türkçe Tema: Genç kadınlar, Ergenlik*
+
+[Dökümanı İncele](downloads\BRS\BRS_08.pdf ':ignore')
+
+***
+
+## Çocuk İhmali ve İstismarı
+*BRS_09*
+
+**ÖZET**  
+Çocuk ihmali ve istismarına ilişkin temel bilgiler ile başvurulacak kuruluşların iletişim bilgilerini içermektedir.
+
+?> *Kuruluş adı: Mor Çatı; Türkçe Tema: Çocuk ihmali ve istismarı*
+
+[Dökümanı İncele](downloads\BRS\BRS_09.pdf ':ignore')
+
+***
+
+## Çocuğa Karşı Şiddet
+*BRS_10*
+
+**ÖZET**  
+Çocuğa karşı ev içi şiddete dair farkındalık yaratmaya yönelik bilgileri içermektedir.
+
+?> *Kuruluş adı: Genç Hayat Vakfı, Uluslararası Çocuk Merkezi Derneği, Geleceğimizin Çocukları Vakfı; Türkçe Tema: Çocuğa karşı şiddet*
+
+[Dökümanı İncele](downloads\BRS\BRS_10.pdf ':ignore')
+
+***
+
+## Zorla Evlilik
+*BRS_11*
+
+**ÖZET**
+Zorla evlendirme konusunda bilgiler ile başvurulacak kuruluşların iletişim bilgilerini içermektedir.
+
+?> *Kuruluş adı: İskoçya Hükümeti; Türkçe Tema: Zorla evlilik*
+
+[Dökümanı İncele](downloads\BRS\BRS_11.pdf ':ignore')
+
+***
+
+## Cinsel Şiddet
+*BRS_12*
+
+**ÖZET**
+Cinsel şiddet konusunda kadınlara yönelik bilgiler içermektedir.
+
+?> *Kuruluş adı: Mor Çatı; Türkçe Tema: Cinsel şiddet*
+
+[Dökümanı İncele](downloads\BRS\BRS_12.pdf ':ignore')
+
+***
+
+# Dergiler
+***
+
+## Erken ve Zorla Evlilik
+*DRG_01*
+
+**ÖZET**  
+Uçan Süpürge Kadın Dergisi'nin 26. özel sayısı Erken yaşta ve zorla evlilik konusuna ayrılmıştır. Dergide uzmanların konu ile iligli yazıları,konu ile ilgili gerçekleştirilmiş etkinlikler ve gazete haberlerine yer verilmiştir.
+
+?> *Kuruluş adı: Uçan Süpürge; 2010, Türkçe Tema: Erken yaşta ve zorla evlilik*
+
+[Yazılı kopya]
+
+***
+
+## Çocuk Gelinler
+*DRG_02*
+
+**ÖZET**  
+Uçan Süpürge Kadın Dergisi'nin İngilizce yayımlanan Kasım 2012 özel sayısı erken yaşta evlilik konusuna ayrılmıştır. Dergide uzmanların konu ile iligli yazıları,konu ile ilgili gerçekleştirilmiş etkinlikler ve gazete haberlerine yer verilmiştir.
+
+?> *Kuruluş adı: Uçan Süpürge; 2012, İngilizce Tema: Erken yaşta evlilik*
+
+[Yazılı kopya]
+
+***
+
+
 # Eğitim Materyalleri
+***
+
+## Çocuk Adalet Sistemi Çalışanları Eğitim Programı: Kolaylaştırıcılar için Vaka Temelli Eğitim Kitabı
+*EGT_01*
+
+**ÖZET**  
+Eğitim materyali Emrah Kırımsoy, Hakan Acar, Handan Yokuş Sevük, Hatice Kaynak, Murat Aydın, Şahin Antakyalıoğlu, Uğur Özdemir, Yeşim Mutlu ve Yüksel Baykara Acar tarafından hazırlanmıştır. Avrupa Birliği’nin mali, UNICEF’in teknik desteği ile Adalet Bakanlığı, Aile ve Sosyal Politikalar Bakanlığı, Hâkimler ve Savcılar Yüksek Kurulu ve Türkiye Adalet Akademisi paydaşlığında yürütülen “Çocuklar için Adalet Projesi” içerisinde tasarlanan, “Çocuk Adalet Sistemi Çalışanları Eğitim Programı”nın bir parçası olarak hazırlanmıştır. Vaka temelli eğitim materyali, karşılaştıkları çocukların dosyaları ve davaları ile ilgilenirken yahut da çocuklarla birebir çalışırken çocuğa özgü adalet sisteminin gereklilikleri konusunda temel ilkelerin, mevzuatın ve en uygun uygulamaların, çocuk adalet sistemi çalışanları için anlaşılır hale getirilmesi amaçlanmıştır. Eğitim kitabında çocuk yaşta evlilike de değinilmiştir.
+
+?> *Kuruluş adı: Adalet Bakanlığı, Türkiye Adalet Akademisi, Hakimler ve Savcılar Yüksek Kurulu, Aile ve Sosyal Politikalar Bakanlığı, UNICEF Türkiye; 2013, Türkçe Tema: Çocuk koruma, Adalet sistemi, Sosyal hizmet*
+
+[Dökümanı İncele](downloads\EGT\EGT_01.pdf ':ignore')
+
+***
+
+## Kiko ve El 
+*EGT_02 Klasör*  
+
+**ÖZET**  
+ Avrupa Konseyi tarafından Beşte Bir Kampanyası kapsamında hazırlanan materyal seti, çocuğun cinsel istismarını önlemeyi hedefleyen masal, broşür, videoları içermektedir.
+
+?> *Kuruluş adı: Avrupa Konseyi; 2013, Türkçe Tema: Çocuğun cinsel istismarı*  
+
+Kiko ve El Kitap [Dökümanı İncele](downloads\EGT\EGT_02\PREMS188713_TUR_2029_KikoBook_BAT_245x245mm_WEB.pdf ':ignore')
+
+Kiko ve El Kart Postal [Dökümanı İncele](downloads\EGT\EGT_02\PREMS188713_TUR_2029_KikoCartePostale_BAT_10x15cm_WEB.pdf ':ignore')
+
+Kiko ve El Öneriler [Dökümanı İncele](downloads\EGT\EGT_02\PREMS188713_TUR_2029_KikoGuidelines_BAT_A4_WEB.pdf ':ignore')
+
+Kiko ve El Poster [Dökümanı İncele](downloads\EGT\EGT_02\PREMS188713_TUR_2029_KikoPoster_BAT_A2au1_2_WEB.pdf ':ignore')
+
+Kiko ve El Print [Dökümanı İncele](downloads\EGT\EGT_02\PREMS188713_TUR_2029_KikoPrint_BAT_A4_WEB.pdf ':ignore')
+
+***
+
+## Aile içi Şiddetle Mücadele Projesi Sağlık Çalışanları Eğitimci ve Katılımcı Kitapları
+*EGT_03 Klasör*  
+
+**ÖZET**  
+ Sağlık Bakanlığı, Emniyet Genel Müdürlüğü ve Adalet Bakanlığı çalışanlarına aile içinde kadına yönelik şiddet konusunda verilen eğitimlerin içerik ve yöntemleri yer almaktadır.
+
+?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı; 2016, Türkçe Tema: Kadına yönelik şiddet*  
+
+Sağlik Çalişanlari Eğitici El Kitabi [Dökümanı İncele](downloads\EGT\EGT_03\KIT_03A.pdf ':ignore')
+
+Sağlik Çalişanlari Eğitimi Katilimci Kitabi [Dökümanı İncele](downloads\EGT\EGT_03\KIT_03B.pdf ':ignore')
+
+***
+
+## Eğitimde Toplumsal Cinsiyet Eşitliği Projesi Eğitim Kiti
+*EGT_04 Klasör*
+
+**ÖZET**  
+ Eğitimde toplumsal cinsiyet eşitliği projesi kapsamında geliştirilen eğitim kiti,"Eğitimde Toplumsal Cinsiyet Eşitliği Hizmet içi Eğitim El Kitabı"nı, sunuları ve videoları içermektedir.
+
+?> *Kuruluş adı: Milli Eğitim Bakanlığı; 2016, Türkçe Tema: Eğitimde toplumsal cinsiyet eşitliği*  
+
+Eğitimde Toplumsal Cinsiyet Eğitliğinin Geliğtirilmesi Teknik Destek Projesi  [Dökümanı İncele](downloads\EGT\EGT_04\Egitimde_Toplumsal_Cinsiyet_Esitligi_Hizmetici_Egitim_El_Kitabi.pdf ':ignore')
+
+Ekler [Dökümanı İncele](downloads\EGT\EGT_04\EKLER.zip ':ignore')
+
+Sunular [Dökümanı İncele](downloads\EGT\EGT_04\SUNULAR.zip ':ignore')
+
+Videolar [Dökümanı İncele](downloads\EGT\EGT_04\VİDEOLAR.zip ':ignore')
+
+***
+
+## Çocuk Evlilikleri Konusunda Hizmet Sağlayıcılar için Eğitim Sunları
+*EGT_05 Klasör* 
+
+**ÖZET**  
+ Çocuk evlilikler konusunda hizmet sağlayıcılara yönelik sunuların olduğu dosyada çocuk koruma, toplumsal cinsiyet eşitliği, kadına yönelikl şiddet, çocuk yaşta evlilik, ulusal ve uluslarararsı mevzuat, vaka yönetimi gibi konuları içeren sunu bulunmaktadır.
+
+?> *Kuruluş adı: UNICEF; 2017, Türkçe Tema: Çocuk yaşta evlilik, Vaka yönetimi, Hizmet sunucular*  
+
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Koruma [Dökümanı İncele](downloads\EGT\EGT_05\Slayt-1-Cocuk-Koruma-Temel-Kavramlar.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Türkiye'de Çocuk Koruma ile İlgili Yasal ve Kurumsal Çerçeve [Dökümanı İncele](downloads\EGT\EGT_05\Slayt-2-Turkiyede-cocuk-korumanin-yasal-ve-kurumsal-cercevesi.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evlilikler Temel Kavramlar ve Olgular [Dökümanı İncele](downloads\EGT\EGT_05\Slayt-3-Cocuk-yasta-evlilikler-temel-kavram-ve-olgular.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evliliklerin Sebep ve Sonuçları [Dökümanı İncele](downloads\EGT\EGT_05\Slayt-4-Cocuk-yasta-evlilikler-sebep-ve-sonuclar.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Toplumsal Cinsiyet Eşitliği [Dökümanı İncele](downloads\EGT\EGT_05\Slayt-5-Toplumsal-cinsiyet-temel-kavramlar.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Toplumsal Cinsiyet ve Şiddet [Dökümanı İncele](downloads\EGT\EGT_05\Slayt-6-Toplumsal-cinsiyet-ve-siddet.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Türkiye'de Kadına Yönelik Şiddetle Mücadele Mekanizması [Dökümanı İncele](downloads\EGT\EGT_05\Slayt-7-Turkiyede-kadina-siddetle-mucadele-mekanizmasi.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evlilikler Önleme ve Müdahale Yöntemleri [Dökümanı İncele](downloads\EGT\EGT_05\Slayt-8-Cocuk-yasta-evlilikler-onleme-ve-mudahale.pptx.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evlendirilen Çocukların Tespiti ve Vaka Yönetimi [Dökümanı İncele](downloads\EGT\EGT_05\Slayt-9-Cocuk-yasta-evlilikler-tespit-ve-vaka-yonetimi.pdf ':ignore')
+
+***
+
+## Çocuk Yaşta Evlilik Konusunda Bilgilendirme Seminerleri
+*EGT_06 Klasör*  
+
+**ÖZET**  
+ Çocuk yaşta evlilik konusunda anne, baba ve 12-18 yaş arası kız çocuklara yönelik bilgilendirme üç farklı semineri sunularını içermektedir.
+
+?> *Kuruluş adı: UNICEF; 2017, Türkçe Tema: Çocuk yaşta evlilik, Farkındalık*  
+
+Kız Çocukları İçin Bilgilendirme Semineri [Dökümanı İncele](downloads\EGT\EGT_06\12-18-yas-kiz-cocuklarina-yonelik-bilgilendirme-semineri.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi: Annelere Yönelik Bilgilendirme Semineri [Dökümanı İncele](downloads\EGT\EGT_06\Anne-Bilgilendirme-Semineri.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi: Babalara Yönelik Bilgilendirme Semineri [Dökümanı İncele](downloads\EGT\EGT_06\Baba-Bilgilendirme-Semineri.pdf ':ignore')
+
+***
+
+## Afet ve Acil Durumlarda Riskli Gruplarla Çalışma Eğitimi
+*EGT_07 Klasör*  
+
+**ÖZET**  
+ xxx
+
+?> *Kuruluş adı: xxx; 20xx, Türkçe Tema: xxx*  
+
+xxx [Dökümanı İncele](xxx  ':ignore')
+
+***
+
+## Çevirimiçi Danışma Eğitici El Kitabı
+*EGT_08*
+
+**ÖZET**  
+Çocuklar için yardım hatları, çevirimiçi sohbet, e-posta, forum yöneticiliği gibi danışmanlık sistemlerinde yer alan hizmet sağlayıcılar için pratik bilgileri içermektedir.
+
+?> *Kuruluş adı: ÖZGE-DER; 2013, Türkçe Tema: Çocuklara yönelik danışmanlık*
+
+[Dökümanı İncele](downloads\EGT\EGT_08.pdf ':ignore')
+
+***
+
+## Gebe Bilgilendirme Sınıfı Eğitim Kitabı
+*EGT_09*
+
+**ÖNSÖZ**  
+Anne ve bebekler taşıdıkları riskler nedeniyle sağlık hizmetlerinden öncelikli ve özellikli hizmet almaları gereken iki önemli grubu oluşturmaktadır. 
+Dünya Sağlık Örgütü, Alma-Ata Deklarasyonu’nu 2008 yılında tekrar gündeme getirerek;
+eşitsizliklerin giderilmesi, hizmet sunumunun iyileştirilmesi ve başta eğitim olmak üzere tüm ilkelerin gözden geçirilmesi gerektiğini vurgulamıştır. Barselona Anne Hakları Bildirgesi’inde;
+Her kadının üreme sağlığı, gebelik, doğum ve yenidoğan bakımı konusunda yeterli eğitim ve bilgi alma hakkı vardır. Sağlık kuruluşlarının anne ve eşine bu eğitimi vermek, doğum öncesi bakımın bir parçası olarak bu eğitimlere katılmalarını özendirmek zorunda olduğuna vurgu yaparak bunun bir anne hakkı olduğu belirtilmiştir. Gebe bilgilendirme eğitimi de bunu amaçlamaktadır.
+Gebe Bilgilendirme Sınıfı Programı; tüm gebelerin, doğum öncesi, doğum ve doğum sonrası
+dönemle ilgili konularda bilgi sahibi olmalarını ve bilinçli doğum yapmalarını sağlamayı, normal doğum eylemi, ağrı yönetimi ve yeni rollerini benimsemeleri konularında bilgi ve beceri kazandırmayı amaçlamıştır.
+
+?> *Kuruluş adı: Sağlık Bakanlığı; 2014, Türkçe Tema: Gebelik, Adölesan*
+
+[Dökümanı İncele](downloads\EGT\EGT_09.pdf ':ignore')
+
+***
+
+## Cinsiyete Dayalı Şiddet Olugularına Sağlık Personelinin Yaklaşımı El Kitabı
+*EGT_10*
+
+**ÖZET**  
+Prof. Dr. Ali Yemişçigil tarafından hazırlanan ve bir eğitim programı olarak da tasarlanan el kitabı; cinsiyete dayalı şiddete ilişkin temel kavramlar, kadına yönelik şiddetin üreme sağlığına etkileri, şiddete maruz kalan kaıdnın muayenesi, cinsiyete dayalı şiddetin önlenmesine yönelik destek çalışmaları konuları ele alınmaktadır.
+
+?> *Kuruluş adı: Sağlık Bakanlığı, İnsan Kaynağını Geliştirme Vakfı; 2005, Türkçe Tema: Cinsiyete dayalı şiddet, Sağlık*
+
+[Yazılı kopya]
+
+***
+
+## Acil Durumlarda Çocuk Koruma Eğitimi Katılımcı El Kitabı
+*EGT_11*
+
+**ÖZET**  
+El kitabı; çocuk hakları, afetlerde psikososyal destek, ulusal ve uluslararası insani yardım yapılanması olmak üzere üç bölümde acil durumlarda çocuk koruma konusunu ele almaktadır.
+
+?> *Kuruluş adı: UNICEF; 2015, Türkçe Tema: Çocuk koruma, Acil durum*
+
+[Yazılı kopya]
+
+***
+
+## Hakları Gerçeğe Dönüştürmek: Toplumsal Cinsiyet Farkındalığının Artırılmasına Yönelik Atölye Çalışmaları
+*EGT_12*
+
+**ÖZET**  
+Uluslarararsı Af Örgütü tarafından "Kadına Yönelikl Şiddete Son" Kampanyası kapsamında geliştirilmiş olan materyal, toplumsal cinsiyet eğitimlerinde kullanılabilecek etkinlikleri içermektedir.
+
+?> *Kuruluş adı: Uluslararası Af Örgütü; 2004, Türkçe Tema: Toplumsal cinsiyet*
+
+[Yazılı kopya]
+
+***
+
+## Draft Women’s Campaign Manual    
+*EGT_13*
+
+**ÖZET**  
+Beş modülden oluşan ve henüz taslak olan materyal siyasi kampanya yürüten kadınlara yönelik temel becerileri kazandırmayı amaçlamaktadır.
+
+?> *Kuruluş adı: UN Women; 2018, İngilizce Tema: Kadınların siyaste katılımı*
+
+[Dökümanı İncele](downloads\EGT\EGT_13.pdf ':ignore')
+
+***
+
+## Çocuk ve Ergen Sağlığı
+*05_03_cocuk-ve-ergen-sagligi*
+
+**ÖZET**  
+Sahip olduğumuz medeniyet mirası içinde aile kurumu öncü ve belirleyici bir değere sahiptir. Bu yapının daha yakından ele alınması, çözüm çabalarına yeni bir ufuk kazandıracaktır. Aile içinde tesis etmeye çalıştığımız karşılıklı hak ve sorumluluklar açısından, zengin bir kültürel mirasa sahibiz. Evrensel bir kurum olan aile, yapısal özellikleri, geçirdiği değişim evreleri, karşılaştığı sorunlar bakımından temel bir çözüm ünitesidir.
+Toplumda en küçük ölçekli yaşam ünitesi olarak kabul ettiğimiz ailenin, fonksiyonlarını icra edememesi ülkeler için ağır sorun tablosunun habercisidir. Sağlıklı aile yapısı yalnız kendi üyeleri için değil, çevresi ve toplumu için de bir denge ve güven unsurudur. Bugün yaşadığımız ağır sorun tablosunun altında sorun çözme kabiliyetini kaybetmekte olan aile gerçeği vardır. Güçlü ve sağlıklı aile demek, varlığı ile gurur duyduğumuz çocuk nüfusun ve genç nesillerin huzur ve güven ortamında yetişmesi demektir. Fonksiyonlarını sürdüren aile, çocuğuna, gencine, kadınına, engellisine, yaşlısına sağlıklı bir ortamı sağlayan ailedir.
+“Eğitim ailede başlar.” ilkesinden hareketle hazırlanan Aile Eğitim Programı, bilgi çağının gereklerine uygun olarak ailelerin yaşam kalitesini arttırmaya dönük önemli bir adımdır. Koruyucu ve önleyici bir sosyal politika hedefi olarak önem kazanan Aile Eğitim Programı, bilimsel bilgi desteği ile aile mutluluğunu arttırmaya dönük bir hizmet hamlesi olarak görülmelidir.
+Yakın bir döneme kadar gelenekle taşınan bilgi ve deneyimler genç kuşakların aileye ilişkin bir bakış kazanması için yeterli görülmekteydi. Günümüzde artan bilgi ve iletişim imkânları eğitim ve öğretimde daha fazla seçenek sunmaktadır. Aile Eğitim Programı, yetişkinlerin gündelik hayata ilişkin hemen her türlü sorularına cevap vermektedir. Program, sahip olduğu dinamik yapısı ile kendini yenileyerek ihtiyaçlara cevap verecektir.
+Aile Eğitim Programı, program geliştirme ilkelerine bağlı kalınarak özgün bir süreçte geliştirilmiştir. Ülkemizde kendine özgü toplumsal ve kültürel şartları dikkate alınarak hazırlanan Aile Eğitim Programı, bu alandaki kurumsal birikimi esas almaktadır. Programın hazırlanmasında alanında uzman ve yetkin akademisyenlerin tecrübelerinden ve birikimlerinden yararlanılmıştır.
+Hazırlık çalışmaları sürecinde aile eğitimiyle doğrudan veya dolaylı bir biçimde ilişkide olan kamu kurum ve kuruluşlarının, özel sektör temsilcilerinin ve sivil toplum kuruluşlarının tecrübelerinin yanında ailelerin ihtiyaç, beklenti ve talepleri de aynı şekilde belirleyici olmuştur.
+
+?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı ; 2011, Türkçe Tema: xxx*
+
+[Dökümanı İncele](downloads\EGT\05_03_cocuk-ve-ergen-sagligi.pdf ':ignore')
+
 ***
 
 # Eylem Planları
 ***
 
+## Çocuk Yaşta Evlilikin Önlenmesi İl Çalışma Planı Geliştirme - Yöntem ve Faaliyet Havuzu
+*EYP_01 Klasör*  
+
+**ÖZET**  
+ UNICEF tarafından geliştirilen **taslak** belge, çcouk yaşta veliliklerin önlenmesine ilişkin yerel eylem planı geliştirme yöntemini ve gerçekleştirilebilecek örnek aktiviteleri içermektedir.
+
+?> *Kuruluş adı: UNICEF; 2017, Türkçe Tema: Çocuk yaşta evlilik, Eylem planı*  
+
+Çocuk Yaşta Evliliklerin Önlenmesi için İl Çalişma Plani Geliştirme [Dökümanı İncele](downloads\EYP\EYP_01\CYEO_IL_CALISMA_PLANI_METODOLOJI.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi için Faaliyet Havuzu Final [Dökümanı İncele](downloads\EYP\EYP_01\CYEO_FAALIYET_HAVUZU_FINAL.pdf ':ignore')
+
+Önceliklendirilmiş Faaliyet Havuzu [Dökümanı İncele](downloads\EYP\EYP_01\SINIFLANDIRILMIS_FAALIYET_HAVUZU.docx.pdf ':ignore')
+
+İli Çocuk Yaşta Evliliklerin Önlenmesi Çalişma Plani [Dökümanı İncele](downloads\EYP\EYP_01\SABLON_SON.docx.pdf ':ignore')
+
+***
+
+## Erken Yaşta, Çocuk Yaşta Evlilikin Önlenmesi, Müdahale Planı
+*EYP_02*
+
+**ÖZET**  
+Samsun Yerel Eşitlik Planı’na (2017-2018) Ek Eylem Planı etkin bir denetleme,izleme  ve değerlendirme sistemi kurma, iyileştirme çalışmalarını raporlama ve kamuoyuna duyurma, İl Kadın Hakları Koordinasyon Kurulu bünyesinde kurulan komitenin etkinliğini artırma, dezavantajlı kız çocukların eğitime erişimini sağlama, toplumsal farkındalık ve duyarlılık artırma, kamu kurumları-yerel yönetim çalışanları ve yerel idarede farkındalık yaratma hedefleri altında tanımlanan eylemleri içermektedir.
+
+?> *Kuruluş adı: Samsun Valiliği; 2016, Türkçe Tema: Çocuk yaşta evlilik, Erken yaşta evlilik*
+
+[Dökümanı İncele](downloads\EYP\EYP_02.pdf ':ignore')
+
+***
+
+## Nevşehir Yerel Eşitlik Stratejik Planı (2013-2014)
+*EYP_03 Klasör*  
+
+**ÖZET**  
+Kadın ve Eğitim Hizmetler, Kadın ve Sağlık Hizmetleri, Kadının Ekonomik Hayata Katılımı, Kadına Yönelik Şiddetle Mücadele, Kadınların Kararar Alma Mekanizmalarına Katılımı, Kadın ve Kentsel Hizmetler olmak üzere 6 alanda müdaheleleri içeren planda, erken yaşta/çocuk yaşta evlilikin azaltılması da bir hedef olarak yer almıştır.  Nevşehir Valiliği tarafından ilgili kurumlara Planın uygulanmasına ilişkin bir yazı da iletilmiştir.
+
+?> *Kuruluş adı: Nevşehir Valiliği; 2014, Türkçe Tema: Eylem planı, Erken yaşta evlilik*  
+
+Nevşehir Yerel Eşitlik Stratejik Planı [Dökümanı İncele](downloads\EYP\EYP_03\EYP_03.pdf ':ignore')
+
+Nevşehir Yerel Eşitlik Stratejik Planı Nevşehir Valiliği [Dökümanı İncele](downloads\EYP\EYP_03\EYP_03_Vali.pdf ':ignore')
+
+## Çocuk Koruma Hizmetlerinde Koordinasyon Strateji Belgesi
+*EYP_04*
+
+**ÖZET**  
+Çocuk koruma hizmetlerine ilişkin 10 stratejik hedef doğrultusunda tanımlanmış eylemleri içermektedir. Doğrudan çocuk yaşta evlilik konusunda bir çalışma öngörülmemekle birlikte, CEFM ile iligli mekanizmanın güçlendirilmesine hizmet eden faaliyetler yer almaktadır.
+
+?> *Kuruluş adı: Adalet Bakanlığı, ASPB, Hakim ve Savcılar Yüksek Kurulu, Adalaet Akademisi, UNICEF; 2014, Türkçe Tema: Çocuk koruma, Strateji*
+
+[Dökümanı İncele](downloads\EYP\EYP_04.pdf ':ignore')
+
 # Filmler
+***
+
+## Kısa Filmler
+*FLM_01 Klasör*  
+
+**ÖZET**  
+ UNICEF eğitimlerinde kullanılan çocuk koruma, çocuk hakları, çocuk yaşta evlilik gibi konularda 10 animasyon ve kısa filmi içermektedir.
+
+?> *Kuruluş adı: UNICEF; Türkçe Tema: Çocuk koruma, Çocuk yaşta evlilik*  
+
+xxx [Dökümanı İncele](xxx ':ignore')
+
+***
+
+## Çocuk Yaşta Evlilik
+*FLM_02*
+
+**ÖZET**  
+Çocuk yaşta evlilikin önlenmesine ilşkin kamu spotu
+
+?> *Kuruluş adı: ASPB; Türkçe Tema: Çocuk yaşta evlilik*
+
+https://www.youtube.com/watch?v=423ClxSdDis
+
+***
+
+## Küçük Yaşta Evlilik Büyük Geliyor: Çocuk Gelinler
+*FLM_03*
+
+**ÖZET**  
+Uçan Süpürge tarafından hazırlanan belgesel filmde, Uçan Süpürge'nin farklı illerde gerçekleştirdiği "çocuk gelinler" toplantılarına katılan kadınların anlatıları, sokak röportajları, kamu kurumlarının temsilcilerinin açıklamları yer almaktadır.
+
+?> *Kuruluş adı: Uçan Süpürge; 2011, Türkçe Tema: Çocuk yaşta evlilik*
+
+[Yazlı kopya]
+
+***
+
+## Daha Dün Çocuktum
+*FLM_04*
+
+**ÖZET**  
+Kısa film, Bursa Büyükşehir Belediyesi'nin 2015 yılında başlattığı çocuk yaşta evlilikin zararları konusunda farkındalık yaratmayı amaçlayan proje kapsamında üretilmiştir. Filmde çocuk yaşyta evlendirilmiş kadınların anlatıları ile Bursa'daki kamu kurumlarının temsilcilerinin konuya ilişkin açıklamaları yer almaktadır.
+
+?> *Kuruluş adı: Bursa Büyükşehir Belediyesi; 2015, Türkçe Tema: Çocuk yaşta evlilik*
+
+[Yazlı kopya]
+
+***
+
+## Çocuk Gelinler Belgeseli
+*FLM_05*
+
+**ÖZET**  
+Filmde kadınların anlatıları, uzmanların görüşleri, temel veriler yer almaktadır.
+
+?> *Kuruluş adı: CNN Türk; 2012, Türkçe Tema: Çocuk yaşta evlilik*
+
+[Yazlı kopya]
+
+***
+
+## Çocuk Gelinler Fark Yaratanlar Belgeseli
+*FLM_06*
+
+**ÖZET**  
+Filmde kadınların anlatıları, uzmanların görüşleri, temel veriler yer almaktadır.
+
+?> *Kuruluş adı: Sabancı Üniversitesi ; 2011, Türkçe Tema: Çocuk yaşta evlilik*
+
+[Yazlı kopya]
+
 ***
 
 # İstatistikler
 ***
 
+## Erken Yaşlardaki Evlilikler ve Gebelikler
+*IST_01*
+
+**ÖZET**  
+Prof. Dr. Banu AKADLI GÖÇMEN ve İlknur YÜKSEL KAPTANOĞLU tarafından hazırlanan sunumda çocuk yaşta evlilik ve gebelilklere ilişkin istatistiklere yer verilmektedir.
+
+?> *Kuruluş adı: Nüfus Etüdleri Enstitüsü; 2015, Türkçe Tema: Çocuk yaşta, erken yaşta evlilik, Gebelik*
+
+[Dökümanı İncele](downloads\IST\IST_01.pdf ':ignore')
+
+***
+
 # Eğitim Kitleri
+***
+
+## Çocuk Yaşta Evlilikin Önlenmesi Temel Eğitim Programı
+*KIT_01 Klasör*  
+
+**ÖZET**  
+ UNICEF tarafından hazırlanan ve 10 konuyu içeren programda; çocuk koruma (1), Türkiye’de çocuk koruma ile ilgili yasal ve kurumsal çerçeve (2a), Türkiye’de çocuk koruma alanını belirleyen temel mevzuat (2b), çocuk yaşta evlilik temel kavramlar ve olgular (3), çocuk yaşta evlilikin sebep ve sonuçları (4), toplumsal cinsiyet eşitliği (5), toplumsal cinsiyet ve şiddet (6), Türkiye’de kadına yönelik şiddetle mücadele mekanizması (7), çocuk yaşta evlilik önleme ve müdahale yöntemleri (8), çocuk yaşta evlendirilen çocukların tespiti ve vaka yönetimi (9) hakkında bilgileri içeren slaytlar ile eğitici el kitabını içermektedir.
+
+?> *Kuruluş adı: UNICEF; 2017, Türkçe Tema: Çocuk yaşta evlilik*  
+
+Hizmet Sağlayıcılar İçin Çocuk Yaşta Evliliklerin Önlenmesi [Dökümanı İncele](downloads\KIT\KIT_01\egitici_el kitabi_A4_rev.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Koruma [Dökümanı İncele](downloads\KIT\KIT_01\Slayt1-Cocuk-Koruma-Temel-Kavramlar.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Türkiye'de Çocuk Koruma ile İlgili Yasal ve Kurumsal Çerçeve [Dökümanı İncele](downloads\KIT\KIT_01\Slayt2-Turkiyede-cocuk-korumanin-yasal-ve-kurumsal-cercevesi.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evlilikler Temel Kavramlar ve Olgular [Dökümanı İncele](downloads\KIT\KIT_01\Slayt3-Cocuk-yasta-evlilikler-temel-kavram-ve-olgular.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evliliklerin Sebep ve Sonuçları [Dökümanı İncele](downloads\KIT\KIT_01\Slayt4-Cocuk-yasta-evlilikler-sebep-ve-sonuclar.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Toplumsal Cinsiyet Eşitliği [Dökümanı İncele](downloads\EGT\EGT_05\Slayt-5-Toplumsal-cinsiyet-temel-kavramlar.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Toplumsal Cinsiyet ve Şiddet [Dökümanı İncele](downloads\KIT\KIT_01\Slayt6-Toplumsal-cinsiyet-ve-siddet.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Türkiye'de Kadına Yönelik Şiddetle Mücadele Mekanizması [Dökümanı İncele](downloads\KIT\KIT_01\Slayt7-Turkiyede-kadina-siddetle-mucadele-mekanizmasi.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evlilikler Önleme ve Müdahale Yöntemleri [Dökümanı İncele](downloads\KIT\KIT_01\Slayt8-Cocuk-yasta-evlilikler-onleme-ve-mudahale.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evlendirilen Çocukların Tespiti ve Vaka Yönetimi [Dökümanı İncele](downloads\KIT\KIT_01\Slayt9-Cocuk-yasta-evlilikler-tespit-ve-vaka-yonetimi.pdf ':ignore')
+
+***
+
+## Zorunlu Eğitim Çağında ve Zorla Evlendirilen Kız Çocuklarının Eğitime Dönüş Projesi
+*KIT_02 Klasör*
+
+**ÖZET**  
+ Çocuk yaşta evlilik konusunda sunu, anket, broşür, film ve afişleri içermektedir.
+
+?> *Kuruluş adı: Gaziantep Büyükşehir Belediyesi; Türkçe Tema: Çocuk yaşta evlilik, Kız çocukların eğitimi*  
+
+xxx [Dökümanı İncele](xxx  ':ignore')
+
+***
+
+## Çocuk Yaşta Evlilikin Önlenmesi Bilgilendirme ve Eğitim Seti
+*KIT_03*
+
+**ÖZET**  
+Çocuk yaşta evlilike ilişlkin bilgilendirme ve eğitim seti; Temel Eğitim Programı, Hizmet Sağlayıcılar için Uygulama Rehberi, Aile ve Çocuk Seminerleri, Toplum Temelli Faaliyetler Kitabı olmak üzere 4 kitapçıktan oluşmaktadır.
+
+?> *Kuruluş adı: UNICEF; 2017, Türkçe Tema: Çocuk yaşta evlilik*
+
+[Yazılı kopya]
+
+***
+
+## Çocuk Gelinler Bilgi Seti
+*KIT_04*
+
+**ÖZET**  
+Selen Doğan tarafından hazırlanan ve Uçan Süpürge Yayını olan set; Çocuk evlilikleri ve hukuk, çocuk evililikleri ve eğitim, çocuk evlilikleri ve sağlık, çocuk evlilikleri ve şiddet, çocuk evlilikleri ve ensest, çocuk evlilikleri ve insan ticareti, çocuk evlilikleri ve göç, çocuk evlilikleri ve medya, çocuk evlilikleri ve ekonomi, çocuk evlilikleri ve uluslararası sözleşmeler olmak üzere 10 kitapçıktan oluşmaktadır.
+
+?> *Kuruluş adı: Uçan Süpürge; 2013, Türkçe Tema: Çocuk yaşta evlilik*
+
+[Yazılı kopya]
+
+***
+
+## Enhancing Resilience and Social Cohesion among Refugee Women And Combating GBV including Child Marriage Training Manual
+*KIT_05 Klasör*  
+
+**ÖZET**  
+ UN Women tarafından hazırlanan ve henüz taslak halde olan eğitim programı 7 modül ve 32 oturumdan oluşmaktadır. Programın üçüncü modülü "Kız Çocuklarının hakları"dır ve çocuk yaşta evlilike geniş biçimde yer verilmektedir.
+
+?> *Kuruluş adı: UN Women; 2018, İngilizce Tema: Çocuk hakları, Çocuk yaşta evlilik*  
+
+Content of the UN Women Trainng Program [Dökümanı İncele](downloads\KIT\KIT_05\content-of-the-manual_training-program-UN-Women.pdf ':ignore')
+
+Enhancing Resilience and Social Cohesion among Refugee and Host Community Women in Turkey-TOT sessions [Dökümanı İncele](downloads\KIT\KIT_05\TOT-sessions.pdf ':ignore')
+
+Enhancing Resilience and Social Cohesion among Refugee Women And Combating GBV including Child Marriage Training Manual [Dökümanı İncele](downloads\KIT\KIT_05\Training-Manual_UN-Women-Turkey.pdf ':ignore')
+
+***
+
+## Community Activator Guide, TOT guide
+*KIT_06 Klasör*
+
+**ÖZET**  
+ CARE Türkiye ofisi tarafından geliştirilen materyal, Community Activator'lere yönelik kapsamlı bir eğitim materyalidir. Materyal; CA'ların rolü, çocuk koruma, GBV, çocuk yaşta evlilik, çocuk işçiliği, psiko-sosyal destek, ebeveynlik becerileri, zorbalık konularını içermektedir. Materyalin ayrıca bir ToT kitapçığı bulunmaktadır.
+
+?> *Kuruluş adı: CARE International; 2018, İngilizce Tema: Child marriage, Child protection, GBV*  
+
+Community Activator Guide [Dökümanı İncele](downloads\KIT\KIT_06\CA-GUIDE-DRAFT.pdf ':ignore')
+
+Child Protection Outreach Training of Trainers Guide [Dökümanı İncele](downloads\KIT\KIT_06\TOT-DRAFT.pdf ':ignore')
+
+Child Marriage Front Page 1 [Dökümanı İncele](downloads\KIT\KIT_06\Child-Marriage-Front-Page-for-Audience-1.pdf ':ignore')
+
+Child Marriage Front Page 2 [Dökümanı İncele](downloads\KIT\KIT_06\Child-Marriage-Front-Page-for-Audience-2.pdf ':ignore')
+
+Child Marriage Front Page 3 [Dökümanı İncele](downloads\KIT\KIT_06\Child-Marriage-Front-Page-for-Audience-3.pdf ':ignore')
+
+Child Marriage Back Page 1 [Dökümanı İncele](downloads\KIT\KIT_06\Child-Marriage-Back-Page-for-the-Activator-1.pdf ':ignore')
+
+Child Marriage Back Page 2 [Dökümanı İncele](downloads\KIT\KIT_06\Child-Marriage-Back-Page-for-the-Activator-2.pdf ':ignore')
+
+Child Marriage Back Page 3 [Dökümanı İncele](downloads\KIT\KIT_06\Child-Marriage-Back-Page-for-the-Activator-3.pdf ':ignore')
+
+***
+
+## Çocuk Yaşta Evlilik Konusunda Bilgilendirme Materyalleri
+*KIT_07 Klasör*  
+
+**ÖZET**  
+ Amani Kampanyası başta olmak üzere Türkiye, Irak, Suriye ve Ürdün'de konuya ilişkin üretilmiş kampanya, eğitim, bilgilendirme materyalleri, raporlar ve görsel matetyalleri içermektedir.
+
+?> *Kuruluş adı: Save the Children International, UN Agencies; Türkçe Tema: Çocuk yaşta evlilik*  
+
+xxx [Dökümanı İncele](xxx  ':ignore')
+
+***
+
+## Çocuk koruma, Vaka yönetimi, SoPs, BID, BIP
+*KIT_08 Klasör*  
+
+**ÖZET**  
+ Uluslararası kuruluşlar ve BM ajansları tarafından çocuk korumaya ilişkin geliştirilmiş SoP, form, değerlendirme araçları, bilgi vb. materyalleri içermektedir.
+
+?> *Kuruluş adı: Save the Children International, UN Agencies; Türkçe Tema: Çocuk koruma*  
+
+xxx [Dökümanı İncele](xxx  ':ignore')
+
+***
+
+## Mevsimlik Tarım İşçileri, Sağlık, Erken Yaşta Evlilik, Adölesan Gebelikleri
+*KIT_09 Klasör*  
+
+**ÖZET**  
+ Klasör UNFPA ülke programı kapsamında Harran Üniversitesi tarafından hazırlanan eğitim materyalleri, kamu spotları, araştırmalarını içermektedir.
+
+?> *Kuruluş adı: Harran Üniversitesi, Sağlık Bakanlığı, UNFPA; Türkçe Tema: Mevsimlik tarım işçileri, Üreme sağlığı, Adölesan evlilikler*  
+
+xxx [Dökümanı İncele](xxx  ':ignore')
+
+***
+
+## Toplumsal Cinsiyet Temelli Şiddet
+*KIT_10 Klasör*  
+
+**ÖZET**  
+ Save the Children, BM ajansları ve uluslararası kuruluşlar tarafından geliştirilmiş çocuk yaşta evlilik ve GBV materyallerini içermektedir.
+
+?> *Kuruluş adı: Save the Children International, UN Agencies; İngilizce, Arapça Tema: Çocuk koruma, Toplum temelli çalışma*  
+
+xxx [Dökümanı İncele](xxx  ':ignore')
+
+***
+
+## Toplumsal Cinsiyet Eşitliğine Duyarlı Okul Standartlarının Yaygınlaşıtırılması
+*KIT_11*
+
+**ÖZET**  
+6 kitapçıktan oluşan set; Toplumsal Cinsiyet Eşitliğine Duyarlı Okul Standartları Kılavuzu, üç adet Eğitimde Toplumsal Cinsiyet Eşitliği Etkinlik Kitabı, Okul Temelli Toplumsal Cinsiyet Eşitliği Kampanya Kılavuzu ile toplumsal cinsiyet eşitliğine duyarlı okul standartlarına ilişkin bir cep kitapçığından oluşmaktadır. Etkinlik kitapları; fizik, kimya, biyoloji, matematik, Türk dili ve edebiyatı, tarih, coğrafya, felsefe, görsel sanatlar, beden eğitimi ve spor, sağlık bilgisi ve trafik kültürü, ingilizce derslerinde toplumsal cinsiyet eşiltiği farkındalığının sağlanması için kullanılacak oyunları/etkinlikleri içermektedir.
+
+?> *Kuruluş adı: Milli Eğitim Bakanlığı; 2016, Türkçe Tema: Eğitimde toplumsal cinsiyet eşitliği*
+
+[Yazılı kopya]
+
 ***
 
 # Kitaplar/Kitapcıklar 
 ***
 
+## Üniversiteler için Hastane Temelli Çocuk Koruma Merkezleri El Kitabı
+*KTP_01*
+
+**ÖNSÖZ**  
+Çocukların korunması hepimizi ilgilendirmelidir. Çocuklara yönelik şiddete ilgisiz kalınamaz,görmezden gelinemez.
+Çocukların korunmasında ve çocuklara yönelik şiddetin sona erdirilmesinde üniversitelerin temel rolleri bulunmaktadır. Üniversiteler çocuk koruma alanında öncülük görevi üstlenip toplumda konuya ilişkin bilinç ve duyarlılığı geliştirebilirler. Önleme, tanıtım ve savunu çalışmaları yapabilir, çocuk koruma alanında eğitim, araştırma ve hizmet faaliyetlerinde bulunabilirler. Şiddete karşı çocuklarla birlikte ve çocuklar için çalışanların kapasitelerinin geliştirmesine katkıda etkin rol alabilirler. Çocuk koruma alanında hizmet vermekte olan kurum ve kuruluşlar arasında iletişim ve koordinasyon sağlanması amaçlı modellemeler gerçekleştirebilirler.
+Türkiye Cumhuriyeti ve UNICEF işbirliği ile geliştirilip, Avrupa Birliği’nin mali ve UNICEF’in teknik desteği ile yürütülmüş olan “Önce Çocuklar: Çocuk Koruma Mekanizmalarının İl Düzeyinde Modellenmesi Projesi”, kanunla ilişki halinde olan veya kanunla ilişkili hale gelme riski bulunan çocukların özgürlük, eğitim gibi haklarından mahrum olmamaları ve şiddet, istismar ve ihmalden korunmaları için çalışan kurumların kapasitesini artırmayı hedeflemiştir. 2008-2010 yıllarında yürütülen Proje çerçevesinde, Türkiye Barolar Birliği koordinasyonunda çocuklar için hukuki yardım sisteminin güçlendirilmesine yönelik, 12 ilden katılan avukatlar ve üniversitelerin temsilcilerinden oluşturulan çalışma grupları ayrıca alt projeler yürütmüşlerdir. Alt projelerden birisi de üniversitelerde çocuk koruma merkezleri için model geliştirmeyi amaçlamaktaydı.
+Üniversitelerde çocuk koruma merkezleri için model geliştirme çalışmaları, üniversitelerden katılımcılar ve Türkiye Barolar Birliği temsilcileri birlikteliği ile gerçekleştirilmiş ve üniversitelerimizde “Çocuk Koruma Uygulama ve Araştırma Merkezleri”nin kurulmasının önerilmesiyle sonuçlanmıştır. Bu merkezlerin kurulmasıyla birlikte üniversitenin tüm olanakları kullanılarak korunma ihtiyacı olan veya suça sürüklenen çocukların tanı, tedavi, korunma ve izlenmelerine dair uygulama ve araştırmaların yapılacağı ortam sağlanabileceği düşünülmüştür. Çok sevindiricidir ki Merkez kurma önerisi üniversitelerimizce beklenenin üstünde ilgi görmüş, Proje sonlanmadan birçok üniversitemizde kuruluş çalışmaları başlatılmış hatta merkez kuruluşunu tamamlamış üniversitelerimiz olmuştur. Şüphesiz atılan adım ilk adımdır. Üniversitelerimiz merkezlerini kurdukça çocuk koruma alanındaki çalışmalarını hızla geliştirecekler ve çocuklarımızın güvenli ve onurlu bir yaşam süreceği bir dünya yaratma konusunda katkıda bulunacaklardır.
+Projenin bir ürünü olarak hazırlanan bu el kitabında, üniversitelerde çocuk koruma merkezlerinin nasıl kurulacağı ve nasıl çalışacağına dair temel bilgiler sunulmaktadır. 
+
+?> *Kuruluş adı: Uzman; 2010, Türkçe Tema: Çocuk koruma, Sağlık*
+
+[Dökümanı İncele](downloads\KTP\KTP_01pdf.pdf ':ignore')
+
+***
+
+## Roman Çocuklar: Okuyacağız da Ne Olacak?
+*KTP_02*
+
+**ÖZET**  
+Sulukule Gönüllüleri Derneği tarafından, Uluslararası Çocuk Merkezi'nin Avrupa Birliği Türkiye Delegasyonu'nun desteği ile yürütülen Çocuklarla Birlikte Daha Güçlü Projesi kapsamında hazırlanmıştır. Kitapçıkta, Roman Çocuklara dair veriler ve sorunlarına ilişkin çözüm önerileri yer almaktadır. Kitapçıkta çocuk yaşta/erken yaşta evlilike de değinilmektedir.
+
+?> *Kuruluş adı: Çocuğa Karşı Şiddeti Önlemek için Ortaklık Ağı; 2017, Türkçe Tema: Roman çocuklar, Çocuk yaşta evlilik*
+
+[Dökümanı İncele](downloads\KTP\KTP_02.pdf ':ignore')
+
+***
+
+## Biz de Varız!
+*KTP_03*
+
+**ÖNSÖZ**  
+Birleşmiş Milletler Nüfus Fonu (UNFPA) Türkiye Ofisi, 2011 yılından bugüne İnsani Yardım Programı çerçevesinde kadın sağlığı ve kadına yönelik şiddetin önlenmesi konularında kapasite geliştirme, hizmet sunumu, üreme sağlığı ve hijyen malzemeleri temini sağlamaktadır.
+2017 yılında 41 merkeze ulaşacak olan, Kadın ve Kız Çocuklar için Güvenli Alanlar (Kadın Sağlığı Danışma Merkezleri) aracılığıyla öncelikli olarak cinsel sağlık ve üreme sağlığı, toplumsal cinsiyet temelli şiddet, psiko-sosyal destek, güçlenme ve malzeme dağıtımı konularında uygulayıcı ortaklarımızla birlikte hizmet vermekteyiz.
+Bahsi geçen Kadın Sağlığı Danışma Merkezlerinden Adıyaman, Mardin, Gaziantep, Batman, Kahramanmaraş ve Diyarbakır’da toplamda aktif olarak 7 Kadın Sağlığı Danışma Merkezinde yürütücü ortağımız KAMER ile birlikte kadın ve kız çocuklarına hizmet sunmaya devam ediyoruz. Elinizde tutmuş olduğunuz “Biz de VARIZ” kitabı, bu merkezlerden hizmet alan kadınlarının paylaştığı son derece içten ve cesurca anlatılmış gerçek hayat hikayelerinden oluşuyor. Bu çok özel hikayeleri okuduğunuzda, bu kadınların kim olduğunu, ne zorluklarla mücadele etmek zorunda kaldıklarını ve gelecek için hayallerini birinci ağızdan öğrenecek ve onları çok daha iyi anlayacaksınız.
+“Biz de VARIZ” kitabının oluşmasını sağlayan, hayatlarını bizlere açarak hikayelerini paylaşan kadınlara, bu anlatılanları derleyerek ete kemiğe bürünmesini sağlayan KAMER Vakfına ve Kadın Sağlığı Danışma Merkezlerimize ve bu alanda yaptığımız çalışmalara destek olan Avrupa Komisyonu Sivil Koruma ve İnsani Yardım Ofisine (ECHO) teşekkürlerimizi sunmak isteriz.
+
+Uluslararası Göç Örgütü, göçü “kişi veya bir grup insanın süresi, oluşumu ve sebepleri ne olursa olsun bulunduğu ülke sınırları içerisinde ya da uluslararası sınırlar arasında yer değiştirmesi” olarak tanımlamaktadır. Birleşmiş Milletler Nüfus Fonu’nun verilerine göre bugün tüm dünyada küreselleşme, savaş, yoksulluk, siyasi baskı ve benzer nedenlerle 244 milyon göçmen bulunmaktadır. 65.6 milyon insan zorunlu göçle yurtarından ayrı yaşamaya mecbur bırakılmıştır. 10 milyonun üzerinde sığınmacı 18 yaşın altındadır. Suriye’de 2011 tarihinde başlayan savaş ile birlikte halkın büyük bir kısmı güvenlik nedeniyle yurtlarını terk etmek zorunda kalmıştır. Önemli sayıdaki Suriyeli sığınmacı öncelikli olarak kendi yurtlarına yakın gördükleri sınır illerimize yerleşmiştir. Bu göç sürecinden ise en çok etkilenenin kadınlar ve çocuklar olduğu tartışılmaz bir gerçektir. Kültürel farklılıklardan dolayı uyum sağlayamama, gittikleri bölgede konuşulan dil kullanamama, organize edilemeyen yardımlar, beslenme ve barınma yetersizliği gibi sıkıntılar kadınların ve çocukların hayatlarını zorlaştırmaya devam etmektedir.
+KAMER Vakfı ülkemize sığınan herkesin aynı hak ve fırsatlara sahip olması gerektiği düşüncesinden yola çıkarak Suriyeli kadın ve çocuklara yönelik tasarlanmış çeşitli çalışmalar yürütmektedir. Aynı zamanda sığınmacı kadın ve çocukların var olan programlara katılımlarını sağlamaktadır. İlk olarak insani yardımların dağıtımı şeklinde başlayan bu çalışmalar, şu an yöntemi belirlenmiş ve oldukça etkin sonuçlar alınan programlar halinde yürütülmektedir. Bu programlar çerçevesinde UNFPA’nın desteği ile birlikte KAMER sığınmacı kadınlara yönelik sağlık hizmeti sunmakta, dil kursları açmakta, hane ziyaretlerinde bulunmakta, mahalle toplantıları ve farkındalık toplantıları düzenlemekte ve de kadınların çocuklarıyla beraber katılacakları beraber oynama grup çalışmaları yapmaktadır. Tüm bu çalışmalarla bugüne dek binlerce kadına ulaşılmıştır.
+Bu kitabı hazırlama fikri KAMER’in çalışmalarının sığınmacı kadınların hayatlarına nasıl dokunduğu sorusu üzerine ortaya çıktı. Bazen niceliksel veriler bize programın başarıyla uygulandığını gösterse de kadınların ağzından kendi hikâyelerini dinlemek ve de yaşadıkları dönüşüme tanık olmak çalışmanın derinliğine dair çok şey söylemekte.
+Bu arayıştan yola çıkarak 2017’nin Temmuzayında Doğu ve Güneydoğu Anadolu Bölgesi’nin çeşitli illerindeki KAMER merkezlerinde 19 kadınla derinlemesine görüşmeler yaptık. Görüşmelerimizi yazıya dökerken hikâyelerin anonym kalabilmesi için kadınların isimlerini ve yaşanılan yerleri paylaşmamayı tercih ettik. Her hikâyeye bir rumuz verdik. Görüşme yaptığımız kadınlara ilk olarak bugünlerde ne kadar mutlu olduklarını sorduk. Aldığımız cevapların çoğunda Suriye’deki yaşantılarına duyulan özlem vardı. Onlardan bizlere Suriye’deki yaşamlarını, savaştan nasıl etkilendiklerini, Türkiye’ye nasıl geldiklerini ve Türkiye’de neler yaşadıklarını anlatmalarını istedik.
+Görüşme yaptığımız 19 kadın da KAMER ile temas etmiş kadınlardı. Kimisi KAMER’in merkezlerinde UNFPA ile birlikte yürütülen projede sağlık aracısı ya da tercüman olarak çalışmaktaydı kimisi KAMER’in düzenlemiş olduğu Türkçe dil kurslarına, farkındalık toplantılarına ya da mahalle toplantılarına katılmıştı kimisi de hane ziyaretlerinden sonra KAMER’in merkezlerine gelmeye başlamıştı.
+Görüşmelerimizi Türkçe bilen kadınlarla Türkçe, bilmeyenlerle ise Arapça ve Kürtçe bilen tercümanlar aracılığı ile yaptık. Dil çoğu zaman onların hayatında olduğu kadar bizim görüşmelerimizdeki de en büyük engel oldu. Kadınlar anadillerinde elbet hikâyelerini daha iyi aktarabileceklerdi. Neyse ki her merkezde bize tercümeleriyle destek olan, o dili konuşan KAMER çalışanları vardı. Bu bizim için yerel çalışmanın ne kadar önemli olduğunun bir göstergesiydi.
+Kadınlar savaşın hâlâ devam etmesinden ve ülkelerinin artık eski durumuna döneceğine inanmadıklarından bundan sonraki yaşamlarının büyük bir bölümünü Türkiye’de geçireceklerini düşünmekteydi. Ve bu yeni yaşamları elbette ki bir sığınmacı olmanın getirdiği zorluklardan muaf değildi. Gittiğimiz bölgelere gelen kadınlar kendi ana dillerinin yoğunlukla konuşulduğu bölgeleri tercih etmişlerdi. Bu yolla günlük hayatlarını biraz kolaylaştırmış olsalar da sağlık, eğitim gibi kamu hizmetleri söz konusu olduğunda Türkçe bilmemek en büyük engel olarak karşılarına çıkmaktaydı. Bu noktada KAMER’in açmış olduğu Suriyeli kadınlara yönelik Türkçe okuma-yazm kurslarının ne kadar gerekli olduğunu gördük. Aldıkları Türkçe eğitiminden sonra dili kullana bilmelerinin kadınları gündelik hayatta ve kamu hizmetlerine erişimde güçlendirdiğini fark ettik. Görüşmeleri yaptığımız sırada gerek medyada ve de toplumun çeşitli kesimlerinde Suriyelilere yönelik kullanılan ayrımcı dil ve ırkçı söylemler gerekse kadınların gündelik hayatlarında maruz kaldıkları ayrımcılık hemen hemen her kadının en çok zorlandığı konulardan biriydi. Bir diğer sorun da ekonomik sıkıntılardı. İşsizlik büyük bir problemdi. Görüşme yaptığımız kadınların içinde avukat olan, öğretmen olan kadınlar, savaş yüzünden okudukları üniversiteyi bırakmak zorunda kalan oldukça iyi eğitim almış, birden fazla dil bilen kadınlar vardı ama diplomaları geçerli olmadığından Türkiye’de mesleklerini yapamıyorlardı. Çalışabilenler ise düşük ücretlerle çalıştırılıyordu. Bunun yanı sıra göçle birlikte artan ev kiraları en büyük şikâyet konusuydu. Çok kötü koşullardaki evler Suriyeliler geldikten sonra değerinin çok üzerinde kiralanıyordu.
+Bu çalışma bize tüm bu zorluklar karşısında kadınların ihtiyaç duydukları desteği sağlaması açısından KAMER’in UNFPA’nın da katkılarıyla yürüttüğü programların ne kadar önemli olduğunu gösterdi. Hane ziyaretleriyle kapı kapı dolaşılıp sığınmacı kadınlara ulaşmanın ve ilk basamak sağlık hizmeti sunmanın önemini, yapılantoplantılarda ne kadar çok kadına dokunduklarını, Türkçe dil kurslarının kadınların hayatlarını nasıl değiştirdiğini gördük. Kadınlar KAMER’I çalışmalarına katıldıkça, kendilerini, çocuklarını, eşlerini ve de çevrelerini değiştirmeye başlamışlardı. Sadece kadın, çocuk ve de mülteci haklarını öğrenmekle kalmayıp, bu hakları uygulamaya geçirmiş olmalarını görmek bu ve bunun gibi çalışmaların ne kadar değerli olduğunu bize bir kere daha hatırlattı. Kendine feminist diyen, rektör olmak isteyen, devlet başkanı olmak isteyen kadınlar tanıdık. KAMER’den aldıkları gücü diğer kadınlarla paylaşan kadınlarla tanıştık. Kadınlar KAMER ile ne kadar uzun süredir temas halinde ise farkındalıkları o kadar artmış, güçlerinin farkına varmışlar ve özgürleşmişlerdi. Kadınlar ayrıca savaş biter ve her şey düzelirse yurtlarına dönmek istediklerini ve döndüklerinde de Suriye’de KAMER gibi bir merkez açmak istediklerini bizimle paylaştılar. Suriye’de yaşayan diğer kadınlarla farkındalık toplantıları düzenlemeyi hayal ettiklerini anlattılar. Kadınların gözlerinde gördüğümüz o ışık geçmişte yaşadıkları karanlık dönemlere rağmen önlerindeki tüm engelleri aştıracak güçteydi.
+KAMER Vakfı 20 yıldır Doğu ve Güneydoğu Anadolu’nun 23 ilinde tüm zorluklara rağmen bağımsız duruşundan ödün vermeden kadınlara ulaşmaya devam ediyor. Bundan 10 yıl önce Ben Varım adlı kitapta yine kadınlar KAMER’in kendilerine nasıl dokunduğunu aktarmış ve de “ben varım” demişlerdi. Tam 10 yıl sonra bu topraklara sığınmış kadınlara ve çocuklara elini uzatarak KAMER, Suriyeli sığınmacı kadınlarla birlikte “biz de varız” diyor ve de birlikte güçlenmenin ne kadar önemli olduğunu bize hatırlatıyor. Bu güç içinden geçtiğimiz zor süreçlerde hepimize, tüm kadınlara umut olmaya devam ediyor.
+
+?> *Kuruluş adı: UNFPA, KAMER; 2017, Türkçe Tema: Göç, Çocuk yaşta evlilik, Zorla evlilik*
+
+[Dökümanı İncele](downloads\KTP\KTP_03.pdf ':ignore')
+
+***
+
+## Çocuğa Karşı Şiddeti Önleme Projesi Kitapları
+*KTP_04 Klasör*  
+
+**ÖZET**  
+ MEB'in Çocuğa Karşı Şiddeti Önleme Projesi kapsamında geliştirdiği, okullardaki rehberlik hizmetlerine ilişkin kitapları içermektedir.
+
+?> *Kuruluş adı: MEB; 2015, Türkçe Tema: Çocuk koruma, Danışmanlık*  
+
+Danışmanlık Tedbiri Uygulamaları El Kitabı [Dökümanı İncele](downloads\KTP\KTP_04\danismanlik_tedbiri_uygulamalari_el_kitabi.pdf ':ignore')
+
+Çocuğa Yönelik Şiddetin Önlenmesi Teknik Destek Projesi Eğitim Programı [Dökümanı İncele](downloads\KTP\KTP_04\egitici_ve_egitici_olmayan_personele_yonelik_egitim_programi.pdf ':ignore')
+
+Çocuğa Yönelik Şiddetin Önlenmesi Teknik Destek Projesi Erken Uyarı Uygulamaları Kitapçığı [Dökümanı İncele](downloads\KTP\KTP_04\erken_uyari_uygulamalari_programi.pdf  ':ignore')
+
+Okullarda Rehberlik ve Psikolojik Danışma Hizmetleri Kılavuzu [Dökümanı İncele](downloads\KTP\KTP_04\okullarda_rehberlik_ve_psikolojik_danisma_hizmetleri_kilavuzu.pdf ':ignore')
+
+Çocuğa Yönelik Şiddetin Önlenmesi Rehber Öğretmen El Kitabı [Dökümanı İncele](downloads\KTP\KTP_04\rehber_ogretmen_el_kitabi.pdf ':ignore')
+
+
+## Hak Temelli İzleme ve Değerlendirme ve Toplumsal Cinsiyet Anaakımlaştırması
+*KTP_05*
+
+**ÖZET**  
+Kitapta; hak temelli izleme yaklaşımları, dava izleme, toplumsal cinsiyet anaakımlaştırması, izlemede yöntem ve teknikler konuları ele alınmaktadır.
+
+?> *Kuruluş adı: Cinsiyet Eşitliği İzleme Derneği; 2015, Türkçe Tema: Hak temelli izleme, Toplumsal cinsiyet*
+
+[Yazılı kopya]
+
+***
+
+## Kadına Yönelik Şiddetle Mücadele Mekanizması İzleme Modeli
+*KTP_06*
+
+**ÖZET**  
+Kitap, kadına yönelik şiddetle mücadelede hak temelli izlemenin önemini vurgulayan ilgili normları, standartları ve yöntemi bütünlükçü bir şekilde ele almaktadır.
+
+?> *Kuruluş adı: Cinsiyet Eşitliği İzleme Derneği; 2014, Türkçe Tema: Kadına yönelik şiddet, İzleme*
+
+[Yazılı kopya]
+
+***
+
+## Toplumsal Cinsiyete Duyarlı Veri Çalışması
+*KTP_07*
+
+**ÖZET**  
+Kadın Dostu Kentler Programı kapsamında basılan kitapçıkta, toplumsal cinsiyete duyarlı veri toplamanın ne olduğu, önemi, yöntemi ve araçlaırna lişkin bilgiler yer almaktadır.
+
+?> *Kuruluş adı: Tepav, UNFPA, UNDP; İçişleri Bakanlığı; 2014, Türkçe Tema: Toplumsal cinsiyet, Veri*
+
+[Yazılı kopya]
+
+***
+
+## Vakalarla Türkiye'de Üreme Hakları
+*KTP_08*
+
+**ÖZET**  
+Gürkan Sert tarafından hazırlanan kitapta üreme hakları konusu, çeşitli vaka örnekleri çerçevesinde ele alınmıştır. Kitapta zorla evlendirme, çocuk istismarı, kadına yönelik şiddet gibi konularda vaka örnekleri de yer almaktadır.
+
+?> *Kuruluş adı: İnsan Kaynağını Geliştirme Vakfı; 2012, Türkçe Tema: Üreme hakları*
+
+[Yazılı kopya]
+
+***
+
+## Adli Sistemde Çocuklar
+*KTP_09*
+
+**ÖZET**  
+Çocuğun yüksek yararı, çocuğun özel yaşamına saygı, çocuğun şiddete karşı korunması, evlat edinme, çocuk işçiliği, uyuşturucu kullanımı, mağdur çocukların rehabilitasyonu ve çocuk adalet sisteminin uygulanması başlıklarında değerlendirme ve önerileri içeren yayında çocuk yaşta evlilik ve çocuğun cinsel istismarı konularına da değinilmektedir.
+
+?> *Kuruluş adı: Adalet Bakanlığı, Bahçeşehir Üniversitesi; 2017, Türkçe Tema: Çocuk, Adli sistem*
+
+[Yazılı kopya]
+
+***
+
+## İnceleme ve Değerlendirme Raporları (Çocuk-Kadın aile)
+*KTP_10*
+
+**ÖZET**  
+Adalet Bakanlığı Mağdur Hakları Daire Başkanlığı tarafından hazırlanan yayın;adli sistemde çocuk, kadın ve aile ile ilişkili sorunları mağdur hakları odağında ele almaktadır. 
+
+?> *Kuruluş adı: Adalet Bakanlığı; 2016, Türkçe Tema: Mağdur hakları*
+
+[Yazılı kopya]
+
+***
+
+## Çalıştay raporları (STK-Adli Destek Sisteminin Yeniden Değerlendirilmesi, Tazminat-İstihdam-Tedavi) 
+*KTP_11*
+
+**ÖZET**  
+Adalet Bakanlığı Mağdur Hakları Daire Başkanlığı tarafından hazırlanan yayın; Mağdur hizmetlerinde kamu-STK işbirliği odağında gerçekleştirilen çalıştayların raporlarını içermektedir.
+
+?> *Kuruluş adı: Adalet Bakanlığı; 2016, Türkçe Tema: Mağdur hakları, STK-Kamu işbirliği*
+
+[Yazılı kopya]
+
+***
+
+## Languages of Resistence: Ian Hancook's Contribition to Roman Studies within The fact of Early Mariage Among Romanies as a Violation of Child Rights: The Case of Mersin, Turkey
+*KTP_12*
+
+**ÖZET**  
+Kitapta; Neriman Açıkalın tarafından Roman toplumunda çocuk yaşta evlilik çocuk haklarının ihlali çerçevesinde ele alınmıştır.
+?> *Kuruluş adı: University of Silecia, University of Beloit; 2017, İngilizce Tema: Roman çocuklar, Çocuk yaşta evlilik*
+
+[Dökümanı İncele](downloads\KTP\KTP_12.pdf ':ignore')
+
+***
+
+## Çocuk Evliliklerini Durdurmak Konusunda Parlamenterlerin Rolü El Kitabı
+*KTP_13*
+
+**ÖZET**  
+Girls not Brides ağı tarafından yayınlanmış olan kitapçığın kısaltılmış Türkçe versiyonudur. Parlamenterlerin konuya ilişkin rolüne dair önerileri içermektedir.
+
+?> *Kuruluş adı: GEN-DER, Uçan Süpürge; 2018, Türkçe Tema: Çocuk yaşta evlilik*
+
+[Dökümanı İncele](downloads\KTP\KTP_13.pdf ':ignore')
+
+***
+
+## Sivil Toplum Kuruluşları, Ağları, Platformlarınca İstanbul Sözleşmesi ve Türkiye'nin 7. Dönem Raporuna CEDAW'ın Nihai Yorumlarının Takibi
+*KTP_14*
+
+**ÖNSÖZ**  
+Eşitliği, özgürlüğü ve şiddetsiz bir dünyayı yaratma umuduyla bir araya gelen ve bu amaç için 94 yıldır mücadele eden Türk Kadınlar Birliği için ayrımcılık ve kadına yönelik şiddet, ortadan kaldırılması gereken ilk hedeftir.
+Eşitliğin sağlanması için ulusal düzeyde gerekli olan yasal düzenlemeler ne kadar önemli ise bunları güçlendiren Uluslararası sözleşmeler de o denli önemlidir.
+Başta 1986 yılında yürürlüğe giren “Kadınlara Karşı Her Türlü Ayrımcılığın Ortadan kaldırılması Sözleşmesi (CEDAW) olmak üzere bu mücadele alanında bizi güçlendiren çok sayıda uluslararası sözleşmeyi ülke olarak imzalamış ve taraf olmuş durumdayız.
+Son olarak bu alanda, 2014 yılının Ağustos ayında yürürlüğe giren ve hem İstanbul’da olması ile, hem de ilk imzacısı olmakla övündüğümüz “Kadına Yönelik Şiddet ve Ev İçi Şiddetin Önlenmesi ve Bunlarla Mücadeleye Dair Avrupa Konseyi Sözleşmesi” (İstanbul Sözleşmesi) de Anayasamızın 90. maddesinin sağladığı güçle, şiddetle mücadelemizde yasal güvencelerimize çok önemli bir destek kazandırmıştır.
+Gerek Cedaw, gerekse İstanbul Sözleşmesi, hem ayrımcılığın ortadan kaldırılması, hem de kadına yönelik şiddetin önlenmesi için, toplumsal cinsiyet eşitliğinin hayatın her alanında gerçekleştirilmesi gerektiğini vurgulamakta ve imzacı olan taraf devletlerden de bunu istemektedir.
+Devletin yapması gerekenlerin yanı sıra Türk Kadınlar Birliği olarak, ayrımcılığın ortadan kaldırılması ve şiddetin önlenmesindeki en önemli güvence olarak gördüğümüz bu sözleşmelerin ülkemizde tanınması, öğrenilmesi ve kullanılması için, anlatmayı ve yaygınlaştırmayı görev edinmiştik ve yıllardır çalışmalarımızı da bu alanda yoğunlaştırdık.
+Bu çerçevede Derneğimiz 2005 yılından beri Cedaw Sivil Toplum Yürütme Kurulunun sekretaryasını sürdürmekte, 2014 yılından beri de tüm Türkiye’ye yaygın olan şubeleri aracılığı ile başlattığı ve AB desteği ile sürdürdüğü İstanbul Sözleşmesinin uygulamasını izlemeye devam etmektedir.
+
+?> *Kuruluş adı: CEDAW Sivil Toplum Yürütme Kurulu, UN Women; 2018, Türkçe Tema: Kadınlara karşı ayrımcılık*
+
+[Dökümanı İncele](downloads\KTP\KTP_14.pdf ':ignore')
+
+***
+
 # Literatür Taraması
+***
+## Çocuğa Karşı Şiddet İzleme ve Göstergeler: Literatür Taraması
+*LTR_01*
+
+**ÖZET**  
+Bu literatür çalışması, çocuklara karşı şiddetin izlenmesine yönelik var olan bilgi ve deneyimleri güçlü ve zayıf yönleriyle birlikte ele alarak, Türkiye’de sivil toplum örgütleri tarafından konuyla ilgili yapılan çalışmalara destek sağlamayı amaçlamaktadır. Bu çalışma, AB finansmanıyla UNICEF tarafından yürütülen Güneydoğu Avrupa’da Çocukların Şiddetten Korunması Projesi kapsamında yapılmıştır. Proje, sivil toplum örgütlerinin yerel ve ulusal düzeyde çocuğa karşı şiddetle ilgili politika yapım sürecindeki katılımının, veri toplama, izleme ve değerlendirme alanlarında farkındalık ve kapasite geliştirme eğitimleri ile güçlendirilmesini hedeflemektedir
+Bu çalışma da söz konusu eğitimlerin ve göstergelerin hazırlanmasındaki ilk aşamadır ve çocukların durumunun izlenmesine yönelik farklı yaklaşımları, bunların uygulama örnekleri ve gerektirdiği beceriler ile BM Çocuğa Karşı Şiddet Araştırması’nda tanımlanan beş temel alanda geliştirilmiş çocuğa karşı şiddet göstergelerini içermesi beklenmektedir. Ayrıca UNICEF’in araştırmasını da kapsayacak şekilde, Türkiye’de çocuğa karşı şiddete ilişkin bilgi sağlaması ve AB kuruluşları tarafından yapılan konuyla ilgili çalışmalara atıfta bulunulması da beklenmektedir.
+Bu kapsamda, ODTÜ, Bilkent ve Ankara Üniversiteleri’nin veri tabanları ile UNICEF, ICC ve Öz-Ge
+Der’in arşivleri taranmış ve 200’den fazla kaynağa (kitap, rapor, kılavuz, eğitim materyali, AB
+proje dokümanı, akademik makale vb) ulaşılmıştır. 20 günlük zaman sınırı göz önüne alınarak,
+ulaşılan yaklaşık 200 kaynak, bazı kriterler doğrultusunda değerlendirilerek, kapsama alınmış ya
+da elenmiştir. Buna göre;  
+• çocuğun şiddetten masun olma hakkının izlenmesi,
+• çocuk haklarının uygulanmasının izlenmesi,  
+• bunların göstergeler aracılıyla izlenmesi konularını içeren ve BM kurumları, Avrupa Birliği kurumları ya da fonuyla ve ilgili diğer uluslararası sivil toplum örgütleri tarafından geliştirilmiş izleme modelleri kapsama alınmıştır.
+Ayrıca, BM Çocuğa Karşı Şiddet Araştırması ile BM Çocuk Hakları Komisyonu’nun 13. Genel Yorumu ve Türkiye Sonuç Gözlemleri temel kaynaklar olarak belirlenmiştir. 2000 yılından önce yapılmış ve yayınlanmış çalışmalar kapsama dahil edilmemiştir.
+Çalışmanın temel bulguları şu şekilde özetlenebilir:  
+• Çocukların durumunun izlenmesinde kabaca üç aşama olduğu söylenebilir. Çocukların gelişim çıktıları izlenirken, bu yaklaşım çocuğun iyi halinin izlenmesine ve son olarak da hak temelli izlemeye evrilmiştir. Çocuk haklarının izlenmesindeki bu değişim, çocuklara ilişkin yaklaşım ve anlayışın değişmesi ile açıklanabilir.  
+• İnsan hakları ve çocuk hakları alanında, özellikle devletlerin sosyal ve ekonomik haklara ilişkin  
+sorumluluklarını yerine getirip getirmediğini göstergeler aracılığıyla izlemeye dair yazılı materyaller giderek artmaktadır.
+• BM Ekonomik ve Sosyal Konseyi’nin çalışmalarına dayanarak, BM İnsan Hakları Yüksek Komiserliği, göstergelerin geliştirilmesinde kullanılmak üzere, uluslararası insan hakları normlarına dayanan standart bir çerçeve geliştirmektedir.  
+• Çocuk hakları, engelli hakları, kadın hakları ve insan hakları alanlarında izleme yapan birçok kuruluşlar arası inisiyatif bulunmaktadır (BM OHCHR İnsan Hakları Göstergeler Grubu, UNICEF ve AB ortaklığı ile geliştirilen çocuk haklarını izleme mekanizması, Çocuk Koruma ve Değerlendirme Grubu (MERG) gibi).  
+• BM Çocuk Hakları Komitesi’nin genel yorumlarının, göstergeler aracılığıyla izleme araçlarına dönüştürülmesine yönelik bir eğilim olduğu görülmektedir (Örneğin, çocuk haklarının erken çocuklukta uygulanmasına yönelik genel yorum 7, çocuğun görüşünün alınmasına yönelik genel yorum 12, çocuğun şiddetten masun olma hakkına ilişkin genel yorum gibi).  
+• Devletlerin üç temel yükümlülüğüne tekabül eden hak temelli göstergeler geliştirmek için, çocuk hakları alanında hak temelli izleme ve yükümlülük yaklaşımının (saygı, koruma, gerçekleştirme) kullanılması konusunda ortaklaşıldığı görülmektedir.  
+• Çocukların durumunun izlenmesinde şiddet göreli olarak yeni bir alandır ve BM Şiddet
+Araştırması’nın bu süreci hızlandırıcı etkisi olmuştur. Bu anlamda çocuğa karşı şiddet,doğrudan belirli bir alandaki belirli bir şiddet biçimini izlemeye yönelik ya da hak temelli yaklaşım çerçevesinde oluşturulan mekanizmalar aracılıyla izlenmektedir. Örneğin, cezaevlerindeki şiddete yönelik Save the Children bir izleme modeli geliştirmiş ve bunu dört ülkede bir sefer olmak üzere uygulamıştır. AB Temel Haklar Temsilciliği’nin geliştirdiği çocuklara yönelik hak temelli izleme mo-delinde, şiddet temel alanlardan biri olarak tanımlanmıştır. Bu model henüz uygulanmamıştır.  
+• Dolayısıyla bu literatür taraması kapsamında değerlendirilen izleme çalışmalarının önemli kısmı tek seferlik olup, sonrasında yapılacak izleme çalışmaları için başlangıç noktası niteliğindedir.  
+• Hak temelli yaklaşım, sivil toplum örgütlerini de izleme ve değerlendirme sürecinin aktörleri olarak tanımlamaktadırlar. Özellikle ulusal düzeyde bağımsız izleme mekanizmaları oluşturulması konusunda savunuculuk yaparak bu sürece katılımları beklenmektedir. Şiddetin izlenmesinde yetersiz olan istatistiki verilerin, sivil toplum örgütlerinin hazırladığı araştırma ve raporların sağladığı nitel veri ile desteklenmesi tavsiye edilmektedir. BM Çocuk Hakları Komitesi’ne sunulan gölge raporlar da şiddetin izlenmesinde temel kaynaklar arasında tanımlanmaktadır.
+
+?> *Kuruluş adı: UNICEF; 2013, Türkçe Tema: Çocuğa karşı şiddet, Çocuk yaşta, erken yaşta ve zorla evlilik*
+
+[Dökümanı İncele](downloads\LTR\LTR_01.pdf ':ignore')
+
+***
+
+## Çocuk Evlilikleri ve Sağlık
+*LTR_02*
+
+**ÖZET**  
+UNFPA stajyerleri tarafından hazırlanan çalışma, sağlık alanında gerçekleştirilen akademik çalışmalara ilişkin özet bilgileri içermektedir.
+
+?> *Kuruluş adı: UNFPA; 2018, Türkçe Tema: Çocuk yaşta evlilik, Sağlık*
+
+[Dökümanı İncele](downloads\LTR\LTR_02.pdf ':ignore')
+
+***
+
+## Çocuk Evlilikleri hakkında Yazılmış Makaleler ve Çalışmalar
+*LTR_03*
+
+**ÖZET**  
+UNFPA stajyerleri tarafından hazırlanan çalışma, ağırlıklı olarak sosyal bilimler olmak üzere çeştili alanlarda gerçekleştirilen akademik çalışmalara ilişkin özet bilgileri içermektedir.
+
+?> *Kuruluş adı: UNFPA; 2018, Türkçe Tema: Çocuk yaşta evlilik, Sosyal bilimler*
+
+[Dökümanı İncele](downloads\LTR\LTR_03.pdf ':ignore')
+
 ***
 
 # Makaleler
@@ -70,25 +1543,18 @@ The endless civil war in the Middle East has spilled over into Syria and thousan
 ?> *Kuruluş adı: Namık Kemal Üniversitesi; 2017, Türkçe
 Tema: Çocuk yaşta, erken yaşta evlilik, göç, sosyal politika*
 
-
 [Dökümanı İncele](downloads\MKL\MKL_02.pdf ':ignore')
 
 ***
 
 ## Gelinlik Değil Kefen Giydirilmiş Çocuklar 
-*MKL_3*
+*MKL_03*
 
 **ÖZET**  
-XXX
-***Anahtar kelimeler: XXX***
-
-**ABSTRACT**  
-XXX
-***Key words: XXX***
+Av. Sema AKSOY'un Türkiye Barolar Birliği, Ankara Barosu ve Türk Hukukçu Kadınlar Derneği tarafından 23 Ocak 2014 tarihinde düzenlenen "Çocuk Gelinler"panelinde yaptığı konuşmanın metnidir. çocuk yaşta evlilikin önlenmesine ilişkin hukuki düzlemde alınacak önlemlere değinilmektedir.
 
 ?> *Kuruluş adı: Ankara Barosu Dergisi; 2014, Türkçe
 Tema: Çocuk yaşta evlilik, hukuk*
-
 
 [Dökümanı İncele](downloads\MKL\MKL_03.pdf ':ignore')
 
@@ -169,7 +1635,6 @@ Participants are 40 girls who married underage and 30 girls who have no such his
 ?> *Kuruluş adı: Hacettepe Üniversitesi, Yıldırım Beyazıt Üniversitesi, Atatürk Eğitim ve Araştırma Hastanesi; 2018, Türkçe
 Tema: Çocuk yaşta evlilik, aile, okul terki*
 
-
 [Dökümanı İncele](downloads\MKL\MKL_07.pdf ':ignore')
 
 ***
@@ -182,7 +1647,6 @@ Erken yaşta evlenme, kadınların hayatında biyolojik, psikolojik ve sosyal al
 
 ?> *Kuruluş adı: İstanbul Üniversitesi; 2017, Türkçe
 Tema: Çocuk yaşta evlilik, ruh sağlığı*
-
 
 [Dökümanı İncele](downloads\MKL\MKL_08.pdf ':ignore')
 
@@ -203,7 +1667,6 @@ This study aims to contribute to eliminate child marriages through revealing the
 
 ?> *Kuruluş adı: Hacettepe Üniversitesi; 2012, Türkçe
 Tema: Çocuk yaşta evlilik*
-
 
 [Dökümanı İncele](downloads\MKL\MKL_09.pdf ':ignore')
 
@@ -229,7 +1692,6 @@ The age of early marriage among Romanies is 12. Almost half of the marriages are
 ?> *Kuruluş adı: Sakarya Üniversitesi; 2016, Türkçe
 Tema: Çocuk yaşta evlilik, erken yaşta evlilik, Romanlar*
 
-
 [Dökümanı İncele](downloads\MKL\MKL_10.pdf ':ignore')
 
 ***
@@ -249,7 +1711,6 @@ In this study it is aimed to understand differences and similarities of child ma
 
 ?> *Kuruluş adı: İstanbul 29 Mayıs Üniversitesi; 2016, Türkçe
 Tema: Çocuk yaşta evlilik, nitel araştırma*
-
 
 [Dökümanı İncele](downloads\MKL\MKL_11.pdf ':ignore')
 
@@ -274,7 +1735,6 @@ regarding negative effects of child marriages and community-based studies that a
 ?> *Kuruluş adı: Selçuk Üniversitesi; 2017, Türkçe
 Tema: Çocuk yaşta evlilik, kadın sağlığı*
 
-
 [Dökümanı İncele](downloads\MKL\MKL_12.pdf ':ignore')
 
 ***
@@ -283,14 +1743,10 @@ Tema: Çocuk yaşta evlilik, kadın sağlığı*
 *MKL_13*
 
 **ÖZET**  
-XXX
-
-**ABSTRACT**  
-XXX
+Mehmet Güneş ve diğ. tarafından Journal of Mood Disorders dergisinde yayımlanan makalede çocuk yaşta evlendirmenin ruh sağlığı ve çift uyumu üzerindeki etkileri incelenmiştir.
 
 ?> *Kuruluş adı: Dicle Üniversitesi; 2013, Türkçe
 Tema: Çocuk yaşta evlilik, ruh sağlığı*
-
 
 [Dökümanı İncele](downloads\MKL\MKL_13.pdf ':ignore')
 
@@ -330,7 +1786,6 @@ it requires a similar approach.
 ?> *Kuruluş adı: Ankara Üniversitesi; 2014, Türkçe
 Tema: Çocuk yaşta evlilik*
 
-
 [Dökümanı İncele](downloads\MKL\MKL_14.pdf ':ignore')
 
 ***
@@ -352,7 +1807,6 @@ Conclusion: The perception of early marriages by the society as normal is one of
 
 ?> *Kuruluş adı: Afyonkarahisar Üniversitesi, Afyonkarahisar Devlet Hastanesi, Üsküdar Üniversitesi; 2017, Türkçe
 Tema: Erken yaşta evlilik*
-
 
 [Dökümanı İncele](downloads\MKL\MKL_15.pdf ':ignore')
 
@@ -376,7 +1830,6 @@ the first place and they may face situations such as being pregnant and having c
 
 ?> *Kuruluş adı: Mardin Devlet Hastanesi; 2018, Türkçe
 Tema: Çocuk yaşta evlilik*
-
 
 [Dökümanı İncele](downloads\MKL\MKL_16.pdf ':ignore')
 
@@ -425,7 +1878,6 @@ attempts in some countries.
 ?> *Kuruluş adı: Ankara Üniversitesi Sosyal Hizmetler; Türkçe
 Tema: Çocuk yaşta evlilik*
 
-
 [Dökümanı İncele](downloads\MKL\MKL_17.pdf ':ignore')
 
 ***
@@ -446,7 +1898,6 @@ regulations, cinema***
 
 ?> *Kuruluş adı: Ege Üniversitesi, Adnan Menderes Üniversitesi; 2018, Türkçe
 Tema: Çocuk yaşta evlilik*
-
 
 [Dökümanı İncele](downloads\MKL\MKL_18.pdf ':ignore')
 
@@ -471,7 +1922,6 @@ This study is carried on with the objective of determining the opinion of univer
 ?> *Kuruluş adı: Üniversite Öğrencilerinin erken yaşta evlilik ve Çocuk Yaşta Gelinler Hakkındaki Görüşleri; 2018, Türkçe
 Tema: Çocuk yaşta evlilik*
 
-
 [Dökümanı İncele](downloads\MKL\MKL_19.pdf ':ignore')
 
 ***
@@ -491,7 +1941,6 @@ This study aims to search the factors that cause getting married at young ages, 
 
 ?> *Kuruluş adı: Kırıkkale Üniversitesi, Kahramanmaraş Sütçü İmam Üniversitesi; 2008, Türkçe Tema: Erken yaşta evlilik*
 
-
 [Dökümanı İncele](downloads\MKL\MKL_20.pdf ':ignore')
 
 ***
@@ -505,7 +1954,6 @@ Uluslararası belgelere göre, on sekiz yaşının altında yapılan her evlili�
 ***Anahtar kelimeler: Çocuk gelin, Çocuk evliliği, Başlık parası, Azgelişmişlik, Yoksulluk***
 
 ?> *Kuruluş adı: Hitit Ünibversitesi; Türkçe Tema: Çocuk yaşta evlilik*
-
 
 [Dökümanı İncele](downloads\MKL\MKL_21.pdf ':ignore')
 
@@ -536,7 +1984,6 @@ In this review, early age marriage and the problem of adolescent pregnancy are i
 
 ?> *Kuruluş adı: Ege Üniversitesi Hemşirelik Yüksekokulu; 2011, Türkçe Tema: Çocuk yaşta evlilik*
 
-
 [Dökümanı İncele](downloads\MKL\MKL_22.pdf ':ignore')
 
 ***
@@ -558,7 +2005,6 @@ Discussion: Although the sample of our study comprises only cases were referred 
 
 ?> *Kuruluş adı: Gaziantep Üniversitesi Çocuk Hastanesi, Sakarya Eğitim Araştırma Hastanesi; 2012, Türkçe Tema: Çocuk yaşta evlilik*
 
-
 [Dökümanı İncele](downloads\MKL\MKL_23.pdf ':ignore')
 
 ***
@@ -579,14 +2025,50 @@ difficulties they face, attempt suicide and even can lose their lives. In this s
 
 ?> *Kuruluş adı: Ondokuz Mayıs Üniversitesi, Ankara Üniversitesi; 2016, Türkçe Tema: Çocuk yaşta evlilik*
 
-
 [Dökümanı İncele](downloads\MKL\MKL24.pdf ':ignore')
 
 # Politika Dökümanlar
 ***
 
+## Çocuğa Karşı Şiddetin Önlenmesi Politika Dokümanları
+*PLT_01 Klasör*
+
+**ÖZET**  
+ Dosyada çocuğa karşı ev içi şiddetin önlenmesi politika dokümanı ile çocuğa karşı şiddeti önleme ve toplumsal cinsiyet politika dokümanı yer almaktadır. 
+
+?> *Kuruluş adı: ICC, Genç Hayat Vakfı, Geleceğimizin Çocukları Vakfı; 2012, Türkçe Tema: Çocuğa yönelik şiddet*  
+
+Şiddetin Önlenmesinde Çözümün Parçası Olmak: Çocuğa Karşı Ev İçi Şiddetin Sonlandırılması [Dökümanı İncele](downloads\PLT\PLT_01\Cocuga-karsi-ev-ici-siddetin-sonlandirilmasi.pdf ':ignore')
+
+Çocuğa Karşı Şiddeti Önleme ve Toplumsal Cinsiyet [Dökümanı İncele](downloads\PLT\PLT_01\Cocuga-karsi-siddet-ve-toplumsal-cinsiyet.pdf ':ignore')
+
+## Çocuk Adalet Sistemi Politika Belgeleri
+*PLT_02 Klasör*  
+
+**ÖZET**  
+ Dosyada çocuk dostu adalet politka belgesi ile çocuk adalet sisteminde çocuğun yüksek yararı politika belgeleri bulunmaktadır.
+
+?> *Kuruluş adı: İnsan Hakları Ortak Platformu; 2012, Türkçe Tema: Çocuk adalet sistemi*  
+
+Çocuk Adalet Sisteminde Çocuğun Yüksek Yararı Politika Belgesi [Dökümanı İncele](downloads\PLT\PLT_02\Cocuk-adalet-sistemi.pdf ':ignore')
+
+Çocuk Dostu Adalet Politika Belgesi [Dökümanı İncele](downloads\PLT\PLT_02\Cocuk-dostu-adalet.pdf ':ignore')
+
+## Çocuk Koruma Politikası
+*PLT_03*
+
+**ÖZET**  
+Koruncuk Vakfı'nın çocuklarla çalışmalarında esas aldığı ilkeleri ve uygulama prensiplerini içermektedir.
+
+?> *Kuruluş adı: Türkiye Korunmaya Muhtaç Çocuklar Vakfı; Türkçe Tema: Çocuk koruma*
+
+[Dökümanı İncele](downloads\PLT\PLT_03.pdf ':ignore')
+
+***
+
 # Rehberler
 ***
+
 ## Çocuk Koruma Konusunda Koordinasyon, İşbirliği, Danişmanlik ve Önceliklendirme El Kitabi 
 *RHB_0*
 
@@ -607,14 +2089,7 @@ Bütün bu ihtiyaçları dikkate alan Çocuk Koruma Kanunu ve yönetmelikleri, m
 *RHB_01*
 
 **ÖZET**  
-XXX
-
-***Anahtar kelimeler: XXX***
-
-**ABSTRACT**  
-XXX
-
-***Key words: XXX***
+Adem Arkadaş-Thibert ve Feray Salman tarafından hazırlanan kılavuz, göstergeleri bir analiz aracı olarak kullanılıp yerel ve ulusal raporlama yaparak çocuğa şiddeti önleme konusunda savunuculuğu desteklemeyi amaçlıyor. Raporda çocuk yaşta, erken ve zorla evlendirmeye ilişkin göstergelere de yer verilmektedir.
 
 ?> *Kuruluş adı: UNICEF; 2013, Türkçe Tema: Çocuğa karşı şiddet, İzleme*
 
@@ -695,18 +2170,11 @@ Günümüzde dünya genelindeki çatışmalardan ve afetlerden etkilenenlerin ya
 
 ***
 
-## Acil durumlarda Çocuk Dostu Ortamlar Oluşturma Kılavuzu 
+## Acil Durumlarda Çocuk Dostu Ortamlar Oluşturma Kılavuzu 
 *RHB_04*
 
 **ÖZET**  
-XXX
-
-***Anahtar kelimeler: XXX***
-
-**ABSTRACT**  
-XXX
-
-***Key words: XXX***
+Acil durumlarda çocuk dostu ortamlar oluşturmaya ilişkin ilkeleri ve eylemleri içermektedir.
 
 ?> *Kuruluş adı: Global Education Cluster, Global Protection Cluster, INEE, IASC; 2015, Türkçe Tema: Acil durumlarda çocuk koruma*
 
@@ -718,9 +2186,7 @@ XXX
 *RHB_05*
 
 **ÖZET**  
-XXX
-
-***Anahtar kelimeler: XXX***
+Cinsel şiddet mağduru çocuklar ile çalışan hizmet sunucular için geliştirilen rehber; temel bilgiler, çocuklarla iletişim kurma, yönlendirici ilkeler ve vaka yönetimi konularında ilke, yöntem ve araçları içermektedir.
 
 ?> *Kuruluş adı: International Rescue Comitte, UNICEF; 2012, Türkçe Tema: Çocukların cinsel istismarı*
 
@@ -732,14 +2198,7 @@ XXX
 *RHB_06*
 
 **ÖZET**  
-XXX
-
-***Anahtar kelimeler: XXX***
-
-**ABSTRACT**  
-XXX
-
-***Key words: XXX***
+Acil durumlarda kadın ve çocuklara yönelik ilk müdahalelere ilişkin bilgileri içermektedir.
 
 ?> *Kuruluş adı: UNICEF; 2015, Türkçe Tema: Çocuk Koruma, Acil durum, Asgari standart*
 
@@ -794,14 +2253,7 @@ konusunda alanda çalışan kadınlar için temel bir rehber oluşturmaktır.
 *RHB_09*
 
 **ÖZET**  
-XXX
-
-***Anahtar kelimeler: XXX***
-
-**ABSTRACT**  
-XXX
-
-***Key words: XXX***
+Hakkında danışmanlık tedbiri kararı verilmiş çocuklara yönelik rehberlik hizmetlerine ilişkin bilgileri ve uygulama adımlarını içermektedir.
 
 ?> *Kuruluş adı: MEB; Türkçe Tema: Danışmanlık tedbiri*
 
@@ -838,7 +2290,7 @@ Bu el kitabı ve preterm ve hasta yenidoğanların yönetimi için olana bir ben
 *RHB_11*
 
 **ÖZET**  
-XXX
+İnsan hakları alanında gerçekleştirilen eğitimler için yaklaşım, yöntem, teknik ve değerlendirilmesini kapsamlı biçimde ele almaktadır.
 
 ?> *Kuruluş adı: UN Human Rights, Equitas; 2015, Türkçe Tema: İnsan hakları, eğitim teknikleri*
 
@@ -850,7 +2302,7 @@ XXX
 *RHB_12*
 
 **ÖZET**  
-XXX
+Seelen Doğan tarafından hazırlanan yayında çocuk yaşta evlilik ile ilişkili 100'ün üzerinde kavram açıklanmıştır.
 
 ?> *Kuruluş adı:Uçan Süpürge; 2014, Türkçe Tema: Çocuk yaşta evlilik*
 
@@ -862,7 +2314,7 @@ XXX
 *RHB_13_H*
 
 **ÖZET**  
-XXX
+Aksu Bora tarafından hazırlanan rehberde, kadınlarla gerçekleştirilen grup çalışmalarında dikkat edilmesi gerekenler, kullanılabilecek yöntem ve araçlara yer verilmektedir.
 
 ?> *Kuruluş adı: KA.DER Ankara; 2010, Türkçe Tema: Kadınlarla grup çalışmaları*
 
@@ -874,7 +2326,7 @@ XXX
 *RHB_14_H*
 
 **ÖZET**  
-XXX
+Rehber mağdura yaklaşımın temel ilkeleri hakkında bilgi vermekte; kolluk, sağlık ve yargı sürecinde mağdura nasıl yaklaşılması gerektiğini aşama aşama açıklamaktadır.
 
 ?> *Kuruluş adı: Adalet Bakanlığı; 2016, Türkçe Tema: Mağdura yaklaşım*
 
@@ -902,7 +2354,6 @@ Appendix I Ethical Principles in Caring for and Interviewing Trafficked Persons
 Appendix II Interview Checklist
 Appendix III Glossary
 
-
 Basic Principles  
 The instructions and advice offered in this Handbook are themselves based on the following principles governing counter-trafficking activities: A commitment to curtail human trafficking and to protect the rights of those who have become victims of trafficking, and to act to achieve respect for and protection of the human dignity and well-being of victims.
 The protection, safety and the respect of human rights of actual and potential trafficking victims are the guiding principles to be followed at all times.
@@ -927,7 +2378,7 @@ Continuing and comprehensive care. The range of services outlined in Chapters 3 
 *RHB_16*
 
 **ÖZET**  
-XXX
+Afet ve acil durumlara müdahale programlarına toplumsal cinsiyet perspektifinin yerleştirilmesi amacıyla hazırlanmıştır. Rehberde Erken yaşta ve zorla evlilik konularına değinilmektedir. Rehberin Türkçeye tercüme edilerek yaygınlaştırılması planlanmaktadır.
 
 ?> *Kuruluş adı: UN Women, UNDP; 2018, İngilizce Tema: Toplumsal cinsiyet, Afet*
 
@@ -939,7 +2390,7 @@ XXX
 *RHB_17*
 
 **ÖZET**  
-XXX
+Çocuk yaşta evlilik ile ilgili temel kavramları tanıtmaktadır.
 
 ?> *Kuruluş adı: GEN-DER, Uçan Süpürge; 2018, İngilizce Tema: Çocuk yaşta evlilik*
 
@@ -951,7 +2402,7 @@ XXX
 *RHB_18*
 
 **ÖZET**  
-XXX
+Çocuk yaşta evlilik konusunda farklı sektörlerde yapılabilecek çalışmaları, dikkat edilmesi gereken noktaları ve indiktörleri içermektedir.
 
 ?> *Kuruluş adı: International Center for Research on Women, Girls not Brides; 2015, İngilizce Tema: Çocuk yaşta evlilik*
 
@@ -963,7 +2414,7 @@ XXX
 *RHB_19*
 
 **ÖZET**  
-XXX
+İnsani yardım alanında çalışanların, toplumsal cinsiyet temelli şiddetin azaltılmasına katkı sağlayabilmeleri için gerekli bilgileri içermektedir.
 
 ?> *Kuruluş adı: Hayata Destek Derneği; 2018, Türkçe Tema: İnsani yardım, Toplumsal cinsiyet temelli şiddet*
 
@@ -975,7 +2426,7 @@ XXX
 *RHB_20*
 
 **ÖZET**  
-XXX
+TOG faaliyetlerinin çocuk hakları standartlarına uygun biçimde yürütülmesi amacıyla hazırlanmıştır.
 
 ?> *Kuruluş adı: Toplum Gönüllüleri Vakfı (TOG); 2018, Türkçe Tema: Çocuklarla çalışma*
 
@@ -1092,7 +2543,7 @@ kadın, erkek ve ailelerinin bilinçlendirilmeleri ve yapılan yanlışın ortay
 *RPR_02*
 
 **ÖZET**  
-xxx
+Adem Arkadaş-Thibert, Ebru Ergin ve İrem Kor tarafından yayına hazırlanan Rapor, Alternatif bakım kurumlarında, aile/ev içinde, okulda/eğitim kurumunda, çocuk işçiliği ve çalışma ortamında çocuğa karşı şiddet verilerini, sorunları ve önerileri içermektedir. Raporda; çocuk yaşta, erken ve zorla evlendirme konularına da yer verilmiştir.
 
 ?> *Kuruluş adı: Çocuğa Karşı Şiddeti Önlemek için Ortaklık Ağı; 2017, Türkçe Tema: Çocuğa karşı şiddet*
 
@@ -1104,7 +2555,7 @@ xxx
 *RPR_03*
 
 **ÖZET**  
-xxx
+Memduh Cemil Şirin tarafından hazırlanan Rapor; çocuğun cinsel istismarı ile ilişkili olarak  Anayasa Mahkemesi Kararlarına ilişkin değerlendirmeleri, çeşitli ülkelerin mevzuatlarına dair bilgileri ve yeni yasama çalışmalarına ilişkin önerileri içermektedir.
 
 ?> *Kuruluş adı: Çocuğa Karşı Şiddeti Önlemek için Ortaklık Ağı; 2016, Türkçe Tema: Çocuğa karşı şiddet*
 
@@ -1116,7 +2567,7 @@ xxx
 *RPR_04*
 
 **ÖZET**  
-xxx
+Kadın Hakları İnsan Haklarıdır Projesi kapsamında hazırlanan raporda, 26 ilden kadınlara ilişkin şiddet verileri yer almaktadır. Çocuk yaşta, Erken yaşta ve zorla evlilik de bu kapsamda ele alınmaktadır.
 
 ?> *Kuruluş adı: kamer; 2015, Türkçe Tema: Kadına yönelik şiddet, çocuk yaşta, Erken yaşta ve zorla evlilik*
 
@@ -1246,7 +2697,7 @@ Umarız bu rapor savaşla ilgili son raporumuz olur, dökülen gözyaşları son
 *RPR_10*
 
 **ÖZET**  
-xxx
+Rapor; çocuk yaşta evlilike ilişkin mevcut durum, yasal çerçeve, çocuk yaşta evliliğin sebep ve sonuçları ile çözüm önerileri içermektedir.
 
 ?> *Kuruluş adı: TBMM; 2009, Türkçe Tema: Erken yaşta evlilik*
 
@@ -1258,7 +2709,7 @@ xxx
 *RPR_11*
 
 **ÖZET**  
-xxx
+Rapor, Türkiye'de kadınlara ilişkin temel istatistikleri, mevcut yasal düzenlemeleri ve sorunları içermektedir. Raporda erken yaşta evlilike değinilmiştir.
 
 ?> *Kuruluş adı: KSGM; 2012, Türkçe Tema: Erken yaşta evlilik, Çocuk yaşta evlilik*
 
@@ -1287,7 +2738,7 @@ Türkiye’de geçici koruma altında olan Suriyeli kadın ve kız çocukların 
 *RPR_13*
 
 **ÖZET**  
-xxx
+Türkiye'de genç nüfusa ilişkin durumun çeşitli başlıklar altında değerlendirildiği raporda çocuk yaşta, erken yaşta evlilik konuları da ele alınmıştır.
 
 ?> *Kuruluş adı: UNFPA, Nüfusbilim Derneği; 2016, Türkçe Tema: Gençlik, Çocuk yaşta, Erken yaşta evlilik*
 
@@ -1299,7 +2750,7 @@ xxx
 *RPR_14*
 
 **ÖZET**  
-xxx
+Uçan Süpürge tarafından 2010 yılında gazetelere yansıyan çocuk yaşta, zorla evlilike ilişkin haberlerin dökümünü içermektedir.
 
 ?> *Kuruluş adı: Uçan Süpürge; 2011, Türkçe Tema: Çocuk yaşta, Zorla evlilik*
 
@@ -1311,7 +2762,7 @@ xxx
 *RPR_15*
 
 **ÖZET**  
-xxx
+2012 Yılında internet medyasına yansıyan haberlerin çocuk hakları çerçevesinde incelendiği raporda, çocuk yaşta evlilike ilişkin internet haberleri de derlenmiştir. Bu haberlerin önemli bir bölümü öldürülen veya intihar eden evlendirilmiş çocuklar hakkındadır.
 
 ?> *Kuruluş adı: Göç Vakfı; 2012, Türkçe Tema: Çocuk hakları, Çocuk yaşta evlilik*
 
@@ -1415,7 +2866,7 @@ Kadınlar ev içi işlerin yanı sıra hayatlarının tümünde ya da en azında
 *RPR_18*
 
 **ÖZET**  
-xxx
+Tübakkom tarafından 2015 yılında gerçekleştirilen çalıştayın rapprunda, çocuk yaşta evlilikin önlenmesine ilişkin öneriler yer almaktadır.
 
 ?> *Kuruluş adı: TÜBAKKOM; 2015, Türkçe Tema: Çocuk yaşta evlilik, Hukuk*
 
@@ -1427,7 +2878,7 @@ xxx
 *RPR_19*
 
 **ÖZET**  
-xxx
+Toplumsal cinsiyet göstergeleri çerçevesinde 81 ilin değerlendirildiği; illerin eğitim, sağlık, karar mekanizmalarında yer alma gibi alanlar çerçevesinde sıralandığı çalışmada erken yaşta evlilik konusuna sağlık başlığı altında yer verilmiştir.
 
 ?> *Kuruluş adı: TEPAV; 2014, Türkçe Tema: Çocuk yaşta, erken, zorla evlilik*
 
@@ -1439,7 +2890,7 @@ xxx
 *RPR_20*
 
 **ÖZET**    
-xxx
+2016 yılında gerçekleştirilen çalıştayın raporunda çocuk yaşta, Erken yaşta ve zorla evlilik konularına da değinilmektedir.
 
 ?> *Kuruluş adı: Mavi Kalem Derneği; 2016, Türkçe Tema: Çocuk yaşta, erken, zorla evlilik*
 
@@ -1451,7 +2902,7 @@ xxx
 *RPR_21*
 
 **ÖZET**  
-xxx
+İstanbul'da 7 lisede okuyan öğrencilerle yapılan araştırmanın raporu, gençlerin toplumsal cinsiyet ve flört şiddetine ilişkin algılarına dair güncel veriler sunmaktadır.
 
 ?> *Kuruluş adı: Cinsel Şiddetle Mücadele Derneği; 2018, Türkçe Tema: Kadına yönelik şiddet, Flört şiddeti, Gençler*
 
@@ -1463,7 +2914,7 @@ xxx
 *RPR_22*
 
 **ÖZET**  
-xxx
+CEDAW 7. Dönem Gölge Raporu, kadın ve kız çocuklarına yönelik ayrımcılığın önlenmesine ilişkin mevcut durumu ve bununla iligli önerileri içermektedir.
 
 ?> *Kuruluş adı: CEDAW Sivil Toplum Yürütme Kurulu; 2016, Türkçe Tema: Kadına yönelik şiddet*
 
@@ -1512,7 +2963,7 @@ yerel ve merkezi kamu kurumları ile yürütülen etkin ve etkileşimli bir işb
 *RPR_24_H*
 
 **ÖZET**  
-xxx
+Mağdur haklarına ilişkin adli uygulamaları ve mağdurlara destek çalışmalarını yerinde görmek amacıyla İngiltere, Almanya ve İspanya'ya yapılan çalışma ziyaretlerinde edinilen bilgileri içermektedir.
 
 ?> *Kuruluş adı: Adalet Bakanlığı; 2016, Türkçe Tema: Çalışma ziyareti, Mağdur hakları*
 
@@ -1613,7 +3064,7 @@ niteliği ana eksenlerinde değerlendirildi.
 *RPR_30*
 
 **ÖZET**  
-xxx
+Ağırlıklı olarak Asya ve Afrika kıtaları ülke örneklerinden hareketle, çocuk yaşta evlilikin önlenmesine ilişkin kilit unsurları ve örnekleri içermektedir.
 
 ?> *Kuruluş adı: Girls Not Brides; 2017, İngilizce Tema: Çocuk yaşta evlilik*
 
@@ -1661,7 +3112,7 @@ belli yaş gruplarında kadınlarla birebir görüşmelerde bulunuldu. Tüm bu v
 *RPR_33*
 
 **ÖZET**  
-xxx
+Ev içi şiddete maruz kalan kaıdnların başvurduğu kuruluşlarda yaşadığı sorunlara  ilişkin tespit ve verileri  içermektedir.
 
 ?> *Kuruluş adı: Kadın Dayanışma Vakfı; 2017, Türkçe Tema: Kadına yönelik şiddet, Mekanizmalar*
 
@@ -1673,7 +3124,7 @@ xxx
 *RPR_34*
 
 **ÖZET**  
-xxx
+Çalışma, Türkiye'de kadına yönelik şiddetin yaygınlığını, etkilerini ve mücadele mekanizmalarını Mor Çatı deneyiminden hareketle değerlendirmektedir.
 
 ?> *Kuruluş adı: Mor Çatı; 2017, Türkçe Tema: Kadına yönelik şiddet*
 
@@ -1685,7 +3136,7 @@ xxx
 *RPR_35*
 
 **ÖZET**  
-xxx
+Eşcinsel ve Biseksüel Erkek Seks İşçilerinin gündelik hayatta karşılaştığı hak ihlallerini ortaya koymayı amaçlamaktadır. Çalışmada evliliğe ilişkin veriler de yer almakatdır.
 
 ?> *Kuruluş adı: Kırmızı Şemsiye Derneği; Türkçe, Tema: LGBTİ, Seks işçiliği, Zorla evlilik*
 
@@ -1739,7 +3190,7 @@ farkındalığını arttırmaktır. Bu doğrultuda çocuklara yönelik çeşitli
 *RPR_38*
 
 **ÖZET**  
-xxx
+KADEM tarafından2014 yılında gerçekleştirilen erken yaşta evlilikin önlenmesi konulu çalıştay sonuçlarını içermektedir.
 
 ?> *Kuruluş adı: KADEM; 2014, Türkçe Tema: Erken yaşta evlilik*
 
@@ -1750,8 +3201,115 @@ xxx
 # Slaytler
 ***
 
+## Child Marriage, Adolescent Pregnancies, Maternal/neonatal Outcomes 
+*SLT_01*
+
+**ÖZET**  
+Prof. Dr. Faik Mümtaz KOYUNCU tarafından hazırlanan sunuda çocuk yaşta evlilik ve sağlık ilişkisi aktarılmaktadır.
+
+?> *Kuruluş adı: Celal Bayar Üniversitesi; İngilizce Tema: Çocuk yaşta evlilik, Sağlık*
+
+[Dökümanı İncele](downloads\SLT\SLT_01.pdf ':ignore')
+
+***
+
+## Çocuk Yaşta Evlilikin Sağlığa ve Yaşam Kalitesine Etkileri
+*SLT_02*
+
+**ÖZET**  
+Dr. Gökhan YILDIRIMKAYA tarafından hazırlanan ve Gaziantep'te aktarılan sunumda çocuk yaşta evlilikin sağlığa ve yaşam kalitesine etkileri hakkında bilgi verilmektedir.
+
+?> *Kuruluş adı: UNFPA; 2017, Türkçe Tema: Çocuk yaşta evlilik, sağlık*
+
+[Dökümanı İncele](downloads\SLT\SLT_02.pdf ':ignore')
+
+***
+
+## Tecavüz Geçirenler için Tıbbi Hizmetler
+*SLT_03*
+
+**ÖZET**  
+Wilma Doedens ve Marian Schilperoord'un sunumlarından adapte edilmiş olup, erken yaşta evlilik, adölesan gebelikleri konularında bilgi aktarılmaktadır.
+
+?> *Kuruluş adı: UNHCR, UNFPA; Türkçe Tema: Tecavüz, Erken yaşta evlilik, Adölesan gebelik*
+
+[Dökümanı İncele](downloads\SLT\SLT_03.pdf ':ignore')
+
+***
+
+## İnsan Ticareti ile Mücadele
+*SLT_04*
+
+**ÖZET**  
+İnsan ticareti hakkında temel bilgileri içeren sunuda zorla evlilik ve insan ticareti ilişkisine değinilmektedir.
+
+?> *Kuruluş adı: İOM; 2018, Türkçe Tema: İnsan ticareti*
+
+[Dökümanı İncele](downloads\SLT\SLT_04.pdf ':ignore')
+
+***
+
+## Erken Yaşta ve Zorla Evlilik, Erken Yaşta Evliliki Önleme Çalışma Komitesi
+*SLT_05 Klasör*  
+
+**ÖZET**  
+ Erken yaşta ve zorla evlilik konusunda ASPB tarafından kamu kurumlarında farkındalık yaratmak amacıyla hazırlanmıştır.
+
+?> *Kuruluş adı: ASPB, Samsun Valiliği; 2018, Türkçe Tema: Erken yaşta evlilik, Zorla evlilik*  
+
+Erken Yaşta ve Zorla Evlilikler [Dökümanı İncele](downloads\SLT\SLT_5\Erken-Evlilik-Sunum2.pdf ':ignore')
+
+Erken Yaşta Evlilikleri Önleme Komitesi Sunumu [Dökümanı İncele](downloads\SLT\SLT_5\Erken-Yasta-Evlilikleri-Onleme-Komitesi-Sunumu-Agustos-2017_hicran.pdf ':ignore')
+
+***
+
+# Radyo spotu
+***
+
+## Erken Yaşta Evlilik 
+*SPT_01*
+
+**ÖZET**  
+Erken yaşta evlilikin sonuçlarına ilişkin temel bilgi ve mesajları içermektedir.
+
+?> *Kuruluş adı: Harran Üniversitesi, UNFPA; Türkçe, Kürtçe Tema: Erken yaşta evlilik*
+
+[https://www.youtube.com/watch?time_continue=16&v=0k0Pctx3emM]
+
+***
+
+
 # Strateji belgeleri 
+***
+
+## Türkiye Çocuk Hakları Stratejisi ve Uygulama Planı (2013-2017)
+*STR_01*
+
+**ÖZET**  
+Çocuk Vakfı aracılığı ile ulaştığımız belge, STÖ’ler, kamu temsilcileri, uzmanlar ve yerel yönetimlerin katkısı ile 2012’de oluşturulmuştur. Uygulama planı; çocuğa saygı kültürü, çocuğun katılım hakkı, medeni haklar ve özgürlükler, çocuk hakları eğitimi ve bilim-sanat-spor eğitimi, çocuğun sağlığını ve sosyal güvenliğini sağlamaya yönelik hizmetler, aile ve çocuğa yönelik destek ve özel koruma hizmetleri, çocuk adalet sistemi, çocuk dostu bir medya, denetleme, izleme ve değerlendirme başlıklarında eylemleri ve göstergeleri içermektedir.
+
+?> *Kuruluş adı: Çocuk Vakfı; 2012, Türkçe Tema: Çocuk hakları*
+
+[Dökümanı İncele](downloads\STR\STR_01.pdf ':ignore')
+
 ***
 
 # Yönergeler 
 ***
+
+## Nevşehir İl Kadın Hakları Koordinasyon Kurulu erken yaşta evlilikin İzlenmesi ve Önlenmesi Komisyonu Çalışma Yönergesi
+*YON_01 Klasör*  
+
+**ÖZET**  
+ Nevşehir Valiliği'nin, İl Kadın Hakları Koordinasyon Kurulu'nun alt komisyonlarının çalışmalarına ilişkin yönergeleridir. Yönergelerden biri erken yaşta evlilikin İzlenmesi ve Önlenmesi Komisyonunun çalışmalarını düzenlemektedir.
+
+?> *Kuruluş adı: Nevşehir Valiliği; 2014, Türkçe Tema: Kadına yönelik şiddet, Çocuk yaşta, erken yaşta evlilik*  
+
+Nevşehir Il Kadin Haklari Koordinasyon Kurulu Erken Evliliklerin Izlenmesi ve Önlenmesi Komisyonu Çalişma Yönergesi [Dökümanı İncele](downloads\YÖN\YON_01\Erken-Evlilikleri-Onlenmesi-Yonergesi.pdf ':ignore')
+
+Nevşehir İl Kadin Haklari Koordinasyon Kurulu Yerelde Eşitlik Çalişma, İzleme ve Değerlendirme Komisyonu Çalişma Yönergesi [Dökümanı İncele](downloads\YÖN\YON_01\Izleme-Degerlendirme-Yonergesi.pdf ':ignore')
+
+Nevşehir İl Kadin Haklari Koordinasyon Kurulu Kadina Yönelik Şiddeti Önleme Komisyonu Çalişma Yönergesi [Dökümanı İncele](downloads\YÖN\YON_01\Kadina-Yonelik-Siddet-Yonergesi.pdf ':ignore')
+
+Nevşehir İl Kadin Haklari Koordinasyon Kurulu Mahalle Çalişmalari Komisyonu Çalişma Yönergesi [Dökümanı İncele](downloads\YÖN\YON_01\Mahalle-Calismalari-Yonergesi.pdf ':ignore')
+

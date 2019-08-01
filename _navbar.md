@@ -1,0 +1,3 @@
+- Tercümeler
+  - [:ar: العربية](/ar/)
+  - [:tr: Türkçe](/)

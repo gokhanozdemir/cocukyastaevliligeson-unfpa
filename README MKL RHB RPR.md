@@ -4,9 +4,430 @@
 # Araştırmalar
 ***
 
+
 # Bildiriler
 ***
 
+## Erken Yaşta Evlilikin Toplumsal Meşruiyeti
+*ARS_01*
+
+**ÖZET**  
+Erken yaşta ve zorla evlilikler dünyada ve ülkemizde önemli bir toplumsal sorun
+olarak varlığını devam ettirmektedir. Biz bu çalışmada Güneydoğu Anadolu Bölgesi’nin
+Diyarbakır, Şanlıurfa ve Siirt illerinde erken ve zorla evlendirilen kadınlar ve bu evlilikleri
+karara bağlayan karar vericilerle derinlemesine görüşmeler kullanarak bu sorunu konu edinen
+nitel bir araştırma yürüttük. Amacımız bu evliliklerin içinde gerçekleştikleri toplumsal
+koşulları, evlilik süreçlerini, meşruiyet kaynaklarını, nasıl meşrulaştırıldıklarını kadınların
+(kurbanların) ve karar vericilerin (faillerin) gözünden açığa çıkarmak ve anlayabilmektir.
+Erken evliliklerin toplum tarafından onaylanmasını ve meşru görülmesini sağlayan
+nedenler ekonomik ve toplumsal olarak gruplandırılabilir. Ekonomik nedenlerin başında kente
+göçmüş geniş ailelerin yaşadıkları işsizlik, yoksulluk gelmektedir. Kalabalık, çok çocuklu
+aileler kız çocuklarını erken yaşta evlendirerek hem bir boğazdan kurtulmakta, hem de bu
+çalışmada yaygın olarak ortaya çıkmamakla birlikte başlık parası alarak ekonomik gelir elde
+etmektedir. Erken evliliklere meşruiyet sağlayan diğer bir ekonomik bağlam kız çocuklarının
+ev içinde kullanılan karşılıksız emekleridir. Özellikle akraba evliliklerinde, yaşlı kuşaklar
+baba soyu öncelikli olmak üzere, yakın akrabaların kız çocuklarını bir sosyal güvenlik
+güvencesi olarak görmektedirler. Ayrıca kız çocukları ücretsiz ev işlerini, evdeki diğer bakım
+hizmetlerini yerine getirmek amacıyla küçük yaşta evlendirilmektedir.
+Erken evliliklerin meşrulaştırıldığı ve toplumsal kabul gördüğü diğer zemin ataerkil
+toplumsal değerler, gelenekler, görenekler ve töre alanıdır. Bu alanda kız çocukları “çocuk”
+olarak değil, küçük kadınlar olarak görülmekte ve küçük yaşta evlendirilerek kadınlık rollerini
+üstlenmeleri beklenmektedir. Ayrıca ataerkil toplumsal değerler alanı, toplumsal saygınlık ve
+onuru kız çocuklarının bedeni ve cinselliği üzerinden tanımladığı için kız çocukları erken
+evlendirilerek bedenleri ve cinsellikleri denetim altına alınmaktadır. Görüşülen karar vericiler
+tarafından sıklıkla “namusa leke gelmesi”, “dedi kodu çıkması” gibi bağlamlarla toplumsal
+baskı ve dışlamaya işaret edilmektedir. Erken evlilikleri meşrulaştıran diğer bir önemli unsur
+“evde kalma” söylemidir. Karar vericiler “evde kalmış” kızların kuma olarak verildiğini veya
+kimsenin evlenmek istemediği erkeklerle evlendirildiğini ifade etmektedirler. Bunlarla birlikte
+karar vericilerin anlatımlarından evliliğin başlı başına esas, evlilik yaşının ikincil olduğu
+anlaşılmaktadır.
+Erken ve zorla evlendirilen kız çocukları farklı sorunlarla karşılaşmakta ve yaşam
+boyu bunlarla boğuşmak zorunda kalmaktadırlar. Her şeyden önce gelişim psikolojisi
+bağlamında bakıldığında çocuk yaşta ailelerinde koparılmakta ve yabancı bir ortama savrulmaktadırlar. Kız çocukları yeni girdikleri bu ortamda yabancılık hissetmekte, ev
+içindeki hiyerarşik ilişkiler içinde aşağılanmakta, dışlanmakta, simgesel ve fiziksel şiddete
+maruz kalmaktadırlar. Aile büyükleri bu çocukların ailelerini görmelerine izin vermemekte,
+kendi ailelerine olabildiğince erken bağlanmasını sağlamak amacıyla çocuk doğurmaya
+zorlamaktadırlar. Kadınlar bu nedenle tıbbi tedavi görmeye zorlandıklarını anlatmaktadırlar.
+Diğer taraftan bu çocuklar evlendirildikleri eşlerinin aileleriyle birlikte yaşamakta, kalabalık
+ailenin bütün yükünü omuzlamak zorunda kalmaktadırlar. Erken evlendirilen kız çocukları ve
+bebekleri ayrıca hamilelik ve doğum sırasında sağlık problemi yaşamaktadırlar.
+Erken ve zorla evlendirilen kız çocukları evliliklerine anne-baba, erkek kardeş, amca,
+hala gibi yaşlı akrabaların karar verdiklerini belirtmektedirler. Karar vericiler ise akraba
+evliliklerinin erken evlilikleri arttırdığını ifade etmektedirler. Erken evliliklerde sıklıkla
+akraba, berdel ve görücü usulü evliliklere rastlanmaktadır. Bununla birlikte bazı kız çocukları
+kendi isteğiyle evlenmektedirler. Berdel evlilikleri sıklıkla önce erkek kardeş için amca veya
+halakızının getirilmesiyle başlamakta, karşılığında yaşına bakılmaksızın kız kardeş
+verilmektedir. Ancak kadınlar ve karar vericiler akraba evliliklerinin evlilikte problem olması
+durumunda dostluk ilişkilerin bozduğunu, akraba olunduğu için sessiz kalındığını olumsuz
+yönler olarak belirtmektedirler. Ayrıca berdel evliliklerin aynı zamanda sorunların da
+karşılıklı takası olduğunu ifade etmektedirler.
+Erken ve zorla evlendirilen kız çocukları evliliklerinin dini nikahla meşrulaştırıldığını,
+daha sonra 18 yaşına geldiklerinde resmi nikahlarının yapıldığını belirtmektedirler. Bu süre
+içinde hastalanan, doktora gitmek zorunda kalan kadınlar doktorların kimi kez evli olduklarını
+öğrenince herhangi bir sorun görmediklerini ve ihbar etmediklerini, bazı doktorların ise ihbar
+durumunda kız çocuklarını mağduriyetlerinin artacağını ve çok geç olduğunu ifade ettiklerini
+belirtmektedirler.
+Erken yaşta zorla evlendirilen kız çocukları eşleriyle ilişkilerinin iyi olduğunu,
+eşlerinin onlara çok yardımcı olduğunu, onları “büyüttüğünü” ve eşin iyi olmaması
+durumunda da kadınların yok olup gideceğini vurgulamaktadırlar. Ancak kaynana ve
+kayınbaba ile yaşadıkları için eşlerinin özellikle annelerinin etkisinde kaldığını ve bu nedenle
+eşler arası ilişkilerin bozulduğunu ifade etmektedirler. Erken ve zorla evlendirilen kadınlar
+evlilikten sonra da karar süreçlerinden dışlandıklarını, onların yerine aile büyüklerinin
+özellikle kaynanaların karar verdiğini ve bu kararlara uymak zorunda olduklarını
+belirtmektedirler.
+Karar vericiler evlenecek erkek ve kadınlarda hangi özelliklerin olması gerektiğine
+yönelik soruya egemen cinsiyetler arası eşitsizliğe uygun yanıtlar vermektedirler. Onlara göre
+erkeklerin evlilik yaşı kadınlardan büyük olmalı, iş ve evi geçindirecek gelir sahibi ve
+askerliğini yapmış olmalıdırlar. Buna karşılık kadınların okumasına ve çalışmasına gerek
+yoktur ve kadınlar uyumlu, sabırlı, idareci, evine bağımlı olma gibi özelliklere sahip
+olmalıdırlar.
+Bu çalışmada ayrıca kadınlara ve karar vericiler erken evliliklerin önlenmesine yönelik
+önerileri sorulmuştur. Kadınlar yaşlı kuşakları değiştirmenin zor olduğunu düşünmekte ve bu
+nedenle esas olarak kız çocuklarının eğitilmesi ve bilinçlendirilmesi gerektiğini
+vurgulamaktadırlar. Çoğunlukla kız çocuklarının okutulması, okula gönderilmesi, meslek ve
+gelir sahibi olması, erken evliliklerin yasal süreçlerde denetim altına alınması ve
+cezalandırılması gerektiğini belirtmektedirler. Bazı kadınlar ve karar vericiler dinsel
+kuralların erken evlilikleri meşrulaştırmada araçsallaştırıldığını ileri sürmekte ve buna bağlı
+olarak dini kanaat önderlerinin ve görevlilerinin bu konuda hutbe okumasını, cemaati
+bilgilendirmesini önermektedirler. Bazı kadınlar ise televizyonlarda izdivaç programları
+yerine erken evlilikler konusunda programlar yapılmasını önermektedirler.
+Kadınların önerilerine benzer öneriler karar vericiler tarafından da ifade edilmektedir.
+Onlar anne-babaların eğitilmesini, kız çocuklarının okutulmasını, yoksulluğun önlenmesini,
+yasal mevzuatın güçlendirilmesini ve uygulanmasını önermektedirler. Bu bağlamda düğün
+salonlarında yaş kontrolü yapılmasını, böylece erken evliliklerin ortaya çıkarılacağını
+belirtmektedirler.
+Sonuç olarak erken evlendirilen kız çocuklarının geleneksel toplumlara özgü çocukluk
+kavrayışı içinde algılandıkları ve aileleri tarafından dokunulmaz, devredilmez hakları olan
+özeneler olarak kavranmadıkları ortaya çıkmaktadır. Erken evlilikler ekonomik ve toplumsal
+değerler alanında meşrulaştırılmakta ve toplumsal onay görmektedirler. Erken evlilikler
+sıklıkla akrabalar arası, berdel ve görücü usulü evliliklerde ortaya çıkmakta ve bir gelenek,
+töre olarak kabul görmektedir.
+Erken ve zorla evlendirilen kız çocukları bir taraftan çocuk olarak görülmekte ve kendi
+kararlarını kendileri veremeyecekleri düşünülerek yaşlı kuşakların denetimine ve kararlarına
+bağımlı tutulmaktadırlar. Ancak diğer taraftan evlenip yetişkin kadın olarak görülerek hata ve
+eksikleri nedeniyle aşağılanmakta, dışlanmakta, simgesel ve fiziksel şiddete maruz
+kalmaktadırlar. Bu çocuklar kente göçmüş, yoksul geniş ailelerin çocukları olarak
+“yağmurdan kaçarken doluya” tutulmaktadırlar.
+Proje ekibi olarak erken ve zorla evliliklerin önlenmesi için her şeyden önce
+“çocuğun”, “çocuk haklarının” ve “çocuğun yüksek yararı”nın merkezde olduğu bir çocukluk
+kavrayışının benimsenmesini, erken ve zorla evlendirilen kız çocuklarının başta çocuk hakları
+olmak üzere, diğer uluslar arası, ulusal sözleşme ve yasalarda yer alan bütün haklarını gerçek
+yaşamda etkili biçimde kullanmalarını sağlayacak, kişisel, aile, toplum ve kamu düzeyinde
+bütün politik alanları kapsayan değişim ve dönüşümler için katılımcı biçimde harekete
+geçilmesini öneriyoruz.
+Erken evliliklerin yine kişisel, aile, toplum ve kamu düzeyinde; bu evliliğe zorlanan
+kız çocuklarına karşı işlenmiş bedensel ve ruhsal işkence, cinsel istismar ve tecavüz suçu
+olarak kavranması ve tanımlanmasını; bu suçların önlenebilmesi için Avrupa Konseyi
+Çocukların Cinsel Sömürü ve İstismara Karşı Korunması Sözleşmesi’nin ruhuna uygun
+biçimde uygulanmasını, tek eksenli olarak ceza artırımını değil, toplumsal yaşamın bütün
+boyutlarını kapsayan bütüncül ve katılımcı bir politikanın oluşturulup uygulanmasını
+öneriyoruz.
+
+
+?> *Kuruluş adı: Dicle Toplumsal Araştırmalar Merkjezi (DİTAM), KAMER, Diyarbakır Eczacılar Odası; 2014, Türkçe Tema: Çocuk yaşta evlilik, Erken yaşta evlilik*
+
+[Dökümanı İncele](downloads\ARS\ARS_01.pdf ':ignore')
+
+***
+
+## Hane Ziyareti Raporu
+*ARS_02 Klasör*  
+
+**ÖZET**  
+ Klasörde, KAMER Vakfı tarafından 2011-2015 yılları arasında 23 ilde gerçekleştirilen hane ziyaretlerine ilişkin raporlar yer almaktadır. Raporlarda evlenme yaşı ve biçimine ilişkin istatisitklere yer verilmektedir.
+
+?> *Kuruluş adı: KAMER; 2015, Türkçe Tema:Çocuk yaşta evlilik, Erken yaşta evlilik, Zorla evlilik*  
+
+Hane Ziyaretleri, 2011 [Dökümanı İncele](downloads\ARS\ARS_02\hane_ziyaretleri_-_2011.pdf ':ignore')
+
+Hane Ziyaretleri, 2012 [Dökümanı İncele](downloads\ARS\ARS_02\hane_ziyaretleri_-_2012.pdf ':ignore')
+
+Hane Ziyaretleri, 2013 [Dökümanı İncele](downloads\ARS\ARS_02\hane_ziyaretleri_-_2013.pdf ':ignore')
+
+Hane Ziyaretleri, 2014 [Dökümanı İncele](downloads\ARS\ARS_02\hane_ziyaretleri_-_2014.pdf ':ignore')
+
+Hane Ziyaretleri 2015 Sonuçları [Dökümanı İncele](downloads\ARS\ARS_02\hane-ziyaretleri_2015_infografik.pdf ':ignore')
+
+***
+
+## Türkiye'de Evlilik Tercihleri
+*ARS_03*
+
+**ÖZET**  
+Türkiye’de Evlilik Tercihleri
+Türkiye’de 1980’lerden günümüze kadar ortaya çıkan genel eğilimlere baktığımızda; bireylerin gi-
+derek daha ileri yaşlarda evlendikleri, eşlerini yakın çevre dışından buldukları, evlilik kararını daha çok kendilerinin aldıkları ve geçmişe nazaran daha sık boşandıkları ve/veya yeniden evlendikleri
+görülmektedir. Bu eğilimlerin toplumsal değişme ve modernleşme süreci ile birlikte yaşanan birey-
+selleşmenin birer sonucu olarak karşımıza çıktığı söylenebilir. Söz konusu gelişmelerin ani ko-
+puşlar ve dönüşümler şeklinde yaşanmadığı göz önüne alındığında, bu eğilimlerin ilerleyen
+yıllarda da mevcut yönelimde devam edeceği öngörülebilir.
+Evleneceği kişiyi bulmada aile kanalının önemini muhafaza etmesi ve evlilik sürecinde gerçekleştirilen
+törenlerin sayı ve çeşitliliğinde artış yaşanması Türkiye’de evlilik kurumunun hayata geçirilişinde
+sürekliliklerin de söz konusu olduğunu göstermektedir. Buradan hareketle, Türkiye’de evlilik
+tercihlerindeki bireyselleşmenin, bireyin ailesi ile olan ilişkilerini bütünüyle dışlayan bir
+özellik göstermediği söylenebilir. Özetle; evlilik tercihlerinin zaman içindeki seyri; bir yandan
+bireyselleşme yönünde değişim eğilimlerini, diğer yandan da bir düzeyde gelenekselliğin
+sürdürüldüğü bir değişim sürecini göstermektedir.
+
+Türkiye’de Erken Evlilikler
+Türkiye’de yaşanan demografik dönüşüm, kentleşme, eğitimin yaygınlaşması, gelirin artması,
+yaşam ve tüketim tarzlarında farklılaşma gibi toplumsal dönüşüm süreçlerine bağlı olarak erken
+evliliklerin yaygınlığı giderek azalmaktadır. Erken evliliklerin güncel yaygınlığının tespiti konusunda
+bazı istatistikî göstergelerin oluşturulmasında ve sunulmasında sorunlar olduğu görülmektedir.
+Alanyazın incelemesinde ortaya konulduğu üzere; erken evliliklerin sosyo-ekonomik, sosyo-kültürel ve nüfus hareketlerine bağlı nedenleri vardır. Bu tür evlilikler bazı durumlarda sosyo-kültürel ve ekonomik nedenlerle tercih edilebilmektedir. Bu evliliklerin bir kısmında ciddi sorunlar gözlenmese de genel olarak erken evliliklerin, kız çocuklarının ve gençlerin kişisel gelişimlerini ve sağlıklarını olumsuz yönde etkileyecek sonuçları olabilmektedir. Dolayısıyla bu konu başlı başına sosyal bir olgu olarak ele alınmalıdır.
+
+Erken Evlilikler Hakkında Uzman Görüşleri
+Araştırma kapsamında mesleki yaşantısında erken evlilik olgusuyla karşılaşan 12 uzman ile derinle-
+mesine görüşmeler yapılmıştır. Bu görüşmelerde değişik meslek gruplarından kişilerin farklı yaklaşım-
+larının ortaya çıkarılmasına çalışılmıştır. Bu amaçla çoğunluğu Ankara’da bulunmakla birlikte Adana,
+İzmir ve Niğde illerinde görev yapan ve hukuk (hâkim ve avukat), sağlık (doktor, hemşire, ebe), sosyal
+çalışma (sosyal çalışmacı, çocuk gelişimci), eğitim, ilahiyat ve sivil toplum kuruluşu faaliyeti alanlarında çalışan ve çalışma yaşamları içinde erken evlilikler ile karşılaşan kişilerin görüşlerine başvurulmuştur.
+Araştırma sürecinde biri Ankara’da diğeri de İstanbul’da gerçekleşen iki bilimsel etkinliğe de katılım
+sağlanmıştır.
+
+Erken Evlilikler Olgusunun Değerlendirilmesi
+• Görüşülen uzmanların çoğu erken evlilik olgusunu 18 yaşın altında yapılan tüm evlilikler olarak
+tanımlamaktadır.
+• Uzmanlar, “çocuk gelin” adlandırmasının sakıncalı olduğunu, bu tanımlama ile birlikte çocuk ve
+gelin kavramlarının birlikte kullanılmasının doğru çağrışımlar yapmayacağını ve bu durumun
+erken evliliğe bir tür masumiyet kazandıracağını ifade etmişlerdir.
+• Uzmanların aktarımına göre; erken evlilikler çeşitli tipolojiler şeklinde gerçekleşmektedir. Bunlar
+arasında sıklıkla dile getirdikleri tipolojiler; 1) zorla evlendirilen küçük yaştaki kız çocuğu ve yetişkin
+birey (aile baskısı-ekonomik yoksunluk nedeniyle), 2) kendi isteği ile evlenen/evlendirilen küçük
+yaştaki kız çocuğu ve yetişkin birey (evden kaçma-aile içi şiddet nedeniyle) ve 3) her iki tarafın
+da 18 yaşın altında olduğu evlilik biçimleri (aile isteği veya gönül ilişkisi-akraba evliliği nedeniyle)
+yer almaktadır.
+• Erken evliliklerde uzmanların bir kısmı toplumsal yapının etkisini öne çıkarmaktadır. Buna göre
+toplumsal yapıda yerleşik olan adet, gelenek ve benzeri uygulamalar her nesilde kendisini
+yeniden üretmektedir. Erken evlenenlerin “rol model” olarak aldıkları kişiler de erken evlenmiş
+kişiler olabilmektedir.
+• Uzmanlara göre, kimi zaman çocukların “isteyerek” evlenmelerinin altında yatan bir neden de
+eğitim ve çalışma hayatına katılım yoluyla kazanılması mümkün görünmeyen bir konuma evlilik
+yoluyla erişme arayışı olabilmektedir.
+• Uzmanlar, erken evlenen kızların önemli bir kısmının eğitim hayatından uzaklaştığını, fiziksel
+ve psikolojik açıdan hazırlıklı olmadıklarını ve ağır sorumlulukları yüklenmek durumunda
+kalabildiklerini belirtmişlerdir.
+• Erken yaş evliliklerinde eşler arası yaş farkı zaman zaman eşlerin birbirlerinden ve çevrelerinden
+beklentilerini farklılaştırabilmektedir. Bu nedenle bu tür evliliklerde kadına yönelik şiddet vakalarının
+daha sık yaşanabildiği uzmanlarca ifade edilmiştir.
+
+Uzmanların Meslekleri / Görevi ile İlgili Deneyimleri
+• Uzmanlara göre, erken evliliklerde en önemli güçlüklerden biri çocuk ve kadın algısının birbiri
+ile yer değiştirmesidir. Burada en belirleyici etmen; erken evlenen kız çocuklarının, çocuk olma
+hallerinin evlenme yolu ile sonlandığına ilişkin kabuldür.W
+• Erken evlilikler üzerinden gelişen hukuki tartışmalarda ulusal mevzuattaki önemli bir farklılaşma,
+Çocuk Koruma Kanunu ile Medeni Kanun arasındaki çocuk tanımını içeren ilgili hükümlerden
+kaynaklanmaktadır. Bu tür vakalarda hangi mevzuatın geçerli sayılacağının yoruma dayalı olması
+çocuğun aleyhine sonuçlar yaratabilmektedir. Bu olumsuz sonuçların, çocuğun lehine hükümler
+taşıyan Çocuk Koruma Kanunu yerine Medeni Kanun’a atıf yapılarak değerlendirilmesinden
+kaynaklandığı anlaşılmaktadır.
+• Uzmanlar, erken evlenme gerekçelerinin bir bölümünün evlilik öncesi yaşanan cinsel birliktelikler
+olduğunu ifade etmişlerdir. Özellikle 15-18 yaş arasında yaşanan cinsel birlikteliklerde rızanın
+olup olmadığının yorumlamasından kaynaklanan farklılıkların çeşitli tartışmaları ortaya çıkardığı,
+uzmanların belirttiği bir diğer konudur.
+• Uzmanlar, hukuksal açıdan sorunlu konulardan birinin de her iki tarafın 18 yaşından küçük olması
+durumunda uygulanan mevzuat ile taraflardan birinin yetişkin diğerinin 18 yaş altında olması
+durumunda uygulanan mevzuatın birbirinden ayrışmamış olmasından kaynaklandığını ifade
+etmişlerdir.
+• 18 yaşının altında resmi olarak gerçekleşen evliliklerde sürece mahkeme ve hâkimler, sosyal
+çalışmacılar ve doktorlar gibi bir dizi meslek elemanı da dâhil olmakta ve bu uzmanların görüşleri
+mahkeme tarafından verilecek karara etkide bulunmaktadır. Konunun çocuk mahkemelerince
+değil aile mahkemelerince karara bağlanması uzmanlarca sorunlu görülmektedir; çünkü bu
+mahkemeler Medeni Kanuna göre hareket ettiğinden evlilik kararını daha kolay verilebilmektedir.
+• Hâkimin evlenme yönünde karar vermesinin önünde iki büyük nedenin olduğu belirtilmiştir.
+Bunlardan biri evlilik öncesi yaşanan cinsel birliktelik diğeri de bu cinsel birliktelik neticesinde
+gebe kalınmış olmasıdır. Bu iki durumda hâkimler çoğunlukla iki tarafın rızasını esas kabul edip
+evlenme yönünde karar verebilmektedir. Uzmanlar, burada en önemli sorunun evlenme izinlerinin
+yeterli inceleme ve araştırma yapılmadan çoğunlukla evlenme yönünde veriliyor olmasından
+kaynaklandığını ifade etmişlerdir.
+• Kız çocuğunun 15 yaşından önce yasal olmayan şekilde evlendiği vakalarda eğer bu durum
+mahkemeye intikal etmişse erkek (koca), cinsel istismar suçu ile yargılanmakta ve uzun süren
+mahkûmiyet cezası alabilmektedir. Bu vakaların bir bölümünde evliliklerin gelişim seyri iki tarafın
+da memnuniyeti ile devam etmektedir. Dolayısıyla kocanın uzun süreli mahkûmiyeti, evliliğe
+dışarıdan aile bütünlüğünü bozacak şekilde müdahale biçimini almakta ve geride kalan eş ve
+çocukların mağduriyetine yol açmaktadır. Bu tür özel durumlarda müdahalenin evlilik kurumuna
+zarar verebileceği dolayısıyla mevcut mevzuatın bu gibi durumları yönetmekte yetersiz
+olduğu görüşü uzmanlar tarafından dile getirilmiştir.
+
+Uzmanların Önerileri
+• Bir şekilde erken yaşta evlenmiş kişilerin kurdukları ailelerin parçalanmadan devam edebilmesi
+için çeşitli projeler ve programlar kapsamında eğitim ve danışmanlık hizmeti yürütülmesi, bu
+ailelere ihtiyaç duydukları desteğin sağlanması gereklidir.
+• Cinsel istismara maruz kalmış ya da erken evlilik yapmış ancak bir süre sonra evliliği sonlanmış
+kız çocuklarının da ekonomik ve duygusal-sosyal açıdan desteklenmesi, bu kız çocuklarının ikinci
+bir defa suiistimallerinin engellenmesi açısından önemlidir.
+• Erken yaşta evlilik yapmış, boşanmış ya da cinsel istismara maruz kalmış kız çocuklarının
+aileleri tarafından kabul görmeleri önemli bir güçlük olarak dile getirilmektedir. Özellikle sosyal
+çevrelerinden kaynaklı baskı ve dışlama mekanizması bu tür durumdaki bireyleri yalnızlaştırmakta
+ve ailesini de toplumsal dışlanmaya maruz bırakabilmektedir. Bu güçlüğü dile getiren uzmanlar,
+kız çocuklarının aileleri tarafından kabullenilmesini sağlamaya yönelik iyileştirme
+seçeneklerinin önerilmesi gerektiğini dile getirmektedir. Bu seçenekler arasında gerekirse
+aileye bulunduğu mekânı değiştirmenin imkânları da sunulabilmelidir.
+• Bazı durumlarda mevcut destek mekanizmalarının sağlıklı işletilmesi sürecinde en büyük
+değişkenin meslek memurlarının tutumları arasındaki fark olduğunu dile getiren uzmanlar, sürecin
+kişisel duyarlılıklar üzerinden yürüdüğü ve bu duyarlılığı göstermeyen meslek elemanlarının
+varlığının destek mekanizmasının işletilmesini engellediğini ifade etmektedir.
+• Sivil toplum kuruluşlarının devlet kurumları ile koordineli bir şekilde çalışmaları ve süreçteki
+meslek elemanlarının görevlerini sorumluluk bilinci ve titizlikle sürdürmeleri erken evliliklerin
+önlenmesi, çocuk suiistimallerinin ve cinsel istismarların önlenmesi konunun önem arz eden
+yönlerini oluşturmaktadır.
+• Sivil toplum kuruluşları ve devlet kurumlarının merkezden yereldeki olaylara müdahalesinin sınırlı
+kaldığı, bunun daha da etkili hale getirilmesinde yerel destek mekanizmalarının oluşturulması
+gerektiği dile getirilen bir diğer husustur.
+
+Öneriler ve Sonuç
+Değişen aile ve evlilik kurumu yapısını anlamak ve bu süreç içinde ortaya çıkan sorunlara çözüm
+önerileri geliştirebilmek için çeşitli kaynaklardan derlenen bilgileri bir model çerçevesinde ele almak
+gereklidir. Bu kapsamda, aile ve evlilik kurumuna ilişkin süreçleri anlamak için ailenin kendi içiyle ve
+dışıyla etkileşimini sergileyen modellere başvurulabilir.
+
+Makro Alana Yönelik Öneriler
+• Evlilik gibi bireyin tüm yaşam akışını etkileyebilecek nitelikte önemli bir kararı, günümüz koşullarında, 16-17 yaşındaki bireylerin ne kadar sağlıklı verebileceği tartışmalı bir konudur. Esasen yasa koyucu irade, bu yaştaki çocukların evlenebilmesine olağanüstü koşulların belirlediği durumları gözeterek izin vermiştir. Oysa çok özel durumlar için aralık bırakılan bu kapının uygulamada aileler tarafından başka nedenlerle de zorlanarak açılmaya çalışıldığı anlaşılmaktadır. Dolayısıyla, Medeni Kanunda yer alan 18 yaş altında evliliklere, belirli koşullarda izin verilmesi hükümlerine göre karar
+verilirken, gerekli tüm incelemelerin uzmanlarca titizlikle yapılması sağlanmalıdır.
+• Kadınların ve kız çocuklarının güçlendirilmesine yönelik olarak kadınların eğitim düzeyinin
+yükseltilmesi yönündeki çalışmalara devam edilmelidir. Maddi yoksunluk içindeki ailelerin bir bölümü
+için, kız çocuklarının okuması “boşa harcanan zaman ve yatırım” olarak algılanmaktadır. Dolayısıyla
+eğitimin meslek kazandırıcı bir yöneliminin olması, daha etkili sonuçların alınmasını sağlayacaktır.
+• Türkiye’deki erken evliliklerin ülke genelindeki yaygınlığını ve zaman içindeki değişimlerini takip
+edebilmek için pek çok toplumsal kesimin üzerinde uzlaşabileceği, referans kaynağı olarak
+görülen araştırmalar yapılması gerekmektedir. Böylece erken evlenme olgusunun kamuoyunda
+kaynağı belirsiz haberler nedeniyle oluşsan algılar üzerinden tartışılmasının önüne geçilebilir.
+Bunun yanı sıra kamu ve sivil toplum kuruluşlarının bir ağ ilişkisi içinde, bu konularda sahip oldukları
+verileri paylaşacakları ve sistemik hale getirecekleri bir iletişim sisteminin kurulması düşünülebilir.
+
+Mikro Alana Yönelik Öneriler
+• Erken evliliklerle ilgili yerel düzeyde oluşturulacak ve yürütülecek olan politikalar kısa ve
+orta vadede sonuç elde etmeye imkân sağlayabilir. Öncelikle bu tür evliliklerin yoğunlaştığı
+bölgelerdeki yapının sosyal ilişkiler ağının ve sosyal dinamiklerin gözlemlenmesi ve mevcut
+durumun anlaşılmasına yönelik çalışmaların yürütülmesi gereklidir.
+• Aileyi çevreleyen mikro alanda yürütülen faaliyetlerde temel hedefin dışarıdan gelen kaynaklar,
+fikirler ve aktörlerle süreli projeler yapmak olmadığı; bilakis alanda bulunan aktörlerin harekete
+geçirilmesi yoluyla sorunlara kalıcı nitelikte çözümler üretebilmek olduğu unutulmamalıdır.
+• Hukuk, güvenlik, sağlık ve eğitim alanında çalışanlar soysal çalışmacılar, sivil toplum kuruluşları ile
+yereldeki kamuoyunca önemsenen aktörler gibi paydaşların, erken evliliklere yönelik çalışmalarda
+önemli roller üstlenebilecekleri açıktır. Bununla birlikte, görüşülen uzmanlar tarafından da sıklıkla dile getirildiği üzere, “sosyal çalışmacı” ve “din görevlilerinin” bu süreç içinde oynayacakları rol arttırılabilir.
+
+Sonuç
+Türkiye’nin gelmiş olduğu sosyo-ekonomik ve kültürel gelişim düzeyi ve ortaya koyduğu toplumsal
+hedefler göz önüne alındığında; erken evliliklere yönelik politikalar geliştirmenin gerekli olduğu açık-
+tır. Diğer yandan toplumsal yapı içinde devam edegelen erken evliliklerin sadece yasal mevzuat çerçevesinde kanuna uygun olup olmaması üzerinden değil; oluşum ve gelişim süreçlerine bakılarak
+da değerlendirilmesi gerektiği anlaşılmaktadır. Daha önce erken yapılmış da olsa evlilik kurumunun
+halen sağlıklı koşullarda sürdüğü durumları yönetebilmek açısından mevcut mevzuatın yeniden ele
+alınması gerekli olduğu görülmektedir.
+
+?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı Aile ve Toplum Hizmetleri Genel Müdürlüğü; 2015, Türkçe Tema: Çocuk yaşta evlilik, Zorla evlilik*
+
+[Dökümanı İncele](downloads\ARS\ARS_03.pdf ':ignore')
+
+***
+
+## 
+*ARS_*
+
+**ÖZET**
+xxx
+
+?> *Kuruluş adı: xx; 20xx, Türkçe Tema: xxx*
+
+[Dökümanı İncele](downloads\ARS\ARS_01.pdf ':ignore')
+
+***
+
+## 
+*ARS_*
+
+**ÖZET**
+xxx
+
+?> *Kuruluş adı: xx; 20xx, Türkçe Tema: xxx*
+
+[Dökümanı İncele](downloads\ARS\ARS_01.pdf ':ignore')
+
+***
+
+## 
+*ARS_*
+
+**ÖZET**
+xxx
+
+?> *Kuruluş adı: xx; 20xx, Türkçe Tema: xxx*
+
+[Dökümanı İncele](downloads\ARS\ARS_01.pdf ':ignore')
+
+***
+
+## 
+*ARS_*
+
+**ÖZET**
+xxx
+
+?> *Kuruluş adı: xx; 20xx, Türkçe Tema: xxx*
+
+[Dökümanı İncele](downloads\ARS\ARS_01.pdf ':ignore')
+
+***
+
+## 
+*ARS_*
+
+**ÖZET**
+xxx
+
+?> *Kuruluş adı: xx; 20xx, Türkçe Tema: xxx*
+
+[Dökümanı İncele](downloads\ARS\ARS_01.pdf ':ignore')
+
+***
+
+## 
+*ARS_*
+
+**ÖZET**
+xxx
+
+?> *Kuruluş adı: xx; 20xx, Türkçe Tema: xxx*
+
+[Dökümanı İncele](downloads\ARS\ARS_01.pdf ':ignore')
+
+***
+
+## 
+*ARS_*
+
+**ÖZET**
+xxx
+
+?> *Kuruluş adı: xx; 20xx, Türkçe Tema: xxx*
+
+[Dökümanı İncele](downloads\ARS\ARS_01.pdf ':ignore')
+
+***
+
+## 
+*ARS_*
+
+**ÖZET**
+xxx
+
+?> *Kuruluş adı: xx; 20xx, Türkçe Tema: xxx*
+
+[Dökümanı İncele](downloads\ARS\ARS_01.pdf ':ignore')
+
+***
+
+## 
+*ARS_*
+
+**ÖZET**
+xxx
+
+?> *Kuruluş adı: xx; 20xx, Türkçe Tema: xxx*
+
+[Dökümanı İncele](downloads\ARS\ARS_01.pdf ':ignore')
+
+***
 # Broşürler
 ***
 
