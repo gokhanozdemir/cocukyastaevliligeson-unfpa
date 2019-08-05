@@ -1,10 +1,12 @@
 * Getting started
+* Afişler
+* adfasdf 
 
-  * [Quick start](quickstart.md)
+  * [Quick start](MKL_RHB_RPR_ARS_EYP_BLD_BRS.md)
   * [Writing more pages](more-pages.md)
   * [Custom navbar](custom-navbar.md)
   * [Cover page](cover.md)
-  
+
 * Configuration
   * [Configuration](configuration.md)
   * [Themes](themes.md)
