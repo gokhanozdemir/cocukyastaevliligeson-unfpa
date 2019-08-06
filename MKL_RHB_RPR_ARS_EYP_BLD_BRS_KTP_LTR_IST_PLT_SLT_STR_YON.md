@@ -826,11 +826,11 @@ Kız Çocukları İçin Bilgilendirme Semineri [Dökümanı İncele](downloads\E
 *EGT_07 Klasör*  
 
 **ÖZET**  
- xxx
+ Afet ve acil durumlarda riskli gruplarla çalışma eğitimleri için bilgi notu, sunu ve ilgili diğer materyallerden oluşan 4 günlük bir eğitim programıdır. 
 
-?> *Kuruluş adı: xxx; 20xx, Türkçe Tema: xxx*  
+?> *Kuruluş adı: UNICEF; Türkçe Tema: Çocuk koruma, Acil durum*  
 
-xxx [Dökümanı İncele](xxx  ':ignore')
+Gün 1, 2, 3, 4 [Dökümanı İncele](downloads\EGT\EGT_07.zip  ':ignore')
 
 ***
 
@@ -1114,7 +1114,9 @@ Hizmet Sağlayıcılar İçin Çocuk Yaşta Evliliklerin Önlenmesi [Dökümanı
 
 ?> *Kuruluş adı: Gaziantep Büyükşehir Belediyesi; Türkçe Tema: Çocuk yaşta evlilik, Kız çocukların eğitimi*  
 
-xxx [Dökümanı İncele](xxx  ':ignore')
+Eğitim, Form, Görsel, ve Politika  [Dökümanı İncele](downloads\KIT\KIT_02\KIT_02.zip ':ignore')
+
+Filmler [Dökümanı İncele](downloads\KIT\KIT_02\FILM.zip ':ignore')
 
 ***
 
@@ -1192,7 +1194,7 @@ Child Marriage Back Page 3 [Dökümanı İncele](downloads\KIT\KIT_06\Child-Marr
 
 ?> *Kuruluş adı: Save the Children International, UN Agencies; Türkçe Tema: Çocuk yaşta evlilik*  
 
-xxx [Dökümanı İncele](xxx  ':ignore')
+Tam Klasör [Dökümanı İncele](downloads\KIT\KIT_07.zip.001 ':ignore')
 
 ***
 
@@ -1204,7 +1206,7 @@ xxx [Dökümanı İncele](xxx  ':ignore')
 
 ?> *Kuruluş adı: Save the Children International, UN Agencies; Türkçe Tema: Çocuk koruma*  
 
-xxx [Dökümanı İncele](xxx  ':ignore')
+Tam Klasör [Dökümanı İncele](downloads\KIT\KIT_08.zip.001 ':ignore')
 
 ***
 
@@ -1216,7 +1218,16 @@ xxx [Dökümanı İncele](xxx  ':ignore')
 
 ?> *Kuruluş adı: Harran Üniversitesi, Sağlık Bakanlığı, UNFPA; Türkçe Tema: Mevsimlik tarım işçileri, Üreme sağlığı, Adölesan evlilikler*  
 
-xxx [Dökümanı İncele](xxx  ':ignore')
+Mevsimlik Tarim İşçisi Ve Ailelerinin Sağliğini Geliştirme Programi: Mahalli Mülki Amirler İçin Rehber [Dökümanı İncele](downloads\KIT\MEVSIMLIK-TARIM-ISCISI-VE-AILELERININ-SAGLIGI-MAHALLI-MULKI-AMIRLER-ICIN-REHBER.pdf ':ignore')
+
+Tarım İş Aracısı Rehberi [Dökümanı İncele](downloads\KIT\Tarim-Is-Aracisi-Rehberi.pdf  ':ignore')
+
+Doğru ve Etkili Sağlik İletişimi İçin
+“Sağlik Haberciliği –Programciliği Rehberi” [Dökümanı İncele](downloads\KIT\Saglik-Haberciligi-Rehberi.pdf ':ignore')
+
+Mevsimlik Tarim İşçilerinin ve Ailelerinin İhtiyaçlarinin Belirlenmesi Araştirmasi 2011 [Dökümanı İncele](downloads\KIT\Mevsimlik-Tarim-Iscilerinin-ve-Ailelerinin-Ihtiyaclari.pdf ':ignore')
+
+Tam Klasör [Dökümanı İncele](downloads\KIT\KIT_09.zip ':ignore')
 
 ***
 
@@ -1224,11 +1235,15 @@ xxx [Dökümanı İncele](xxx  ':ignore')
 *KIT_10 Klasör*  
 
 **ÖZET**  
- Save the Children, BM ajansları ve uluslararası kuruluşlar tarafından geliştirilmiş çocuk yaşta evlilik ve GBV materyallerini içermektedir.
+ Save the Children, BM ajansları ve uluslararası kuruluşlar tarafından geliştirilmiş çocuk yaşta evlilik ve GBV materyallerini içermektedir; Ürdünde çocuk yaşta, erken ve zorla evliliklerle ilgili raporlar, İrak ile ilgili çocuk yaşta evlilikleri kapsiyan bir guidance note içermektedir.  
 
 ?> *Kuruluş adı: Save the Children International, UN Agencies; İngilizce, Arapça Tema: Çocuk koruma, Toplum temelli çalışma*  
 
-xxx [Dökümanı İncele](xxx  ':ignore')
+Ürdün ile ilgili raporlar [Dökümanı İncele](downloads\KIT\Urdunde-CEFM.zip ':ignore')
+
+Broşürler/Leaflets [Dökümanı İncele](downloads\KIT\Leaflets.zip ':ignore')
+
+Interagency Guidance Note, Prevention of and Response to Child Marriage in Iraq. [Dökümanı İncele](downloads\KIT\Iraq\Guidance-Note_Prevention-of-and-response-to-Child-Marriage.pdf ':ignore')
 
 ***
 
@@ -2026,6 +2041,368 @@ difficulties they face, attempt suicide and even can lose their lives. In this s
 ?> *Kuruluş adı: Ondokuz Mayıs Üniversitesi, Ankara Üniversitesi; 2016, Türkçe Tema: Çocuk yaşta evlilik*
 
 [Dökümanı İncele](downloads\MKL\MKL24.pdf ':ignore')
+
+***
+## Hekimlerin Erken Yaşta Evliliklere Yönelik Farkındalıkları ve Tutumları
+*MKL_25*
+
+**ÖZET**  
+Çalışmada ülkenin gelişmesi bakımından önemli olan erken yaşta evliliklerin önlenmesi konusu hakkında hekimlerin farkındalıkları ve tutumlarının hangi yönlerde olabileceğinin ortaya konması amaçlanmıştır. Araştırmaya sosyal medya yolu ile ulaşılabilen, çalışmaya katılmaya gönüllü olan hekimler davet edilmiş ve yazarlar tarafından oluşturulmuş anketi doldurmaları istenmiştir. Çalışma verileri tanımlayıcı istatistikler (aritmetik ortalama, ortanca, standart sapma, yüzde dağılımlar), kategorik verilerin gruplar arası yüzde dağılımları Ki Kare testi ile değerlendirilmiştir.
+
+Amaç: Erken yaşta yapılması söz konusu olan resmi evlilikler bakımından, hekimler çocukları bir istismar şekli olan erken evliliklerden koruma noktasında önemli bir görev üstlenmektedir. Çalışmamızda ülkenin gelişmesi
+bakımından önemli olan bu konu hakkında hekimlerin farkındalıkları ve tutumlarının hangi yönlerde olabileceğinin ortaya konması amaçlanmıştır. 
+Yöntem: Araştırmaya sosyal medya yolu ile ulaşılabilen, çalışmaya katılmaya gönüllü olan hekimler davet edilmiş ve yazarlar tarafından oluşturulmuş anketi doldurmaları istenmiştir. Çalışma verileri tanımlayıcı istatistikler (aritmetik ortalama, ortanca, standart sapma, yüzde dağılımlar), kategorik
+verilerin gruplar arası yüzde dağılımları Ki Kare testi ile değerlendirilmiştir. 
+Bulgular: Hekimlerin 1315'I (%83.9) erken evlilik tanımı ile ilgili olarak '18 yaşın altında yapılan evliliklerdir' şeklinde yanıtlamıştır. Hekimlerin
+1287'si (%82.1) erken yaşta yapılan evliliklerin 'Çocuğun cinsel olarak istismar edilmesi' olduğunu vurgulamıştır. Erken yaşta evlilik yapılabilmesi için bireylerde bulunması gereken özelliklere yönelik hekimlerin yargılarında
+'bireyin zihinsel yetersizliğinin olmaması, cinsellik hakkında yeterli bilgiye sahip olması, doğacak çocuğun fiziksel ve ruhsal ihtiyaçlarını karşılayabilmesi gerektiği ve evlilik yapacağı yaşın önemli olduğu' ön plana çıkmıştır. 
+Sonuç: Toplum tarafından erken evliliklerin normal olarak algılanması bu sorunun önlenmesini ve yasal olarak ihbarı engelleyen en önemli unsurlardandır. Hekimlerin erken yaşta yapılan evlilikler ile ilgili farkındalıkları yüksek olmasına rağmen erken yaşta evliliklerin önlenmesi noktasında toplumsal, politik ve hukuki alanda farkındalıkların arttırılması gerekmektedir.
+
+***Anahtar kelimeler: Erken evlilik, Çocuk istismarı, Hekim,
+Farkındalık***
+
+**SUMMARY**
+Objective: In terms of official marriage, which is to be
+done at an early age physicians play a crucial role in protecting
+children from early marriage, which is a form of
+child abuse. We aimed to show the awareness of the
+physicians and the directions of their attitudes about this
+issue which is very important for the development of the
+country. 
+Method: Physicians who were able to reach the
+research through social media and volunteered to participate
+in the study were invited and were asked to
+complete the questionnaire created by the authors.
+Study data were evaluated by descriptive statistics (arithmetic
+mean, median, standard deviation, percent distributions)
+and the percent distributions of categorical
+data between the groups were evaluated by the Chi
+square test. 
+Results: 1315 (83.9%) of the physicians
+responded to the definition of early marriage that
+'Marriages made under the age of 18'. 1287 (82.1%) of
+the physicians emphasized that early marriages were
+'sexual abuse of the child'. In the judgments of physicians
+regarding the characteristics that should be present in
+the individual in order to be married at an early age such
+as 'that does not have mental inadequacy, that has
+enough knowledge about sexuality, that should be able
+to meet the physical and spiritual needs of the child to
+be born, and the age at which marriage' is important.
+Conclusion: The perception of early marriages by the
+society as normal is one of the most important elements
+preventing this problem and preventing legal legitimacy.
+Although physicians are highly aware of early marriages,
+It is necessary to raise awareness in social, political and
+legal contexts at the point of prevention of early marriages.  
+
+***Key words: Early marriage, Child abuse, Physicians, Awareness***
+
+?> *Kuruluş adı: Nagihan Saday Duman, Emel Sarı Gökten, Hasan Nadir Rana, Klinik Psikiyatri Dergesi; 2017, Türkçe*
+
+[Dökümanı İncele](downloads\addon\MKL_25.pdf ':ignore')
+
+***
+
+## Önemli Bir Kız Çocuk ve Kadın Sorunu: Çocuk Evlilikler
+*MKL_26*
+
+**ÖZET**  
+Bu çalışmada ülkemizde gerçekleştirilen erken ve zorla evliliklerin sebep ve sonuçlarını tartışmak uluslararası ve ulusal alanda erken ve zorla evliliklerin yerini incelemek erken yaşta evliliklerin görülme sıklıklarına dair durumu gözden geçirmek amaçlanmaktadır Halk sağlığı bakış açısıyla önlemeye ilişkin önerileri tartışmaktır Çalışmada erken evlilikler konusunda yayınlanmış bilimsel literatür taranmış ulusal ve uluslar arası raporlar ve durumlar incelenmiştir Erken evlilikler ile ilişkili uygulamalar konuyla ilgili yakın tarihli araştırmalar değerlendirilmiş bulgu ve sonuçları derlenmiş bu kapsamda edinilen güncel bilgiler doğrultusunda erken evliliklerin etkileri değerlendirilmiş çocuk kadın sağlığının korunması ve geliştirilmesine yönelik bazı öneriler geliştirilmiştir Literatürde erken evliliklerin olumsuz sağlık etkileri konusunda birçok çalışma bulunmaktadır Araştırma sonuçlarına göre Türkiye rsquo;de çocuk evlilik yüzdesinin 30 ile 35 arasında seyrettiği ancak bu sıklıkların bölgelere yerel sosyal ve kültürel örüntüye göre farklılaştığını göstermektedir Evlenen kız çocuğun ruhsal ve bedensel gelişmeleri olumsuz etkilenmektedir Çocukluk hakları ellerinden alınan çocukların yaşamlarının ileriki dönemleri de olumsuz olarak etkilemektedir Yapılan yasaların farklı yorumlanması yasal olarak kesin yorum yapabilmeyi güçleştirmekte ve evliliklerin yapılmasını kabul eden görüşlerin devamına neden olmaktadır Erken evlilikler toplumda önemli çocuk ve kadın sorunlarından biridir Sebebi ne olursa olsun erken evliliklerin yapılmasının önlenmesi ve bu konuda yaşanan çelişkilerin giderilmesi konu üzerinde farkındalığın arttırılması ve devletin izlemlerini yapması halk sağlığı açısından sağlanmalıdır. 
+2013; 48: 86 93
+***Anahtar kelimeler: Çocuk, erken evlilik, Gelin, Kız***
+
+**ABSTRACT**  
+The aim of this study is to define the reasons of early and forced marriages in our country, determine the place of early marriage in national and international legislations and find the frequency of the situation. Also discuss the prevention interventions with public health view. In the study, the scientific literature on early marriages were reviewed, in conjunction with reports, regulations and practices global and country level. From these evidence-based recommendations on child/woman health promotion were developed from the perspective of public health. In the literature, there are numerous studies on health effects of early marriages. Early marriages frequencies were between 30% and 35% in Turkey, however there is a difference according to regions, local social and cultural structure. Psikolojik and sensual development adversely affected when married at early ages. The children whose rights are taken will be negatively effected in their adulthood. The different interpretation at legislations in Turkey makes difficulties at commitments on early marriages and gives place to opinions which accepts early marriages. Early marriages are important child and woman problem in our society. Preventing of early marriages for whatever the reason is, solving social contradictions, raising awareness on the issue and governmental further proceeding on early marriages are necessary from the point of public health.
+
+***Key words: Child, early marriage, Bride, Girl***
+
+?> *Kuruluş adı: Hilal Özcebe, Burcu Küçük Biçer, Türk Pediatri Arşivi Dergisi; 2013, Türkçe Tema: Çocuk, erken evlilik, Gelin, Kız*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_26.pdf ':ignore')
+
+***
+
+## Üniversite Öğrencilerinin Erken Yaş Evlilikler Hakkında Bilgi ve Görüşlerinin İncelenmesi
+* MKL_27*
+
+**ÖZET**  
+Amaç: Erken yaş evliliklerinin özelde kadın sağlığı genelde de toplum sağlığı üzerine olumsuz etkileri vardır. Bu nedenle erken yaş evliliklerinin önlenmesinde sağlık profesyonellerine önemli görevler düşmektedir. Bu bağlamda geleceğin sağlık profesyonellerinin konuya yönelik bilgilerinin incelenmesi ve bu araştırma sayesinde biraz da olsa farkındalıklarının geliştirilmesi amacıyla; araştırma üniversite ebelik ve hemşirelik öğrencilerinin erken yaş evlilikleri konusunda bilgileri ve erken yaş evliliklerin önlenmesine yönelik düşüncelerini belirlemek amacıyla tanımlayıcı olarak yapılmıştır. Gereç-yöntem: Araştırmanın evrenini 2014-2015 öğretim dönemi bahar yarıyılında eğitim gören 358 Balıkesir Sağlık Yüksekokulu Hemşirelik ve Ebelik Bölümü üç ve dördüncü sınıf öğrencileri oluşturmuştur. Araştırmada örneklem seçimine gidilmemiş ve araştırmaya katılmayı kabul eden ve anket formunu eksiksiz olarak dolduran 199 öğrenci araştırma kapsamına alınmıştır. Bulgular: Araştırmaya katılan öğrencilerin erken yaş evliliklerine yönelik bilgileri incelendiğinde; %93,5’i 1318 yaş grubunda yapılan evlilikleri erken yaş evlilik, %40,2’si erken yaş evliliklerin birinci sırada sebebinin düşük eğitim seviyesi olduğunu belirtmiştir. Evlilik kararı alınırken öğrencilerin %93,5’i kişinin kendi seçimi ve aile kararı ile olması gerektiğini belirtmiştir. Erken yaş evliliklerinde yaşanan sorunlar sorgulandığında öğrencilerin %80,4’ü, aile içi sorunlara %79,4’ü psikolojik sorunlara, %75,9’u sosyal sorunlara ve %50,8’i de sağlık sorunlarına neden olacağını belirtmişlerdir. Öğrencilerin yalnızca %31,7’si erken yaş evliliklerin önlenmesine yönelik ülkemizdeki projeleri duyduklarını belirtirken bu projelerin neler olduğu sorgulandığında %72,9’unun bilgisinin olmadığı tespit edilmiştir. Sonuç: Çalışmanın sonucunda, ebelik ve hemşirelik öğrencilerinin aldıkları eğitim sayesinde erken yaş evlilikleri ile ilgili teorik bilgilerinin yeterli olduğu belirlenmesine karşın konu ile ilgili çözüm önerileri geliştirme ve yürütülen projeler ile ilgili farkındalıklarının yetersiz olduğu belirlenmiştir. Bu doğrultuda öğrencilerin erken yaş evliliklerin önlenmesinde kritik düşünme yeteneklerinin geliştirilmesine yönelik müdahalelerin eğitim programlarına entegre edilmesi önerilmektedir.
+
+***Anahtar kelimeler: Adölesan dönem gebeliği, Evlilik yaşı, Öğrenciler***
+
+**ABSTRACT**  
+Purpose: Early age of marriage has negative effects in especially women’s health on generally the community health so it is an important mission for health professionals in the prevention of early age marriages. In this context, the investigation and research of information on the topic of future health professionals, thanks to a little bit of awareness is intended to develop. The research has been designed as a descriptive with purpose of the knowledge of the midwifery and nursing students in university?? on early age marriages, and their thoughts towards prevention of this topic. Methods: This study was carried out with third and fourth grade students (n=358) registered at Balikesir Health Sciences Department of Nursing and Midwifery in the spring semester of the 2014-2015 academic years. The sample of research has been composed 199 students who fill out the questionnaire and accepting to participate in research.  Results: In the examination of students’ knowledge about early age marriage; 93.5% of students was specified marriage made in 13-18 age groups, and the low education level of early marriage, 40.2% stated that affects first. Getting marriage decision stated that 93.5% of students should choose their own decision and their families. When questioned on problems in the early years of marriage; students was specified that the reason 80.4% of the domestic problems, 79.4% of the psychological problems, 75.9% of the social problems and 50.8% of the health problems. Students reported that they had only heard about the project in our country for the prevention of early marriage is 31.7%. When questioned as to what these projects; 72.9% of students have been determined not to be the information. Conclusion: In conclusion, midwifery and nursing students through the education they receive is sufficient to determine the theoretical knowledge about early marriages, despite issues related solutions and suggestions for improvement have been identified as inadequate awareness of the projects carried out. In this respect, the interventions for students to develop critical thinking skills in the prevention of early marriage should be integrated into training programs.
+
+***Key words: Pregnancy adolescence, Marriage age, Students***
+
+?> *Kuruluş adı: Dr. Oya Kavlak, Dr. Şenay Ünsal Atan, Öznur Yaşar, Nilüfer Tok Yanık, Sürekli Tıp Eğitimi Dergisi; 2017, Türkçe*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_27.pdf ':ignore')
+
+***
+
+## Değişen Aile Dinamikleri Açisindan Erken Yaşta Evlilikler Sorunu ve Toplumsal Önemi
+*MKL_28*
+
+**ÖZET**  
+Kadınların dünya genelinde yaşadıkları sorunlar ortaktır ve bilinen bir gerçektir. Her yıl kadınların yaşadıkları şiddet ve ayrımcılık olaylarının boyutları ciddi şekilde tırmanmaktadır. Bu gerçek Türkiye için de geçerlidir. Toplumsal olarak kadının, erkeğin gerisinde kalması ülkede kabullenilen ve normal görülen bir durumdur. Her ne kadar bu yaşananlar değişen toplum yapısı ile artık normal olarak değerlendirilmese de sorunların çözümüne dair toplumsal bir konsensüs de sağlanamamıştır. Bu sorunların başında da kız çocuklarının küçük yaşta evlendirilmesi gelmektedir. Eğitim, sağlık ve psikoloji alanlarında bir toplumun gerilemesine neden olan bu olay Türkiye’nin üzerinde düşünmesi gereken, önemli sorunlardan biridir. Bu sorunun temelinde eğitimsizlik, maddi eksiklikler ve kültürel değerlere aşırı bağlılık yatmaktadır. Ancak tüm dünya genelinde olduğu gibi Türkiye’de de derin bir kültürel değişim söz konusudur ve bu değişim kadının toplumdaki konumunu da değiştirmiştir. Bu çalışma, kız çocuklarının küçük yaşta evlilikleri üzerine toplumsal bir değerlendirme yapmak adına gerçekleştirilmiştir. Son olarak da Türkiye’deki kadın hareketlerinin ve kadınları destekleyen oluşumların küçük yaşta evlilik ve kadınların diğer sorunlarına dair daha aktif ve etkili olarak görev aldıkları tespit edilmiştir.
+
+***Anahtar kelimeler: Evlilik, Kadın, Kültür, Toplumsal***
+
+**ABSTRACT**  
+The problems of women all around the world are common and a generally known truth. Every year, the levels of violence and discrimination against women trigger seriously. This truth is valid for Turkey, too. It is a normal and acceptable situation for women to stay behind the man in the society. Although this issue is not evaluated as normal in the society, there is not any attempt for providing a consensus on the solution. Marriage of little girls in their childhood is one the prior matters. This issue, which causes regression in education, health and psychology fields, is one of the important matters that Turkey has to pay attention on. There is illiteracy, financial deficiencies and extreme loyalty on cultural values in the basis of matter. On the other hand, it was observed that sweeping changes of cultural structure in Turkey caused dilemmas in the perception of society. Lastly, it was identified that the women movements and creations’ support on women assumed an active and an effective role on marriages of little girls and women’s general matters.
+
+***Key words: Marriage, Woman, Culture, Social***
+
+?> *Kuruluş adı: Doç. Dr. Bülent Kara, Süleyman Demirel Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi; 2015, Türkçe*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_28.pdf ':ignore')
+
+***
+
+## War Hits the Women: Marriage as Syrian Women’s Coping Mechanism and Its Impact On Turkish Women
+*MKL_29*
+
+**ÖZET**  
+Mart 2011’de Suriye’nin Dera kentinde Beşar Esad rejimine karşı başlayan barışçıl halk gösterileri rejim güçlerinin protestoculara ateş açmasıyla iç savaşa dönüşmüştür. Altı yılı aşkın süredir devam etmekte olan Suriye iç savaşı, yüzbinlerce Suriye vatandaşının ölmesine, milyonlarcasının da komşu ülkelerden sığınma talep etmesine yol açmıştır. 2017 yılı Eylül ayı itibariyle Türkiye, sınırlarında 3 milyonun üzerinde Suriyeli mülteciyi barındırarak dünyada en fazla mülteciye ev sahipliği yapan ülke durumuna gelmiştir. Suriyeli mültecilerin Türkiye’ye olan etkilerini derinlemesine analiz edebilmek amacıyla, Hatay ve Gaziantep illerinde hem Türk vatandaşlarla hem de Suriyeli mültecilerle yarıyapılandırılmış mülakatlar gerçekleştirilmiş ve Suriyeli mültecilerin Türkiye’ye kitlesel göçünün özellikle sınır illerinde iş piyasasında, ev piyasasında ve sağlık hizmetlerinde olumsuz sonuçlara yol açtığı tespit edilmiştir. Araştırma, bu sorunlara ilaveten, Suriyeli mültecilerin Türkiye’ye gelişinin özellikle sınır illerde ciddi sosyal problemlere de yol açtığını açığa çıkarmıştır. Çocuk gelinler ve dini evlilikler bu problemlerin başında gelmektedir. Araştırma süresince gözlemlenmiştir ki Suriyeli aileler küçük kızlarını yaşamakta oldukları maddi zorluklar dolayısıyla evlendirmeye eğilimli olabilmektedir. Aileler böylece hem hane halkının maddi yükünü azaltmayı, hem kızları için daha güvenli bir gelecek sağlamayı, hem de kızlarının namuslarını evlenecekleri eşlerinin sözde koruması altına almayı umut etmektedir. Bunlara ilaveten, boşanmış ya da eşlerini kaybetmiş Suriyeli kadınlar da hem bekar hem de evli Türk erkeklerle dini evlilikler yapmakta ancak bu evliliklerin Türk Medeni Kanunu’na gore hiçbir yasal dayanağı bulunmamaktadır. Bu sebeple bu evliliklerden doğan çocuklar da vatansız olarak kabul edilmektedir. Bu problemlerin Türkiye’deki günlük yaşama ciddi etkileri söz konusudur. İlk olarak, Suriyeli mülteciler arasında çocuk gelinlerin yaygınlaşması Türkiye’deki mevcut çocuk gelinler problemini daha da ciddi boyutlara ulaştırmıştır. İkinci olarak, Suriyeli kadınlar ile evli Türk erkekler arasında gerçekleşmekte olan bu evlilikler Türk kadınlarını mağdur etmekte, Türk kadınları istemeyerek de olsa (çoğunlukla kadınların maddi bağımsızlıklarının olmaması nedeniyle) bu yasa dışı evlilikleri kabullenmeye itmekte ve Türk aile yapısına zarar vermektedir.
+
+***Anahtar kelimeler: Suriyeli mülteciler, çocuk gelinler, dini evlilikler, kadınlar, Türkiye***
+
+**ABSTRACT**  
+The peaceful public demonstrations that began in the Syrian town of Daraa in March 2011 against the Bashar al-Assad regime turned into a civil war when the regime forces attacked the protestors. The Syrian civil war that has now been going on for seven years, caused hundreds of thousands of Syrian citizens to die and millions to seek refuge in neighboring countries. As of September 2017, Turkey has become the country which hosts the greatest number of refugees in the world by serving as host to over 3 million Syrian refugees within its borders. In order to analyze the impact of the Syrian refugees on Turkey, semistructured interviews were conducted with both Turkish citizens and Syrian refugees in Hatay and Gaziantep. The research revealed that, in addition to unfortunate consequences in the labor market, the housing market, and healthcare services, the Syrian refugees’ arrival to Turkey caused serious social problems especially in the border provinces. Child brides and religious marriages have been central to these problems. It was observed that the Syrian families are inclined to consent to marry off their very young daughters because of the economic hardships they experience. By doing this, the families hope to lessen the burden of the household, guarantee more secure futures for their daughters, and protect their daughters’ honor under the so-called protection of a husband. In addition, Syrian women enter into illegal marriages with both single and married Turkish men; these marriages have no legal basis, according to Turkish civil law. Therefore, the children who are born from these marriages are considered stateless. These problems have both had a considerable impact on life in Turkey. First, the prevalence of child brides among Syrians worsened the child-bride problem in Turkey. Second, the marriages that take place between Syrian women and married Turkish men serve to victimize the Turkish women and force them to unwillingly accept their situations (mostly due to financial dependency on their spouses); these marriages also damage the Turkish family structure.
+
+***Key words: Syrian refugees, Child brides, Religious marriages, Women, Turkey***
+
+?> *Kuruluş adı: İnci Aksu Kargın, Turkish Studies; 2018, İngilizce*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_29.pdf ':ignore')
+
+***
+
+## Hemşirelik Öğrencilerinin Erken Evlilik ve Çocuk Gelinler Hakkındaki Görüşlerinin Belirlenmesi
+* MKL_30*
+
+**ÖZET**  
+Amaç: Bu çalışma, bir üniversitenin hemşirelik bölümünde öğrenim gören öğrencilerin erken evlilik ve çocuk gelinler hakkındaki görüşlerini belirlemek amacıyla planlandı. Yöntemler: Tanımlayıcı ve kesitsel olarak planlanan araştırmanın örneklemini Mart - Nisan 2016 tarihleri arasında Bandırma’da bir üniversitenin hemşirelik bölümünde öğrenim gören ve çalışmaya katılmaya istekli 308 öğrenci oluşturdu. Araştırma verileri araştırmacılar tarafından geliştirilen anket formu ile yüz yüze görüşme yöntemi ile toplandı. Bulgular: Araştırmaya dahil edilen öğrencilerin yaş ortalamaları 20,68±2,12 olup, %58,1’inin kız öğrenci olduğu belirlendi. Öğrencilerin %25,6’sının birinci ve ikinci derece yakınlarında 18 yaş altında evlendirilen kız çocuğu olduğu belirlendi. Araştırmaya katılan öğrencilerin %92,2’si erken yaşta evlendirilmenin toplumsal bir sorun olduğunu ve %89,3’ü ise bir istismar davranışı olduğunu belirtti. Çocuk gelinler sorununun çözümü için öğrencilerin %67,5’i kanunlar hükmünde yasal yaptırımlar uygulanması, %65,6’sı kız çocuklarının okutulması ve %63’ü ise toplumda yaygın eğitim programlarının düzenlenmesi gerektiğini belirtti. Sonuç: Sonuç olarak küçük yaşta yapılan evlilikler ve bu durumun getireceği risklerin çözümleri kapsamında sağlık profesyonellerine önemli görevler düşmektedir. Sağlık profesyonellerinin çağdaş rolleri kapsamında erken yaş evliliklerinin nedenlerini ve sonuçlarını analiz ederek bakım ve sosyal destek hizmetlerini düzenlemeleri önem taşımaktadır.
+
+***Anahtar kelimeler: Erken evlilik, Çocuk gelin, Hemşirelik öğrencileri***
+
+**ABSTRACT**  
+Objective: The present study aimed to assess the opinions of nursing students at a university on early marriage and child brides. Methods: As the study was descriptive and cross-sectional in nature, its sampling group consisted of 308 volunteer students of the nursing department of a university in Bandirma between March and April, 2016. Study data were collected by means of a survey form developed by researchers through face-to-face interview. Results: The mean age of the students included in the study was 20.68 ± 2.12 years, and 58.1% of them were females. Furthermore, 25.6% of the students were determined to have an underage bride among their first- and second-degree relatives. In terms of the opinions of the respondents, 92.2% stated that early marriage was a social problem, whereas 89.3% stated that it was a type of an abuse. In terms of the resolution of this problem, 67.5% of the respondents suggested that law enforcement was necessary, whereas 65.6% stated that underage females were required to attend schools, and 63% stated that common public education was needed to overcome this issue. Conclusion: As a result, health professionals should undertake significant responsibility to overcome the problem of early marriage and the relevant risks associated with it. It is also important for health service providers to analyze the cause–result of early marriage to reorganize their care and social support services within the scope of their conventional and modern roles.
+
+***Key words: Early marriage, Child bride, Nursing students***
+
+?> *Kuruluş adı: Diler Aydın, Berna Akay, Marmara Üniversitesi Sağlık Enstitüsü-Makale, Clinical and Experimental Health Sciences; 2017, Türkçe*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_30.pdf ':ignore')
+
+***
+
+## Kadına Yönelik Şiddet ve Yaşam Kalitesi
+*MKL _31*
+
+**ÖZET**  
+Amaç: Bu çalışmada kadınların hangi sıklıkta şiddete uğradıklarını, şiddete neden olan risk etkenlerini ve yaşam kalitesi ile ilişkisini araştırmayı amaçladık. Yöntem: Kesitsel tipte olan araştırma, kentsel ve yarı kentsel bölgeden seçilen iki Aile Sağlığı Merkezine (ASM) kayıtlı, rastgele seçilmiş, en az bir kez evlenmiş, 15-64 yaşları arasındaki 287 kişiyle yapılmıştır. Katılımcılara 65 sorudan sorudan oluşan bir anket formu ve araştırma grubunun yaşam kalitesini ölçmek üzere Dünya Sağlık Örgütü Yaşam Kalitesi Ölçeği Kısa Formu (WHOQOL-BREF) uygulanmıştır. Bulgular: Katılımcıların, eş veya eski eşlerinden yaşamlarında en az bir kez ve son bir yılda şiddete uğrama oranı %27.2 ve %13.6’dır. Kadınların %39.4’ü duygusal şiddet/istismar, %24.4’ü ekonomik şiddet/istismar, %23.3’ü fiziksel şiddet, %9.8’i de cinsel şiddet türlerinin en az birine uğramıştır. Şiddet gören kadınların yaşam kalitesi puanları anlamlı olarak her alanda düşüktür. Eşin çocuklukta şiddete uğraması riski en çok artıran değişkendir ve bu durum şiddetin her türünde anlamlı bulunmuştur. Kadının istemeden veya görücü usulü ile evlendirilmesi, üç ve üzerinde çocuk sahibi olma, eşin sorunlu alkol kullanımı ve kadının çocukluk çağında şiddete tanık olması kadına yönelik şiddet sıklığını artıran diğer risk etkenleri olarak bulunmuştur. Sonuç: Çok yönlü bir bakış açısıyla toplumda her türlü şiddetin önlenmesi ve istenmeyen evlilikler, kadının istediği sayıda çocuk sahibi olması gibi kadının statüsünü ilgilendiren konularda politika geliştirilmesi ve toplumun şiddete bakış açısının değiştirilmesi gerekmektedir.
+
+***Anahtar kelimeler: Aile içi şiddet, Risk etkenleri, Yaşam kalitesi***
+
+**ABSTRACT**  
+Objective: The aim of this study is to determine the prevalence, risk factors of domestic violence and its relationship with quality of life in women. Methods: This cross-sectional study is conducted on 287 women aged between 15 and 64 years with at least one marriage and in two Family Health Center located in urban and semi-urban region. A questionnaire consists of 65 questions and World Health Organization Quality of Life - BREF (WHOQOL-BREF) Scale is applied for evaluation quality of life of participants. Results: The prevalence of being subjected to violence by husband or ex-husband at least one time and within last year is 27.2% and 13.6%. Women are subjected to at least one of these violence types, 39.4% emotional violence/abuse, 24.4% economic violence/abuse, 23.3% physical violence, 9.8% sexual violence. Exposure to domestic violence is deteriorate in all domains of quality of life of women. Exposure to violence in childhood of the partner is the factor significantly associated with every kind of violence. Involuntary or prearranged marriage, having three or more children, excessive alcohol usage of husband and being witnessed to violence during childhood are found as other risk factors which increases the rate of violence against women. Conclusion: It is necessary to develop policies not only status of women but also to change perspective of society against violence with a multi-dimensional approach.
+
+***Key words: Domestic violence, Risk factors, Quality of life***
+
+?> *Kuruluş adı: Bilgin Şahin, Erbay Dündar, Anadolu Psikiyatri Dergisi; 2017, Türkçe*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_31.pdf ':ignore')
+
+***
+
+## Çocuk Yaşta Yapılan Evliliklerin Toplum Sağlığına Etkisi 
+*MKL_32*
+
+**ÖZET**  
+‘Çocuk’ ve ‘Çocuk Evliliği’ ve/ve ya ‘Çocuk Yaşta Yapılan Evlilikler’ kavramlarının tanımları farklılık gösterse de küresel ölçekte, 18 yaş altı “çocuk” ve 18 yaşından önce yapılan evlilikler de ‘Çocuk Yaşta Yapılan Evlilikler’ olarak kabul edilmektedir. Çocuk yaşta yapılan evlilikler çocukları sosyal-arkadaş ortamlarından uzaklaştırmakta, baskı ve şiddet görmeye yatkın olan bu evlilikler sonucunda çocukların toplum içinde söz hakkı olmamakta, özgüven eksikliği yaşamakta ve aynı yaşta evli olmayan akranlarına kıyasla intihar etme durumları daha sık yaşanmaktadır. Fiziksel ve psikolojik gelişimini tamamlamadan evlendirilen çocuklar ile bu evlilikler sonucu dünyaya gelen çocuklarda ciddi sorunlar meydana gelmektedir. Ayrıca bu tür ailelerden doğan çocuklarda, gelecekte benzer evlilik ve sorunların yaşanması riski oluşmaktadır. Çocuk yaşta yapılan evlilikler ve bu evliliklerden doğabilecek sorunların aile yapısı, çocuk ve toplum sağlığına etkileri konusunda özellikle çocuk yaşta yapılan evliliklerin yaygın olduğu bölgeler başta olmak üzere toplumun tüm kesiminin bilgilendirilmesi ve toplumun farkındalığının artırılması gerekmektedir. 
+
+***Anahtar kelimeler: Çocuk, Çocuk evlilikleri, Erken evlilik, Hemşirelik***
+
+**ABSTRACT**  
+Despite a wide diversity of definitions “child”, “child marriages” and/or “underage marriages”, there is also a common consensus that young people under 18 years old are regarded as children and marriages are characterized as child marriages or underage marriages if one of the spouses is under 18. Children who are forced to marry at early ages are urged to lose their contact with their peers. Underage marriages also breed violence and oppression, and therefore disallow children to express their own ideas and to protect their own rights, resulting in a loss of self-esteem and higher rates of child suicides. Children who have been married without completing their physical and psychological development and their children have serious problems. Moreover, children born into forced underage marriages are similarly threatened with underage marriages and health problems in the future. All segments of society, particularly people in regions where child marriages are commonplace, should be informed and further measures should be taken to raise awareness against child marriages and their adverse effects on family structure as well as children’s health and public health. 
+
+***Key words: Child, Child marriages, Early marriage, Nursing***
+
+?> *Kuruluş adı: Arş. Gör. Dilek Zengin, Doç. Dr. Figen Yardımcı, Prof. Dr. Zümrüt Başbakkal, Ege Üniversitesi Hemsirelik Fakültesi Dergisi; 2018, Türkçe*
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_32.pdf ':ignore')
+
+***
+
+## Çocuk Evlilikleri ve Psikososyal Sonuçları  
+*MKL_33*
+
+**ÖZET**  
+Çocuk istismarının dünyadaki en yaygın biçimlerinden biri de çocuk evliliğidir. Reşit olmayan evliliklerin sıklığı dünyada azalmakla birlikte, Türkiye gibi ülkelerde yaygınlığını korumaya devam etmektedir. Çocuk evliliği genellikle 18 yaşından küçük bir çocuğun evlenmesi anlamına gelir. Bu evliliklerin çoğunluğu çocuğun bilinçli rızası olmaksızın yapıldığı için "erken ve zorla gerçekleştirilen evlilikler" olarak da tanımlanmaktadır. Çocuk evlilikleri, çocukları ailelerinden ve arkadaşlarından ayırmakta, aile içi şiddete maruz bırakmakta, gelişimlerini ve eğitim, sosyal ve mesleki alanlardaki fırsatları tehlikeye atmaktadır. Erken yaşta yapılan evlilikler depresyon ve intiharın yanı sıra psikolojik sorunlara da yol açabilir. Bu gözden geçirme yazısında erken evliliğin sıklığı, nedenleri ve psikososyal açıdan olumsuz sonuçlarının değerlendirilmesi amaçlanmıştır.
+
+***Anahtar kelimeler: Evlilik yaşı, Çocuk istismarı, Psikososyal yönleri***
+
+**ABSTRACT**  
+One of the most frequent forms of child abuse worldwide is child marriage. Underage marriages are going on to keep their commonness in countries such as Turkey although frequencies of them are decreasing in the world. Child marriage generally refers to the marriage of a child who is under 18 years of age. Because the majority of these marriages are performed without the conscious consent of the child, they are also defined as “early and forced marriages. Child marriages separate children from their families and friends, expose them to domestic violence, jeopardize their development and the opportunities in educational, social and occupational areas. Early marriages may lead to psychological problems as well as depression and suicide. The aim of this article is to evaluate the frequency and causes of early marriage and its psychosocial consequences.
+
+***Key words: Marriage age, Child abuse, Psychosocial aspects***
+
+?> *Kuruluş adı: Evrim Aktepe, İnci Meltem Atay, Psikiyatride Güncel Yaklaşımlar; 2017, Türkçe*
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_33.pdf ':ignore')
+
+***
+
+## Çocuk Gelin Evliliklerinde Suçu Gizleme Yöntemleri Üzerine Bir Araştirma
+*MKL_34*
+
+**ÖZET**  
+18 yaşını doldurmayan kız çocuklarının evlendirilmesi hem ulusal hem de uluslararası kanunlarda suç kabul edilmiştir. Her ne kadar kanunlar suç kabul etsede bu evlilikler sürmeye devam etmektedir. Her sene ülkemizde 27 binden fazla kız çocuğu evlendirilmektedir. Peki kanunların suç saydığı bir fiil nasıl oluyor da sürdürülmeye devam ediyor? Nasıl oluyor da herkesin önünde gerçekleşen kanundışı bir fiil yargı önüne gelmiyor ve yargılanamıyor? Bu durum yetişkinlerin suçu gizleme yöntemleri sayesinde mümkün olmaktadır. Bu araştırma sonucunda yetişkinlerin 6 farklı şekilde suçu gizleme yöntemine başvurdukları görülmüş ve anlaşılmıştır. Bunlar; 
+1) Hukuki boşluktan kaynaklanan suçu gizlemeler, 
+2) Kamu görevlilerinden kaynaklanan suçu gizlemeler 
+3) Hastanelerden kaynaklanan suçu gizlemeler 
+4) Ebeveynlerden kaynaklanan suçu gizlemeler 
+5) Din adamlarından kaynaklanan suçu gizlemeler 
+6) Vatandaşlardan kaynaklanan suçu gizlemeler şeklinde sınıflanmıştır.
+
+***Anahtar kelimeler: Çocuk gelin, Erken yaşta evlilik, Çocuk gelin evlilikleri, Suçu gizleme***
+
+**ABSTRACT**  
+Both domestic and international law have been regarded as criminalizing girls' marriage before the age of 18 years. In our country today 27000 more than girls are forced marriage before 18 years of age every year. How is it possible marriage tiny girls at an early age when crime is every year?  This is possible thanks to the methods of concealing the crime. As a result of this research, it has been seen and understood that there are 6 different methods of concealing crime. These; 
+1) Gaps in the legislation regarding child/underage marriages 
+2) Under reporting of the incidents to the officials, 
+3) Withholding information/providing erroneous information to the health professional, 
+4) Parental neglect and abuse of parental responsibility and authority, 
+5) Concealment of religious criminals 
+6) Criminal hiding from citizens
+
+***Key words: Child marriage, Underage marriage, Female children, Criminal concealment***
+
+?> *Kuruluş adı: Doç. Dr. Yusuf Arslan, Uluslararası Anadolu Sosyal Bilimler Dergisi; 2018, Türkçe*
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_34.pdf ':ignore')
+
+***
+
+## Evaluation of Frequency, Affecting Parameters of the Consanguineous Marriages and Effect to Hereditary Disorders
+*MKL_35*
+
+**ÖZET**  
+AMAÇ: Türkiye yaklaşık 80 milyon nüfusa sahip olup, nüfus gençlerden oluşmaktadır ve doğum hızı orta yüksektir. Yapılan çalışmalara göre 2. kuzen gibi yakın akrabalar arasındaki evlilikler ortalama %20 civarında iken bu oran bölgeler arasında %3 ile %40 arasında değişmektedir. Akraba evliliklerini yerel ve bölgesel düzeyde etkileyen faktörler sosyal, kültürel ve ekonomik değişkenlerdir. Bu çalışmada, bir orta Anadolu şehri olan Kırıkkale’de akraba evliliklerinin oranı, tipleri, evlilik yaşı ve eğitim düzeyi ile ilişkisi ve tıbbi sonuçları incelenmiştir. 
+GEREÇ VE YÖNTEM: Şehrin farklı sosyo-ekonomik bölgelerini temsil edecek şekilde 5 mahalle belirlendi. 1000 aileye anket formları verilip doldurmaları istendi. 691 hanede anne ya da baba ile yapılan görüşmelerde evlilik yaşı, eğitim düzeyleri, aile üyelerinin sağlık bilgileri sorgulandı.  
+BULGULAR: Kırıkkale’de akraba evlilik oranı %20.4 olarak bulundu. Bunların içinde %48.9 gibi yüksek bir oranda 1. kuzenler arasındaki evlilikler tespit edildi. Akraba evlilikleri ile evlilik yaşı, eğitim düzeyleri arasında ters korelasyon izlendi. Örneklemimizde kalıtsal hastalık olgusuyla karşılaşılmadı. SONUÇ: Kırıkkale’de akraba evlilikleri oranı yüksektir. Bu bağlamda, ülkemizde akraba evliliklerini önlemek için ulusal politikalar geliştirilmelidir.
+
+***Anahtar kelimeler: Kan yakını, Akraba evlikleri, Kırıkkale***
+
+**ABSTRACT**  
+OBJECTIVE: Turkey has an estimated population of 80 million, with a young age structure and a moderately high birth rate.  Previous reports have shown that marriages between couples related as second cousins or closer accounts for 20% of the total, varying by region from 3% to 40%.  Social, cultural and economic variables all appear to be important factors in determining local and regional levels of consanguinity. The present study was undertaken to assess the rates and types of consanguineous marriages and their relationship to age at marriage and education level and medical outcomes in the Kırıkkale city, middle Anatolia.  
+MATERIAL AND METHODS: Five different districts of the city representing different socio-economic circumstances. Questionnaires were given to 1000 families. Then interviewed with mother or father, with details on characteristics such as marital age, educational level, the degree of biological relatedness of the parents and health status of the memberships of the 691 families. 
+RESULTS: The overall rate of consanguinity was 20.4% in Kırıkkale.  The principal type of consanguineous marriage recorded was between first cousins, which accounted for 48.9% of all unions. For both sexes of parents, a significant negative association was observed between consanguinity and mean age at marriage and level of education. There was not any hereditary disorder in our small sample population. 
+CONCLUSIONS: Consanguineous marriage frequency was higher in Kırıkkale. In this context, it is important to develop national policies and strategies to prevent consanguineous marriages in Turkey.
+
+***Key words: Consanguinity, Consanguineous marriages, Kırıkkale***
+
+?> *Kuruluş adı: Solmaz Erdem, Zeynep Aytül Çakmak, Meral Saygun, Derya Beyza Sayin Kocakap, Sibel Alyilmaz Bekmez, Funda Bulut Arikan, Kocatepe Tıp Dergisi; 2018, İngilizce*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_35.pdf ':ignore')
+
+***
+
+## Sınırın Yasal “Kaçak”ları: Makedonyalı Kaçak Gelinler
+*MKL_36*
+
+**ÖZET**  
+Türkiye hedefli Balkan göçlerinin, siyasi ve ekonomik sebeplere bağlı olarak geliştiği iddiaları, günümüz şartlarında kapsayıcı bir açıklama olmaktan çıkmıştır. Zira Balkanlardan Türkiye’ye yönelen göçlerin başlıca motivasyonları arasında artık sosyo-kültürel etmenleri de saymak gereklidir. Çalışma, Makedonyalı Türk kadınlarının evlilik aracılığıyla Türkiye’ye göç ettikleri iddiasını ortaya koymaktadır. Buna bağlı olarak da çalışma, Makedonyalı kadınların göç süreç ve göç kararlarını konu edinmekte, kaçarak gelin gelme ve sınır aşarak evlenme gibi iki olgu üzerinden de kaçma ve sınır terimlerine yeni okumaların getirilmesi gerektiği fikrini ileri sürmektedir. Tekirdağ İli, Ergene ilçesine evlilik göçü ile göç etmiş Makedonyalı Türk kadınlar, çalışmanın araştırma topluluğunu oluşturmaktadır. Kadınlarla yarı-yapılandırılmış görüşmeler gerçekleştirilmiştir. Görüşülen 31 göçmen gelin içerisinden sekizi ile ise derinlemesine görüşmeler yapılmış, kaçarak gelin gelme süreçleri ve göç kararları kendi anlatıları üzerinden okunmaya çalışılmıştır. Görüşmelerde elde edilen başlıca bulgular, Balkanların klasik göç kategorilerine kadın göçlerinin eklendiğini, birer gelin olarak kadınların kendi başlarına göç edebildiklerini, göç kararlarında geride bırakılan/gidilen ülkelerin itici/çekici faktörlerinden ziyade ailevi tavır alışların ve/veya uzun süre alan evlilik süreçlerinin etkili olabildiğini göstermektedir.
+
+***Anahtar kelimeler: Balkan göçleri, Kadın evlilik göçleri, Sınır aşırı evlilikler, Kaç(ar)ak evlilik pratiği, Makedonyalı gelin göçmenler***
+
+**ABSTRACT**  
+The claims that migrations from Balkans to Turkey are due to political and economic reasons are not comprehensive regarding conditions today. Socio-cultural factors should also be mentioned as a motivation for migrations from Balkans to Turkey. This study claims that Macedonian Turkish women migrate to Turkey through marriage. Accordingly, the study focuses on Macedonian women’s decision and process of migration and suggests that there is a need for new readings of elopement and borders depending on two notions as running away (elopement) to Turkey to get married and cross border marriages.  The sample of the study is women who migrated to Ergene, Tekirdağ due to their marriages.  The topic of the study is cross-border marriage of these women who eloped to get married. Semi-structured interviews were held with these women. Eight out of thirty-one women interviewed were interviewed in depth. The process of their elopement and their decision to migrate were examined through their narration. Main findings of the interviews show that women migration is added to the Balkans’ classical migration categories, that women can migrate on their own as brides, and that families taking an attitude and/or long process of marriage preparations rather than the push/pull factors of home/destination countries play an important role while taking migration decision.
+
+***Key words: Reverse migration, East Black Sea, Agriculture, Developmental policy, Retirement, Balkan migrantions, Female marriage migrations, Cross-border marriages, Kidnapping/illegal wedding practices, Macedonian bride migrants***
+
+?> *Kuruluş adı: Selda Adiloğlu, Sosyal Politika Çalışmaları Dergisi; 2018, Türkçe*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_36.pdf ':ignore')
+
+***
+
+## Mardin’de Gerçekleştirilen Tercihli ve Geleneksel Evliliklerin Nedenleri ve Evliliğe Karar Verme Süreci  
+*MKL_37*
+
+**ÖZET**  
+Makalede, Mardin ilinde gerçekleştirilen tercihli ve geleneksel evliliklerin, ekonomik ve sosyo-kültürel nedenleri ile evliliklerin gerçekleşmesinde karar verme süreci ele alınmaktadır. Burada tercihli evlilik kavramı, geleneksel toplumlarda çocukların kimlerle evleneceğine, evlenecek bireylerin değil, ailelerinin kararlarının öncelikli olmasına işaret etmektedir. Geleneksel evliliklerde de evlilik kararım verenler genellikle evlenecek bireylerin aileleri olduğu için her iki evlilik biçiminde evliliğe karar verme nedenlerinin ve evlilik kararını kimin/kimlerin aldıklarının ortaya çıkarılması önemlidir. Küreselleşmenin ulusal ve yerel kültürleri düzleştirici etkisine rağmen Mardin'de farklı evlilik biçimlerinin varlığını sürdürmesi dikkat çekmekte, bu durum Mardin'in çok kültürlü yapısını yansıtmaktadır. Araştırılan evlilikler kültürel zenginliği yansıtması açısından önem arz etmektedir. Araştırmada, fenomenolojik nitel yöntem uygulanmıştır. Bu kapsamda Mardin'de on farklı evlilik biçimine ulaşılmış, 11 kadın ve 11 erkek olmak üzere toplam 22 katılımıyla derinlemesine görüşmeler yapılmıştır. Araştırmada din ve geleneğin, aile yaşamını şekillendiren önemli unsurlar olduğu sonucuna ulaşılmıştır. Tercihli ve geleneksel evliliklerin, bireyin karan dışında gerçekleştiği ve bireyin bu durumu kabullendiği görülmüştür. 
+
+***Anahtar kelimeler: Evlilik çeşitleri, Tercihli evlilik, Geleneksel evlilik, Akrabalık, Kültür***
+
+**ABSTRACT**  
+This article aims to reveal not only the economic and sociocultural reasons of the preferential and traditional marriages but also the decision making process; who the decision makers are, their roles and statuses and variables within those marriages, in Mardin. In this research, with preferential marriage, it is indicated that in a traditional society, it is the family not the persons who are going to get married is the decision maker with whom they are going to get married. In traditional marriages, it again the family which is the decision maker. That's why it is really important to fmd out the reasons behind those decisions. This research has been conducted in Mardin/TURKEY and 10 marriage types have been analysed within this scope. It has been understood that Mardin is one of the most precious cities reflecting multiculturalism with several kinds of marriage against globalization. In this sense, marriages in question have great importance to indicate cultural richness in a society. Phenomenological qualitative method has been applied in this research. By taking examples from all marriage types, 11 women and 11 men in total 22 participants have been interviewed in-depth. In this research it is found out that religion and tradition are the essential issues to figure out the family structure. Within the preferential and traditional marriages. The persons who take part in them have already accepted this situation and have no rights in the decision-making process.  
+
+***Key words: Marriage types, Preferential marriage, Traditional marriage, Kinship, Culture***
+
+?> *Kuruluş adı: Hüseyin Günen, Tuğça Poyraz Tacoğlu, Hacettepe Üniversitesi Türkiyat Araştırmaları Enstitüsü; 2017, Türkçe*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_37.pdf ':ignore')
+
+***
+
+## Erken Yaşta Evlendirilen Kadinlarin Evlilik Süreçleri, Deneyimleri ve Sonraki Yaşamlari Üzerine Nitel Bir Çalişma 
+*MKL_38*
+
+**ÖZET**  
+Ataerkil ve geleneksel toplum yapısının hakim olduğu birçok toplumda olduğu gibi Türkiye’de de erken yaşta ve zorla evlilik sorunu hala yaygın biçimde devamlılığını sürdürmektedir. Böyle toplumlarda erken yaşta evlilik, bir toplumsal sorun olarak değil bir gereklilik ve zorunluluk olarak kabul görmektedir. Bu da geleneğe dönüştürülen erken yaşta evliliklerin farklı gerekçelerle devamlılığını sağlayan itici bir güce dönüşmektedir. Erken yaşta evliliklerin temelinde sosyo-ekonomik, kültürel özellikler, gelenekler, görenekler, inançlar, eğitim ve savaşlar bulunmaktadır. Erken yaşta evliliğin yeniden üretilmesini sağlayan en önemli mekanizmalardan biri de ataerkil sistem içinde kadınlara biçilen ve öğretilen toplumsal cinsiyet rolleridir. Toplumda hakim olan kadına yönelik cinsiyetçi bakış açısı, erken yaşta evliliklere çoğunlukla kız çocuklarının maruz kalmasına neden olabilmekte ve bu durum kadınların toplumdaki eşitsiz konumlarını daha da pekiştirmektedir. Erken yaşta ve zorla yapılan evlilikler yalnızca bireyi olumsuz etkilemekle kalmayıp doğrudan toplumu etkileyen önemli bir toplumsal soruna dönüşmektedir. Bu araştırmanın amacı, Van’da erken yaşta ve zorla evlilik yapmış olan kadınların erken yaşta evlilik yapma nedenlerini, evlilik kararının nasıl alındığını, evlilik süreçlerini, erken yaşta evliliğin kadınların hayatlarını nasıl etkilediğini, erken yaşta evlenmelerini nasıl algıladıklarını, deneyimlediklerini ve bu evliliklere kim ya da kimler tarafından onay verildiğini anlamaya çalışmaktır. Bu çalışmada, nitel veri toplama tekniklerinden biri olan derinlemesine görüşme tekniği kullanılarak elde edilecek verilere dayanarak, kadınların evlilik kararlarını etkileyen sosyo-ekonomik ve kültürel faktörlerin neler olduğu, hangi gerekçeler ile evliliklerinin meşrulaştırıldığı, bu meşrulaştırmayı pekiştiren geleneksel pratiklerin neler olduğu, kadınların erken yaşta evliliği yaşamları için bir sorun olarak algılayıp algılamadıkları, erken yaşta evlilik yapmalarının kendileri için hangi sonuçları yarattığı, bugün erken yaşta evliliğe ilişkin nasıl bir farkındalık geliştirdikleri ve buna karşı nasıl mücadele verdikleri kadınların anlatımlarına dayanarak açığa çıkarılmaya çalışılacaktır.
+
+***Anahtar kelimeler: Ataerkil sistem, Erken yaşta evlilik, Evlilik süreçleri, Toplumsal cinsiyet rolleri, Kadın deneyimleri***
+
+**ABSTRACT**  
+Like in many societies where patriarchal and traditional structure is dominant, it is also very common to come across the problem of forced and early marriage in Turkey.  In such societies, early marriage is considered as a necessity and obligation rather than a social problem. This also turns into a driving force that provides the continuity of marriages at early ages. Early marriages are based on socio-economic, cultural characteristics, traditions, customs, beliefs, education and wars. One of the most important mechanisms that enables early marriage to be reproduced is the gender roles that are prescribed and taught to women within the patriarchal system. A sexist view against woman in society can often cause girls to be exposed to early marriages, which further reinforces the unequal status of women in society. Early marriages and forced marriages do not only affect the individual negatively, but they also become an important social problem that directly affects the society.  The purpose of this research is to try to understand why women in early age and forced to marriage in Van have experienced early marriage, how marriage is taken, marriage processes, how early marriage affects women's lives, how they perceive their early marriages and who has been approved those marriages. In this study, based on the data obtained using in-depth interviewing technique, which is one of the qualitative data collection techniques, it is aimed to determine what are the socio-economic and cultural factors affecting marriage decisions of women, which justifications legitimates marriages, what are the traditional practices reinforcing this legitimation, whether women see early marriages as a problem for their life or not,  what consequences they have due to early marriages, what kind of awareness they have of early marriage today and how they fight against it are tried to be revealed with regard to women’s expressions.
+
+***Key words: Patriarchal System, Early Marriage, Marriage Processes, Gender Roles, Woman Experiences*** 
+
+?> *Kuruluş adı: Yasemin Gezer Tuğrul, sosyoloji notları; 2018, Türkçe*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_38.pdf ':ignore')
+
+***
+
+## Evlilik Yoluyla Kadin Göçü ve Türkiye’de “Rus Gelin”lerin Durumu
+*MKL_39*
+
+**ÖZET**  
+Göç yüzyıllardır dünyada bulunan her bir toplumun deneyimlediği, toplumlar üzerinde ekonomik ve kültürel etkiler bırakan önemli bir faktördür. Genel olarak göç literatüründe daha çok erkek göçmenlere odaklanılmış ve kadınlar, ailenin erkek üyelerini takip eden bir göç hareketi olarak bilinen “bağlantılı göç” kapsamında değerlendirilmişler. Fakat kadının ülke dışına göçünü hareketlendiren önemli nedenlerden birisi de yapılan uluslararası evlilikler olmuştur. Türkiye yaklaşık 30 yıldır ağırlıklı olarak eski SSCB ülkelerinden kadın göçü almaktadır. Özellikle Rusya’dan Türkiye’ye evlilik göçü gerçekleştiren Rus kadınların sayısı artmakta, bu durum söz konusu kadınların yerleştikleri kentlerin toplumsal yaşamında değişimlere neden olmaktadır.
+
+***Anahtar kelimeler: Göç, Kadın göçü, Evlilik göçü, Rus gelin***
+
+**ABSTRACT**  
+Migration is an important factor that each society in the world has experienced for centuries and causes economic and cultural effects on societies. Generally, in migration literature it is focused more on male migrants and women are evaluated within the context of "connected migration", which is known as a migrant movement following the male members of the family. But one of the important reasons for the women to move abroad is international marriages. Turkey lets in female immigrants for about 30 years predominantly from the former USSR. In particular, the number of Russian women who performed the marriage migration from Russia to Turkey is increasing, which in turn causes changes in the social life of the cities in which women in question are located.
+
+***Key words: Migration, female migration, Marriage migration, Russian bride***
+
+?> *Kuruluş adı: Ülviye Filiyeva Erkeç, Journal of Social Sciences and Humanities; Türkçe*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_39.pdf ':ignore')
+
+***
+
+## Psikiyatrik Açıdan Evlilik ve Cinsellik
+*MKL_40*
+
+**ÖZET**  
+Psikolojik, sosyal ve biyolojik değișkenlerin etkileșimi içinde șekillenen cinsellik, bu bileșenlerin birindeki ketlenmeyle, ișlevselliğini yitirebilmektedir. Aile ve evlilik terapistleri tarafından cinsel ișlev bozukluğu, zaman zaman ilișkilerdeki bozulmanın sonucunda ortaya çıkan bir semptom olarak ele alınmakta, terapinin kapsamı içinde cinsel ișlevle ilgili alan ihmal edilebilmekte, cinsel ișlev bozukluğu alanında çalıșan terapistlerin ise araștırmalarda olguları tek bașına ele alma eğiliminde olduğu görülmektedir. Cinsel sorunun türü ne olursa olsun, eșlerin birbirleriyle olan iletișimleri, duygu ve düșünce alanında yakınlașma ve paylașımları göz ardı edilmemesi gereken bir noktadır. Fiziksel çekicilik, etkileyicilik, olumlu ve olumsuz tutumlar, evlenme yașı, çocuklar, sosyoekonomik durum, ortak amaç, ilgi alanları ve cinsel ya șam gibi evlilikte mutluluğu belirleyen faktörler, uzun yıllardır araștırmacıların dikkatini çekmektedir. Bu etkenlerin en önemlilerinden birini de cinsellik olușturmaktadır. Son yıllarda, cinsellik ve evlilikte mutluluk arasındaki etkileșime ilișkin veriler üzerinde daha fazla durulmaya bașlanmıștır. Evlilik yașantısı, yiyecek, barınma ve dıș tehlikelere karșı korunmayı sağlayan birlik ve beraberlik, olumlu eș ilișkilerinin yarattığı doyum, cinsel olgunlașmayı sağlayacak rollerin paylașımı, sosyal rol ve sorumlulukları kabullenme, kișisel girișimcilik ve yaratıcılığı desteklemeyi içermektedir. Bu alanlarda birbirini bütünleyen eșlerin olușturduğu evlilikler, toplumsal gelișimin ve olgunlașmanın da yapı tașlarını olușturmaktır. Cinsel ișlev bozukluklarının, eș ilișkilerinde dengeyi korumaya yönelik bir rolü olduğu da ileri sürülmüștür. Buna göre bozukluk eșlerin çok yakın bir ilișki içinde zedelenmelerini engellemekte ve benlik sınırlarını korumalarını da sağlayabilmektedir. Ancak, cinselliğin duygu ve düșünce alanındaki yakınlașmaya olumlu katkıları göz önüne alındığında, cinsel ișlev bozukluğunun, denge sağlamaktan çok ilișkiyi bozucu yönde etki göstereceği söylenebilir. Cinsellik, bireylerde zedelenme ve benliğin sınırının kaybı gibi korkuları içermeyen sağlıklı bir kișilik yapısında yașanabilir. Evlilikte cinsel yașamı çiftin genel iletișiminden ayrı düșünmek mümkün değildir. Dolayısıyla eșler arasında iletișimsizliğin ya da çatıșmaların cinsel ișlevi de etkilemesi beklenen bir durumdur. Cinsel sorunlar da genel çatıșmalara ya da duygusal uzaklașmalara yol açmaktadır. Cinsel ișlev bozukluğu olan erkekler/kadınlar ve eșlerinin evlilik yașamı sağlıklı kontrol grubuna göre daha fazla bozulduğu, sonuç olarak cinsel ișlev bozukluğunun, evlilik yașamını olumsuz yönde etkilediği ortaya konmuștur.Sonuç olarak erkek ve kadın cinsel ișlev bozuklukları ve evlilik yașamının birbiri ile etkileșim içinde olduğu görülmekte, evli cinsel ișlev bozukluğu olgularında, eș ilișkilerinin dikkate alınması ve tedavi sürecine eșlerin de katılması, önemli bir gereklilik olarak ortaya çıkmaktadır.
+
+***Anahtar kelimeler: Cinsel ișlev bozukluğu, Eș ilișkileri, Evlilik doyumu, Cinsel ișlevsellik***
+
+**ABSTRACT**  
+Sexuality, taking on a shape in the interaction of psychological, social, and biological variables, may lose its functionality with the blockage of these components. Sexual dysfunction may be handled as if it is only a symptom being based on the decay of marital relationship in the content of therapy, and sexual dysfunction may be neglected by family and marriage therapists from time to time. Contrarily, sex therapists may show the tendency to handle the problem in aspect of only sexuality. In the relationships of all spouses, thought and emotional intimacy should not be neglected whatever sexual problem they may have. Factors determining happiness such as physical attractiveness, impressiveness, positive and negative attitudes, marriage age, children, socioeconomic conditions, common intentions, and hobbies, sexual life, have attracted the attention of investigators for long time. Most important element among these factors seems to be sexuality. In recent years, researchers have begun to consider interaction between sexuality and marriage much more. Marital life includes food, shelter, togetherness, satisfaction originated from positive marital relationships, sharing role to cause of sexual maturation, acceptance of social role, and responsibility, individual entrepreneurship, and supporting to creativity. Marriage, consisting of spouses completing each other in these fields, is the headstone of social development and maturation. It has been suggested that there is a role of sexual dysfunction in protecting the balance of marital relationships.  According to this suggestion, these disorders may prevent any damage to self and conserve the border of ego. Moreover, we may suggest that sexual dysfunction breaks the marital relationship, removes the protective effect on marital balance if we consider the beneficial effects of sexuality in points of intimacy in thought and emotional fields. Sexuality can be only experienced with healthy personality features which do not include the fear of the loss of ego border and injury. It is not possible to isolate married couple’s general communication and their sexual life. Miscommunication or conflict between married couples may interfere with sexual functioning. Sexual problems also cause general conflict or emotional alienation between couples. The findings from literature clearly present the interaction between male/ female sexual dysfunction and their marital life. Thus, in the treatment of sexual dysfunction among married couples, the marital relationship of couples should be evaluated and the participation of both spouses into therapeutic process need to be achieved.
+
+***Key words: Sexual dysfunction, Marital relationship, Marital satisfaction, Sexual functionality***
+
+?> *Kuruluş adı: Murat Gülsün, Mehmet Ak, Ali Bozkurt, Psikiyatride Güncel Yaklașimlar; 2009, Türkçe*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_40.pdf ':ignore')
+
+***
+
 
 # Politika Dökümanlar
 ***

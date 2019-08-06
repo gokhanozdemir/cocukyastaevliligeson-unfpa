@@ -1,7 +1,7 @@
 * Getting started
 * Afişler
 * adfasdf 
-
+* [Eğitim](EGT.md) 
   * [Quick start](MKL_RHB_RPR_ARS_EYP_BLD_BRS.md)
   * [Writing more pages](more-pages.md)
   * [Custom navbar](custom-navbar.md)
