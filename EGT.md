@@ -113,11 +113,11 @@ Kız Çocukları İçin Bilgilendirme Semineri [Dökümanı İncele](downloads\E
 *EGT_07 Klasör*  
 
 **ÖZET**  
- xxx
+ Afet ve acil durumlarda riskli gruplarla çalışma eğitimleri için bilgi notu, sunu ve ilgili diğer materyallerden oluşan 4 günlük bir eğitim programıdır. 
 
-?> *Kuruluş adı: xxx; 20xx, Türkçe Tema: xxx*  
+?> *Kuruluş adı: UNICEF; Türkçe Tema: Çocuk koruma, Acil durum*  
 
-xxx [Dökümanı İncele](xxx  ':ignore')
+Gün 1, 2, 3, 4 [Dökümanı İncele](downloads\EGT\EGT_07.zip  ':ignore')
 
 ***
 
@@ -209,7 +209,6 @@ Yakın bir döneme kadar gelenekle taşınan bilgi ve deneyimler genç kuşaklar
 Aile Eğitim Programı, program geliştirme ilkelerine bağlı kalınarak özgün bir süreçte geliştirilmiştir. Ülkemizde kendine özgü toplumsal ve kültürel şartları dikkate alınarak hazırlanan Aile Eğitim Programı, bu alandaki kurumsal birikimi esas almaktadır. Programın hazırlanmasında alanında uzman ve yetkin akademisyenlerin tecrübelerinden ve birikimlerinden yararlanılmıştır.
 Hazırlık çalışmaları sürecinde aile eğitimiyle doğrudan veya dolaylı bir biçimde ilişkide olan kamu kurum ve kuruluşlarının, özel sektör temsilcilerinin ve sivil toplum kuruluşlarının tecrübelerinin yanında ailelerin ihtiyaç, beklenti ve talepleri de aynı şekilde belirleyici olmuştur.
 
-?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı ; 2011, Türkçe Tema: xxx*
+?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı; 2011, Türkçe Tema: Çocuk ve Ergen Sağlığı, Aşılama, Beslenme, Ev İçi Hava Temizliği*
 
 [Dökümanı İncele](downloads\EGT\05_03_cocuk-ve-ergen-sagligi.pdf ':ignore')
-

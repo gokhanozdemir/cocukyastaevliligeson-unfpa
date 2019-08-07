@@ -1,6 +1,3 @@
-# Afişler
-***
-
 # Araştırmalar
 ***
 ## Erken Yaşta Evlilikin Toplumsal Meşruiyeti
@@ -481,6 +478,90 @@ Araştırma, mevsimlik tarım göçünden etkilenen 6-14 yaş grubu çocukların
 
 [Dökümanı İncele](downloads\ARS\ARS_13.pdf ':ignore')
 
+***
+
+## A Hidden Reality for Adolescent Girls: Child, Early and Forced Marriages and Unions in Latin America and the Caribbean
+*ARS_14*
+
+**SUMMARY**  
+The research focused on social and gender norms and creatively adapted the Social Norms Analysis Plot (SNAP) methodology developed by CARE. The
+research also relied on semi-structured interviews with girls, members of their families and communities, and government and civil society leaders and experts. The vignettes and interview questions used in the study highlighted key themes of sexuality, choice, decision-making, femininity and masculinity, the transition to adulthood, schooling, employment opportunities, and violence. Each team also reviewed demographic and other quantitative data on the prevalence of child marriage and unions, adolescent pregnancy, rates of school attendance, exposure to violence and early childbearing, and also conducted a scan of relevant policies.
+
+?> *Kuruluş adı: UNFPA, Plan International; İngilizce Tema: Çocuk yaşta, erken ve zorla evlilikler*
+
+[Dökümanı İncele](downloads\addon\ARS_14.pdf ':ignore')
+
+***
+
+## Adölesan Dönemde Evlenen Kadinlarin Üreme Sağliği Davranişlari: Bir Karma Yöntem Çalişmasi
+*ARS_15*
+
+**ÖZET**  
+Bu araştırma, adölesan dönemde evlenen kadınların üreme sağlığı davranışlarını incelemek amacıyla yapılmıştır. Araştırma karma yöntem (mixed research design) olarak Aralık 2017 ve Haziran 2018 tarihleri arasında SBÜ İzmir Tepecik Eğitim ve Araştırma Hastanesi Kadın – Doğum Klinikleri’nde yapılmıştır. Araştırmaya maksimum çeşitlilik örnekleme yöntemi ile nicel bölümüne 245 ve nitel bölümüne 25 kadın alınmıştır. Bu çalışmada, adölesan yaşta evlilik nedeniyle kadınların ciddi üreme sağlığı sorunları yaşadıkları belirlenmiştir.
+
+***Anahtar kelimeler: Adölesanlar, Ebelik, Evlilik yaşı, Güvenli cinsellik, Üreme sağlığı***
+
+**ABSTRACT**
+The aim of this research, to examine reproductive health behaviors of women, who married in adolescence period. The research was contucted as mixed research design, between December 2017 and June 2018 in Health Science University İzmir Tepecik Education and Research Hospital Clinics of Gynecology and Obstetrics. The research was included maximum diversity sampling method, that 245 women were in the quantitive section and 25 women were in the qualitive section. Questionnaire form and semi - structured interview form were used for data collection. Analiysis of data were made with descriptive, descriptive and content analysis methods. Age average of women, who was attended the research, was 26,62 ± 5. It was determined that 77,1% of the women graduated from primary school and 80,0% were housewives, 22,9% have not health insurance. It was determined; 11,29% of the women, who had pregnancy, had hypertension (5,8% had under the age of 19 and first pregnancies), 5,0% had diabetes during pregnancy (1,2% under the age of 19 and first pregnancies) and 9,2% had infection (4,6% had under the age of 19 and first pregnancies). Pregnancy infections; which were genital warts and urinary infections were 36,4%, vaginal infections were 13,6%, dental infections, cytomegalovirus and high fever in pregnancy were 4,5%; were found. In the quantitive part of the study, 41 themes and 120 sub-themes were formed from histories of women’s reproductive health. In this research, women had serious reproductive health problems by the reason of adolescent marriage. Midwifes can contribute to improve women’s health by compherensive inquiring for women’s marriageable age and reproductive health problems during service presentations.
+
+***Key words: Adolescents, Marriage age, Midwifery, Reproductive health, Safe sex***
+
+?> *Kuruluş adı: Ayşegül Dönmez, Aydin Adnan Menderes Üniversitesi Sağlik Bilimleri Enstitüsü Ebelik Anabilim Dali Doktora Programi; 2019, Türkçe Tema: Adölesan evlilikleri, Üreme sağlığı*
+
+[Dökümanı İncele](downloads\addon\ARS_15.pdf ':ignore')
+
+***
+
+## Gender in Society Perception Study KAP Study
+*ARS_16*
+
+**ÖZET**  
+The project "Gender in the perception of society" funded by the United Nations Peacebuilding Fund was initiated and is implemented jointly with the UN Women, UNFPA and IOM in the Kyrgyz Republic. The Study "Gender in the perception of society" provides an opportunity to study comprehensively gender
+perspective in the five areas of the Study: political participation of women; economic empowerment of women; violence against women in the form of bride abduction and underage marriages; religious radicalization of women; participation of women in labor migration.
+
+
+?> *Kuruluş adı: UN Women, UNFPA, IOM, UN Peacebuilding, Stat KG; 2016, İngilizce Tema: Toplumsal cinsiyet eşitliği*
+
+[Dökümanı İncele](downloads\addon\ARS_16.pdf ':ignore')
+
+***
+
+## Gender in Society Perception Study Pillar Research Report: Violence against Women and Girls
+*ARS_17*
+
+**SUMMARY**  
+This pillar research report is part of the Gender in Society Perceptions Study (GSPS) funded by the United Nations Peacebuilding Fund, a joint undertaking of UN Women, UNFPA and IOM in the Kyrgyz Republic and in partnership with the National Statistical Committee of the Kyrgyz Republic. The GSPS is also supported by stakeholders from leading local universities, research institutions. Quantitative and qualitative research was carried out on five topics of key interest to understand gender practices and perceptions in Kyrgyzstan today: women’s political participation, women’s economic empowerment, violence against women and girls in the form of bride kidnapping and child marriages, women’s religious beliefs and practices. 
+
+?> *Kuruluş adı: UN Women, UNFPA, IOM, UN Peacebuilding, Stat KG; 2017, İngilizce Tema: Toplumsal Cinsiyet Eşitliği, Kadına ve Kız Çocuklarına Yönelik Şiddet*
+
+[Dökümanı İncele](downloads\addon\ARS_17.pdf ':ignore')
+
+***
+
+## Tackling the Taboo: Sexuality and Gender-Transformative Programmes to End Child, Early and Forced Marriage and Unions
+*ARS_18*
+
+**ÖZET**  
+This report captures promising gender-transformative work taking place in politically and culturally conservative contexts, including programmes led by grassroots organisations. The findings are meant to be used: 1) as a learning tool for programme implementers, 2) to present gaps and opportunities for future research, and 3) as a tool for advocates to open dialogue with leaders and policymakers about how programming designed to address CEFMU can advance girls’ and women’s greater sexual agency, bodily autonomy, freedom and dignity.
+?> *Kuruluş adı: CARE, CREA, Girls Not Brides, ICRW, IWHC, Promunda, Population Council, Plan International, Global Fund for Women, Nirantar Trust, Greene Works, AJWS; 2019, İngilizce Tema: Çocuk Yaşta Erken ve Zorla Evlilikler ve Birliktelikler, Cinsel Sağlık*
+
+[Dökümanı İncele](downloads\addon\ARS_18.pdf ':ignore')
+
+***
+
+## National Study “Early Unions, Pregnancies and Violation of Rights of Adolescents” 
+*ARS_19*
+
+**SUMMARY**  
+For this study, the gateway to unions was teen pregnancy. This decision was made based on the dffculty to directly approach unions, since they are often hidden and, therefore, unregistered. According to the National Survey on Maternal and Child Health 2008-2009 (ENSMI), there is a high correlation between union and pregnancy. In Guatemala, 88.1% of women who live in union before the age of
+ 18, also had their first child before that age. Therefore, this study sought to approach the topic of unions by monitoring pregnant teens served at first and second level health centers. The year 2012 was taken as reference because the study wished to explore the violation of rights post pregnancy.
+
+?> *Kuruluş adı: FLASCO-Guatemala, UNFPA, Ministry of Public Health and Social Assistance; 2016, İngilizce Tema: Erken yaşta birliktelikler, Erken yaşta gebelik, Hak ihlalleri*
+
+[Dökümanı İncele](downloads\addon\ARS_19.pdf ':ignore')
+
+***
+
 # Bildiriler
 ***
 
@@ -519,6 +600,40 @@ Uluslararası Göç ve Çocuk Sempozyumunda Gülay Acar Yurtman tarafından sunu
 [Dökümanı İncele](downloads\BLD\BLD_03.pdf ':ignore')
 
 ***
+
+## 2019 Dünya Nüfus Günü: Haber Bülteni
+*BLD_04*
+
+**ÖZET**
+Birleşmiş Milletler Kalkınma Programı (UNDP) tarafından, 1989 yılında dünya nüfusunun 5 milyar insana ulaştığı tarih olan "11 Temmuz 1987" tarihi "Dünya Nüfus Günü" olarak kabul edilmiştir. Bu özel günde Birleşmiş Milletler Nüfus Fonu (UNFPA) tarafından nüfusun önemli konularını ele alan bir tema belirlenmekte ve bu temaya ilişkin farkındalık yaratmaya yönelik çalışmalar yapılmaktadır. Bu yıl, UNFPA tarafından Dünya Nüfus Günü'nde, 1994 Uluslararası Nüfus ve Kalkınma Konferansı'nda, 179 hükümetin kabul ettiği "üreme sağlığı, üreme hakları ve cinsiyet eşitliğinin sürdürülebilir kalkınmanın sağlanması için gerekli olduğu" düşüncesinin ve bu konferansta verilen taahhütlerin yerine getirilmesinin gerekli olduğunun vurgulanmasına karar verilmiştir. Bu kapsamda haber bülteninde doğum, evlenme ve toplumsal cinsiyet istatistikleri konusunda temel bilgiler sunulmaktadır.
+
+TUİKin hazırladığı istatistiklar detaylı bir şekilde “2019 Dünya Nüfus Günü: Haber Bülteni İstatistikleri” (IST_02)’da incelenebilir.
+
+**SUMMARY**
+In 1989, UNDP arranged for July 11th, 1987 to become World Population Day to commemorate the world’s population reaching 5 million people. For this special day, UNFPA selects an important topic relating to population and conducts studies in order to raise awareness. This year, UNFPA is focusing on the 1994 International Conference on Population and Development—where 179 governments agreed upon the importance of development that supports reproductive health, reproductive rights, and gender equality—and emphasizing the importance of realizing the commitments made during the conference. Under this thematic umbrella, the news bulletin discusses statistics and presents foundational information relating to birth, marriage, and gender equality.  
+
+The statistics can be examined in more detail in “2019 Dünya Nüfus Günü: Haber Bülteni İstatistikleri” (IST_02). 
+
+?> *Kuruluş adı: Türkiye İstatistik Kurumu; 2019, Türkçe, İngilizce Tema: Doğum, Evlilik, Çocuk Yaşta Evlilik, Toplumsal Cinsiyet*
+
+Haber Bülteni (Türkçe) [Dökümanı İncele](downloads\addon\BLD_04_TK.pdf ':ignore')
+
+News Bulletin (English) [Dökümanı İncele](downloads\addon\BLD_04_EN.pdf ':ignore')
+
+***
+
+## Strengthening Critical Systems to End Child Marriage: UNFPA-UNICEF Global Programme to Accelerate Action to End Child Marriage
+*BLD_05*
+
+**SUMMARY**  
+The Global Programme initiated by UNFPA and UNICEF works closely with health, education, child protection and social protection systems to strengthen quality and cost-effective services that meet the needs of adolescent girls. Strengthening these critical systems, and scaling up government-led interventions, enables the programme to reach millions of adolescent girls and have a meaningful impact on girls’ lives, including delaying marriage and improving their health outcomes
+
+?> *Kuruluş adı: UNFPA-UNICEF; 2019, İngilizce Tema: Çocuk yaşta evlilikler*
+
+[Dökümanı İncele](downloads\addon\BLD_05.pdf ':ignore')
+
+***
+
 
 # Broşürler
 ***
@@ -922,7 +1037,7 @@ Yakın bir döneme kadar gelenekle taşınan bilgi ve deneyimler genç kuşaklar
 Aile Eğitim Programı, program geliştirme ilkelerine bağlı kalınarak özgün bir süreçte geliştirilmiştir. Ülkemizde kendine özgü toplumsal ve kültürel şartları dikkate alınarak hazırlanan Aile Eğitim Programı, bu alandaki kurumsal birikimi esas almaktadır. Programın hazırlanmasında alanında uzman ve yetkin akademisyenlerin tecrübelerinden ve birikimlerinden yararlanılmıştır.
 Hazırlık çalışmaları sürecinde aile eğitimiyle doğrudan veya dolaylı bir biçimde ilişkide olan kamu kurum ve kuruluşlarının, özel sektör temsilcilerinin ve sivil toplum kuruluşlarının tecrübelerinin yanında ailelerin ihtiyaç, beklenti ve talepleri de aynı şekilde belirleyici olmuştur.
 
-?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı ; 2011, Türkçe Tema: xxx*
+?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı ; 2011, Türkçe Tema: Çocuk ve Ergen Sağlığı, Aşılama, Beslenme, Ev İçi Hava Temizliği*
 
 [Dökümanı İncele](downloads\EGT\05_03_cocuk-ve-ergen-sagligi.pdf ':ignore')
 
@@ -1072,6 +1187,35 @@ Prof. Dr. Banu AKADLI GÖÇMEN ve İlknur YÜKSEL KAPTANOĞLU tarafından hazır
 [Dökümanı İncele](downloads\IST\IST_01.pdf ':ignore')
 
 ***
+
+## 2019 Dünya Nüfus Günü: Haber Bülteni İstatistikleri
+*IST_02*
+
+**ÖZET**  
+Doğum, evlenme ve toplumsal cinsiyet istatistikleri konusunda 17 adet istatistik çizelgesini içermektedir.
+
+**SUMMARY**
+Statistics and related tables regarding to birth, marriage, and gender equality can be viewed.  
+
+?> *Kuruluş adı: Türkiye İstatistik Kurumu; 2019, Türkçe, İngilizce Tema: Doğum, Evlilik, Çocuk Yaşta Evlilik, Toplumsal Cinsiyet*
+
+[Dökümanı İncele](downloads\addon\IST_02.xls ':ignore')
+
+***
+
+## Child Marriage: Latest Trends and Future Prospects
+*IST_03*
+
+**SUMMARY**  
+The estimates in this document supersede those in previous publications, as they rely on new data for a number of countries. These include India and Ethiopia, which have recently seen a decline in the prevalence of child marriage, and China, for which data were previously not available in UNICEF’s global databases. These updates have enabled a refinement of the estimation of the magnitude of the practice worldwide, at a slightly lower level than
+estimated in previous years.
+
+?> *Kuruluş adı: UNICEF; 2018, İngilizce Tema: Çocuk yaşta evlilikler*
+
+[Dökümanı İncele](downloads\addon\IST_03.pdf ':ignore')
+
+***
+
 
 # Eğitim Kitleri
 ***
@@ -2403,6 +2547,256 @@ Sexuality, taking on a shape in the interaction of psychological, social, and bi
 
 ***
 
+## Çocuk İhmali ve İstismarı Bağlamında Türkiye’de Çocuk Gelinler Gerçeği
+*MKL_41*
+
+**ÖZET**  
+Bu çalışmanın amacı sosyal politika kavramının önemli bir dinamiğini oluşturan, Türkiye‟de çocuk gelinler kavramıyla daha da somutlaşan çocuk ihmal ve istismarı gerçeğini ortaya koymak, bu probleme yönelik çözüm önerileri geliştirmektir. Çocuk gelin gerçeği Türkiye‟de bir gerçeklik olmanın ötesinde sosyal hayatta karşılaşılan bir travma şekline dönüşmüştür. Özellikle eğitimsizlik, kadının korunma ihtiyacı şeklindeki yanlış tutumlar, katı ve değiştirilemez örfi kurallar, bölgelerin genel kabulleri, hukuki düzenlemelerin tam olarak pratik hayata yansıtılamaması gibi bir dizi neden Türkiye‟de çocuk yaşta evliliklerin engellenememesine neden olmaktadır. Bu yönüyle çalışma üç temel bölümden oluşmaktadır. Çalışmanın birinci bölümünde çocuk ihmali ve istismarı kavramları etraflıca açıklanmıştır. Çalışmanın ikinci bölümünde ise erken evlilik kavramının ortaya çıkış nedenleri ve doğurduğu sonuçlar incelenmiştir. Çalışmanın son bölümünde Türkiye‟de çocuk gelinler gerçeğini yansıtan istatistiki bilgilere yer verilmiştir. Çalışmanın sonucunda çocuk gelinler gerçeğinin Türkiye‟de çocuk ihmal ve istismarının somutlaşmış hali olduğu saptanmıştır.
+
+***Anahtar kelimeler: Sosyal politika, Çocuk ihmali, Çocuk istismarı, Çocuk gelinler, Erken evlilik***
+
+**ABSTRACT**  
+The objective of this study is to reveal child neglect and child abuse that constitutes significant dynamics of social policy concept and that becomes concrete with the conceptual framework of child brides and to find solutions for this problem. The conceptualization of child bride converts into a sort of trauma rather than a reality. Particularly, a range of reasons such as lack of education, wrong attitudes concerning the needs of protection of the women, strict and unchangeable traditional rules, general implementations of different regions, and the deficiency of the reflection of legal rules on the practical life bring about the continuity of the child brides in Turkey. Therefore, the study consists of three parts. In the first part of the study, the concepts of child neglect and abuse was revealed thoroughly. As for the second part, cause and effects of early marriage were exposed to a theoretical analysis. In the last part of the study, statistical data sets that shed light on the reality of child brides in Turkey were given, and depending upon that several deductions were made. As a result of the study, it was found out that the reality of child brides is the concrete form of child neglect and abuse.
+
+***Key words: Social policy, Child neglect, Child abuse, Child brides, Early marriage***
+
+?> *Kuruluş adı: Hasan Yüksel, Mesude Yüksel, Çankırı Karatekin Üniversitesi Sosyal Bilimler Enstitüsü Dergisi; 2014, Türkçe*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_41.pdf ':ignore')
+
+***
+
+## Toplumsal Cinsiyet Rolleri Bağlaminda Türkiye’de Çocuk Gelinleri
+*MKL_42*
+
+**ÖZET**  
+Biyolojik cinsiyet kavramı kadın ve erkek arasındaki biyolojik farklılıkları işaret ederken, toplumsal cinsiyet kavramı ise bu iki cins arasındaki toplumsal farklılıkları içerir. Kadın ve erkeğe toplumsal yapı tarafından biçilen rol ve konumlar üzerinde duran toplumsal cinsiyet tartışmaları, bireylerin kadın ya da erkek olmaları sebebiyle karşı karşıya
+kaldıkları farklı uygulamaları inceler. Zaman ve mekana göre farklılık gösteren bu uygulamaların gündelik yaşamda pek çok yansıması olduğu bilinmektedir. Dünya genelindeki toplumlarda hakim olan ataerkil yapının toplumsal yaşamdaki görünümlerinden biri de toplumsal cinsiyete dayalı ayrımcılık konusudur. Kadına yönelik şiddet başta olmak üzere, farklı tür ve boyutlarda cinsiyetçi uygulamaların varlığını yoğun bir şekilde sürdürdüğü bilinmektedir. Bu çalışmada, cinsiyetler arası ayrımcılık örneklerinden biri olan kız çocuklarının erken yaşta evlendirilmesi konusu incelenmektedir. Çalışma öncelikle toplumsal cinsiyet konusunu farklı yönleriyle analiz etmiş ve ardından toplumsal cinsiyetin bir yansıması olarak çocuk gelin sorununu ele almıştır. Çalışmayı ayrıntılandırırken çocuk yaşta evliliğin sebep ve sonuçlarına değinilmiş ve konuya dair istatistiki bilgilere yer verilmiştir. Kız çocuklarının erken yaşta evlendirilmesi sorununa dair genel bir çerçeve sunmayı amaçlayan bu çalışmanın sonuç bölümünde ise eğitim seviyesinin arttırılması, yoksullukla mücadele yöntemlerinin etkin bir şekilde uygulanması gibi sorunun çözümüne dair çeşitli öneriler sunulmuştur.
+
+***Anahtar kelimeler: Toplumsal cinsiyet, Toplumsal cinsiyet rolleri, Çocuk yaşta evlilik***
+
+**ABSTRACT**  
+Sex refers to the biological differences between man and woman whereas gender refers to the social ones. Gender
+studies focus on the different roles that are attained to man and woman by the society and on the different approaches that
+they face in daily life just because of their sex. This issue, which is known to have several reflections in social life, differs
+depending on time and space. One of the well-known reflections of it is the gender discrimination problems which tend to
+arise as a result of patriarchial structure of most societies. Violence against woman is one example of these discriminative
+behaviors and there exists many others, too. This piece of work handles one of these issues of gender discrimination which is
+child marriages. First of all, the issue of gender is analyzed from different perspectives and then child marriages are put under
+the spotlight. In the body part of the study, the reasons and results of child marriages both in Turkey and in the world are
+depicted by the help of some statistical data. In the conclusion part, some solution alternatives such as supporting the increase
+in education rates and finding out effective ways of fighting with poverty are presented.
+
+***Key words: Gender, Gender roles, Child marriage***
+
+?> *Kuruluş adı: Yrd. Doç. Dr. Elif Kıran, Balkan Sosyal Bilimler Dergisi; 2017, Türkçe*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_42.pdf ':ignore')
+
+***
+
+## Hukuki Boyutuyla Çocuk Gelinler Uluslararası Konferansı
+*MKL_43*
+
+**ÖZET**
+2012'de yapılan çocuk yaşta evlilikler ile ilgili bir konferansın belgesini içermektedir. Sunucular, hem Türkiye'deki hem de başka ülkelerdeki çocuk yaşta ve erken evlilikler ile ilgili durumları anlatıyor ve analiz ediyorlar.
+
+?> *Kuruluş adı: İzmir Ekonomi Üniversitesi Yayınları; 2014, Türkçe Tema: Çocuk yaşta, erken evlilik, Hukuk, Çocuk gelin*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_43.pdf ':ignore')
+
+***
+
+## Evli ve Çocuk Sahibi Çiftlerin Evlilik Uyumu, Evlilik Çatişmasi, Yakin İlişki Düzeyi ve Yalnizlik Düzeylerinin Çocuk Yetiştirme Tutumlari ile İlişkisi
+*MKL_44*
+
+**ÖZET**  
+Bu çalışmada evli ve çocuk sahibi çiftlerin evlilik uyumu, evlilik çatışması, yakın ilişki düzeyleri ve
+yalnızlık düzeylerinin çocuk yetiştirme tutumları ile olan ilişkilerinin incelenmesi amaçlanmıştır.
+Araştırmada Evlilik Uyum Ölçeği (EUÖ), Evlilik Yaşamı Anketi (EYA), Yakın İlişkilerde Yaşantılar
+Anketi (YİYE), UCLA Yalnızlık Ölçeği, Aile Hayatı ve Çocuk Yetiştirme Tutum Ölçeği (PARI)
+kullanılmıştır. Araştırma bulgularında cinsiyet değişkenine göre anlamlı düzeyde bir farklılık
+bulunmamıştır. Oluşturulan aile puanları evlilik süresi, çocuk sayısı ve evlenme türü değişkenlerine göre
+analiz edilmiş ve araştırma değişkenlerinin çeşitli noktalarda çocuk yetiştirme tutumları ile ilişkisi olduğu
+sonucuna ulaşılmıştır.
+
+***Anahtar kelimeler: Evlilik uyumu, Evlilik çatışması, Yakın ilişki düzeyi, Yalnızlık, Çocuk yetiştirme tutumu***
+
+**ABSTRACT**  
+In this study, it is aimed to examine the relation between the levels of marital adjustment, marital conflict,
+affiliation and loneliness of married couples having children and their attitude in child rearing. In the
+research, The Marital Adjustment Scale, Marital Life Survey, Experiences in Close Relationships, UCLA Loneliness Scale, Parental Attitude Research Instrument (PARI) were used. No significant difference was found by sex variable in the research findings. Formed family scores were analyzed by the variables of marriage time, number of children and marriage type, and it was found that the research variables correlate with child rearing attitudes in multiple cases.
+
+***Key words: Marital adjustment, Marital conflict, Loneliness experiences in intimate relations, Child rearing attitudes***
+
+?> *Kuruluş adı: Gökhan Malkoç, Ayşe Sinem Güren, İstanbul Ticaret Üniversitesi Sosyal Bilimler Dergisi; 2017, Türkçe*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_44.pdf ':ignore')
+
+*** 
+
+## Çocuk Bakiminin Kadin İşgücü Üzerinde Etkileri ve Hukuki Düzenlemeler  
+*MKL_45*
+
+**ÖZET**  
+Ülkemizde kadın işsizliği, gelişmiş ülkelere kıyasla daha yüksek oranlardadır. Sorunun temel nedenlerinin araştırılarak kadın istihdamı konusunda olumsuz tablonun kaldırılması için, devletin temel bazı yükümlülükleri üstlenmesi gerekmektedir. Kadın istihdamının önündeki engellerin başında gelen çocuk bakımı yükünün paylaşılarak hafifletilmesi, kadınların çalışma hayatına katılımını arttıracaktır. Kadınların çalışma hayatına katılımını arttırmak, ancak devletin çocuk bakımı konusunda hizmet üretimi ile mümkündür. Çalışan anneler açısından tam gün bakım hizmetinin devlet tarafından sağlanması, özellikle bu konuda yapılan araştırmalarda sorunun çözümüne yönelik en önemli etken olarak önerilmektedir. Bu çalışmada kadın istihdamını etkileyen nedenlerle birlikte duygusal emek olarak tarif edilen çocuk bakımı konusu da incelenmiştir. Toplumsal bakış açısı ile kadının statüsü, çocuk bakımının kadın işgücü üzerindeki etkileri ve konuya ilişkin ülkemizdeki ve diğer ülkelerdeki yasal düzenlemeler karşılaştırmalı olarak ifade edilmiştir.
+
+***Anahtar kelimeler: Çocuk Bakımı, Kadın İstihdamı, Kadın İşsizliği, Bakım Hizmeti, Ücretsiz Aile İşçiliği***
+
+**ABSTRACT**  
+Women's unemployment rate in Turkey is higher than in developed countries. Government needs to take initiatives and responsibility by investigating the main reasons behind this problem in order to resolve this issue about women employment. Childcare is one of the obstacles to women employment and elimination of this burden would increase the involvement of women in work life. As a matter of fact, labor force involvement of mothers who cannot find trustworthy childcare is much lower than men. Increasing the employment of women is possible by providing day care services by the government. According to the previous studies on this topic, the most important factor for solving this problem is providing full day childcare services by the government. Governments providing childcare services will enable raising healthier generations and will also remove the obstacles to women employment.
+
+***Key words: Childcare, Women employment, Women unemployment, Day Care Service, Free Family Labor***
+
+?> *Kuruluş adı: Namik Hüseyinli, Tahire Hüseyinli, Akdeniz Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi; 2016, Türkçe*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_45.pdf ':ignore')
+
+*** 
+
+## Antalya’daki Rus Gelinler: Göçten Evliliğe, Evlilikten Göçe 
+*MKL_46*
+
+**ÖZET**  
+Evlilik, Rusya’dan Turkiye’ye ve ozellikle turizm kenti Antalya’ya goclerde onemli bir nedendir. Rusya’dan Antalya’ya evlilik gocuyle, Antalya’da Rus kadın gocmen sayıları ve gorunurlukleri artmakta, bu durum toplumsal yaşamda belirgin değişimler yaratmaktadır.
+Bu calışmanın temel amacı, Rus kadınlarla Turk erkeklerin arasındaki evlilik gocunun mekanizmasını anlamaktır. Calışmada uluslararası evlilik gocuyle bir turizm kenti olan Antalya’ya yerleşmiş Rus kadınların Antalya’ya goc ve yerleşim surecleri ile Antalya’da meydana getirdikleri değişimler araştırılmaktadır. Calışma, kartopu yontemiyle ulaşılan 25 katılımcıyla gercekleştirilen anket ve derinlemesine goruşmelerden sağlanan bilgilere
+dayanmaktadır. Bu bilgilere gore Rus kadınlar, eşleriyle genellikle Antalya’da tatil icin veya kısa sureli calışma amaclı geldiğinde tanışmaktadır. Rus kadınları evlilik gocune motive eden temel unsur, daha iyi bir yaşama ulaşma isteğidir. Yuksek eğitim seviyesine ve mesleki becerilere sahip ve kısa surede Turkce oğrenen Rus kadınların evlilik gocu; karma yeni
+nesillerin ortaya cıkmasına ve Turk aile yapısından farklı, yeni bir modelin gelişmesine yol acmakta, yerel toplumdaki kadın imajını/imgesini yeniden şekillendirmektedir.
+
+***Anahtar kelimeler: Evlilik göçü, Ulusaşırı göç, Rus kadınlar, Antalya, Türkiye***
+
+**ABSTRACT**  
+Marriage is a major cause of migration from Russia to Turkey, and particularly to the tourism city of Antalya. These marriage migrations increase the number and visibility of Russian migrants, which leads to significant changes in social life. The main motivation for this study is to understand the mechanism of marriage migration between Russian women and Turkish men. It examines the migration and settlement processes of Russian women who have settled in the tourism city of Antalya through international marriage migration, as well as the changes they have brought to the city. The study has been conducted through surveys and in-depth interviews with 25 participants reached via the snowball method. The data suggests that Russian women generally meet their husbands when they visit Antalya on holiday or when they come for short-term work. The main factor that motivates these Russian women to marriage migration is the desire for a better life. The marriage migration of these highly educated Russian women, with professional skills and a natural flair for learning Turkish, leads to a new mixed generation and a new pattern/model of family structure different to the prevalent one in Turkey, thus reshaping the image of women among the local public.
+
+***Key words: Marriage migration, Transnational migration, Russian women, Antalya, Turkey***
+
+?> *Kuruluş adı: Ayla Deniz, E. Murat Özgür, Sosyoloji Dergisi; 2013, Türkçe*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_46.pdf ':ignore')
+
+***
+
+## Çocukların Aile İçi Şiddetten Korunmasında Ailelere Yönelik Girişimler 
+*MKL_47*
+
+**ÖZET**  
+Şiddet, bir çocuğun saygın, onurlu, eşit ve özgür bir birey olarak yaşaması ve kendini gerçekleştire-bilmesinde büyük bir engeldir. Çocuklar ne zaman, nasıl ve kime karşı saldırganlık göstereceklerini öğrenmektedirler. Bu öğrenilenler anne babadan çocuklara aktarılmakla beraber, akran grupların-dan ve kitle iletişim araçlarından da öğrenilmektedir. Şiddet bu şekilde bir döngü haline gelmekte-dir. Bu konuda yapılan çalışmalar ailelere yönelik girişimlerin (danışmanlık ve terapi, kriz ve sosyal yardım girişimleri, ebeveynlik ve çoklu girişimler) çocuklarda davranış sorunları, öfke, şiddet ve güvenlikle ilgili bilgi düzeyi, benlik saygısı, çatışma yönetimi; ailelerde ise psikolojik sıkıntı, ebe-veyn-çocuk etkileşimlerinde empati, ebeveynlik becerileri, psikolojik işlevsellik gibi konularda gelişmeler sağladığı saptanmıştır.
+
+***Anahtar kelimeler: Aile içi şiddet, Çocuk, Koruma***
+
+**ABSTRACT**  
+Violence is the biggest obstacle for living as a respectable, dignity, equal and free individual and for self-actualization of a child. Children learn to show aggression when, how and against whom. Knowledge is transmitted from parents to children as well as children learn it from peer groups and the mass media. It has become a cycle of violence in this way. In studies on this issue, it was deter-mined that interventions for families (counseling and therapy interventions, crisis and outreach interventions, parenting interventions, and multicomponent interventions) provide developments in behavior problems in children, the level of information related security, anger and violence, self-esteem, conflict management, the psychological distress in families, empathy in parent-child interactions, parenting skills and psychological functioning.
+
+***Key words: Domestic violence, Child, Protection***
+
+?> *Kuruluş adı: Ceyda Başoğul, Neslihan Lök, Selma Öncel, Psikiyatride Güncel Yaklaşımlar; 2017, Türkçe*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_47.pdf ':ignore')
+
+***
+
+## Evlilik Göçüyle Türkiye'den Belçika'ya Gelen Gelinler ve Boşanma Sorunu
+*MKL_48*
+
+**ÖZET**  
+Belçika'da yaşayan Türk kökenli ailelerin önemli bir bölümü çocuklarını Türkiye'den evlendirmektedir. Buna bağlı olarak her yıl Türkiye'den göç yoluyla Belçika'ya gelip yerleşen gelin ve damatların sayıları birkaç bini bulmaktadır. Türkiye'den gelen eşlerin çoğunlukla dil, iletişim ve uyum sorunu yaşadıkları gözlenmektedir. Son yıllarda evlilik yoluyla Belçika'ya gelen gelinlerde boşanma oranında artış görülmektedir. Gelinler ve onların yaşantıları hakkında yeterli çalışmalar bulunmamaktadır. Bu bağlamda evlilik yoluyla Türkiye'den Belçika'ya gelen gelinleri tanıma amaçlı farklı zamanlarda iki nitel araştırma gerçekleştirdik. Birinci araştırmamız bize Türkiye'den gelen gelinlerin profillerini tanımlama, evliliklerini ve göçü nasıl yaşadıklarını analiz etme imkanı vermiştir. İkinci araştırmamız ise Türkiye'den gelen evlilikliklerini sürdürememiş ve boşanmış gelinlerin evlilik, göç, boşanma ve boşanma sonrası hayat şartlarını irdelememize ve onların deneyimlerine dayanarak benzer durumda olan gelinlere yönelik farklı öneriler tanımlamamıza yardımcı olmuştur. Boşanmaya çoğunlukla Belçika'da yetişmiş Türk asıllı kocanın birtakım kişisel sorunlarının sebep olduğu, bu çalışmada ortaya koyduğumuz en önemli tespittir. Ayrıca boşanan gelinlerin bu süreçte başkalarına bağımlı kaldıkları, yalnızlık ve çaresizlik duygusu yaşadıkları gözlemlenmiştir. 
+
+***Anahtar kelimeler: Belçika, Evlilik göçü, Gelin, Damat, Terapi evliliği, Boşanma sorunu, Şiddet, Psikolojik yardım***
+
+**ABSTRACT**  
+Most of the Turkish origin families living in Belgium marry their children to a person from Turkey. Therefore, the number of the brides and grooms coming from Turkey to Belgium through migration reaches a few thousands every year. It is observed that the spouses coming from Turkey experience mostly language, communication and rapport problems. Recently, an increase has been seen in the rate of the divorces among the brides coming to Belgium through marriage. There do not exist enough studies about the brides and their lives. In this regard, we carried out two qualitative studies to be familiar with the brides coming from Turkey to Belgium through marriage. The first study has enabled us to define the profiles of the brides coming from Turkey and analyse their marriage and how they experienced the migration. As to the second study, it has giyen us the opportunity to examine the marriage, migration, divorce and post-divorce living conditions of the brides who could not have gone on their marriage and divorced, and has helped us to bring forward some proposals to similar brides depending on their experiences. The most important fmding we specified in this study is that mostly the personal problems of the husband who has been grown up in Belgium gaye way to divorce. In addition, it has been observed that divorced brides are dependent on others, and have the feeling of loneliness and desperation in this process.
+
+***Key words: Belgium, Marriage migration, Bride, Groom, Therapy marriage, Divorce problem, Violence, Psychological help***
+
+?> *Kuruluş adı: Ertuğrul Taş, Haceteppe Üniversitesi Türkiyat Araştırmaları Enstitüsü; 2014, Türkçe*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_48.pdf ':ignore')
+
+***
+
+## Türkiye’den Belçika’ya Damat Göçü ve Psikolojik Etkileri 
+*MKL_49*
+
+**ÖZET**  
+Her yıl çok sayıda kadın ve erkek, Belçika’da yaşayan Türk asıllı gençlerle
+evlenerek aile birleşimi çerçevesinde Türkiye’den Belçika’ya göç etmektedirler. Bu
+kişiler Belçika’ya yerleşmiş göçmen Türkler tarafından “gelinler” ve “damatlar”
+olarak adlandırılmaktadırlar. Kadının kocasının evine gelmesi ataerkil Türk toplumunda
+var olan evlilik ve ata-koca merkezli veya neolokal yerleşim yeri kuralına
+uygundur. Fakat erkeğin karısının evine yerleşmesi söz konusu evlilik ve yerleşim
+yeri kuralını tersine döndürmekte, yerleşim yeri matrilokal ya da kadın merkezli
+yerleşim yerine dönüşmektedir. Damat ve kendisini Belçika’ya getiren eşi bu değişimi
+önceden kestirememektedir. Yerleşim yerinin matrilokal olması erkek için
+psikolojik ve sosyal dengeleri bozucu sonuçlar doğurmaktadır. Erkek, otonomisini
+kaybetmekte, dil ve ekonomik konularda eşine bağımlı kalmaktadır. Bu durum erkeğin
+sosyal reşitliğini kaybettiği “kişi silinmesi” olarak tanımlanmaktadır. Sonuçta
+çok sayıda damatta; psikolojik acı, depresyon, kaygı bozukluğu, cinsiyet kimliğinde
+bozulma, psikotik bozukluklar gibi farklı klinik durumlar gözlemlenmektedir.
+
+***Anahtar kelimeler: Damat, Evlilik yönünün tersine dönmesi, Belçika’ya evlilik göçü, Kişi kimliğinin silinmesi, Psikolojik problemler***
+
+**ABSTRACT**  
+A great number of woman and man migrate to Belgium from Turkey as part of
+family unification by marrying young people of Turkish origin who live in Belgium every year. These people are given name as “brides” and “grooms” by immigrant
+Turks settled in Belgium. The women’s coming to the husband’s house is suited
+to the rule of marriage and ancestor-husband centered or neolocal settlement
+in patriarchal Turkish society. However, settlement of man’s in the house of wife
+reverses the rule of marriage and settlement place, settlement place becomes matrilocal
+or woman-centered settlement. The groom and his wife who brought him to
+Belgium cannot dope out this change. Matrilocalization of the settlement results
+in psychological and social destabilizing consequences especially for man. Man
+loses autonomy and remains dependent on the language and economic issues.
+This situation is defined as the “person’s disappearance” in which the man has
+lost his social status. In the end many grooms are observed different clinical conditions
+such as psychological suffer, depression, anxiety disorder, degeneracy of
+gender identity, psychotic disorders.
+
+***Key words: Groom, Inversion of marriage direction, Marriage migration to
+Belgium, Erasing the person, Psychological problems***
+
+?> *Kuruluş adı: Ertuğrul Taş, Bingöl Üniversitesi Sosyal Bilimler Enstitüsü Dergisi; 2018, Türkçe*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_49.pdf ':ignore')
+
+***
+
+## The Reasons for Women’s Labour Force Non-Participation; Empirical Evidence from Bandirma 
+*MKL_50*
+
+**ÖZET**  
+Kadınların işgücü piyasasına tam katılımının kişisel ve sosyal kalkınmaları için anahtar bir rol oynadığı ve ayrıca ülkenin genel ekonomik etkinliğinin artmasına da katkıda bulunduğu bilinen bir gerçektir. Fakat ülkemizde kadınların işgücü piyasasına katılımları oldukça düşüktür, özellikle Avrupa Birliği ülkeleri arasında en düşük seviyededir. Son istatistiklere göre erkeklerin işgücüne katılım oranı % 71.05 iken, kadınların % 30.8’dir (TUIK, 2015). Türkiye’de kadınların işgücüne katılımı konusunda var olan literatür incelendiğinde daha çok ücretli işgücüne katılım ve bunu etkileyen faktörlerin araştırıldığı görülmüştür (Gedikli, 2014; Dayioglu & Kirdar, 2010; Ercan and et al; 2010; Goksel, 2012, Ilkkaracan, 2012). Kadınların işgücüne piyasasına katılamama nedenleri, ücretli istihdamda yer almayan ve ev kadını olarak nitelendirilen kadınların ekonomik, sosyal ve kültürel özellikleri, beklentileri konusunda yapılan çalışma sayısı oldukça azdır. Bu nedenle bu çalışma Bandırma örneğinden hareketle işgücü piyasasına dâhil olmayan kadınların ekonomik, sosyal ve kültürel özelliklerini ve işgücü piyasasına katılımlarını engelleyen nedenleri araştıracaktır. Mikro düzeyde elde edilen veriler çerçevesinde kadınların çalışmama kararını etkileyen aile, yaş, gelir, eğitim, bağımlı çocuk yaşı, medeni durum ve sosyal ve geleneksel normlar gibi faktörler incelenecektir. Elde edilen verilere göre çocuk bakım sorumlulukları, eğitim, sosyal ve geleneksel normlar çalışma kararını etkileyen en önemli faktörler olarak tespit edilmiştir. Bu çalışmanın amacı elde edilen bulgular ışında Türkiye'de kadınların işgücü piyasasına katılımını artırmak için geliştirilecek politika ve önerilere katkıda bulunmaktır.
+
+***Anahtar kelimeler: Kadın işgücü, İşgücü piyasasına dahil olmayan kadınlar, Türkiye***
+
+**ABSTRACT**  
+As is well known fact that women’s full integration into the labour market plays a key role for their personal and social development and also serves to increase the general economic efficiency of the country. However, Turkish women’s participation in paid work is at the lowest level among the European Union countries. According to the latest official statistics the labour force participation rate is 71.05 % for males and 30.8% for females (TUIK, 2015). The existing literature relating to women’s labour force participation in Turkey is mostly based on analyzing main determinants of the participation decision and the nature and the characteristics of women in labour force (Gedikli, 2014; Dayioglu & Kirdar, 2010; Ercan and et al; 2010; Goksel, 2012, Ilkkaracan, 2012). There has been paid a little attention to the analysis of female labour market inactivity especially the reasons of women’s non-participation in the labour market. Therefore, the purpose of this study is to examine the characteristics of non-working women in Bandirma in Turkey. Using micro level data, we explore the main determinants of non-working decision of women specifically, the role of family age, income, education, dependent child age, marital status, and also social and traditional norms. The results indicate that being married, childcare responsibilities, education, and social and traditional norms are very important factors that affect women’s decision to work. The findings of this study aim o provide useful material for policy makers and researchers to specify policy implication to increase women’s labour participation in Turkey.
+
+***Key words: Women’s labour force non-participation, Gender, Turkey***
+
+?> *Kuruluş adı: Prof. Dr. Serap Palaz, Yönetim ve Ekonomi Araştırmaları Dergisi; 2015, İngilizce*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_50.pdf ':ignore')
+
+***
+
+## Evli Kadin ve Erkeklerde Psikolojik İyi Oluşun Ebeveyn Tutumuna Etkisinin Incelenmesi 
+*MKL_51*
+
+**ÖZET**  
+Bu çalışmada, psikolojik iyi oluşun ebeveyn tutumuna etkisini incelemek amaçlanmaktadır. Araştırma, nicel araştırma modellerinden ilişkisel tarama deseninde tasarlanmıştır. Araştırmada, evli ve 2-6 yaş grubunda çocuğu olan 288 kadro ve 47 erkek ile çalışılmıştır. Demir ve Şendil (2008) tarafmdan geliştirilen "Ebeveyn Tutum Ölçeği", Özmete (2016) tarafmdan geliştirilen, "Evli Kadm ve Erkeklerde Psikolojik İyi Oluş Ölçeği" ve araştırmacı tarafından hazırlanan demografık bilgi formu kullanılmıştır. Elde edilen bulgular sonucunda, psikolojik iyi oluştaki bir birimlik artışın, demokratik ve izin verici ebeveyn tutumlarını artıracağı ve otoriter ebeveyn tutumunu azaltacağı tespit edilmiştir. 
+
+***Anahtar kelimeler: Psikolojik iyi oluş, Ebeveyn tutumu, Çocuk gelişimi***
+
+**ABSTRACT**  
+The aim of this study is analysis of any effect of psychological well-being on parenting styles. Research was designed as relational screening model from quantitative methods. In this research, 288 married women and 47 married men have children who are ages from 2-6 were taken as a sample. In data acquisition, Parents Attitude Scale (PAS) was developed by Demir and Şendil in 2008 and Psychological Well-Being Scale for Married Women and Men were developed by Özmete in 2016 were used. In results, rise one unit of psychological well-being increases democratic parenting styles and permissive parenting styles, although it decreases authoritative parenting style. 
+
+***Key words: Psychological Well-Being, Parenting Styles, Child Development***
+
+?> *Kuruluş adı: Fulya Eroğlu, Hanifi Parlar, İstanbul Ticaret Üniversitesi Sosyal Bilimler Dergisi; 2018, Türkçe*
+
+[Dökümanı İncele](downloads\addon\Health_Research_Index\MKL_51.pdf ':ignore')
+
+***
 
 # Politika Dökümanlar
 ***
@@ -2818,97 +3212,21 @@ TOG faaliyetlerinin çocuk hakları standartlarına uygun biçimde yürütülmes
 *RPR_01*
 
 **ÖNSÖZ**  
-Bir insan dünyaya geldiği andan itibaren sürekli bir gelişim ve değişim içindedir. 
-İstenen ve beklenen de gelişimin ve ilerlemenin olumlu ve sağlıklı bir şekilde olmasıdır. 
-Bebeklik, çocukluk döneminin ardından gelen ergenlik dönemi sihirli, karmaşık ve yorucu bir 
-dönemdir. Bu dönem yaklaşık 12-20 yaşlar arasındadır. 
-Ergenlik bireyin kendisi olmayı öğrendiği, kendisini tanıdığı, kendisine toplumsal bir 
-değer ve rol biçtiği çalkantılı bir dönemdir. Ergenlik ani gelişen öfke nöbetleri, kararsızlıkları, 
-çelişkileri, yoğun güvensizlik duyguları ya da aşırı güven duyguları, herkese ve her şeye karşı 
-olan isyanı, kırılganlığı, ağlama nöbetleri, sık değişen arkadaşları, bunalımları ile tek kelime 
-ile karmaşa demektir. Özgürlüğüne aşırı düşkün ve karşı cinse karşı artan ilgi ve merak ön 
-plandadır. Kısaca ergen fiziksel, ruhsal ve sosyal yönden bir çok değişimle karşı karşıyadır. 
-Bu değişim sırasında da olumlu ya da olumsuz birçok durumla karşı karşıya kalmaktadır. Bu 
-dönemde bazen karşı cinsle kurduğu arkadaşlıkları sonucun da ne olacağını kestiremeden, 
-eğitimini yarım bırakarak, bilinçli/bilinçsiz bir şekilde evlenmek istemektedir. Oysa evlenmek 
-beraberinde birçok rolü, sorunu ve sorumluluğu da beraberinde getirmektedir. Ergen henüz 
-bunun farkında değildir. Sevdiğini düşündüğü kişi ile birlikte olmak onu mutlu etmektedir, 
-onun için önemli olan budur, aile kurmanın sorumluluklarının bilincinde değildir. Oysa 
-kadının, erkeğin, çocuğun, gencin ve yaşlının karşılıklı etkileşim halinde olduğu, sevgi, saygı, 
-adalet, dayanışma, paylaşma, birlik ve beraberlik gibi temel değerlerin öğrenildiği ve 
-geliştirildiği ortamlar olarak tanımlanan aile, ana- baba ve çocuklardan oluşan, ekonomik ve 
-sosyokültürel bütünlüğü içeren bir sistemdir. 
-Evlilik, hukuka ve toplum kurallarına uygun olmak koşuluyla, bireylerin özgür 
-iradeleri ile seçtikleri bir yaşam biçimi ve bireysel bir haktır. Evlenmenin geçerli olarak 
-kurulabilmesi için, evlenecek olan kimselerin kanunda belirlenen yaşı tamamlamış olmaları 
-aranmaktadır. Evlenmek için böyle bir yaş sınırının varlığı, bir yandan tarafların fiziksel 
-açıdan evlenmenin gerektirdiği koşulları sağlayabilmeleri, diğer yandan da fikri olarak 
-evlenmenin mahiyetini ve beraberinde getireceği birtakım sorumlulukları kavrayabilmek için 
-gerekli olgunluğa sahip olabilmeleri açısından zorunludur. 
-Ruhsal, sosyal ve bedensel gelişimini tamamlamamış, kendi yaşamının kontrolünü 
-henüz sağlayamamış, haklarını bilmeyen yüzlerce genç kız, ya kendi istekleriyle ya da ailelerinin zorlaması ile evlenmektedir. Geleneksel toplum yapısı, yoksulluktan kurtulma isteği, yalnızca bir aidiyet arayışı, mevcut durumdan kurtulup daha iyi görüleni tercih etme, 
-köle gibi satılma, yüz yıl öncesinden getirilip halen terk edilemeyen baskılar, bir aşk, kendini 
-ifade etme isteği vb. gibi nedenler gösterilerek erken yaşta yapılan evliliklere her zaman 
-mazeretler bulmaktadır. Her ne sebeple olursa olsun, çocuk haklarına dair sözleşmeye göre 
-çocuğa yönelik uygulanabilecek aksi kanun olmadığı sürece on sekiz yaş altındaki herkes 
-çocuktur. Ergenlik dönemini kapsayan bu sürecin birey gelişiminde özel bir yeri 
-bulunmaktadır. Özellikle 12-18 yaş arasında ilk olarak fizyolojik gelişme gerçekleşirken, daha 
-sonra psikolojik ve toplumsal gelişme gerçekleşmektedir. Çocuklara fiziksel ya da duygusal 
-anlamda yanlış davranılması, cinsel istismar, ilgisizlik ve ihmalkârlık, ayrıca çocukların ticari 
-anlamda ve başka biçimlerde sömürülmesi çocuğa yönelik kötü müdahale olarak 
-değerlendirilmektedir. Çocukluk döneminde yapılan evlilikler de bir istismar olarak kabul 
-edilmektedir. 
-Tüm dünyada erken evlilikler olmaktadır. Dünyada erken evliliklerin nedenlerine 
-bakıldığında ülkeden ülkeye farklılıklar gösterdiği görünmektedir. Ancak genel yargı, erken 
-evliliklerin daha çok geleneksel bir aktarım olduğu ve ataerkil yapıya sahip toplumlarda var 
-olduğu yönündedir. Ülkemizde erken evliliklerin nedenlerine baktığımızda ise daha çok sosyo 
-kültürel, ekonomik nedenler ve eğitim yetersizliği kaynaklı gibi görünse de temelde 
-dünyadaki nedenler gibi geleneksel ve ataerkil toplum yapısından kaynaklı nedenlerle aynıdır. 
-Gelişmemiş ve gelişmekte olan ülkelerde erken evliliklere genelde kız çocuklarının 
-maruz kalmasının altında aslında toplumsal cinsiyet eşitsizliğinin yattığı söylenebilir. 
-Geleneksel toplumların yapısında kadınlar doğuştan hizmet etme, bakım, beslenme işleri gibi 
-ev içi sosyal rollere yönlendirilmektedir. Ataerkil birçok toplumda kadının yeri evi olarak 
-algılandığı için kadının kaç yaşında evlendiğinden ziyade evinin kadınlığını ve eşlik görevini 
-yerine getirebileceğine yönelik inanışlar daha ağır basmaktadır. Bu sosyal yapı içerisinde 
-yetişen kız çocukları özellikle benlik algısının geliştiği dönem olan ergen yaşlarda kendini 
-değersiz hissetmektedir. Dolayısıyla ataerkil düzen ve gelenekler, kadınlara ve genç kızlara 
-evlilik, sosyal haklarını korumaya yönelik mücadele etme şansı tanımamaktadır. 
-Erken evlilik uygulamalarının en yoğun olarak görüldüğü topluluklar genelde eğitim 
-seviyesi ve sosyal, kültürel durum açısından dezavantajlı olan aile ortamlarında olduğu dikkati çekmektedir. Türkiye’de uzun yıllar kız çocuklarının eğitime katılmalarına yönelik 
-kampanyalar, yasal düzenlemeler yapılmasına rağmen özellikle kırsal alanda ve alt sosyal 
-kültürel ortamlarda hala okula devam etme oranlarının düşük olduğu bilinmektedir. 
-Erken evlilikler sonucu birçok fiziksel, ruhsal, sosyal sorunlar ortaya çıkmakta ve 
-özelde kişinin sağlığını, genelde aile ve toplum sağlığını etkilemektedir. Eğitimsizlik, 
-yoksunluk, yoksulluk, şiddet, istismar, erken gebelik ve üreme sağlığı sorunları, anne ve 
-bebek ölüm oranlarında artma ve toplumsal izolasyon gibi sorunların artmasına ve çözüm 
-yollarının azalmasına neden olmaktadır. 
-Genç gebe kadının hem ergenlik çağına, hem evliliğe, hem de annelik rolüne uyumu, 
-üç önemli ve güç olaydır. Erken yaşta evlenme sonucunda bir de gebelik ortaya çıktığında, 
-hem fiziksel gelişim yetersizdir, hem de doğacak bebeğe bakacak bilgi birikimi ve sorumluluk 
-bilinci gelişmemiştir. Bu kadar sorunlu bir durumda anne-baba, doğacak bebek, aile ve 
-toplum etkilenecektir. Kısaca burada zincirleme bir sarmal vardır. Yetersiz eğitim- 
-bilgisizlik-erken evlilik-toplumsal izolasyon- istenmeyen gebelik-riskli gebelik-gebeliğe 
-uyumsuzluk- anemi-beslenme yetersizliği- erken doğum-riskli yeni doğan- anneliğe 
-uyumsuzluk-baş etmede yetersizlik-aile sorunlarında artma-yoksunluk ve yoksullukta artma- 
-aile içi şiddette artma vb. Bu zincirin kırılabilmesi için bilinçlenme, farkındalık yaratma, 
-eğitim süresinin arttırılması, kadının güçlendirilmesi önemlidir. Erken evliliklerin 
-önlenmesinde öncelikle; yasal düzenlemelerin yapılması, çocukların eğitimi, okulda kalma 
-süresinin artırılması, halkın eğitimi, yanlış dini algıların ve geleneksel uygulamaların 
-önlenmesi, erken evliliklerin erken tespit edilmesi, toplumsal cinsiyet eşitliğinin sağlanması 
-ve çözüm ortakları ile işbirliği içinde çalışmaların sürdürülmesi gerekmektedir. Erken 
-evlilikler hakkında toplumu bilinçlendirme ve farkındalık yaratma süreci kesintiye uğramadan 
-sürekli yapılmalıdır. 
-Önemli olan erken evliliklerin gerçekleşmemesidir. Erken evliliklerin 
-gerçekleşmesinin önlenemediği durumlarda ise erken evlenen/evlenecek çiftleri; evlilik 
-sürecinde ortaya çıkabilecek sorunlar hakkında bilgilendirip baş etme becerilerini artırmak, 
-erken yaşta çocuk sahibi olmanın riskleri/ evlilikte üstlenecekleri sorumluluklar hakkında 
-bilinçlendirmek, ilerde sahip olunacak çocuklar için iyi bir anne baba olmaları yönünde 
-bilgilendirmek önemlidir. Ayrıca genç kadınların, cinsel, sosyal, hukuksal, ekonomik hak ve 
-özgürlükleri konusunda farkındalıklarını artırmak, erken evlilik nedeni ile yarım bıraktıkları 
-eğitimlerine devam etmeleri veya meslek edinmeleri konularında yönlendirmek 
-gerekmektedir. Tüm bu gerekçelerle bu projenin yapılması, erken yaşta evlenmek isteyen 
-kadın, erkek ve ailelerinin bilinçlendirilmeleri ve yapılan yanlışın ortaya çıkarılması açısından 
-çok önemli olmuştur. 
+Bir insan dünyaya geldiği andan itibaren sürekli bir gelişim ve değişim içindedir.  İstenen ve beklenen de gelişimin ve ilerlemenin olumlu ve sağlıklı bir şekilde olmasıdır. Bebeklik, çocukluk döneminin ardından gelen ergenlik dönemi sihirli, karmaşık ve yorucu bir  dönemdir. Bu dönem yaklaşık 12-20 yaşlar arasındadır.  Ergenlik bireyin kendisi olmayı öğrendiği, kendisini tanıdığı, kendisine toplumsal bir değer ve rol biçtiği çalkantılı bir dönemdir. Ergenlik ani gelişen öfke nöbetleri, kararsızlıkları,  çelişkileri, yoğun güvensizlik duyguları ya da aşırı güven duyguları, herkese ve her şeye karşı  olan isyanı, kırılganlığı, ağlama nöbetleri, sık değişen arkadaşları, bunalımları ile tek kelime  ile karmaşa demektir. Özgürlüğüne aşırı düşkün ve karşı cinse karşı artan ilgi ve merak ön plandadır. Kısaca ergen fiziksel, ruhsal ve sosyal yönden bir çok değişimle karşı karşıyadır. 
+Bu değişim sırasında da olumlu ya da olumsuz birçok durumla karşı karşıya kalmaktadır. Bu dönemde bazen karşı cinsle kurduğu arkadaşlıkları sonucun da ne olacağını kestiremeden, eğitimini yarım bırakarak, bilinçli/bilinçsiz bir şekilde evlenmek istemektedir. Oysa evlenmek beraberinde birçok rolü, sorunu ve sorumluluğu da beraberinde getirmektedir. Ergen henüz bunun farkında değildir. Sevdiğini düşündüğü kişi ile birlikte olmak onu mutlu etmektedir, 
+onun için önemli olan budur, aile kurmanın sorumluluklarının bilincinde değildir. Oysa kadının, erkeğin, çocuğun, gencin ve yaşlının karşılıklı etkileşim halinde olduğu, sevgi, saygı, adalet, dayanışma, paylaşma, birlik ve beraberlik gibi temel değerlerin öğrenildiği ve geliştirildiği ortamlar olarak tanımlanan aile, ana- baba ve çocuklardan oluşan, ekonomik ve 
+sosyokültürel bütünlüğü içeren bir sistemdir. Evlilik, hukuka ve toplum kurallarına uygun olmak koşuluyla, bireylerin özgür iradeleri ile seçtikleri bir yaşam biçimi ve bireysel bir haktır. Evlenmenin geçerli olarak 
+kurulabilmesi için, evlenecek olan kimselerin kanunda belirlenen yaşı tamamlamış olmaları aranmaktadır. Evlenmek için böyle bir yaş sınırının varlığı, bir yandan tarafların fiziksel açıdan evlenmenin gerektirdiği koşulları sağlayabilmeleri, diğer yandan da fikri olarak evlenmenin mahiyetini ve beraberinde getireceği birtakım sorumlulukları kavrayabilmek için gerekli olgunluğa sahip olabilmeleri açısından zorunludur. 
+Ruhsal, sosyal ve bedensel gelişimini tamamlamamış, kendi yaşamının kontrolünü henüz sağlayamamış, haklarını bilmeyen yüzlerce genç kız, ya kendi istekleriyle ya da ailelerinin zorlaması ile evlenmektedir. Geleneksel toplum yapısı, yoksulluktan kurtulma isteği, yalnızca bir aidiyet arayışı, mevcut durumdan kurtulup daha iyi görüleni tercih etme, köle gibi satılma, yüz yıl öncesinden getirilip halen terk edilemeyen baskılar, bir aşk, kendini 
+ifade etme isteği vb. gibi nedenler gösterilerek erken yaşta yapılanevliliklere her zaman mazeretler bulmaktadır. Her ne sebeple olursa olsun, çocuk haklarına dair sözleşmeye göre çocuğa yönelik uygulanabilecek aksi kanun olmadığı sürece on sekiz yaş altındaki herkes çocuktur. Ergenlik dönemini kapsayan bu sürecin birey gelişiminde özel bir yeri bulunmaktadır. Özellikle 12-18 yaş arasında ilk olarak fizyolojik gelişme gerçekleşirken, daha sonra psikolojik ve toplumsal gelişme gerçekleşmektedir. Çocuklara fiziksel ya da duygusal anlamda yanlış davranılması, cinsel istismar, ilgisizlik ve ihmalkârlık, ayrıca çocukların ticari anlamda ve başka biçimlerde sömürülmesi çocuğa yönelik kötü müdahale olarak değerlendirilmektedir. Çocukluk döneminde yapılan evlilikler de bir istismar olarak kabul edilmektedir. Tüm dünyada erken evlilikler olmaktadır. Dünyada erken evliliklerin nedenlerine bakıldığında ülkeden ülkeye farklılıklar gösterdiği görünmektedir. Ancak genel yargı, erken evliliklerin daha çok geleneksel bir aktarım olduğu ve ataerkil yapıya sahip toplumlarda var 
+olduğu yönündedir. Ülkemizde erken evliliklerin nedenlerine baktığımızda ise daha çok sosyo-kültürel, ekonomik nedenler ve eğitim yetersizliği kaynaklı gibi görünse de temelde dünyadaki nedenler gibi geleneksel ve ataerkil toplum yapısından kaynaklı nedenlerle aynıdır. Gelişmemiş ve gelişmekte olan ülkelerde erken evliliklere genelde kız çocuklarının maruz kalmasının altında aslında toplumsal cinsiyet eşitsizliğinin yattığı söylenebilir. Geleneksel toplumların yapısında kadınlar doğuştan hizmet etme, bakım, beslenme işleri gibi ev içi sosyal rollere yönlendirilmektedir. Ataerkil birçok toplumda kadının yeri evi olarak algılandığı için kadının kaç yaşında evlendiğinden ziyade evinin kadınlığını ve eşlik görevini yerine getirebileceğine yönelik inanışlar daha ağır basmaktadır. Bu sosyal yapı içerisinde yetişen kız çocukları özellikle benlik algısının geliştiği dönem olan ergen yaşlarda kendini değersiz hissetmektedir. Dolayısıyla ataerkil düzen ve gelenekler, kadınlara ve genç kızlara evlilik, sosyal haklarını korumaya yönelik mücadele etme şansı tanımamaktadır. Erken evlilik uygulamalarının en yoğun olarak görüldüğü topluluklar genelde eğitim seviyesi ve sosyal, kültürel durum açısından dezavantajlı olan aile ortamlarında olduğu dikkati çekmektedir. Türkiye’de uzun yıllar kız çocuklarının eğitime katılmalarına yönelik 
+kampanyalar, yasal düzenlemeler yapılmasına rağmen özellikle kırsal alanda ve alt sosyal kültürel ortamlarda hala okula devam etme oranlarının düşük olduğu bilinmektedir. Erken evlilikler sonucu birçok fiziksel, ruhsal, sosyal sorunlar ortaya çıkmakta ve özelde kişinin sağlığını, genelde aile ve toplum sağlığını etkilemektedir. Eğitimsizlik, yoksunluk, yoksulluk, şiddet, istismar, erken gebelik ve üreme sağlığı sorunları, anne ve 
+bebek ölüm oranlarında artma ve toplumsal izolasyon gibi sorunların artmasına ve çözüm yollarının azalmasına neden olmaktadır. Genç gebe kadının hem ergenlik çağına, hem evliliğe, hem de annelik rolüne uyumu, üç önemli ve güç olaydır. Erken yaşta evlenme sonucunda bir de gebelik ortaya çıktığında, 
+hem fiziksel gelişim yetersizdir, hem de doğacak bebeğe bakacak bilgi birikimi ve sorumluluk bilinci gelişmemiştir. Bu kadar sorunlu bir durumda anne-baba, doğacak bebek, aile ve toplum etkilenecektir. Kısaca burada zincirleme bir sarmal vardır. Yetersiz eğitim——bilgisizlik——erken evlilik——toplumsal izolasyon——istenmeyen gebelik——riskli gebelik——gebeliğe 
+uyumsuzluk——anemi-beslenme yetersizliği——erken doğum——riskli yeni doğan——anneliğe uyumsuzluk——baş etmede yetersizlik——aile sorunlarında artma——yoksunluk ve yoksullukta artma——aile içi şiddette artma vb. Bu zincirin kırılabilmesi için bilinçlenme, farkındalık yaratma, eğitim süresinin arttırılması, kadının güçlendirilmesi önemlidir. Erken evliliklerin 
+önlenmesinde öncelikle; yasal düzenlemelerin yapılması, çocukların eğitimi, okulda kalma  süresinin artırılması, halkın eğitimi, yanlış dini algıların ve geleneksel uygulamaların önlenmesi, erken evliliklerin erken tespit edilmesi, toplumsal cinsiyet eşitliğinin sağlanması ve çözüm ortakları ile işbirliği içinde çalışmaların sürdürülmesi gerekmektedir. Erken evlilikler hakkında toplumu bilinçlendirme ve farkındalık yaratma süreci kesintiye uğramadan 
+sürekli yapılmalıdır. Önemli olan erken evliliklerin gerçekleşmemesidir. Erken evliliklerin gerçekleşmesinin önlenemediği durumlarda ise erken evlenen/evlenecek çiftleri; evlilik sürecinde ortaya çıkabilecek sorunlar hakkında bilgilendirip baş etme becerilerini artırmak, erken yaşta çocuk sahibi olmanın riskleri/ evlilikte üstlenecekleri sorumluluklar hakkında 
+bilinçlendirmek, ilerde sahip olunacak çocuklar için iyi bir anne baba olmaları yönünde bilgilendirmek önemlidir. Ayrıca genç kadınların, cinsel, sosyal, hukuksal, ekonomik hak ve özgürlükleri konusunda farkındalıklarını artırmak, erken evlilik nedeni ile yarım bıraktıkları eğitimlerine devam etmeleri veya meslek edinmeleri konularında yönlendirmek gerekmektedir. Tüm bu gerekçelerle bu projenin yapılması, erken yaşta evlenmek isteyen kadın, erkek ve ailelerinin bilinçlendirilmeleri ve yapılan yanlışın ortaya çıkarılması açısından çok önemli olmuştur. 
 
 ?> *Kuruluş adı: Antalya Aile Danışmanları Derneği; 2014, Türkçe Tema: Sosyal hizmet, Adalet, Çocuk yaşta evlilik, Erken yaşta evlilik*
 
@@ -3171,7 +3489,6 @@ Raporumuzun sonuç bölümünde gerekli uyarıları ve önerileri yapmış bulun
 bu ihlaller, çocukların da bağımsız bireyler olduklarını, onların da kendine özgü haklarının olduğunu
 anlamakla sınırlandırılabilir. Tüm uygulamalar “Çocuğun yüksek yararı” göz önüne alınarak planlanırsa ve her aşamada ilgili kişi, kurum ve kuruluşların önerileri dikkate alınırsa çocuklar için daha güzel bir dünya umut etmek kolaylaşacaktı.
 
-
 ?> *Kuruluş adı: Göç ve İnsani Yardım Vakfı; 2015, Türkçe Tema: Çocuk hakları, Çocuk yaşta evlilik*
 
 [Dökümanı İncele](downloads\RPR\RPR_16.pdf ':ignore')
@@ -3398,7 +3715,7 @@ hedefledik.
 *RPR_28*
 
 **ÖZET**  
-xxx
+Suriyeli kız çocukların okullaşmasına ilişkin tespitler ve önerileri içermektedir.
 
 ?> *Kuruluş adı: Mavi Kalem Derneği; 2017, Türkçe Tema: Kız çocukların okullaşması*
 
@@ -3410,26 +3727,11 @@ xxx
 *RPR_29*
 
 **SUNUŞ**  
-Türkiye’de, katılımcılık, saydamlık, hesapverebilirlik gibi iyi yönetişim ilkelerini dikkate
-alan, veriye dayalı eğitim politikalarına duyulan gereksinim devam ediyor. Eğitimle ilgili
-pek çok kilit alanda kapsamlı veri toplanmaması veya toplansa bile kamuoyuyla açık
-biçimde paylaşılmaması, eğitimle ilgili kararların tüm paydaşların görüşleri alınmadan
-ve kamuoyunda yeterince tartışılmadan yürürlüğe konması, Avrupa İnsan Hakları
-Mahkemesi kararlarının uygulanmaması gibi örnekler iyi yönetişim bakımından kat
+Türkiye’de, katılımcılık, saydamlık, hesapverebilirlik gibi iyi yönetişim ilkelerini dikkate alan, veriye dayalı eğitim politikalarına duyulan gereksinim devam ediyor. Eğitimle ilgili pek çok kilit alanda kapsamlı veri toplanmaması veya toplansa bile kamuoyuyla açık biçimde paylaşılmaması, eğitimle ilgili kararların tüm paydaşların görüşleri alınmadan ve kamuoyunda yeterince tartışılmadan yürürlüğe konması, Avrupa İnsan Hakları Mahkemesi kararlarının uygulanmaması gibi örnekler iyi yönetişim bakımından kat
 edecek uzun bir yolumuz olduğunu gösteriyor. ERG olarak 2008’den bu yana
-yayımlamakta olduğumuz Eğitim İzleme Raporları yoluyla, bir yandan eğitimin son bir
-yılındaki gelişmeleri değerlendirirken, bir yandan da veriye dayalı ve katılımcı politika
-yapım kültürünün oluşmasına katkı sunmayı hedefliyoruz.
-Geçmiş raporlar gibi Eğitim İzleme Raporu 2015-16 da pek çok kişi ve kurumun katkısı ve
-görüşü alınarak, Millî Eğitim Bakanlığı ile diğer ulusal ve uluslararası kurumlar
-tarafından paylaşılan veriler kapsamlı olarak analiz edilerek hazırlandı. Geçmiş
-yıllardan farklı olarak bu yıl, ERG içinden ve dışından farklı uzmanlar tarafından
-eğitimin içeriği, öğrenciler ve eğitime erişim, öğrenme ortamları, öğretmenler, yönetişim
-ve finansman başlıklarında beş ayrı arka plan raporu hazırlandı. Eğitim İzleme Raporu
-2015-16 sözü edilen arka plan raporlarından yararlanılarak ve ek incelemeler yapılarak
-son halini aldı. Geçmiş yıllardaki raporlara göre daha kısa ve öz tutmaya gayret ettiğimiz
-raporda eğitim alanındaki gelişmeler yönetişim ve finansman, eğitime erişim ve eğitimin
-niteliği ana eksenlerinde değerlendirildi.
+yayımlamakta olduğumuz Eğitim İzleme Raporları yoluyla, bir yandan eğitimin son bir yılındaki gelişmeleri değerlendirirken, bir yandan da veriye dayalı ve katılımcı politika yapım kültürünün oluşmasına katkı sunmayı hedefliyoruz.
+Geçmiş raporlar gibi Eğitim İzleme Raporu 2015-16 da pek çok kişi ve kurumun katkısı ve görüşü alınarak, Millî Eğitim Bakanlığı ile diğer ulusal ve uluslararası kurumlar tarafından paylaşılan veriler kapsamlı olarak analiz edilerek hazırlandı. Geçmiş yıllardan farklı olarak bu yıl, ERG içinden ve dışından farklı uzmanlar tarafından eğitimin içeriği, öğrenciler ve eğitime erişim, öğrenme ortamları, öğretmenler, yönetişim ve finansman başlıklarında beş ayrı arka plan raporu hazırlandı. Eğitim İzleme Raporu 2015-16 sözü edilen arka plan raporlarından yararlanılarak ve ek incelemeler yapılarak
+son halini aldı. Geçmiş yıllardaki raporlara göre daha kısa ve öz tutmaya gayret ettiğimiz raporda eğitim alanındaki gelişmeler yönetişim ve finansman, eğitime erişim ve eğitimin niteliği ana eksenlerinde değerlendirildi.
 
 ?> *Kuruluş adı: Eğitim Reformu Girişimi; 2016, Türkçe Tema: Okullaşma*
 
@@ -3454,17 +3756,8 @@ Ağırlıklı olarak Asya ve Afrika kıtaları ülke örneklerinden hareketle, �
 
 **ÖNSÖZ**  
 Birleşmiş Milletler(BM) Çocuk Hakları Sözleşmesi(ÇHS) Çerçevesinde yazılan bu “kara” rapor medyaya yansıyan haberlerin izlenmesi sonucu elde edilmiştir. Takip edilemeyen, gözden kaçan, ya da medyaya yansımayan ihlallerin de olduğu düşünüldüğünde bu tablo çocuklar ve toplum adına daha da kararmaktadır. Göç ve İnsani Yardım Vakfı(Göç Vakfı) olarak çocuklarla ilgili izleme çalışması yapma kararı aldığımızda bu kadar zorlu bir süreç yaşayacağımızı ve tablonun bu kadar vahim olacağını hiç birimiz tahmin edemezdik. Bu rapor, özelde tüm kişi ve kurumların, genelde devletin kendini sorgulaması yolunu bir nebze açarsa; bu karanlık biraz daha aydınlanmış ve geleceğe dair umutlarımızı korumuş olacağız.
-Özellikle devlet diyoruz çünkü; Türkiye 1995’ten beri uygulamakla yükümlü olduğu Çocuk Hakları
-Sözleşmesi’ndeki sorumluluklarını tam olarak yerine getirmemektedir. Hem imzaladığı sözleşmede
-taahüt ettiği Fiziki, sosyal, kültürel, ekonomik yükümlülükleri yeterince yerine getirmemekte hem de
-çekince koyduğu ÇHS’nin 17, 29, 30. Maddelerindeki çekinceyi kaldırmayarak evrensel kriterleri ihlal
-etmektedir. Bu çekinceli maddeler çocuğun anadilinde eğitim alması ve azınlıklarla ilgili konulardır. Bu maddelerdeki çekincelerin kaldırılması bile milyonlarca çocuğun haklarının iadesi anlamına gelecektir.
-Raporda da ortaya çıktığı kadarıyla devlet, uygulamayı taahhüt ettiği alanlarda da çok yetersiz
-kalmaktadır. Türkiye ÇHS’deki yükümlülükleri yerine getirmekte; fiziksel ve hukuksak alt yapıyı
-sağlamakta yetersiz kalmaktadır. Yaşam hakkı ihlalleri, Çocuk gelinler, intahar yaşının 7’Ye düşmesi
-TMK mağduru çucuklar, cinsel istismara uğrayan çocuklar vb. noktalar kamuoyunun da son dönemde
-dikkat çektiği konulardır.
-Raporumuzun sonuç bölümünde gerekli uyarıları ve önerileri yapmış bulunuyoruz. Yaşanan bu ihlaller, çocukların da bağımsız bireyler olduklarını, onlarında kendine özgü haklarının olduğunu anlamakla sınırlandırılabilir. Tüm uygulamalar“Çocuğun yüksek yararı” göz önüne alınarak planlanırsa ve her aşamada ilgili kişi kurum ve kuruluşların önerileri dikkate alınırsa çocuklar için daha güzel bir dünya umut etmek kolaylaşacaktır.
+Özellikle devlet diyoruz çünkü; Türkiye 1995’ten beri uygulamakla yükümlü olduğu Çocuk Hakları Sözleşmesi’ndeki sorumluluklarını tam olarak yerine getirmemektedir. Hem imzaladığı sözleşmede taahüt ettiği Fiziki, sosyal, kültürel, ekonomik yükümlülükleri yeterince yerine getirmemekte hem de
+çekince koyduğu ÇHS’nin 17, 29, 30. Maddelerindeki çekinceyi kaldırmayarak evrensel kriterleri ihlal etmektedir. Bu çekinceli maddeler çocuğun anadilinde eğitim alması ve azınlıklarla ilgili konulardır. Bu maddelerdeki çekincelerin kaldırılması bile milyonlarca çocuğun haklarının iadesi anlamına gelecektir. Raporda da ortaya çıktığı kadarıyla devlet, uygulamayı taahhüt ettiği alanlarda da çok yetersiz kalmaktadır. Türkiye ÇHS’deki yükümlülükleri yerine getirmekte; fiziksel ve hukuksak alt yapıyı sağlamakta yetersiz kalmaktadır. Yaşam hakkı ihlalleri, Çocuk gelinler, intahar yaşının 7’Ye düşmesi TMK mağduru çucuklar, cinsel istismara uğrayan çocuklar vb. noktalar kamuoyunun da son dönemde dikkat çektiği konulardır. Raporumuzun sonuç bölümünde gerekli uyarıları ve önerileri yapmış bulunuyoruz. Yaşanan bu ihlaller, çocukların da bağımsız bireyler olduklarını, onlarında kendine özgü haklarının olduğunu anlamakla sınırlandırılabilir. Tüm uygulamalar“Çocuğun yüksek yararı” göz önüne alınarak planlanırsa ve her aşamada ilgili kişi kurum ve kuruluşların önerileri dikkate alınırsa çocuklar için daha güzel bir dünya umut etmek kolaylaşacaktır.
 
 ?> *Kuruluş adı: Göç Vakfı; 2014, Türkçe Tema: Çocuk hakları, Çocuk yaşta evlilik*
 
@@ -3489,7 +3782,7 @@ belli yaş gruplarında kadınlarla birebir görüşmelerde bulunuldu. Tüm bu v
 *RPR_33*
 
 **ÖZET**  
-Ev içi şiddete maruz kalan kaıdnların başvurduğu kuruluşlarda yaşadığı sorunlara  ilişkin tespit ve verileri  içermektedir.
+Ev içi şiddete maruz kalan kaıdnların başvurduğu kuruluşlarda yaşadığı sorunlara ilişkin tespit ve verileri içermektedir.
 
 ?> *Kuruluş adı: Kadın Dayanışma Vakfı; 2017, Türkçe Tema: Kadına yönelik şiddet, Mekanizmalar*
 
@@ -3526,13 +3819,10 @@ Eşcinsel ve Biseksüel Erkek Seks İşçilerinin gündelik hayatta karşılaşt
 
 **SUNUŞ**  
 “Türkiye’de Geçici Koruma Altında Suriyeliler ve Seks İşçiliği”, Kırmızı Şemsiye Cinsel Sağlık ve İnsan Hakları Derneği’nin Birleşmiş Milletler Nüfus Fonu Türkiye Ofisi’nin desteği ile yürüttüğü ve Suriyeli seks işçilerinin cinsel sağlık ve üreme sağlığı durumu ile insan hakları standartlarının iyileştirilmesini hedefleyen proje kapsamında hazırlanan ve içeriği itibarı ile bir ilk niteliği taşıyan önemli bir rapordur.
-Türkiye’de geçici koruma statüsü sahibi olan Suriyelilerin seks işçiliği sektörü ile ilişki-
-sine dair, 2011’de ilk defa başlayan göç sürecinden bu yana birçok haber yapılmıştır. Bu haberlerin önemli bir çoğunluğu, Türkiye kamuoyunda ve konu ile ilgili politika üreten ve uygulayan yetkili kurum ve kuruluşlar arasında “fuhuş batağında Suriyeliler” algısını oluşturmuştur. Diğer bir deyişle, özellikle Suriyeli kadınlar ve kız çocuklarının seks işçiliği sektörü veya ticari cinsel sömürü ağlarındaki konumlarına dair haberler çoğalmıştır. Bu haberlerin artması, Türkiye Cumhuriyeti vatandaşları arasında Suriyelilerin kamu düzenini bozduğu veya halk sağlığı açısından zararlı unsurlar olduğuna dair inancı da arttırmıştır. Seks işçiliği, çocukların ticari cinsel sömürüsü veya insan ticareti konuları, Suriyelilerin dahil olduğu veya dahil olduğu iddia edilen diğer kriminal fiiller de eklendiğinde, Suriyelilere karşı oluşan yabancı düşmanlığının seviyesinin artmasına sebep olmuştur. Bahsi geçen
-yabancı düşmanlığının, ekonomik birtakım çıkar çatışmalarının da etkisiyle, T. C. vatandaşı
+Türkiye’de geçici koruma statüsü sahibi olan Suriyelilerin seks işçiliği sektörü ile ilişkisine dair, 2011’de ilk defa başlayan göç sürecinden bu yana birçok haber yapılmıştır. Bu haberlerin önemli bir çoğunluğu, Türkiye kamuoyunda ve konu ile ilgili politika üreten ve uygulayan yetkili kurum ve kuruluşlar arasında “fuhuş batağında Suriyeliler” algısını oluşturmuştur. Diğer bir deyişle, özellikle Suriyeli kadınlar ve kız çocuklarının seks işçiliği sektörü veya ticari cinsel sömürü ağlarındaki konumlarına dair haberler çoğalmıştır. Bu haberlerin artması, Türkiye Cumhuriyeti vatandaşları arasında Suriyelilerin kamu düzenini bozduğu veya halk sağlığı açısından zararlı unsurlar olduğuna dair inancı da arttırmıştır. Seks işçiliği, çocukların ticari cinsel sömürüsü veya insan ticareti konuları, Suriyelilerin dahil olduğu veya dahil olduğu iddia edilen diğer kriminal fiiller de eklendiğinde, Suriyelilere karşı oluşan yabancı düşmanlığının seviyesinin artmasına sebep olmuştur. Bahsi geçen yabancı düşmanlığının, ekonomik birtakım çıkar çatışmalarının da etkisiyle, T. C. vatandaşı
 olan bazı seks işçileri arasında bile ortaya çıkabildiği tespit edilmiştir.
 Suriyeli seks işçilerine yönelik “çaresizlik içerisindeki mağdurlar” algısının toplum içerisinde ve kamu kurum ve kuruluşlarındaki baskın etkisine rağmen, çalışma boyunca tespit edilen gerçekliklerden biri de, Suriyeli seks işçilerinin bir kısmının sektöre kendi istekleri ile girdikleri veya zaten Suriye’den gelmeden önce seks işçiliği yapıyor olduğudur. Bu gerçeklik, çalışmada tespit edilen sorun alanları ve ihtiyaçların değerlendirilmesi sürecinde tek taraflı bir bakış açısı yerine, sektördeki tüm öznelerin sektöre giriş sebepleri ve arka planlarına dair kapsamlı bir anlayışa sahip olunması gerektiğini göstermektedir.
-Kırmızı Şemsiye Cinsel Sağlık ve İnsan Hakları Derneği, Türkiye’de yaşayan Suriyeliler ara-
-sında vuku bulan seks işçiliğinin doğasını tespit etmek ve bugüne dek haberlere yansıyan olguların doğruluğunu ölçmek maksadıyla bir alan çalışması gerçekleştirmiştir. Bu alan çalışmasının gerçekleştirilmesindeki sebeplerden biri de, konu seks işçiliği olduğunda ortaya çıkan önyargılı düşünceler ve bu düşüncelerin sebep olduğu yanlış bilgi üretiminin kamuoyu ve ilgili yetkilileri yanlış yönlendirme ihtimalidir.
+Kırmızı Şemsiye Cinsel Sağlık ve İnsan Hakları Derneği, Türkiye’de yaşayan Suriyeliler arasında vuku bulan seks işçiliğinin doğasını tespit etmek ve bugüne dek haberlere yansıyan olguların doğruluğunu ölçmek maksadıyla bir alan çalışması gerçekleştirmiştir. Bu alan çalışmasının gerçekleştirilmesindeki sebeplerden biri de, konu seks işçiliği olduğunda ortaya çıkan önyargılı düşünceler ve bu düşüncelerin sebep olduğu yanlış bilgi üretiminin kamuoyu ve ilgili yetkilileri yanlış yönlendirme ihtimalidir.
 Suriyeli seks işçilerinin cinsel sağlık ve üreme sağlığı durumu ile genel sağlık durumunun tespiti de bu yayının hazırlanmasındaki diğer öncelikli konudur. Suriyeli seks işçilerinin sektör içerisindeki çalışma koşulları, bu çalışma koşullarının Suriyeli seks işçilerinin cinsel sağlık ve üreme sağlığına etkisi, geçici koruma statüsü ile ilişkili mevzuat ve seks işçiliği ile ilişkili mevzuatın Suriyeli seks işçilerinin hem sağlık hem de insan hakları standartları üzerindeki etkisi ve Suriyeli seks işçilerinin cinsel sağlık ve üreme sağlığı durumunun iyileştirilmesi ve dolayısıyla genel sağlığın korunması ve geliştirilmesi gibi konular bu yayında detayları ile ele alınmıştır.
 Bu rapor, Suriyeli seks işçilerinin gündelik yaşam koşulları, kendilerini çevreleyen hak ih-
 lalleri, bu ihlallere karşı geliştirdikleri stratejiler, cinsel sağlık ve üreme sağlığı başta olmak üzere genel sağlık durumları, kendilerini çevreleyen mevzuat ve politikalar ile toplumsal algı ve son olarak Suriyeli seks işçilerinin hem yaşam hem de çalışma koşullarının iyileştirilmesi için çözüm önerilerini gündeme taşımaktadır.
@@ -3572,6 +3862,60 @@ KADEM tarafından2014 yılında gerçekleştirilen erken yaşta evlilikin önlen
 ?> *Kuruluş adı: KADEM; 2014, Türkçe Tema: Erken yaşta evlilik*
 
 [Dökümanı İncele](downloads\RPR\RPR_38.pdf ':ignore')
+
+***
+
+## The Economic Impacts of Child Marriage: Global Synthesis Report
+*RPR_39*
+
+**ÖZET**  
+Uluslararası toplumu gittikce çocuk yaşta evliliğin çok çeşitli kalkınma sonuçları üzerindeki olumsuz etkilerinden haberdar. Çocuk evliliğini sona erdirmek artık Sürdürülebilir Kalkınma Hedeflerinin bir parçası olarak dahil edildi. Bu uygulamayıcom sonlandırmak amaçıyla yapılan yatırımlar dünya seviyesinde sınırlı ve yetersiz kalıyor ve daha fazla yapılabilir. Çocuk evliliğinin sona ermesine yönelik daha fazla taahhüt vermek için bu çalışma bu uygulamanın ve ilişkili ekonomik olumsuz etkilerini göstermektedir. Çalışma beş etki alanına bakıyor: (i) doğurganlık ve nüfus artışı; (ii) sağlık, beslenme ve şiddet; (iii) eğitim kazanma ve öğrenme; (iv) işgücüne katılım ve kazançlar; ve (v) katılım, karar alma ve yatırımlar. Etkilerle ilgili ekonomik maliyetler, etkilerin birçoğu için tahmin edilmektedir. Ülkeler arasında birlikte bakıldığında, çocuk evliliğe bağlı maliyetleri çok yüksek. Çocuk evliliğini sona erdirmek için yatırım yapmanın sadece doğru değil ama aynı zamanda ekonomik olarak da anlamlı olduğunu söylüyorlar.
+
+***Key words: Çocuk yaşta evlilik, Ekonomik maliyet, Erken doğumlar, Eğitim, Sağlık***
+
+**ABSTRACT**  
+The international community is increasingly aware of the negative impacts of child marriage on a wide range of development outcomes. Ending child marriage is now part of the Sustainable Development Goals. Yet investments to end the practice remain limited across the globe and more could be done. In order to inspire greater commitments towards ending child marriage, this study demonstrates the negative impacts of the practice and their associated economic costs. The study looks at five domains of impacts: (i) fertility and population growth; (ii) health, nutrition, and violence; (iii) educational attainment and learning; (iv) labor force participation and earnings; and (v) participation, decision-making, and investments. Economic costs associated with the impacts are estimated for several of the impacts. When taken together across countries, the costs of child marriage are very high. They suggest that investing to end child marriage is not only the right thing to do, but also makes sense economically.
+
+***Key words: Child marriage, Economic cost, Early childbirths, Education, Health***
+
+?> *Kuruluş adı: World Bank, ICRW, CIFF, Bill and Melinda Gates Foundation, Global Partnership for Education; 2017, İngilizce*
+
+[Dökümanı İncele](downloads\addon\RPR_39.pdf ':ignore')
+
+***
+
+## Lessons Learned from National Government-led Efforts to Reduce Adolescent Pregnancy in Chile, England and Ethiopia
+*RPR_40*
+
+**ÖZET**  
+Materyal (slaytlar ve rapor) Şili, Etiyopya ve İngiltere hükümetlerinin, adolesan gebeliklerini, çocuk yaşta evlilikleri ve zorla cinsel birliktelikleri önlemede hangi yolları izlediğini ve bu süreçlerden hangi dersleri çıkardığını gösteriyor.
+
+**SUMMARY**
+The materials (a presentation and a report) provide information regarding the prevention of adolescent pregnancy, child marriages, and forced sexual relations in the context of the approaches of the governments of Chile, England, and Ethiopia and the lessons realized during the processes. 
+
+?> *Kuruluş adı: UNFPA, WHO, Universities; 2019, İngilizce Tema: Adölesan gebelikler, Cinsel sağlık, Üreme sağlığı*
+
+Rapor/Report [Dökümanı İncele] (downloads\addon\RPR_40_rpr.pdf ':ignore')
+Slaytlar/Presentation [Dökümanı İncele] (downloads\addon\RPR_40_slt.pdf ':ignore')
+
+***
+
+## 2017 Annual Report: UNFPA-UNICEF Global Programme to Accelerate Action To End Child Marriage
+*RPR_41*
+
+**ÖZET**  
+Bu rapor UNFPA-UNICEFin birlikte yürütüğü Global Programme to Accelerate Action to End Child Marriage (Çocuk Evlilikleri Sona Erdirmek İçin Çalışmaları Hızlandırmak Amaçla) açıklıyor ve değerlendiriyor.  
+Önemli ölçüde kalıcı bir değişim sağlamak için, Global Program hükümetlerin mülkiyeti ve çocuk evliliğini sonlandırma konusundaki taahhüdünü geliştirmeye devam etti. Global Program, çok sektörlü yaklaşımları destekledi; 12 ülkeden beşi, Birleşmiş Milletler Çocuklara Yardım Fonu (UNICEF) ve Birleşmiş Milletler Nüfus Fonu'nun (UNFPA) birlikte çalıştığı coğrafi alanların sayısını artırdı. Tüm ülkeler, diğer sektörlerin, kurumların, platformların ve sistemlerin kapasitelerini ve kaynaklarını kullanma çabalarını çeşitlendirdi. Global Program şu anda 276 uygulayıcı ortak ve 92 başka ortakla çalışmaktadır. 
+Genel olarak, program yolda ve çoğu çıktı hedefine ulaşılmış veya aşılmıştır. 
+
+
+**SUMMARY**  
+This report discusses and evaluates the UNFPA-UNICEF Global Programme to Accelerate Action to End Child Marriage. 
+To achieve lasting change at significant scale, the Global Programme continued to build government ownership and commitment towards ending child marriage. The Global Programme promoted multisectoral approaches, with five out of 12 countries increasing the number of geographic areas where United Nations Children’s Fund (UNICEF) and United Nations Population Fund (UNFPA) are working together. All countries diversified their efforts to leverage capacities and resources of other sectors, institutions, platforms and systems. The Global Programme currently works with 276 implementing partners and 92 other partners. Overall, the programme is on track and most output targets were achieved or exceeded.  
+
+?> *Kuruluş adı: UNFPA, UNICEF; 2017, İngilizce Tema: Çocuk yaşta evlilik*
+
+[Dökümanı İncele](downloads\addon\RPR_41.pdf ':ignore')
 
 ***
 
@@ -3655,7 +3999,6 @@ Erken yaşta evlilikin sonuçlarına ilişkin temel bilgi ve mesajları içermek
 
 ***
 
-
 # Strateji belgeleri 
 ***
 
@@ -3668,6 +4011,25 @@ Erken yaşta evlilikin sonuçlarına ilişkin temel bilgi ve mesajları içermek
 ?> *Kuruluş adı: Çocuk Vakfı; 2012, Türkçe Tema: Çocuk hakları*
 
 [Dökümanı İncele](downloads\STR\STR_01.pdf ':ignore')
+
+***
+
+## Kurumlar-Arasi Çocuk Evlilikleri Kilavuz Notu: Müdahale Yöntemleri ve Önleyici Tedbirler
+*STR_02*
+
+**ÖZET**  
+Bu bilgi notu, Istanbul’da çocuk evlilikleri üzerine çalışan paydaşların, Aile, Çalışma ve Sosyal Hizmetler İl Müdürlüğü, İl Göç İdaresi Müdürlüğü, mülteci alanında çalışan sivil toplum kuruluşları ve Birleşmiş Milletler kuruluşlarının katıldığı koruma koordinasyon toplantısında ortaya çıkan ihtiyaç sonucunda hazırlanmıştır. Bu bilgi notunun amacı, Koruma sektörünün önderliğinde, sahadaki sivil toplum kuruluşlarının bireysel çocuk evlilikleri vakalarına yapacakları müdahalelerinde standart ve bütüncül bir bakış açısı ile ilerlemelerinin sağlanması; ‘Zarar vermeme’ ilkesi ile de bağlantılı olarak, mevcut yasal çerçeveden doğan yükümlülüklerin netleştirilmesi; Çocuk evliliklerinin önlenmesi kapsamında etkili ve hedefli bir sistemin kurgulanması.
+
+*SUMMARY*
+This backgrounder was created to address the needs established by a protection coordination meeting in Istanbul attended by partners working on child marriages: Provincial Directorate of Family, Labor and Social Services, Provincial Directorate of Migration Management, working with refugees, and UN organizations. The purpose of the document is, under the leadership of the protection sector, to work with civil society organizations to establish a standardized and holistic perspective in the way these organizations intervene in individual cases of child marriages; connected with the policy of “Do no harm”, to clarify the liabilities stemming from the current legal framework; to construct an effective and targeted system for the prevention of child marriages.       
+
+?> *Kuruluş adı: Inter-Agency Coordination Turkey; 2018, Türkçe, İngilizce Tema: Çocuk Yaşta evlilikler, Çocuk evlililkleri*
+
+Kurumlar-Arasi Çocuk Evlilikleri Kilavuz Notu (Türkçe) [Dökümanı İncele](downloads\addon\STR_02_TK.pdf ':ignore')
+Kurumlar-Arasi Çocuk Evlilikleri Kilavuz Notu: Ekler (Türkçe) [Dökümanı İncele](downloads\addon\STR_02_TK_EKLER.pdf ':ignore')
+
+Inter-Agency Guidance Note on Child Marriages: Measures for Prevention and Response (İngilizce) [Dökümanı İncele](downloads\addon\STR_02_EN.pdf ':ignore')
+Inter-Agency Guidance Note on Child Marriages: Annexes (İngilizce) [Dökümanı İncele](downloads\addon\STR_02_EN_ANNEX.pdf ':ignore')
 
 ***
 

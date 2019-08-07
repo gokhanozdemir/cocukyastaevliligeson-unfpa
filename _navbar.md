@@ -1,11 +1,38 @@
-* Getting started
-* Afişler
-* adfasdf 
-* [Eğitim](EGT.md) 
-  * [Quick start](MKL_RHB_RPR_ARS_EYP_BLD_BRS.md)
-  * [Writing more pages](more-pages.md)
-  * [Custom navbar](custom-navbar.md)
-  * [Cover page](cover.md)
+* [Bütün Materyaller](ARS_BLD_BRS_DRG_EGT_EYP_FLM_IST_KIT_KTP_LTR_MKL_PLT_RHB_RPR_SLT_SPT_STR_YON_EKLER.md) 
+ 
+* [Akademik](Akademik_ARS_DRG_IST_LTR_MKL.md) 
+  * [Araştırmalar](Arastirmalar.md)
+  * [Dergiler](Dergiler.md)
+  * [İstatistikler](Istatistikler.md)
+  * [Literatür Taramaları](Literatur_Taramasi.md)
+  * [Makaleler](Makaleler.md)
+
+* [Eğitim](Egitim_EGT_KIT_KTP_RHB.md) 
+  * [Eğitim Kitabları ve Materyalleri](EGT.md)
+  * [Eğitim Kitler](Kitler.md)
+  * [Kitaplar ve Kitapçıklar](Kitaplar_Kitapciklar.md)
+  * [Rehberler](Rehberler.md)
+
+* [Örnek ve Politika Belgeler](Akademik_ARS_DRG_IST_LTR_MKL.md) 
+  * [Araştırmalar](Arastirmalar.md)
+  * [Dergiler](Dergiler.md)
+  * [İstatistikler](Istatistikler.md)
+  * [Literatür Taramaları](Literatur_Taramasi.md)
+  * [Makaleler](Makaleler.md)
+
+* [Yazısız](Akademik_ARS_DRG_IST_LTR_MKL.md) 
+  * [Araştırmalar](Arastirmalar.md)
+  * [Dergiler](Dergiler.md)
+  * [İstatistikler](Istatistikler.md)
+  * [Literatür Taramaları](Literatur_Taramasi.md)
+  * [Makaleler](Makaleler.md)
+
+* [Bilgilendirici](Akademik_ARS_DRG_IST_LTR_MKL.md) 
+  * [Araştırmalar](Arastirmalar.md)
+  * [Dergiler](Dergiler.md)
+  * [İstatistikler](Istatistikler.md)
+  * [Literatür Taramaları](Literatur_Taramasi.md)
+  * [Makaleler](Makaleler.md)
 
 * Configuration
   * [Configuration](configuration.md)
