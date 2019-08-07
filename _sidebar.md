@@ -1,31 +1,30 @@
-- [Hızlı Başla!](/)
+* [Bütün Materyaller](ARS_BLD_BRS_DRG_EGT_EYP_FLM_IST_KIT_KTP_LTR_MKL_PLT_RHB_RPR_SLT_SPT_STR_YON_EKLER.md) 
 
-- [Önsöz](foreword)
+* [Akademik](Akademik_ARS_DRG_IST_LTR_MKL.md) 
+  * [Araştırmalar](Arastirmalar.md)
+  * [Dergiler](Dergiler.md)
+  * [İstatistikler](Istatistikler.md)
+  * [Literatür Taramaları](Literatur_Taramasi.md)
+  * [Makaleler](Makaleler.md)
 
-- Başlangıç
-  - [Kayıt Ol](registration)
-  - [Giriş Yap](login)
+* [Eğitim](Egitim_EGT_KIT_KTP_RHB.md) 
+  * [Eğitim Kitabları ve Materyalleri](EGT.md)
+  * [Eğitim Kitleri](Kitler.md)
+  * [Kitaplar ve Kitapçıklar](Kitaplar_Kitapciklar.md)
+  * [Rehberler](Rehberler.md)
 
-- Formlar
-  - [Veri Giriş Ekranı](select-form)
-  - [Faydalanıcı Kaydı](form-registration)
-  - Doktor, Ebe ve Hemşire
-    - [Bireysel Sağlık](form-individual-health)
-    - [Grup Sağlık](form-group-health)
-  - Psikolog ve Sosyal Çalışmacı
-    - [Bireysel Koruma](form-individual-protection)
-    - [Grup Koruma](form-group-protection)
-  - Takip Ziyareti - Vaka Yönetimi
-    - [Bireysel Sağlık Takip Ziyareti](form-case-management-health)
-    - [Bireysel Koruma Vaka Yönetimi](form-case-management-protection)
+* [Örnek ve Politika Belgeler](Politika-Ornek_EYP_PLT_STR_YON.md) 
+  * [Eylem Planlar](Eylem-Planlari.md)
+  * [Politika dökümanlar](Politika-Dokumanlar.md)
+  * [Strateji Dökümanları](Strateji-belgeleri.md)
+  * [Yönergeler](Yönergeler.md)
 
-- [Yazdırılabilir PDF Versiyonları](printables)
+* [Bilgilendirici](Bilgi-BLD_BRS_RPR.md) 
+  * [Bildiriler](Bildiriler.md)
+  * [Broşürler](Brosurler.md)
+  * [Raporlar](Raporlar.md)
 
-- Sıkça Sorulan Sorular
-  - [Eski kaydı bulma / kayıt filtreleme](filter-former)
-  - [Kayıtlardan filtreyi kaldırma](filter-remove)
-  - [Faydalanıcı/vaka numarası nasıl oluşturulur?](tip-beneficiary-id)
-  - [Arayüz dili nasıl değiştirilir?](tip-change-language)
-  - [Seçim kutusundan yanıt nasıl kaldırılır?](tip-remove-selection)
-
-- [Bilgi Sistemi Sözlüğü](ai-glossary)
+* [Yazısız](Yazisiz-FLM_SLT_SPT.md) 
+  * [Filmler](Filmler.md)
+  * [Sunumlar/Slaytler](Slaytler.md)
+  * [Radyo Spotuları](Radyo-spotu.md)

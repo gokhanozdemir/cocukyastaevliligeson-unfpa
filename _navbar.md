@@ -28,10 +28,3 @@
   * [Filmler](Filmler.md)
   * [Sunumlar/Slaytler](Slaytler.md)
   * [Radyo Spotuları](Radyo-spotu.md)
-
-* Configuration
-  * [Configuration](configuration.md)
-  * [Themes](themes.md)
-  * [Using plugins](plugins.md)
-  * [Markdown configuration](markdown.md)
-  * [Language highlight](language-highlight.md)
