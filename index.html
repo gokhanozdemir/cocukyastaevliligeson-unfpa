@@ -12,14 +12,18 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: '',
+ 
+      auto2top: true,
       loadNavbar: true,
-      search: 'auto',
+      subMaxLevel: 2,
+      loadSidebar: true,
       search: {
         noData: 'Sonuç bulunamadı!',
-        placeholder: 'Aramak için birşeyler yazın'
-
+        placeholder: 'Aramak için birşeyler yazın',
+        paths: 'auto',
+        maxAge: 1000,
+        // maxAge: 86400000,
+        depth: 6
       }
     }
   </script>
