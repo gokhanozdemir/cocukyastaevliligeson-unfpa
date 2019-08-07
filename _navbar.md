@@ -1,5 +1,5 @@
 * [Bütün Materyaller](ARS_BLD_BRS_DRG_EGT_EYP_FLM_IST_KIT_KTP_LTR_MKL_PLT_RHB_RPR_SLT_SPT_STR_YON_EKLER.md) 
- 
+
 * [Akademik](Akademik_ARS_DRG_IST_LTR_MKL.md) 
   * [Araştırmalar](Arastirmalar.md)
   * [Dergiler](Dergiler.md)
@@ -9,30 +9,25 @@
 
 * [Eğitim](Egitim_EGT_KIT_KTP_RHB.md) 
   * [Eğitim Kitabları ve Materyalleri](EGT.md)
-  * [Eğitim Kitler](Kitler.md)
+  * [Eğitim Kitleri](Kitler.md)
   * [Kitaplar ve Kitapçıklar](Kitaplar_Kitapciklar.md)
   * [Rehberler](Rehberler.md)
 
-* [Örnek ve Politika Belgeler](Akademik_ARS_DRG_IST_LTR_MKL.md) 
-  * [Araştırmalar](Arastirmalar.md)
-  * [Dergiler](Dergiler.md)
-  * [İstatistikler](Istatistikler.md)
-  * [Literatür Taramaları](Literatur_Taramasi.md)
-  * [Makaleler](Makaleler.md)
+* [Örnek ve Politika Belgeler](Politika-Ornek_EYP_PLT_STR_YON.md) 
+  * [Eylem Planlar](Eylem-Planlari.md)
+  * [Politika dökümanlar](Politika-Dokumanlar.md)
+  * [Strateji Dökümanları](Strateji-belgeleri.md)
+  * [Yönergeler](Yönergeler.md)
 
-* [Yazısız](Akademik_ARS_DRG_IST_LTR_MKL.md) 
-  * [Araştırmalar](Arastirmalar.md)
-  * [Dergiler](Dergiler.md)
-  * [İstatistikler](Istatistikler.md)
-  * [Literatür Taramaları](Literatur_Taramasi.md)
-  * [Makaleler](Makaleler.md)
+* [Bilgilendirici](Bilgi-BLD_BRS_RPR.md) 
+  * [Bildiriler](Bildiriler.md)
+  * [Broşürler](Brosurler.md)
+  * [Raporlar](Raporlar.md)
 
-* [Bilgilendirici](Akademik_ARS_DRG_IST_LTR_MKL.md) 
-  * [Araştırmalar](Arastirmalar.md)
-  * [Dergiler](Dergiler.md)
-  * [İstatistikler](Istatistikler.md)
-  * [Literatür Taramaları](Literatur_Taramasi.md)
-  * [Makaleler](Makaleler.md)
+* [Yazısız](Yazisiz-FLM_SLT_SPT.md) 
+  * [Filmler](Filmler.md)
+  * [Sunumlar/Slaytler](Slaytler.md)
+  * [Radyo Spotuları](Radyo-spotu.md)
 
 * Configuration
   * [Configuration](configuration.md)

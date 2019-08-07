@@ -722,8 +722,6 @@ Child Marriage part 2, English [Dökümanı İncele](downloads\BRS\BRS_05\Child_
 
 12-18 Yaş Kız Çocuk Broşür [Dökümanı İncele](downloads\BRS\BRS_06\Kiz_Cocuk_Brosur.pdf ':ignore')
 
-12-18 Yaş Kız Çocuk Broşür ![Dökümanı İncele](downloads\AFS\A42.jpg) 
-
 ***
 
 ## Gelenek ve Kadınlara Şiddet
@@ -824,7 +822,6 @@ Uçan Süpürge Kadın Dergisi'nin İngilizce yayımlanan Kasım 2012 özel say�
 [Yazılı kopya]
 
 ***
-
 
 # Eğitim Materyalleri
 ***
@@ -1167,7 +1164,7 @@ Filmde kadınların anlatıları, uzmanların görüşleri, temel veriler yer al
 **ÖZET**  
 Filmde kadınların anlatıları, uzmanların görüşleri, temel veriler yer almaktadır.
 
-?> *Kuruluş adı: Sabancı Üniversitesi ; 2011, Türkçe Tema: Çocuk yaşta evlilik*
+?> *Kuruluş adı: Sabancı Üniversitesi; 2011, Türkçe Tema: Çocuk yaşta evlilik*
 
 [Yazlı kopya]
 
