@@ -1,4 +1,4 @@
-# Kitaplar/Kitapcıklar 
+# Kitaplar/Kitapcıklar {docsify-ignore-all}
 ***
 
 ## Üniversiteler için Hastane Temelli Çocuk Koruma Merkezleri El Kitabı
@@ -13,7 +13,7 @@ Projenin bir ürünü olarak hazırlanan bu el kitabında, üniversitelerde çoc
 
 ?> *Kuruluş adı: Uzman; 2010, Türkçe Tema: Çocuk koruma, Sağlık*
 
-[Dökümanı İncele](downloads\KTP\KTP_01pdf.pdf ':ignore')
+[Dokümanı İncele](downloads\KTP\KTP_01pdf.pdf ':ignore')
 
 ***
 
@@ -25,7 +25,7 @@ Sulukule Gönüllüleri Derneği tarafından, Uluslararası Çocuk Merkezi'nin A
 
 ?> *Kuruluş adı: Çocuğa Karşı Şiddeti Önlemek için Ortaklık Ağı; 2017, Türkçe Tema: Roman çocuklar, Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\KTP\KTP_02.pdf ':ignore')
+[Dokümanı İncele](downloads\KTP\KTP_02.pdf ':ignore')
 
 ***
 
@@ -50,7 +50,7 @@ KAMER Vakfı 20 yıldır Doğu ve Güneydoğu Anadolu’nun 23 ilinde tüm zorlu
 
 ?> *Kuruluş adı: UNFPA, KAMER; 2017, Türkçe Tema: Göç, Çocuk yaşta evlilik, Zorla evlilik*
 
-[Dökümanı İncele](downloads\KTP\KTP_03.pdf ':ignore')
+[Dokümanı İncele](downloads\KTP\KTP_03.pdf ':ignore')
 
 ***
 
@@ -62,15 +62,15 @@ KAMER Vakfı 20 yıldır Doğu ve Güneydoğu Anadolu’nun 23 ilinde tüm zorlu
 
 ?> *Kuruluş adı: MEB; 2015, Türkçe Tema: Çocuk koruma, Danışmanlık*  
 
-Danışmanlık Tedbiri Uygulamaları El Kitabı [Dökümanı İncele](downloads\KTP\KTP_04\danismanlik_tedbiri_uygulamalari_el_kitabi.pdf ':ignore')
+Danışmanlık Tedbiri Uygulamaları El Kitabı [Dokümanı İncele](downloads\KTP\KTP_04\danismanlik_tedbiri_uygulamalari_el_kitabi.pdf ':ignore')
 
-Çocuğa Yönelik Şiddetin Önlenmesi Teknik Destek Projesi Eğitim Programı [Dökümanı İncele](downloads\KTP\KTP_04\egitici_ve_egitici_olmayan_personele_yonelik_egitim_programi.pdf ':ignore')
+Çocuğa Yönelik Şiddetin Önlenmesi Teknik Destek Projesi Eğitim Programı [Dokümanı İncele](downloads\KTP\KTP_04\egitici_ve_egitici_olmayan_personele_yonelik_egitim_programi.pdf ':ignore')
 
-Çocuğa Yönelik Şiddetin Önlenmesi Teknik Destek Projesi Erken Uyarı Uygulamaları Kitapçığı [Dökümanı İncele](downloads\KTP\KTP_04\erken_uyari_uygulamalari_programi.pdf  ':ignore')
+Çocuğa Yönelik Şiddetin Önlenmesi Teknik Destek Projesi Erken Uyarı Uygulamaları Kitapçığı [Dokümanı İncele](downloads\KTP\KTP_04\erken_uyari_uygulamalari_programi.pdf  ':ignore')
 
-Okullarda Rehberlik ve Psikolojik Danışma Hizmetleri Kılavuzu [Dökümanı İncele](downloads\KTP\KTP_04\okullarda_rehberlik_ve_psikolojik_danisma_hizmetleri_kilavuzu.pdf ':ignore')
+Okullarda Rehberlik ve Psikolojik Danışma Hizmetleri Kılavuzu [Dokümanı İncele](downloads\KTP\KTP_04\okullarda_rehberlik_ve_psikolojik_danisma_hizmetleri_kilavuzu.pdf ':ignore')
 
-Çocuğa Yönelik Şiddetin Önlenmesi Rehber Öğretmen El Kitabı [Dökümanı İncele](downloads\KTP\KTP_04\rehber_ogretmen_el_kitabi.pdf ':ignore')
+Çocuğa Yönelik Şiddetin Önlenmesi Rehber Öğretmen El Kitabı [Dokümanı İncele](downloads\KTP\KTP_04\rehber_ogretmen_el_kitabi.pdf ':ignore')
 
 ## Hak Temelli İzleme ve Değerlendirme ve Toplumsal Cinsiyet Anaakımlaştırması
 *KTP_05*
@@ -163,7 +163,7 @@ Adalet Bakanlığı Mağdur Hakları Daire Başkanlığı tarafından hazırlana
 Kitapta; Neriman Açıkalın tarafından Roman toplumunda çocuk yaşta evlilik çocuk haklarının ihlali çerçevesinde ele alınmıştır.
 ?> *Kuruluş adı: University of Silecia, University of Beloit; 2017, İngilizce Tema: Roman çocuklar, Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\KTP\KTP_12.pdf ':ignore')
+[Dokümanı İncele](downloads\KTP\KTP_12.pdf ':ignore')
 
 ***
 
@@ -175,7 +175,7 @@ Girls not Brides ağı tarafından yayınlanmış olan kitapçığın kısaltıl
 
 ?> *Kuruluş adı: GEN-DER, Uçan Süpürge; 2018, Türkçe Tema: Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\KTP\KTP_13.pdf ':ignore')
+[Dokümanı İncele](downloads\KTP\KTP_13.pdf ':ignore')
 
 ***
 
@@ -193,4 +193,16 @@ Bu çerçevede Derneğimiz 2005 yılından beri Cedaw Sivil Toplum Yürütme Kur
 
 ?> *Kuruluş adı: CEDAW Sivil Toplum Yürütme Kurulu, UN Women; 2018, Türkçe Tema: Kadınlara karşı ayrımcılık*
 
-[Dökümanı İncele](downloads\KTP\KTP_14.pdf ':ignore')
+[Dokümanı İncele](downloads\KTP\KTP_14.pdf ':ignore')
+
+
+## Çocuk ve Ergen Sağlığı
+*KTP_15*
+
+**ÖZET**  
+Aile Eğitim Programı kapsamında üretilen 8 üniteden oluşan bu ders kitabı, doğumla gelen hastalıklar, hamilelik dönemi ve bu dönemde dikkat edilmesi gereken hususlar, bebek ve çocuğun sağlık ve gelişim takibi, emzirme, beslenme gibi konuları içermektedir.
+
+?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı; 2011, Türkçe Tema: Çocuk ve Ergen Sağlığı, Aşılama, Beslenme, Ev İçi Hava Temizliği*
+
+[Dokümanı İncele](downloads\EGT\05_03_cocuk-ve-ergen-sagligi.pdf ':ignore')
+

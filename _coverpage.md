@@ -1,13 +1,22 @@
-![logo](_media/icon.png)
+![Çocuk Yaşta Erken ve Zorla Evliliklerin Önlenmesine Yönelik Birleşmiş Milletler Ortak Programı Logo](assets/unfpalogo.jpg)
 
-# docsify <small>4.3.15</small>
+# Çocuk Yaşta, Erken ve Zorla Evlilikler Konusunda <br/> Türkiye'de Kullanılan Materyaller Raporu ve Veritabanı 
+<!--
+<small>by UNFPA</small>
 
-> A magical documentation site generator.
+> Çocuk Yaşta, Erken ve Zorla Evliliklerin <br/> Önlenmesine Yönelik  Birleşmiş Milletler Ortak Programı 
 
-- Simple and lightweight (~18kB gzipped)
-- No statically built html files
-- Multiple themes
+- Çocuk Yaşta, Erken ve Zorla Evliliklerin Önlenmesine Yönelik Birleşmiş Milletler Ortak Programının genel amacı kız çocuklarını, oğlan çocuklarını ve risk altında bulunan tüm yetişkinleri çocuk yaşta, erken ve zorla evliliklerden ve bu evliliklerin olumsuz sonuçlarından korumaktır. Bu açıdan ortak program çocuk yaşta, erken ve zorla evliliklerin nedenlerinin ve sonuçlarının belirlenmesini, risk faktörlerinin teşhis edilip sonlandırılmasını ve bu sorunun önüne geçebilmek için kurumsal kapasitenin güçlendirilmesini hedeflemektedir.
+
+-->
+![Çocuk Yaşta Erken ve Zorla Evliliklerin Önlenmesine Yönelik Birleşmiş Milletler Ortak Programı Logo](assets/logococuk.png)
 
 
-[GitHub](https://github.com/QingWei-Li/docsify/)
-[Get Started](#docsify)
+*Bu veritabanı UNFPA, Birleşmiş Milletler Nüfus Fonu Türkiye'nin katkıları ile hazırlanmıştır. <br/> Veritabanınında yer alan materyallerden yalnızca materyallerin hak sahipleri, ilgili kurum ve kuruluşlar sorumludur. <br/> Bu içerikler herhangi bir şekilde UNFPA, Birleşmiş Milletler Nüfus Fonu Türkiye’nin görüş veya tutumunu yansıtmaz.
+
+[UNFPA Türkiye Web Sayfası](https://turkey.unfpa.org/en)
+[Veritabanı ve Materyal Analiz Raporu](README.md)
+
+<!-- background color -->
+
+![](#fff)

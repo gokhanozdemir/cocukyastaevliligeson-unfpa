@@ -1,5 +1,11 @@
-# Literatür Taraması
+# Literatür Taraması {docsify-ignore-all}
 ***
+#### __Materyal Listesi__
+
+- [Çocuğa Karşı Şiddet İzleme ve Göstergeler: Literatür Taraması - *UNICEF*](#Çocuğa-karşı-Şiddet-İzleme-ve-göstergeler-literatür-taraması)
+- [Çocuk Evlilikleri ve Sağlık - *UNFPA*](#Çocuk-evlilikleri-ve-sağlık)
+- [Çocuk Evlilikleri hakkında Yazılmış Makaleler ve Çalışmalar - *UNFPA*](#Çocuk-evlilikleri-hakkında-yazılmış-makaleler-ve-Çalışmalar)
+
 ## Çocuğa Karşı Şiddet İzleme ve Göstergeler: Literatür Taraması
 *LTR_01*
 
@@ -30,8 +36,9 @@ Araştırması’nın bu süreci hızlandırıcı etkisi olmuştur. Bu anlamda �
 
 ?> *Kuruluş adı: UNICEF; 2013, Türkçe Tema: Çocuğa karşı şiddet, Çocuk yaşta, erken yaşta ve zorla evlilik*
 
-[Dökümanı İncele](downloads\LTR\LTR_01.pdf ':ignore')
+[Dokümanı İncele](downloads\LTR\LTR_01.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Çocuk Evlilikleri ve Sağlık
@@ -42,8 +49,9 @@ UNFPA stajyerleri tarafından hazırlanan çalışma, sağlık alanında gerçek
 
 ?> *Kuruluş adı: UNFPA; 2018, Türkçe Tema: Çocuk yaşta evlilik, Sağlık*
 
-[Dökümanı İncele](downloads\LTR\LTR_02.pdf ':ignore')
+[Dokümanı İncele](downloads\LTR\LTR_02.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Çocuk Evlilikleri hakkında Yazılmış Makaleler ve Çalışmalar
@@ -54,4 +62,6 @@ UNFPA stajyerleri tarafından hazırlanan çalışma, ağırlıklı olarak sosya
 
 ?> *Kuruluş adı: UNFPA; 2018, Türkçe Tema: Çocuk yaşta evlilik, Sosyal bilimler*
 
-[Dökümanı İncele](downloads\LTR\LTR_03.pdf ':ignore')
+[Dokümanı İncele](downloads\LTR\LTR_03.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)

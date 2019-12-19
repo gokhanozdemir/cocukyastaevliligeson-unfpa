@@ -1,4 +1,4 @@
-# Makaleler
+# Makaleler {docsify-ignore-all}
 ***
 ## Çocuk Gelinler 
 *MKL_01*
@@ -43,21 +43,19 @@ Tema: Çocuk yaşta, erken yaşta evlilik, göç, sosyal politika*
 ***
 
 ## Gelinlik Değil Kefen Giydirilmiş Çocuklar 
-*MKL_3*
+*MKL_03*
 
 **ÖZET**  
-XXX
-***Anahtar kelimeler: XXX***
+Av. Sema AKSOY'un Türkiye Barolar Birliği, Ankara Barosu ve Türk Hukukçu Kadınlar Derneği tarafından 23 Ocak 2014 tarihinde düzenlenen "Çocuk Gelinler"panelinde yaptığı konuşmanın metnidir. çocuk yaşta evlilikin önlenmesine ilişkin hukuki düzlemde alınacak önlemlere değinilmektedir.
 
-**ABSTRACT**  
-XXX
-***Key words: XXX***
+**SUMMARY**
+This is the text of a speech given by Sema Aksoy, Esq. during the “Child Brides” panel organized on 23 January 2014 by the Turkish Bar Association, Ankara Bar Association, and Turkish Women in Law Association. It addresses measures to be taken in the legal arena for the prevention of child marriage.
 
 ?> *Kuruluş adı: Ankara Barosu Dergisi; 2014, Türkçe
 Tema: Çocuk yaşta evlilik, hukuk*
 
-
 [Dökümanı İncele](downloads\MKL\MKL_03.pdf ':ignore')
+
 
 ***
 

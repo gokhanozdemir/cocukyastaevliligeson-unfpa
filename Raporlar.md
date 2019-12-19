@@ -1,5 +1,52 @@
-# Raporlar
+# Raporlar {docsify-ignore-all}
 ***
+#### __Materyal Listesi__
+
+- [Bilgilen Güçlen Proje Raporu: Erken Yaşta Evlilik Sorunu - *Antalya Aile Danışmanları Derneği*](#bilgilen-güçlen-proje-raporu-erken-yaşta-evlilik-sorunu)
+- [Türkiye’de Çocuğa Karşı Şiddet Durum Raporu 2017 - *Çocuğa Karşı Şiddeti Önlemek için Ortaklık Ağı*](#türkiyede-Çocuğa-karşı-Şiddet-durum-raporu-2017)
+- [Çocuğun Cinsel İstismarı-Ceza Kanunu Maddesi-Raporu: Çocuk Hukuku Bakışıyla Cinsel İstismar - *Çocuğa Karşı Şiddeti Önlemek için Ortaklık Ağı*](#Çocuğun-cinsel-İstismarı-ceza-kanunu-maddesi-raporu-Çocuk-hukuku-bakışıyla-cinsel-İstismar)
+- [Kadın Hakları İnsan Haklarıdır - *KAMER*](#kadın-hakları-İnsan-haklarıdır)
+- [Türkiye'de Çocukların Durumu Raporu 2011 - *UNICEF*](#türkiye39de-Çocukların-durumu-raporu-2011)
+- [Bağırsaydı Sesi Duyulurdu: Çocuklara Yönelik Cinsel İstismarda Cezasızlık Raporu - *İnsan Hakları Ortak Platformu*](#bağırsaydı-sesi-duyulurdu-Çocuklara-yönelik-cinsel-İstismarda-cezasızlık-raporu)
+- [2007 Türkiye Gençlerde Cinsel Sağlık ve Üreme Sağlığı Araştırması - *UNFPA, Nüfusbilim Derneği*](#_2007-türkiye-gençlerde-cinsel-sağlık-ve-Üreme-sağlığı-araştırması)
+- [Savaş, Göç ve Sağlık - *Türk Tabipleri Birliği*](#savaş-göç-ve-sağlık)
+- [Suriyeli Sığınmacılar ve Sağlık Hizmetleri Raporu - *Türk Tabipleri Birliği*](#suriyeli-sığınmacılar-ve-sağlık-hizmetleri-raporu)
+- [Erken Yaşta Evlilik Hakkında İnceleme Yapılmasına İlişkin Rapor - *TBMM*](#erken-yaşta-evlilik-hakkında-İnceleme-yapılmasına-İlişkin-rapor)
+- [Türkiye'de Kadının Durumu - *Kadının Statüsü Genel Müdürlüğü*](#türkiye39de-kadının-durumu)
+- [Türkiye'de Geçici Koruma Altındaki Kadın ve Kız Çocukların İhtiyaç Analizi - *UN WOMEN, ASAM*](#türkiye39de-geçici-koruma-altındaki-kadın-ve-kız-Çocukların-İhtiyaç-analizi)
+- [Genç Nüfusa Genel Bir Bakış - *UNFPA, Nüfusbilim Derneği*](#genç-nüfusa-genel-bir-bakış)
+- [Küçük Yaşta ve/veya Zorla Evlilik - *Uçan Süpürge*](#küçük-yaşta-veveya-zorla-evlilik)
+- [2012 Yılı İnternet Medyası Çocuk Hak İzleme Raporu - *Göç Vakfı*](#_2012-yılı-İnternet-medyası-Çocuk-hak-İzleme-raporu)
+- [2015 Yılı İnternet Medyası Çocuk Hak İzleme Raporu - *Göç ve İnsani Yardım Vakfı*](#_2015-yılı-İnternet-medyası-Çocuk-hak-İzleme-raporu)
+- [Türkiye Kadın Sağlığı Politikaları Forumu - *Mavi Kalem Derneği**](#türkiye-kadın-sağlığı-politikaları-forumu)
+- [Çocuk Gelinler Çalıştayı - *TÜBAKKOM*](#Çocuk-gelinler-Çalıştayı)
+- [81 İl için Toplumsal Cinsiyet Eşitliği Karnesi - *TEPAV*](#_81-İl-için-toplumsal-cinsiyet-eşitliği-karnesi)
+- [Afet ve Acil Durumlarda Kadın Çalıştayı - *Mavi Kalem Derneği*](#afet-ve-acil-durumlarda-kadın-Çalıştayı)   
+- [Şiddet Bir Sınırı Aşmaktır: Gençlerin Toplumsal Cinsiyet ve Flört Şiddeti Algılarına Yönelik Araştırma Raporu - *Cinsel Şiddetle Mücadele Derneği*](#Şiddet-bir-sınırı-aşmaktır-gençlerin-toplumsal-cinsiyet-ve-flört-Şiddeti-algılarına-yönelik-araştırma-raporu)
+- [Türkiye CEDAW Sivil Toplum Yürütme Kurulunun 7. Periyodik Dönem Gölge Raporu - *CEDAW Sivil Toplum Yürütme Kurulu*](#türkiye-cedaw-sivil-toplum-yürütme-kurulunun-7-periyodik-dönem-gölge-raporu)
+- [Mevsimlik Tarım İşçilerinin ve Ailelerinin İhtiyaçlarının Değerlendirilmesi Araştırma Raporu - *UNFPA, Harran Üniversitesi*](#mevsimlik-tarım-İşçilerinin-ve-ailelerinin-İhtiyaçlarının-değerlendirilmesi-araştırma-raporu)
+- [Yurtdışı İnceleme ve Çalışma Ziyareti Raporları - *Adalet Bakanlığı*](#yurtdışı-İnceleme-ve-Çalışma-ziyareti-raporları)
+- [GAP Tarımda Çalışanların Sağlığı Araştırması - *Harran Üniversitesi, GAP İdaresi*](#gap-tarımda-Çalışanların-sağlığı-araştırması)
+- [Roman Toplumunu Roman Kadınlar ile Güçlendirme Projesi Raporu - *Akdeniz Roman Dernekleri Federasyonu*](#roman-toplumunu-roman-kadınlar-ile-güçlendirme-projesi-raporu)
+- [Romanlar Üzerine Demografik Alan Araştırması Raporu - *Akdeniz Roman Dernekleri Federasyonu*](#romanlar-Üzerine-demografik-alan-araştırması-raporu)
+- [Yerelden Genele Suriyeli Kız Çocukların Okullaşmasını Desteklemek: Toplantı Notları - *Mavi Kalem Derneği*](#yerelden-genele-suriyeli-kız-Çocukların-okullaşmasını-desteklemek-toplantı-notları)
+- [Eğitim İzleme Raporu 2015-2016 - *Eğitim Reformu Girişimi*](#eğitim-İzleme-raporu-2015-2016)
+- [Lessons Learned from National Inıtıatives to End Child Marriage 2016 - *Girls Not Brides*](#lessons-learned-from-national-inıtıatives-to-end-child-marriage-2016)
+- [2013 Yılı İnternet Medyası Çocuk hak İhlali İzleme Raporu - *Göç Vakfı*](#_2013-yılı-İnternet-medyası-Çocuk-hak-İhlali-İzleme-raporu)
+- [Türkiye'de Erken yaşta evliliki Farklı Bakış Açılarından Bakarak Değerlendirmeyi ve Varolan Çözüm Önerileirni Geliştirmeyi Amaçlayan Özgür Proje - *Sabancı Üniversitesi*](#türkiye39de-erken-yaşta-evliliki-farklı-bakış-açılarından-bakarak-değerlendirmeyi-ve-varolan-Çözüm-Önerileirni-geliştirmeyi-amaçlayan-Özgür-proje)
+- [Kadına Yönelik Şiddetle Mücadele Mekanizması İzleme Raporu - *Kadın Dayanışma Vakfı*](#kadına-yönelik-Şiddetle-mücadele-mekanizması-İzleme-raporu)
+- [Mor Çatı Deneyimi Kadına Yönelik Şiddete Dair Ne Anlatıyor? - *Mor Çatı*](#mor-Çatı-deneyimi-kadına-yönelik-Şiddete-dair-ne-anlatıyor)
+- [Görünmeyen Gerçeklik: Eşcinsel Biseksüel Erkek Seks İşçileri - *Kırmızı Şemsiye Derneği*](#görünmeyen-gerçeklik-eşcinsel-biseksüel-erkek-seks-İşçileri)
+- [Türkiye'de Geçici Koruma Altındaki Suriyeliler ve Seks İşçiliği - *Kırmızı Şemsiye Derneği*](#türkiye39de-geçici-koruma-altındaki-suriyeliler-ve-seks-İşçiliği)
+- [Türkiye'de Çocuklara Yöneik Koruyucu ve Önleyici Politikaları Değerlendirme Çalıştayı Raporu - *Aile ve Sosyal Politikalar Bakanlığı*](#türkiye39de-Çocuklara-yöneik-koruyucu-ve-Önleyici-politikaları-değerlendirme-Çalıştayı-raporu)
+- [Erken yaşta Evlilike Karşı Mücadele Çalıştayı - *KADEM*](#erken-yaşta-evlilike-karşı-mücadele-Çalıştayı)
+- [The Economic Impacts of Child Marriage: Global Synthesis Report - *World Bank, ICRW, CIFF, Bill and Melinda Gates Foundation, Global Partnership for Education*](#the-economic-impacts-of-child-marriage-global-synthesis-report)
+- [Lessons Learned from National Government-led Efforts to Reduce Adolescent Pregnancy in Chile, England and Ethiopia - *UNFPA, WHO, Universities*](#lessons-learned-from-national-government-led-efforts-to-reduce-adolescent-pregnancy-in-chile-england-and-ethiopia)
+- [2017 Annual Report: UNFPA-UNICEF Global Programme to Accelerate Action To End Child Marriage - *UNFPA, UNICEF*](#_2017-annual-report-unfpa-unicef-global-programme-to-accelerate-action-to-end-child-marriage)
+
+
+
+
 
 ## Bilgilen Güçlen Proje Raporu: Erken Yaşta Evlilik Sorunu
 *RPR_01*
@@ -23,8 +70,9 @@ bilinçlendirmek, ilerde sahip olunacak çocuklar için iyi bir anne baba olmala
 
 ?> *Kuruluş adı: Antalya Aile Danışmanları Derneği; 2014, Türkçe Tema: Sosyal hizmet, Adalet, Çocuk yaşta evlilik, Erken yaşta evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_01.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_01.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Türkiye’de Çocuğa Karşı Şiddet Durum Raporu 2017
@@ -35,8 +83,9 @@ Adem Arkadaş-Thibert, Ebru Ergin ve İrem Kor tarafından yayına hazırlanan R
 
 ?> *Kuruluş adı: Çocuğa Karşı Şiddeti Önlemek için Ortaklık Ağı; 2017, Türkçe Tema: Çocuğa karşı şiddet*
 
-[Dökümanı İncele](downloads\RPR\RPR_02.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_02.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Çocuğun Cinsel İstismarı-Ceza Kanunu Maddesi-Raporu: Çocuk Hukuku Bakışıyla Cinsel İstismar
@@ -47,8 +96,9 @@ Memduh Cemil Şirin tarafından hazırlanan Rapor; çocuğun cinsel istismarı i
 
 ?> *Kuruluş adı: Çocuğa Karşı Şiddeti Önlemek için Ortaklık Ağı; 2016, Türkçe Tema: Çocuğa karşı şiddet*
 
-[Dökümanı İncele](downloads\RPR\RPR_03.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_03.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Kadın Hakları İnsan Haklarıdır
@@ -59,8 +109,9 @@ Kadın Hakları İnsan Haklarıdır Projesi kapsamında hazırlanan raporda, 26 
 
 ?> *Kuruluş adı: kamer; 2015, Türkçe Tema: Kadına yönelik şiddet, çocuk yaşta, Erken yaşta ve zorla evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_04.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_04.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Türkiye'de Çocukların Durumu Raporu 2011
@@ -93,8 +144,9 @@ Güney-Güney işbirliği: “Güney-Güney işbirliği” son yılların öneml
 
 ?> *Kuruluş adı: UNICEF; 2011, Türkçe Tema: Çocuk Hakları, Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_05.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_05.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Bağırsaydı Sesi Duyulurdu: Çocuklara Yönelik Cinsel İstismarda Cezasızlık Raporu
@@ -110,8 +162,9 @@ Avrupa Birliği Demokrasi ve İnsan Hakları Aracı ve Norveç Büyükelçiliği
 
 ?> *Kuruluş adı: İnsan Hakları Ortak Platformu; 2014, Türkçe Tema: Çocuk istismarı, Çocuk yaşta evlilik, Hukuk*
 
-[Dökümanı İncele](downloads\RPR\RPR_06.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_06.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## 2007 Türkiye Gençlerde Cinsel Sağlık ve Üreme Sağlığı Araştırması
@@ -125,8 +178,9 @@ Bu çalışmanın kendi alanında boşluk doldurucu bir nitelik taşıdığını
 
 ?> *Kuruluş adı: UNFPA, Nüfusbilim Derneği; 2007, Türkçe Tema: Cinsel sağlık, Üreme sağlığı, Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_07.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_07.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Savaş, Göç ve Sağlık
@@ -159,8 +213,9 @@ Kamplarda veya Suriyelilerin yoğun olduğu illerde çalışan sağlık personel
 
 ?> *Kuruluş adı: Türk Tabipleri Birliği; 2016, Türkçe Tema: Göç, sağlık, Şiddet, Erken yaşta evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_08.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_08.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Suriyeli Sığınmacılar ve Sağlık Hizmetleri Raporu
@@ -177,8 +232,9 @@ Umarız bu rapor savaşla ilgili son raporumuz olur, dökülen gözyaşları son
 
 ?> *Kuruluş adı: Türk Tabipleri Birliği; 2014, Türkçe Tema: Göç, sağlık, Şiddet, Erken yaşta evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_09.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_09.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Erken Yaşta Evlilik Hakkında İnceleme Yapılmasına İlişkin Rapor
@@ -189,8 +245,9 @@ Rapor; çocuk yaşta evlilike ilişkin mevcut durum, yasal çerçeve, çocuk ya�
 
 ?> *Kuruluş adı: TBMM; 2009, Türkçe Tema: Erken yaşta evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_10.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_10.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Türkiye'de Kadının Durumu
@@ -201,8 +258,9 @@ Rapor, Türkiye'de kadınlara ilişkin temel istatistikleri, mevcut yasal düzen
 
 ?> *Kuruluş adı: KSGM; 2012, Türkçe Tema: Erken yaşta evlilik, Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_11.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_11.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Türkiye'de geçici Koruma Altındaki Kadın ve Kız Çocukların İhtiyaç Analizi
@@ -218,8 +276,9 @@ Türkiye’de geçici koruma altında olan Suriyeli kadın ve kız çocukların 
 
 ?> *Kuruluş adı: UN WOMEN, ASAM; 2018, Türkçe Tema: V*
 
-[Dökümanı İncele](downloads\RPR\RPR_12.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_12.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Genç Nüfusa Genel Bir Bakış
@@ -230,20 +289,22 @@ Türkiye'de genç nüfusa ilişkin durumun çeşitli başlıklar altında değer
 
 ?> *Kuruluş adı: UNFPA, Nüfusbilim Derneği; 2016, Türkçe Tema: Gençlik, Çocuk yaşta, Erken yaşta evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_13.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_13.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Küçük Yaşta ve/veya Zorla Evlilik
 *RPR_14*
 
 **ÖZET**  
-Uçan Süpürge tarafından 2010 yılında gazetelere yansıyan çocuk yaşta, zorla evlilike ilişkin haberlerin dökümünü içermektedir.
+Uçan Süpürge tarafından 2010 yılında gazetelere yansıyan çocuk yaşta, zorla evlilike ilişkin haberlerin Dokümünü içermektedir.
 
 ?> *Kuruluş adı: Uçan Süpürge; 2011, Türkçe Tema: Çocuk yaşta, Zorla evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_14.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_14.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## 2012 Yılı İnternet Medyası Çocuk Hak İzleme Raporu
@@ -254,8 +315,9 @@ Uçan Süpürge tarafından 2010 yılında gazetelere yansıyan çocuk yaşta, z
 
 ?> *Kuruluş adı: Göç Vakfı; 2012, Türkçe Tema: Çocuk hakları, Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_15.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_15.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## 2015 Yılı İnternet Medyası Çocuk Hak İzleme Raporu
@@ -284,8 +346,9 @@ anlamakla sınırlandırılabilir. Tüm uygulamalar “Çocuğun yüksek yararı
 
 ?> *Kuruluş adı: Göç ve İnsani Yardım Vakfı; 2015, Türkçe Tema: Çocuk hakları, Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_16.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_16.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Türkiye Kadın Sağlığı Politikaları Forumu
@@ -345,8 +408,9 @@ Kadınlar ev içi işlerin yanı sıra hayatlarının tümünde ya da en azında
 
 ?> *Kuruluş adı: Mavi Kalem Derneği; 2014, Türkçe Tema: Kadın sağlığı, Erken yaşta evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_17.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_17.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Çocuk Gelinler Çalıştayı
@@ -357,8 +421,9 @@ Tübakkom tarafından 2015 yılında gerçekleştirilen çalıştayın rapprunda
 
 ?> *Kuruluş adı: TÜBAKKOM; 2015, Türkçe Tema: Çocuk yaşta evlilik, Hukuk*
 
-[Dökümanı İncele](downloads\RPR\RPR_18.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_18.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## 81 İl için Toplumsal Cinsiyet Eşitliği Karnesi
@@ -369,8 +434,9 @@ Toplumsal cinsiyet göstergeleri çerçevesinde 81 ilin değerlendirildiği; ill
 
 ?> *Kuruluş adı: TEPAV; 2014, Türkçe Tema: Çocuk yaşta, erken, zorla evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_19.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_19.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Afet ve Acil Durumlarda Kadın Çalıştayı   
@@ -381,8 +447,9 @@ Toplumsal cinsiyet göstergeleri çerçevesinde 81 ilin değerlendirildiği; ill
 
 ?> *Kuruluş adı: Mavi Kalem Derneği; 2016, Türkçe Tema: Çocuk yaşta, erken, zorla evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_20.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_20.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Şiddet Bir Sınırı Aşmaktır: Gençlerin Toplumsal Cinsiyet ve Flört Şiddeti Algılarına Yönelik Araştırma Raporu
@@ -393,8 +460,9 @@ Toplumsal cinsiyet göstergeleri çerçevesinde 81 ilin değerlendirildiği; ill
 
 ?> *Kuruluş adı: Cinsel Şiddetle Mücadele Derneği; 2018, Türkçe Tema: Kadına yönelik şiddet, Flört şiddeti, Gençler*
 
-[Dökümanı İncele](downloads\RPR\RPR_21.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_21.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Türkiye CEDAW Sivil Toplum Yürütme Kurulunun 7. Periyodik Dönem Gölge Raporu 
@@ -405,8 +473,9 @@ CEDAW 7. Dönem Gölge Raporu, kadın ve kız çocuklarına yönelik ayrımcıl�
 
 ?> *Kuruluş adı: CEDAW Sivil Toplum Yürütme Kurulu; 2016, Türkçe Tema: Kadına yönelik şiddet*
 
-[Dökümanı İncele](downloads\RPR\RPR_22.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_22.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Mevsimlik Tarım İşçilerinin ve Ailelerinin İhtiyaçlarının Değerlendirilmesi Araştırma Raporu
@@ -442,12 +511,13 @@ yerel ve merkezi kamu kurumları ile yürütülen etkin ve etkileşimli bir işb
 
 ?> *Kuruluş adı: UNFPA, Harran Üniversitesi; 2012, Türkçe Tema: Mevsimlik tarım işçileri, Üreme sağlığı, Adölesan evlilikler*
 
-[Dökümanı İncele](downloads\RPR\RPR_23.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_23.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Yurtdışı İnceleme ve Çalışma Ziyareti Raporları
-*RPR_24_H*
+*RPR_24*
 
 **ÖZET**  
 Mağdur haklarına ilişkin adli uygulamaları ve mağdurlara destek çalışmalarını yerinde görmek amacıyla İngiltere, Almanya ve İspanya'ya yapılan çalışma ziyaretlerinde edinilen bilgileri içermektedir.
@@ -456,6 +526,7 @@ Mağdur haklarına ilişkin adli uygulamaları ve mağdurlara destek çalışmal
 
 [Yazılı kopya]
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## GAP Tarımda Çalışanların Sağlığı Araştırması
@@ -470,8 +541,9 @@ Proje ile amacımız; GAP Bölgesinde tarımda çalışanların genel sağlık d
 
 ?> *Kuruluş adı: Harran Üniversitesi, GAP İdaresi; 2013, Türkçe Tema: Tarım işçileri, adölesan evlilikleri, adölesan gebelikleri*
 
-[Dökümanı İncele](downloads\RPR\RPR_25.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_25.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Roman Toplumunu Roman Kadınlar ile Güçlendirme Projesi Raporu
@@ -482,8 +554,9 @@ Bu çalışma hem Roman olduğu için hem de kadın olduğu için iki kat fazla 
 
 ?> *Kuruluş adı: Akdeniz Roman Dernekleri Federasyonu; 2017, Türkçe Tema: Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_26.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_26.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Romanlar Üzerine Demografik Alan Araştırması Raporu
@@ -500,8 +573,9 @@ hedefledik.
 
 ?> *Kuruluş adı: Akdeniz Roman Dernekleri Federasyonu; 2016, Türkçe Tema: Çocuk yaşta evlilik, Erken yaşta evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_27.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_27.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Yerelden Genele Suriyeli Kız Çocukların Okullaşmasını Desteklemek: Toplantı Notları
@@ -512,8 +586,9 @@ Suriyeli kız çocukların okullaşmasına ilişkin tespitler ve önerileri içe
 
 ?> *Kuruluş adı: Mavi Kalem Derneği; 2017, Türkçe Tema: Kız çocukların okullaşması*
 
-[Dökümanı İncele](downloads\RPR\RPR_28.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_28.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Eğitim İzleme Raporu 2015-2016
@@ -528,8 +603,9 @@ son halini aldı. Geçmiş yıllardaki raporlara göre daha kısa ve öz tutmaya
 
 ?> *Kuruluş adı: Eğitim Reformu Girişimi; 2016, Türkçe Tema: Okullaşma*
 
-[Dökümanı İncele](downloads\RPR\RPR_29.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_29.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Lessons Learned from National Inıtıatives to End Child Marriage 2016
@@ -540,8 +616,9 @@ Ağırlıklı olarak Asya ve Afrika kıtaları ülke örneklerinden hareketle, �
 
 ?> *Kuruluş adı: Girls Not Brides; 2017, İngilizce Tema: Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_30.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_30.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## 2013 Yılı İnternet Medyası Çocuk hak İhlali İzleme Raporu
@@ -554,8 +631,9 @@ Birleşmiş Milletler(BM) Çocuk Hakları Sözleşmesi(ÇHS) Çerçevesinde yaz�
 
 ?> *Kuruluş adı: Göç Vakfı; 2014, Türkçe Tema: Çocuk hakları, Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_31.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_31.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Türkiye'de Erken yaşta evliliki Farklı Bakış Açılarından Bakarak Değerlendirmeyi ve Varolan Çözüm Önerileirni Geliştirmeyi Amaçlayan Özgür Proje
@@ -567,8 +645,9 @@ belli yaş gruplarında kadınlarla birebir görüşmelerde bulunuldu. Tüm bu v
 
 ?> *Kuruluş adı: Sabancı Üniversitesi; 2014, Türkçe Tema: Erken yaşta evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_32.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_32.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Kadına Yönelik Şiddetle Mücadele Mekanizması İzleme Raporu
@@ -579,8 +658,9 @@ Ev içi şiddete maruz kalan kaıdnların başvurduğu kuruluşlarda yaşadığ�
 
 ?> *Kuruluş adı: Kadın Dayanışma Vakfı; 2017, Türkçe Tema: Kadına yönelik şiddet, Mekanizmalar*
 
-[Dökümanı İncele](downloads\RPR\RPR_33.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_33.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Mor Çatı Deneyimi Kadına Yönelik Şiddete Dair Ne Anlatıyor?
@@ -591,8 +671,9 @@ Ev içi şiddete maruz kalan kaıdnların başvurduğu kuruluşlarda yaşadığ�
 
 ?> *Kuruluş adı: Mor Çatı; 2017, Türkçe Tema: Kadına yönelik şiddet*
 
-[Dökümanı İncele](downloads\RPR\RPR_34.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_34.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Görünmeyen Gerçeklik: Eşcinsel Biseksüel Erkek Seks İşçileri
@@ -603,8 +684,9 @@ Eşcinsel ve Biseksüel Erkek Seks İşçilerinin gündelik hayatta karşılaşt
 
 ?> *Kuruluş adı: Kırmızı Şemsiye Derneği; Türkçe, Tema: LGBTİ, Seks işçiliği, Zorla evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_35.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_35.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Türkiye'de Geçici Koruma Altındaki Suriyeliler ve Seks İşçiliği
@@ -624,8 +706,9 @@ lalleri, bu ihlallere karşı geliştirdikleri stratejiler, cinsel sağlık ve �
 
 ?> *Kuruluş adı: Kırmızı Şemsiye Derneği; 2017, Türkçe Tema: Geçici koruma, Seks işçiliği, Çocuk yaşta ve zorla evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_36.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_36.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Türkiye'de Çocuklara Yöneik Koruyucu ve Önleyici Politikaları Değerlendirme Çalıştayı Raporu
@@ -642,8 +725,9 @@ farkındalığını arttırmaktır. Bu doğrultuda çocuklara yönelik çeşitli
 
 ?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı; 2017, Türkçe Tema: Çocuk hakları*
 
-[Dökümanı İncele](downloads\RPR\RPR_37.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_37.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Erken yaşta Evlilike Karşı Mücadele Çalıştayı
@@ -654,8 +738,9 @@ KADEM tarafından2014 yılında gerçekleştirilen erken yaşta evlilikin önlen
 
 ?> *Kuruluş adı: KADEM; 2014, Türkçe Tema: Erken yaşta evlilik*
 
-[Dökümanı İncele](downloads\RPR\RPR_38.pdf ':ignore')
+[Dokümanı İncele](downloads\RPR\RPR_38.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## The Economic Impacts of Child Marriage: Global Synthesis Report
@@ -673,8 +758,9 @@ The international community is increasingly aware of the negative impacts of chi
 
 ?> *Kuruluş adı: World Bank, ICRW, CIFF, Bill and Melinda Gates Foundation, Global Partnership for Education; 2017, İngilizce*
 
-[Dökümanı İncele](downloads\addon\RPR_39.pdf ':ignore')
+[Dokümanı İncele](downloads\addon\RPR_39.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Lessons Learned from National Government-led Efforts to Reduce Adolescent Pregnancy in Chile, England and Ethiopia
@@ -688,9 +774,10 @@ The materials (a presentation and a report) provide information regarding the pr
 
 ?> *Kuruluş adı: UNFPA, WHO, Universities; 2019, İngilizce Tema: Adölesan gebelikler, Cinsel sağlık, Üreme sağlığı*
 
-Rapor/Report [Dökümanı İncele] (downloads\addon\RPR_40_rpr.pdf ':ignore')
-Slaytlar/Presentation [Dökümanı İncele] (downloads\addon\RPR_40_slt.pdf ':ignore')
+Rapor/Report [Dokümanı İncele] (downloads\addon\RPR_40_rpr.pdf ':ignore')
+Slaytlar/Presentation [Dokümanı İncele] (downloads\addon\RPR_40_slt.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## 2017 Annual Report: UNFPA-UNICEF Global Programme to Accelerate Action To End Child Marriage
@@ -708,4 +795,6 @@ To achieve lasting change at significant scale, the Global Programme continued t
 
 ?> *Kuruluş adı: UNFPA, UNICEF; 2017, İngilizce Tema: Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\addon\RPR_41.pdf ':ignore')
+[Dokümanı İncele](downloads\addon\RPR_41.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)

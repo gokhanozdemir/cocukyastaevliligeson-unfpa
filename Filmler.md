@@ -1,5 +1,13 @@
-# Filmler
+# Filmler {docsify-ignore-all}
 ***
+#### __Materyal Listesi__
+
+- [Kısa Filmler - *UNICEF*](#kısa-filmler)
+- [Çocuk Yaşta Evlilik - *Aile ve Sosyal Politikalar Bakanlığı*](#Çocuk-yaşta-evlilik)
+- [Küçük Yaşta Evlilik Büyük Geliyor: Çocuk Gelinler - *Uçan Süpürge*](#küçük-yaşta-evlilik-büyük-geliyor-Çocuk-gelinler)
+- [Daha Dün Çocuktum - *Bursa Büyükşehir Belediyesi*](#daha-dün-Çocuktum)
+- [Çocuk Gelinler Belgeseli - *CNN Türk*](#Çocuk-gelinler-belgeseli)
+- [Çocuk Gelinler Fark Yaratanlar Belgeseli - *Sabancı Üniversitesi*](#Çocuk-gelinler-fark-yaratanlar-belgeseli)
 
 ## Kısa Filmler
 *FLM_01 Klasör*  
@@ -9,8 +17,9 @@
 
 ?> *Kuruluş adı: UNICEF; Türkçe Tema: Çocuk koruma, Çocuk yaşta evlilik*  
 
-xxx [Dökümanı İncele](xxx ':ignore')
+xxx [Dokümanı İncele](xxx ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Çocuk Yaşta Evlilik
@@ -19,10 +28,11 @@ xxx [Dökümanı İncele](xxx ':ignore')
 **ÖZET**  
 Çocuk yaşta evlilikin önlenmesine ilşkin kamu spotu
 
-?> *Kuruluş adı: ASPB; Türkçe Tema: Çocuk yaşta evlilik*
+?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı; Türkçe Tema: Çocuk yaşta evlilik*
 
 https://www.youtube.com/watch?v=423ClxSdDis
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Küçük Yaşta Evlilik Büyük Geliyor: Çocuk Gelinler
@@ -33,8 +43,9 @@ Uçan Süpürge tarafından hazırlanan belgesel filmde, Uçan Süpürge'nin far
 
 ?> *Kuruluş adı: Uçan Süpürge; 2011, Türkçe Tema: Çocuk yaşta evlilik*
 
-[Yazlı kopya]
+[Video kullanılabilir değil] 
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Daha Dün Çocuktum
@@ -45,8 +56,9 @@ Kısa film, Bursa Büyükşehir Belediyesi'nin 2015 yılında başlattığı ço
 
 ?> *Kuruluş adı: Bursa Büyükşehir Belediyesi; 2015, Türkçe Tema: Çocuk yaşta evlilik*
 
-[Yazlı kopya]
+[Video kullanılabilir değil] 
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Çocuk Gelinler Belgeseli
@@ -57,8 +69,9 @@ Filmde kadınların anlatıları, uzmanların görüşleri, temel veriler yer al
 
 ?> *Kuruluş adı: CNN Türk; 2012, Türkçe Tema: Çocuk yaşta evlilik*
 
-[Yazlı kopya]
+[Video kullanılabilir değil] 
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Çocuk Gelinler Fark Yaratanlar Belgeseli
@@ -69,4 +82,6 @@ Filmde kadınların anlatıları, uzmanların görüşleri, temel veriler yer al
 
 ?> *Kuruluş adı: Sabancı Üniversitesi; 2011, Türkçe Tema: Çocuk yaşta evlilik*
 
-[Yazlı kopya]
+[Video kullanılabilir değil]  
+
+[Materyal Listesine Geri Dön](#materyal-listesi)

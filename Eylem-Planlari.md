@@ -1,5 +1,13 @@
-# Eylem Planları
+# Eylem Planları {docsify-ignore-all}
 ***
+#### __Materyal Listesi__
+
+- [Çocuk Yaşta Evlilikin Önlenmesi İl Çalışma Planı Geliştirme - Yöntem ve Faaliyet Havuzu - *UNICEF*](#Çocuk-yaşta-evlilikin-Önlenmesi-İl-Çalışma-planı-geliştirme-yöntem-ve-faaliyet-havuzu)
+- [Erken Yaşta, Çocuk Yaşta Evlilikin Önlenmesi, Müdahale Planı - *Samsun Valiliği*](#erken-yaşta-Çocuk-yaşta-evlilikin-Önlenmesi-müdahale-planı)
+- [Nevşehir Yerel Eşitlik Stratejik Planı (2013-2014) - *Nevşehir Valiliği*](#nevşehir-yerel-eşitlik-stratejik-planı-2013-2014)
+- [Çocuk Koruma Hizmetlerinde Koordinasyon Strateji Belgesi - *Adalet Bakanlığı, ASPB, Hakim ve Savcılar Yüksek Kurulu, Adalaet Akademisi, UNICEF*](#Çocuk-koruma-hizmetlerinde-koordinasyon-strateji-belgesi)
+
+
 
 ## Çocuk Yaşta Evlilikin Önlenmesi İl Çalışma Planı Geliştirme - Yöntem ve Faaliyet Havuzu
 *EYP_01 Klasör*  
@@ -8,15 +16,18 @@
  UNICEF tarafından geliştirilen **taslak** belge, çcouk yaşta veliliklerin önlenmesine ilişkin yerel eylem planı geliştirme yöntemini ve gerçekleştirilebilecek örnek aktiviteleri içermektedir.
 
 ?> *Kuruluş adı: UNICEF; 2017, Türkçe Tema: Çocuk yaşta evlilik, Eylem planı*  
+<!--
+Çocuk Yaşta Evliliklerin Önlenmesi için İl Çalişma Plani Geliştirme [Dokümanı İncele](downloads\EYP\EYP_01\CYEO_IL_CALISMA_PLANI_METODOLOJI.pdf ':ignore')
 
-Çocuk Yaşta Evliliklerin Önlenmesi için İl Çalişma Plani Geliştirme [Dökümanı İncele](downloads\EYP\EYP_01\CYEO_IL_CALISMA_PLANI_METODOLOJI.pdf ':ignore')
+Çocuk Yaşta Evliliklerin Önlenmesi için Faaliyet Havuzu Final [Dokümanı İncele](downloads\EYP\EYP_01\CYEO_FAALIYET_HAVUZU_FINAL.pdf ':ignore')
 
-Çocuk Yaşta Evliliklerin Önlenmesi için Faaliyet Havuzu Final [Dökümanı İncele](downloads\EYP\EYP_01\CYEO_FAALIYET_HAVUZU_FINAL.pdf ':ignore')
+Önceliklendirilmiş Faaliyet Havuzu [Dokümanı İncele](downloads\EYP\EYP_01\SINIFLANDIRILMIS_FAALIYET_HAVUZU.docx.pdf ':ignore')
 
-Önceliklendirilmiş Faaliyet Havuzu [Dökümanı İncele](downloads\EYP\EYP_01\SINIFLANDIRILMIS_FAALIYET_HAVUZU.docx.pdf ':ignore')
+İli Çocuk Yaşta Evliliklerin Önlenmesi Çalişma Plani [Dokümanı İncele](downloads\EYP\EYP_01\SABLON_SON.docx.pdf ':ignore')
+-->
+**Materyal Ulaşılabilir Değil [UNICEF Türkiye Web Sayfası](www.unicef.org.tr)
 
-İli Çocuk Yaşta Evliliklerin Önlenmesi Çalişma Plani [Dökümanı İncele](downloads\EYP\EYP_01\SABLON_SON.docx.pdf ':ignore')
-
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Erken Yaşta, Çocuk Yaşta Evlilikin Önlenmesi, Müdahale Planı
@@ -27,8 +38,9 @@ Samsun Yerel Eşitlik Planı’na (2017-2018) Ek Eylem Planı etkin bir denetlem
 
 ?> *Kuruluş adı: Samsun Valiliği; 2016, Türkçe Tema: Çocuk yaşta evlilik, Erken yaşta evlilik*
 
-[Dökümanı İncele](downloads\EYP\EYP_02.pdf ':ignore')
+[Dokümanı İncele](downloads\EYP\EYP_02.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Nevşehir Yerel Eşitlik Stratejik Planı (2013-2014)
@@ -39,9 +51,11 @@ Kadın ve Eğitim Hizmetler, Kadın ve Sağlık Hizmetleri, Kadının Ekonomik H
 
 ?> *Kuruluş adı: Nevşehir Valiliği; 2014, Türkçe Tema: Eylem planı, Erken yaşta evlilik*  
 
-Nevşehir Yerel Eşitlik Stratejik Planı [Dökümanı İncele](downloads\EYP\EYP_03\EYP_03.pdf ':ignore')
+Nevşehir Yerel Eşitlik Stratejik Planı [Dokümanı İncele](downloads\EYP\EYP_03\EYP_03.pdf ':ignore')
 
-Nevşehir Yerel Eşitlik Stratejik Planı Nevşehir Valiliği [Dökümanı İncele](downloads\EYP\EYP_03\EYP_03_Vali.pdf ':ignore')
+Nevşehir Yerel Eşitlik Stratejik Planı Nevşehir Valiliği [Dokümanı İncele](downloads\EYP\EYP_03\EYP_03_Vali.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
 
 ## Çocuk Koruma Hizmetlerinde Koordinasyon Strateji Belgesi
 *EYP_04*
@@ -51,5 +65,6 @@ Nevşehir Yerel Eşitlik Stratejik Planı Nevşehir Valiliği [Dökümanı İnce
 
 ?> *Kuruluş adı: Adalet Bakanlığı, ASPB, Hakim ve Savcılar Yüksek Kurulu, Adalaet Akademisi, UNICEF; 2014, Türkçe Tema: Çocuk koruma, Strateji*
 
-[Dökümanı İncele](downloads\EYP\EYP_04.pdf ':ignore')
+[Dokümanı İncele](downloads\EYP\EYP_04.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)

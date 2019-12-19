@@ -1,5 +1,20 @@
-# Broşürler
+# Broşürler {docsify-ignore-all}
 ***
+#### __Materyal Listesi__
+
+- [Daha Dün Çocuktum - *Bursa Büyükşehir Belediyesi*](#daha-dün-Çocuktum)
+- [Gelinlik Giydirildi Çocukluk Sobelendi- Broşür - *Mor Salkım Kadın Dayanışma Derneği*](#gelinlik-giydirildi-Çocukluk-sobelendi-broşür)
+- [Information and Resources to Protect against Early Marriages, Forced Marriages and Domestic Violence - *UNHCR*](#information-and-resources-to-protect-against-early-marriages-forced-marriages-and-domestic-violence)
+- [Çocuk Anneler -  *Harran Üniversitesi, Sağlık Bakanlığı, UNFPA*](#Çocuk-anneler)
+- [Çocuk Yaşta Evlilik Broşürü - *CARE International, UNICEF*](#Çocuk-yaşta-evlilik-broşürü)
+- [Çocuk Yaşta Evlilik - *UNICEF*](#Çocuk-yaşta-evlilik)
+- [Gelenek ve Kadınlara Şiddet - *Avusturya Federal Sağlık ve Kadın Bakanlığı*](#gelenek-ve-kadınlara-Şiddet)
+- [Genç Kızları Güçlendirme Projesi - *Mavi Kalem Derneği*](#genç-kızları-güçlendirme-projesi)
+- [Çocuk İhmali ve İstismarı - *Mor Çatı*](#Çocuk-İhmali-ve-İstismarı)
+- [Çocuğa Karşı Şiddet - *Genç Hayat Vakfı, Uluslararası Çocuk Merkezi Derneği, Geleceğimizin Çocukları Vakfı*](#Çocuğa-karşı-Şiddet)
+- [Zorla Evlilik - *İskoçya Hükümeti*](#zorla-evlilik)
+- [Cinsel Şiddet - *Mor Çatı*](#cinsel-Şiddet)
+
 
 ## Daha Dün Çocuktum
 *BRS_01*
@@ -11,6 +26,7 @@ Broşürde çocuk gelin kavramı tanımlanmakta, çocuk yaşta evlilikin sebep v
 
 [Yazılı kopya]
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Gelinlik Giydirildi Çocukluk Sobelendi- Broşür
@@ -23,6 +39,7 @@ Mor Salkım Kadın Dayanışma Derneği'nin "Gelinlik Giydirildi, Çocukluk Sobe
 
 [Yazılı kopya]
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Information and Resources to Protect against Early Marriages, Forced Marriages and Domestic Violence
@@ -35,6 +52,7 @@ UNHCR tarafından Gazinatep için hazırlanan broşürde iligi kavramların aç�
 
 [Yazılı kopya]
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Çocuk Anneler
@@ -45,8 +63,9 @@ Broşürde ergenlik dönemi hakkında bilgiler ile, çocuk evliliklerinin ve do�
 
 ?> *Kuruluş adı: Harran Üniversitesi, Sağlık Bakanlığı, UNFPA; Türkçe Tema: Çocuk Anneler*
 
-[Dökümanı İncele](downloads\BRS\BRS_04.pdf ':ignore')
+[Dokümanı İncele](downloads\BRS\BRS_04.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Çocuk Yaşta Evlilik Broşürü
@@ -57,18 +76,19 @@ Broşürde ergenlik dönemi hakkında bilgiler ile, çocuk evliliklerinin ve do�
 
 ?> *Kuruluş adı: CARE International, UNICEF; 2018, Türkçe, İngilizce, Arapça Tema: Child marriage*  
 
-Child Marriage part 1, Arabic [Dökümanı İncele](downloads\BRS\BRS_05\Child_Marriage_1_AR.pdf ':ignore')
+Child Marriage part 1, Arabic [Dokümanı İncele](downloads\BRS\BRS_05\Child_Marriage_1_AR.pdf ':ignore')
 
-Child Marriage part 1, Turkish [Dökümanı İncele](downloads\BRS\BRS_05\Child_Marriage_1_TR.pdf ':ignore')
+Child Marriage part 1, Turkish [Dokümanı İncele](downloads\BRS\BRS_05\Child_Marriage_1_TR.pdf ':ignore')
 
-Child Marriage part 1, English [Dökümanı İncele](downloads\BRS\BRS_05\Child_Marriage_1.pdf ':ignore')
+Child Marriage part 1, English [Dokümanı İncele](downloads\BRS\BRS_05\Child_Marriage_1.pdf ':ignore')
 
-Child Marriage part 2, Arabic [Dökümanı İncele](downloads\BRS\BRS_05\Child_Marriage_2_AR.pdf ':ignore')
+Child Marriage part 2, Arabic [Dokümanı İncele](downloads\BRS\BRS_05\Child_Marriage_2_AR.pdf ':ignore')
 
-Child Marriage part 2, Turkish [Dökümanı İncele](downloads\BRS\BRS_05\Child_Marriage_2_TR.pdf ':ignore')
+Child Marriage part 2, Turkish [Dokümanı İncele](downloads\BRS\BRS_05\Child_Marriage_2_TR.pdf ':ignore')
 
-Child Marriage part 2, English [Dökümanı İncele](downloads\BRS\BRS_05\Child_Marriage_2.pdf ':ignore')
+Child Marriage part 2, English [Dokümanı İncele](downloads\BRS\BRS_05\Child_Marriage_2.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Çocuk Yaşta Evlilik
@@ -78,13 +98,16 @@ Child Marriage part 2, English [Dökümanı İncele](downloads\BRS\BRS_05\Child_
  Kız ve oğlan çocuklar için geliştirilmiş TASLAK broşürler, çocuk yaşta evlilik hakkında temel bilgi ve mesajları içermektedir.
 
 ?> *Kuruluş adı: UNICEF; 2017, Türkçe Tema: Çocuk yaşta evlilik*  
+<!--
+Çocuk Broşür [Dokümanı İncele](downloads\BRS\BRS_06\Cocuk_brosur.pdf ':ignore')
 
-Çocuk Broşür [Dökümanı İncele](downloads\BRS\BRS_06\Cocuk_brosur.pdf ':ignore')
+12-18 Yaş Oğlan Çocuk Broşür [Dokümanı İncele](downloads\BRS\BRS_06\erkek_cocuk_brosur_1.pdf ':ignore')
 
-12-18 Yaş Oğlan Çocuk Broşür [Dökümanı İncele](downloads\BRS\BRS_06\erkek_cocuk_brosur_1.pdf ':ignore')
+12-18 Yaş Kız Çocuk Broşür [Dokümanı İncele](downloads\BRS\BRS_06\Kiz_Cocuk_Brosur.pdf ':ignore')
+-->
+Materyal Ulaşılabilir Değil
 
-12-18 Yaş Kız Çocuk Broşür [Dökümanı İncele](downloads\BRS\BRS_06\Kiz_Cocuk_Brosur.pdf ':ignore')
-
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Gelenek ve Kadınlara Şiddet
@@ -95,8 +118,9 @@ Avusturya Federal Sağlık ve Kadın Bakanlığı tarafından hazırlanan broş�
 
 ?> *Kuruluş adı: Avusturya Federal Sağlık ve Kadın Bakanlığı; 2017, Türkçe Tema: Zorla evlilik*
 
-[Dökümanı İncele](downloads\BRS\BRS_07.pdf ':ignore')
+[Dokümanı İncele](downloads\BRS\BRS_07.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Genç Kızları Güçlendirme Projesi
@@ -107,8 +131,9 @@ Mavi Kalem Derneği tarafından hazırlanan broşürde, genç kadınları ilgile
 
 ?> *Kuruluş adı: Mavi Kalem Derneği; Türkçe Tema: Genç kadınlar, Ergenlik*
 
-[Dökümanı İncele](downloads\BRS\BRS_08.pdf ':ignore')
+[Dokümanı İncele](downloads\BRS\BRS_08.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Çocuk İhmali ve İstismarı
@@ -119,8 +144,9 @@ Mavi Kalem Derneği tarafından hazırlanan broşürde, genç kadınları ilgile
 
 ?> *Kuruluş adı: Mor Çatı; Türkçe Tema: Çocuk ihmali ve istismarı*
 
-[Dökümanı İncele](downloads\BRS\BRS_09.pdf ':ignore')
+[Dokümanı İncele](downloads\BRS\BRS_09.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Çocuğa Karşı Şiddet
@@ -131,8 +157,9 @@ Mavi Kalem Derneği tarafından hazırlanan broşürde, genç kadınları ilgile
 
 ?> *Kuruluş adı: Genç Hayat Vakfı, Uluslararası Çocuk Merkezi Derneği, Geleceğimizin Çocukları Vakfı; Türkçe Tema: Çocuğa karşı şiddet*
 
-[Dökümanı İncele](downloads\BRS\BRS_10.pdf ':ignore')
+[Dokümanı İncele](downloads\BRS\BRS_10.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Zorla Evlilik
@@ -143,8 +170,9 @@ Zorla evlendirme konusunda bilgiler ile başvurulacak kuruluşların iletişim b
 
 ?> *Kuruluş adı: İskoçya Hükümeti; Türkçe Tema: Zorla evlilik*
 
-[Dökümanı İncele](downloads\BRS\BRS_11.pdf ':ignore')
+[Dokümanı İncele](downloads\BRS\BRS_11.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Cinsel Şiddet
@@ -155,5 +183,6 @@ Cinsel şiddet konusunda kadınlara yönelik bilgiler içermektedir.
 
 ?> *Kuruluş adı: Mor Çatı; Türkçe Tema: Cinsel şiddet*
 
-[Dökümanı İncele](downloads\BRS\BRS_12.pdf ':ignore')
+[Dokümanı İncele](downloads\BRS\BRS_12.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)

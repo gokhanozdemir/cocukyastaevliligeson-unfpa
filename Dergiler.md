@@ -1,5 +1,9 @@
-# Dergiler
+# Dergiler {docsify-ignore-all}
 ***
+#### __Materyal Listesi__
+
+- [Erken ve Zorla Evlilik - *Uçan Süpürge*](#erken-ve-zorla-evlilik) 
+- [Çocuk Gelinler - *Uçan Süpürge*](#Çocuk-gelinler)
 
 ## Erken ve Zorla Evlilik
 *DRG_01*
@@ -9,7 +13,9 @@ Uçan Süpürge Kadın Dergisi'nin 26. özel sayısı Erken yaşta ve zorla evli
 
 ?> *Kuruluş adı: Uçan Süpürge; 2010, Türkçe Tema: Erken yaşta ve zorla evlilik*
 
-[Yazılı kopya]
+Uçan Süpürge Web Sayfası: http://ucansupurge.org.tr/
+
+[Basılı Materyal]
 
 ***
 
@@ -20,5 +26,7 @@ Uçan Süpürge Kadın Dergisi'nin 26. özel sayısı Erken yaşta ve zorla evli
 Uçan Süpürge Kadın Dergisi'nin İngilizce yayımlanan Kasım 2012 özel sayısı erken yaşta evlilik konusuna ayrılmıştır. Dergide uzmanların konu ile iligli yazıları,konu ile ilgili gerçekleştirilmiş etkinlikler ve gazete haberlerine yer verilmiştir.
 
 ?> *Kuruluş adı: Uçan Süpürge; 2012, İngilizce Tema: Erken yaşta evlilik*
+Uçan Süpürge Web Sayfası: http://ucansupurge.org.tr/
 
-[Yazılı kopya]
+
+[Basılı Materyal]

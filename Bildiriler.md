@@ -1,5 +1,14 @@
-# Bildiriler
+# Bildiriler {docsify-ignore-all}
 ***
+#### __Materyal Listesi__
+
+- [Çocuk Gelin Ayıbı Üzerine Sosyolojik Bir Değerlendirme - *Türk Üniversiteli Kadınlar Derneği Antalya Şubesi*](#Çocuk-gelin-ayıbı-Üzerine-sosyolojik-bir-değerlendirme)
+- [Suriyeli Çocukların Erken Yaşta Evlilik Haberlerinin Türk Yazılı Basınında Sunumu - *Üsküdar Üniversitesi*](#suriyeli-Çocukların-erken-yaşta-evlilik-haberlerinin-türk-yazılı-basınında-sunumu)
+- [III. Uluslararası Çocuk Koruma Kongresi - *Çocuk İstismarını ve İhmalini Önleme Derneği, Ordu Üniversitesi, ÇOKMED*](#iii-uluslararası-Çocuk-koruma-kongresi)
+- [2019 Dünya Nüfus Günü: Haber Bülteni - *Türkiye İstatistik Kurumu*](#_2019-dünya-nüfus-günü-haber-bülteni)
+- [Strengthening Critical Systems to End Child Marriage: UNFPA-UNICEF Global Programme to Accelerate Action to End Child Marriage - *UNFPA-UNICEF*](#strengthening-critical-systems-to-end-child-marriage-unfpa-unicef-global-programme-to-accelerate-action-to-end-child-marriage)
+
+
 
 ## Çocuk Gelin Ayıbı Üzerine Sosyolojik Bir Değerlendirme
 *BLD_01*
@@ -9,8 +18,9 @@ Nurşen Adak tarafından sunulan bilgi yer almaktadır.
 
 ?> *Kuruluş adı: Türk Üniversiteli Kadınlar Derneği Antalya Şubesi; 2014, Türkçe Tema: Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\BLD\BLD_01.pdf ':ignore')
+[Dokümanı İncele](downloads\BLD\BLD_01.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Suriyeli Çocukların Erken Yaşta Evlilik Haberlerinin Türk Yazılı Basınında Sunumu
@@ -21,8 +31,9 @@ Uluslararası Göç ve Çocuk Sempozyumunda Gülay Acar Yurtman tarafından sunu
 
 ?> *Kuruluş adı: Üsküdar Üniversitesi; 2016, Türkçe Tema: Çocuk yaşta evlilik, Suriyeli çocuklar, Medya*
 
-[Dökümanı İncele](downloads\BLD\BLD_02.pdf ':ignore')
+[Dokümanı İncele](downloads\BLD\BLD_02.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## III. Uluslararası Çocuk Koruma Kongresi 
@@ -33,8 +44,9 @@ Uluslararası Göç ve Çocuk Sempozyumunda Gülay Acar Yurtman tarafından sunu
 
 ?> *Kuruluş adı: Çocuk İstismarını ve İhmalini Önleme Derneği, Ordu Üniversitesi, ÇOKMED; 2018, Türkçe Tema: Çouk yaşta evlilik*
 
-[Dökümanı İncele](downloads\BLD\BLD_03.pdf ':ignore')
+[Dokümanı İncele](downloads\BLD\BLD_03.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## 2019 Dünya Nüfus Günü: Haber Bülteni
@@ -52,10 +64,11 @@ The statistics can be examined in more detail in “2019 Dünya Nüfus Günü: H
 
 ?> *Kuruluş adı: Türkiye İstatistik Kurumu; 2019, Türkçe, İngilizce Tema: Doğum, Evlilik, Çocuk Yaşta Evlilik, Toplumsal Cinsiyet*
 
-Haber Bülteni (Türkçe) [Dökümanı İncele](downloads\addon\BLD_04_TK.pdf ':ignore')
+Haber Bülteni (Türkçe) [Dokümanı İncele](downloads\addon\BLD_04_TK.pdf ':ignore')
 
-News Bulletin (English) [Dökümanı İncele](downloads\addon\BLD_04_EN.pdf ':ignore')
+News Bulletin (English) [Dokümanı İncele](downloads\addon\BLD_04_EN.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Strengthening Critical Systems to End Child Marriage: UNFPA-UNICEF Global Programme to Accelerate Action to End Child Marriage
@@ -66,4 +79,6 @@ The Global Programme initiated by UNFPA and UNICEF works closely with health, ed
 
 ?> *Kuruluş adı: UNFPA-UNICEF; 2019, İngilizce Tema: Çocuk yaşta evlilikler*
 
-[Dökümanı İncele](downloads\addon\BLD_05.pdf ':ignore')
+[Dokümanı İncele](downloads\addon\BLD_05.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)

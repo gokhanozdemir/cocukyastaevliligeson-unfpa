@@ -1,19 +1,34 @@
-# Kitaplar/Kitapcıklar 
+# Kitaplar/Kitapçıklar {docsify-ignore-all}
 ***
+#### __Materyal Listesi__
+
+- [Üniversiteler için Hastane Temelli Çocuk Koruma Merkezleri El Kitabı - *Prof. Dr. Tolga Dağlı, Prof. Dr. Mehmet Akif İnanıcı*](#Üniversiteler-için-hastane-temelli-Çocuk-koruma-merkezleri-el-kitabı)
+- [Roman Çocuklar: Okuyacağız da Ne Olacak? Çocuğa Karşı Şiddeti Önlemek için Ortaklık Ağı](#roman-Çocuklar-okuyacağız-da-ne-olacak)
+- [Biz de Varız! UNFPA, KAMER](#biz-de-varız)
+- [Çocuğa Karşı Şiddeti Önleme Projesi Kitapları - *MEB*](#Çocuğa-karşı-Şiddeti-Önleme-projesi-kitapları)
+- [Hak Temelli İzleme ve Değerlendirme ve Toplumsal Cinsiyet Anaakımlaştırması - *Cinsiyet Eşitliği İzleme Derneği*](#hak-temelli-İzleme-ve-değerlendirme-ve-toplumsal-cinsiyet-anaakımlaştırması)
+- [Kadına Yönelik Şiddetle Mücadele Mekanizması İzleme Modeli - *Cinsiyet Eşitliği İzleme Derneği*](#kadına-yönelik-Şiddetle-mücadele-mekanizması-İzleme-modeli)
+- [Toplumsal Cinsiyete Duyarlı Veri Çalışması - *TEPAV, UNFPA, UNDP*](#toplumsal-cinsiyete-duyarlı-veri-Çalışması)
+- [Vakalarla Türkiye'de Üreme Hakları - *İnsan Kaynağını Geliştirme Vakfı*](#vakalarla-türkiye39de-Üreme-hakları)
+- [Adli Sistemde Çocuklar - *Adalet Bakanlığı, Bahçeşehir Üniversitesi*](#adli-sistemde-Çocuklar)
+- [İnceleme ve Değerlendirme Raporları (Çocuk-Kadın Aile) - *Adalet Bakanlığı*](#İnceleme-ve-değerlendirme-raporları-Çocuk-kadın-aile)
+- [Çalıştay Raporları (STK-Adli Destek Sisteminin Yeniden Değerlendirilmesi, Tazminat-İstihdam-Tedavi) - *Adalet Bakanlığı*](#Çalıştay-raporları-stk-adli-destek-sisteminin-yeniden-değerlendirilmesi-tazminat-İstihdam-tedavi)
+- [Languages of Resistence: Ian Hancook's Contribition to Roman Studies within The fact of Early Mariage Among Romanies as a Violation of Child Rights: The Case of Mersin, Turkey - *University of Silecia, University of Beloit*](#languages-of-resistence-ian-hancook39s-contribition-to-roman-studies-within-the-fact-of-early-mariage-among-romanies-as-a-violation-of-child-rights-the-case-of-mersin-turkey)
+- [Çocuk Evliliklerini Durdurmak Konusunda Parlamenterlerin Rolü El Kitabı - *GEN-DER*](#Çocuk-evliliklerini-durdurmak-konusunda-parlamenterlerin-rolü-el-kitabı)
+- [Sivil Toplum Kuruluşları, Ağları, Platformlarınca İstanbul Sözleşmesi ve Türkiye'nin 7. Dönem Raporuna CEDAW'ın Nihai Yorumlarının Takibi - *CEDAW Sivil Toplum Yürütme Kurulu, UN Women*](#sivil-toplum-kuruluşları-ağları-platformlarınca-İstanbul-sözleşmesi-ve-türkiye39nin-7-dönem-raporuna-cedaw39ın-nihai-yorumlarının-takibi)
+- [Çocuk ve Ergen Sağlığı - *Aile ve Sosyal Politikalar Bakanlığı*](#Çocuk-ve-ergen-sağlığı)
 
 ## Üniversiteler için Hastane Temelli Çocuk Koruma Merkezleri El Kitabı
 *KTP_01*
 
 **ÖNSÖZ**  
-Çocukların korunması hepimizi ilgilendirmelidir. Çocuklara yönelik şiddete ilgisiz kalınamaz,görmezden gelinemez.
-Çocukların korunmasında ve çocuklara yönelik şiddetin sona erdirilmesinde üniversitelerin temel rolleri bulunmaktadır. Üniversiteler çocuk koruma alanında öncülük görevi üstlenip toplumda konuya ilişkin bilinç ve duyarlılığı geliştirebilirler. Önleme, tanıtım ve savunu çalışmaları yapabilir, çocuk koruma alanında eğitim, araştırma ve hizmet faaliyetlerinde bulunabilirler. Şiddete karşı çocuklarla birlikte ve çocuklar için çalışanların kapasitelerinin geliştirmesine katkıda etkin rol alabilirler. Çocuk koruma alanında hizmet vermekte olan kurum ve kuruluşlar arasında iletişim ve koordinasyon sağlanması amaçlı modellemeler gerçekleştirebilirler.
-Türkiye Cumhuriyeti ve UNICEF işbirliği ile geliştirilip, Avrupa Birliği’nin mali ve UNICEF’in teknik desteği ile yürütülmüş olan “Önce Çocuklar: Çocuk Koruma Mekanizmalarının İl Düzeyinde Modellenmesi Projesi”, kanunla ilişki halinde olan veya kanunla ilişkili hale gelme riski bulunan çocukların özgürlük, eğitim gibi haklarından mahrum olmamaları ve şiddet, istismar ve ihmalden korunmaları için çalışan kurumların kapasitesini artırmayı hedeflemiştir. 2008-2010 yıllarında yürütülen Proje çerçevesinde, Türkiye Barolar Birliği koordinasyonunda çocuklar için hukuki yardım sisteminin güçlendirilmesine yönelik, 12 ilden katılan avukatlar ve üniversitelerin temsilcilerinden oluşturulan çalışma grupları ayrıca alt projeler yürütmüşlerdir. Alt projelerden birisi de üniversitelerde çocuk koruma merkezleri için model geliştirmeyi amaçlamaktaydı.
-Üniversitelerde çocuk koruma merkezleri için model geliştirme çalışmaları, üniversitelerden katılımcılar ve Türkiye Barolar Birliği temsilcileri birlikteliği ile gerçekleştirilmiş ve üniversitelerimizde “Çocuk Koruma Uygulama ve Araştırma Merkezleri”nin kurulmasının önerilmesiyle sonuçlanmıştır. Bu merkezlerin kurulmasıyla birlikte üniversitenin tüm olanakları kullanılarak korunma ihtiyacı olan veya suça sürüklenen çocukların tanı, tedavi, korunma ve izlenmelerine dair uygulama ve araştırmaların yapılacağı ortam sağlanabileceği düşünülmüştür. Çok sevindiricidir ki Merkez kurma önerisi üniversitelerimizce beklenenin üstünde ilgi görmüş, Proje sonlanmadan birçok üniversitemizde kuruluş çalışmaları başlatılmış hatta merkez kuruluşunu tamamlamış üniversitelerimiz olmuştur. Şüphesiz atılan adım ilk adımdır. Üniversitelerimiz merkezlerini kurdukça çocuk koruma alanındaki çalışmalarını hızla geliştirecekler ve çocuklarımızın güvenli ve onurlu bir yaşam süreceği bir dünya yaratma konusunda katkıda bulunacaklardır.
-Projenin bir ürünü olarak hazırlanan bu el kitabında, üniversitelerde çocuk koruma merkezlerinin nasıl kurulacağı ve nasıl çalışacağına dair temel bilgiler sunulmaktadır. 
+Prof. Dr. Tolga DAĞLI ve Prof. Dr. Mehmet Akif İnanıcı tarafından hazırlanan el kitabı çeşitli üniversitelerin tıp fakültelerinde görev yapan akademisyenler tarafından yazılmıştır. Üniversitelerde çocuk koruma merkezlerinin nasıl kurulacağı ve nasıl çalışacağına dair temel bilgiler sunulmaktadır.
 
-?> *Kuruluş adı: Uzman; 2010, Türkçe Tema: Çocuk koruma, Sağlık*
+?> *Yazar adı: Prof. Dr. Tolga Dağlı, Prof. Dr. Mehmet Akif İnanıcı; 2010, Türkçe Tema: Çocuk koruma, Sağlık*
 
-[Dökümanı İncele](downloads\KTP\KTP_01pdf.pdf ':ignore')
+[Dokümanı İncele](downloads\KTP\KTP_01pdf.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
 
 ***
 
@@ -25,8 +40,9 @@ Sulukule Gönüllüleri Derneği tarafından, Uluslararası Çocuk Merkezi'nin A
 
 ?> *Kuruluş adı: Çocuğa Karşı Şiddeti Önlemek için Ortaklık Ağı; 2017, Türkçe Tema: Roman çocuklar, Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\KTP\KTP_02.pdf ':ignore')
+[Dokümanı İncele](downloads\KTP\KTP_02.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Biz de Varız!
@@ -50,8 +66,9 @@ KAMER Vakfı 20 yıldır Doğu ve Güneydoğu Anadolu’nun 23 ilinde tüm zorlu
 
 ?> *Kuruluş adı: UNFPA, KAMER; 2017, Türkçe Tema: Göç, Çocuk yaşta evlilik, Zorla evlilik*
 
-[Dökümanı İncele](downloads\KTP\KTP_03.pdf ':ignore')
+[Dokümanı İncele](downloads\KTP\KTP_03.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Çocuğa Karşı Şiddeti Önleme Projesi Kitapları
@@ -62,15 +79,17 @@ KAMER Vakfı 20 yıldır Doğu ve Güneydoğu Anadolu’nun 23 ilinde tüm zorlu
 
 ?> *Kuruluş adı: MEB; 2015, Türkçe Tema: Çocuk koruma, Danışmanlık*  
 
-Danışmanlık Tedbiri Uygulamaları El Kitabı [Dökümanı İncele](downloads\KTP\KTP_04\danismanlik_tedbiri_uygulamalari_el_kitabi.pdf ':ignore')
+Danışmanlık Tedbiri Uygulamaları El Kitabı [Dokümanı İncele](downloads\KTP\KTP_04\danismanlik_tedbiri_uygulamalari_el_kitabi.pdf ':ignore')
 
-Çocuğa Yönelik Şiddetin Önlenmesi Teknik Destek Projesi Eğitim Programı [Dökümanı İncele](downloads\KTP\KTP_04\egitici_ve_egitici_olmayan_personele_yonelik_egitim_programi.pdf ':ignore')
+Çocuğa Yönelik Şiddetin Önlenmesi Teknik Destek Projesi Eğitim Programı [Dokümanı İncele](downloads\KTP\KTP_04\egitici_ve_egitici_olmayan_personele_yonelik_egitim_programi.pdf ':ignore')
 
-Çocuğa Yönelik Şiddetin Önlenmesi Teknik Destek Projesi Erken Uyarı Uygulamaları Kitapçığı [Dökümanı İncele](downloads\KTP\KTP_04\erken_uyari_uygulamalari_programi.pdf  ':ignore')
+Çocuğa Yönelik Şiddetin Önlenmesi Teknik Destek Projesi Erken Uyarı Uygulamaları Kitapçığı [Dokümanı İncele](downloads\KTP\KTP_04\erken_uyari_uygulamalari_programi.pdf  ':ignore')
 
-Okullarda Rehberlik ve Psikolojik Danışma Hizmetleri Kılavuzu [Dökümanı İncele](downloads\KTP\KTP_04\okullarda_rehberlik_ve_psikolojik_danisma_hizmetleri_kilavuzu.pdf ':ignore')
+Okullarda Rehberlik ve Psikolojik Danışma Hizmetleri Kılavuzu [Dokümanı İncele](downloads\KTP\KTP_04\okullarda_rehberlik_ve_psikolojik_danisma_hizmetleri_kilavuzu.pdf ':ignore')
 
-Çocuğa Yönelik Şiddetin Önlenmesi Rehber Öğretmen El Kitabı [Dökümanı İncele](downloads\KTP\KTP_04\rehber_ogretmen_el_kitabi.pdf ':ignore')
+Çocuğa Yönelik Şiddetin Önlenmesi Rehber Öğretmen El Kitabı [Dokümanı İncele](downloads\KTP\KTP_04\rehber_ogretmen_el_kitabi.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
 
 ## Hak Temelli İzleme ve Değerlendirme ve Toplumsal Cinsiyet Anaakımlaştırması
 *KTP_05*
@@ -82,6 +101,7 @@ Kitapta; hak temelli izleme yaklaşımları, dava izleme, toplumsal cinsiyet ana
 
 [Yazılı kopya]
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Kadına Yönelik Şiddetle Mücadele Mekanizması İzleme Modeli
@@ -94,6 +114,7 @@ Kitap, kadına yönelik şiddetle mücadelede hak temelli izlemenin önemini vur
 
 [Yazılı kopya]
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Toplumsal Cinsiyete Duyarlı Veri Çalışması
@@ -106,6 +127,7 @@ Kadın Dostu Kentler Programı kapsamında basılan kitapçıkta, toplumsal cins
 
 [Yazılı kopya]
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Vakalarla Türkiye'de Üreme Hakları
@@ -118,6 +140,7 @@ Gürkan Sert tarafından hazırlanan kitapta üreme hakları konusu, çeşitli v
 
 [Yazılı kopya]
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Adli Sistemde Çocuklar
@@ -130,6 +153,7 @@ Gürkan Sert tarafından hazırlanan kitapta üreme hakları konusu, çeşitli v
 
 [Yazılı kopya]
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## İnceleme ve Değerlendirme Raporları (Çocuk-Kadın aile)
@@ -142,6 +166,7 @@ Adalet Bakanlığı Mağdur Hakları Daire Başkanlığı tarafından hazırlana
 
 [Yazılı kopya]
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Çalıştay raporları (STK-Adli Destek Sisteminin Yeniden Değerlendirilmesi, Tazminat-İstihdam-Tedavi) 
@@ -154,6 +179,7 @@ Adalet Bakanlığı Mağdur Hakları Daire Başkanlığı tarafından hazırlana
 
 [Yazılı kopya]
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Languages of Resistence: Ian Hancook's Contribition to Roman Studies within The fact of Early Mariage Among Romanies as a Violation of Child Rights: The Case of Mersin, Turkey
@@ -161,10 +187,12 @@ Adalet Bakanlığı Mağdur Hakları Daire Başkanlığı tarafından hazırlana
 
 **ÖZET**  
 Kitapta; Neriman Açıkalın tarafından Roman toplumunda çocuk yaşta evlilik çocuk haklarının ihlali çerçevesinde ele alınmıştır.
+
 ?> *Kuruluş adı: University of Silecia, University of Beloit; 2017, İngilizce Tema: Roman çocuklar, Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\KTP\KTP_12.pdf ':ignore')
+[Dokümanı İncele](downloads\KTP\KTP_12.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Çocuk Evliliklerini Durdurmak Konusunda Parlamenterlerin Rolü El Kitabı
@@ -175,8 +203,9 @@ Girls not Brides ağı tarafından yayınlanmış olan kitapçığın kısaltıl
 
 ?> *Kuruluş adı: GEN-DER, Uçan Süpürge; 2018, Türkçe Tema: Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\KTP\KTP_13.pdf ':ignore')
+[Dokümanı İncele](downloads\KTP\KTP_13.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Sivil Toplum Kuruluşları, Ağları, Platformlarınca İstanbul Sözleşmesi ve Türkiye'nin 7. Dönem Raporuna CEDAW'ın Nihai Yorumlarının Takibi
@@ -193,4 +222,17 @@ Bu çerçevede Derneğimiz 2005 yılından beri Cedaw Sivil Toplum Yürütme Kur
 
 ?> *Kuruluş adı: CEDAW Sivil Toplum Yürütme Kurulu, UN Women; 2018, Türkçe Tema: Kadınlara karşı ayrımcılık*
 
-[Dökümanı İncele](downloads\KTP\KTP_14.pdf ':ignore')
+[Dokümanı İncele](downloads\KTP\KTP_14.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+## Çocuk ve Ergen Sağlığı
+*KTP_15*
+
+**ÖZET**  
+Aile Eğitim Programı kapsamında üretilen 8 üniteden oluşan bu ders kitabı, doğumla gelen hastalıklar, hamilelik dönemi ve bu dönemde dikkat edilmesi gereken hususlar, bebek ve çocuğun sağlık ve gelişim takibi, emzirme, beslenme gibi konuları içermektedir.
+
+?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı; 2011, Türkçe Tema: Çocuk ve Ergen Sağlığı, Aşılama, Beslenme, Ev İçi Hava Temizliği*
+
+[Dokümanı İncele](downloads\EGT\05_03_cocuk-ve-ergen-sagligi.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)

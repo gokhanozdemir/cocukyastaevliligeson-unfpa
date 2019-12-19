@@ -1,5 +1,19 @@
-# Eğitim Kitleri
+# Eğitim Kitleri {docsify-ignore-all}
 ***
+#### __Materyal Listesi__
+
+- [Çocuk Yaşta Evlilikin Önlenmesi Temel Eğitim Programı -*UNICEF*](#Çocuk-yaşta-evlilikin-Önlenmesi-temel-eğitim-programı)  
+- [Zorunlu Eğitim Çağında ve Zorla Evlendirilen Kız Çocuklarının Eğitime Dönüş Projesi - *Gaziantep Büyükşehir Belediyesi*](#zorunlu-eğitim-Çağında-ve-zorla-evlendirilen-kız-Çocuklarının-eğitime-dönüş-projesi) 
+- [Çocuk Yaşta Evlilikin Önlenmesi Bilgilendirme ve Eğitim Seti - *UNICEF*](#Çocuk-yaşta-evlilikin-Önlenmesi-bilgilendirme-ve-eğitim-seti) 
+- [Çocuk Gelinler Bilgi Seti - *Uçan Süpürge*](#Çocuk-gelinler-bilgi-seti) 
+- [Enhancing Resilience and Social Cohesion among Refugee Women And Combating GBV including Child Marriage Training Manual - *UN Women*](#enhancing-resilience-and-social-cohesion-among-refugee-women-and-combating-gbv-including-child-marriage-training-manual) 
+- [Community Activator Guide, TOT guide - *CARE International*](#community-activator-guide-tot-guide) 
+- [Çocuk Yaşta Evlilik Konusunda Bilgilendirme Materyalleri - *Save the Children International*](#Çocuk-yaşta-evlilik-konusunda-bilgilendirme-materyalleri) 
+- [Çocuk Koruma, Vaka yönetimi, SoPs, BID, BIP - *Save the Children International, UN Agencies*](#Çocuk-koruma-vaka-yönetimi-sops-bid-bip) 
+- [Mevsimlik Tarım İşçileri, Sağlık, Erken Yaşta Evlilik, Adölesan Gebelikleri - *Harran Üniversitesi, Sağlık Bakanlığı, UNFPA*](#mevsimlik-tarım-İşçileri-sağlık-erken-yaşta-evlilik-adölesan-gebelikleri) 
+- [Toplumsal Cinsiyet Temelli Şiddet - *Save the Children International, UN Agencies*](#toplumsal-cinsiyet-temelli-Şiddet) 
+- [Toplumsal Cinsiyet Eşitliğine Duyarlı Okul Standartlarının Yaygınlaşıtırılması - *Milli Eğitim Bakanlığı*](#toplumsal-cinsiyet-eşitliğine-duyarlı-okul-standartlarının-yaygınlaşıtırılması) 
+
 
 ## Çocuk Yaşta Evlilikin Önlenmesi Temel Eğitim Programı
 *KIT_01 Klasör*  
@@ -9,25 +23,27 @@
 
 ?> *Kuruluş adı: UNICEF; 2017, Türkçe Tema: Çocuk yaşta evlilik*  
 
-Hizmet Sağlayıcılar İçin Çocuk Yaşta Evliliklerin Önlenmesi [Dökümanı İncele](downloads\KIT\KIT_01\egitici_el kitabi_A4_rev.pdf ':ignore')
+Hizmet Sağlayıcılar İçin Çocuk Yaşta Evliliklerin Önlenmesi [Dokümanı İncele](downloads\KIT\KIT_01\egitici_el kitabi_A4_rev.pdf ':ignore')
 
-Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Koruma [Dökümanı İncele](downloads\KIT\KIT_01\Slayt1-Cocuk-Koruma-Temel-Kavramlar.pdf ':ignore')
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Koruma [Dokümanı İncele](downloads\KIT\KIT_01\Slayt1-Cocuk-Koruma-Temel-Kavramlar.pdf ':ignore')
 
-Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Türkiye'de Çocuk Koruma ile İlgili Yasal ve Kurumsal Çerçeve [Dökümanı İncele](downloads\KIT\KIT_01\Slayt2-Turkiyede-cocuk-korumanin-yasal-ve-kurumsal-cercevesi.pdf ':ignore')
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Türkiye'de Çocuk Koruma ile İlgili Yasal ve Kurumsal Çerçeve [Dokümanı İncele](downloads\KIT\KIT_01\Slayt2-Turkiyede-cocuk-korumanin-yasal-ve-kurumsal-cercevesi.pdf ':ignore')
 
-Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evlilikler Temel Kavramlar ve Olgular [Dökümanı İncele](downloads\KIT\KIT_01\Slayt3-Cocuk-yasta-evlilikler-temel-kavram-ve-olgular.pdf ':ignore')
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evlilikler Temel Kavramlar ve Olgular [Dokümanı İncele](downloads\KIT\KIT_01\Slayt3-Cocuk-yasta-evlilikler-temel-kavram-ve-olgular.pdf ':ignore')
 
-Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evliliklerin Sebep ve Sonuçları [Dökümanı İncele](downloads\KIT\KIT_01\Slayt4-Cocuk-yasta-evlilikler-sebep-ve-sonuclar.pdf ':ignore')
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evliliklerin Sebep ve Sonuçları [Dokümanı İncele](downloads\KIT\KIT_01\Slayt4-Cocuk-yasta-evlilikler-sebep-ve-sonuclar.pdf ':ignore')
 
-Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Toplumsal Cinsiyet Eşitliği [Dökümanı İncele](downloads\EGT\EGT_05\Slayt-5-Toplumsal-cinsiyet-temel-kavramlar.pdf ':ignore')
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Toplumsal Cinsiyet Eşitliği [Dokümanı İncele](downloads\EGT\EGT_05\Slayt-5-Toplumsal-cinsiyet-temel-kavramlar.pdf ':ignore')
 
-Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Toplumsal Cinsiyet ve Şiddet [Dökümanı İncele](downloads\KIT\KIT_01\Slayt6-Toplumsal-cinsiyet-ve-siddet.pdf ':ignore')
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Toplumsal Cinsiyet ve Şiddet [Dokümanı İncele](downloads\KIT\KIT_01\Slayt6-Toplumsal-cinsiyet-ve-siddet.pdf ':ignore')
 
-Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Türkiye'de Kadına Yönelik Şiddetle Mücadele Mekanizması [Dökümanı İncele](downloads\KIT\KIT_01\Slayt7-Turkiyede-kadina-siddetle-mucadele-mekanizmasi.pdf ':ignore')
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Türkiye'de Kadına Yönelik Şiddetle Mücadele Mekanizması [Dokümanı İncele](downloads\KIT\KIT_01\Slayt7-Turkiyede-kadina-siddetle-mucadele-mekanizmasi.pdf ':ignore')
 
-Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evlilikler Önleme ve Müdahale Yöntemleri [Dökümanı İncele](downloads\KIT\KIT_01\Slayt8-Cocuk-yasta-evlilikler-onleme-ve-mudahale.pdf ':ignore')
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evlilikler Önleme ve Müdahale Yöntemleri [Dokümanı İncele](downloads\KIT\KIT_01\Slayt8-Cocuk-yasta-evlilikler-onleme-ve-mudahale.pdf ':ignore')
 
-Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evlendirilen Çocukların Tespiti ve Vaka Yönetimi [Dökümanı İncele](downloads\KIT\KIT_01\Slayt9-Cocuk-yasta-evlilikler-tespit-ve-vaka-yonetimi.pdf ':ignore')
+Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evlendirilen Çocukların Tespiti ve Vaka Yönetimi [Dokümanı İncele](downloads\KIT\KIT_01\Slayt9-Cocuk-yasta-evlilikler-tespit-ve-vaka-yonetimi.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
 
 ***
 
@@ -39,9 +55,11 @@ Hizmet Sağlayıcılar İçin Çocuk Yaşta Evliliklerin Önlenmesi [Dökümanı
 
 ?> *Kuruluş adı: Gaziantep Büyükşehir Belediyesi; Türkçe Tema: Çocuk yaşta evlilik, Kız çocukların eğitimi*  
 
-Eğitim, Form, Görsel, ve Politika  [Dökümanı İncele](downloads\KIT\KIT_02\KIT_02.zip ':ignore')
+Eğitim, Form, Görsel, ve Politika  [Dokümanı İncele](downloads\KIT\KIT_02\KIT_02.zip ':ignore')
 
-Filmler [Dökümanı İncele](downloads\KIT\KIT_02\FILM.zip ':ignore')
+Filmler [Dokümanı İncele](downloads\KIT\KIT_02\FILM.zip ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
 
 ***
 
@@ -55,6 +73,8 @@ Filmler [Dökümanı İncele](downloads\KIT\KIT_02\FILM.zip ':ignore')
 
 [Yazılı kopya]
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
 ***
 
 ## Çocuk Gelinler Bilgi Seti
@@ -67,6 +87,7 @@ Selen Doğan tarafından hazırlanan ve Uçan Süpürge Yayını olan set; Çocu
 
 [Yazılı kopya]
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Enhancing Resilience and Social Cohesion among Refugee Women And Combating GBV including Child Marriage Training Manual
@@ -77,11 +98,13 @@ Selen Doğan tarafından hazırlanan ve Uçan Süpürge Yayını olan set; Çocu
 
 ?> *Kuruluş adı: UN Women; 2018, İngilizce Tema: Çocuk hakları, Çocuk yaşta evlilik*  
 
-Content of the UN Women Trainng Program [Dökümanı İncele](downloads\KIT\KIT_05\content-of-the-manual_training-program-UN-Women.pdf ':ignore')
+Content of the UN Women Trainng Program [Dokümanı İncele](downloads\KIT\KIT_05\content-of-the-manual_training-program-UN-Women.pdf ':ignore')
 
-Enhancing Resilience and Social Cohesion among Refugee and Host Community Women in Turkey-TOT sessions [Dökümanı İncele](downloads\KIT\KIT_05\TOT-sessions.pdf ':ignore')
+Enhancing Resilience and Social Cohesion among Refugee and Host Community Women in Turkey-TOT sessions [Dokümanı İncele](downloads\KIT\KIT_05\TOT-sessions.pdf ':ignore')
 
-Enhancing Resilience and Social Cohesion among Refugee Women And Combating GBV including Child Marriage Training Manual [Dökümanı İncele](downloads\KIT\KIT_05\Training-Manual_UN-Women-Turkey.pdf ':ignore')
+Enhancing Resilience and Social Cohesion among Refugee Women And Combating GBV including Child Marriage Training Manual [Dokümanı İncele](downloads\KIT\KIT_05\Training-Manual_UN-Women-Turkey.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
 
 ***
 
@@ -92,22 +115,26 @@ Enhancing Resilience and Social Cohesion among Refugee Women And Combating GBV i
  CARE Türkiye ofisi tarafından geliştirilen materyal, Community Activator'lere yönelik kapsamlı bir eğitim materyalidir. Materyal; CA'ların rolü, çocuk koruma, GBV, çocuk yaşta evlilik, çocuk işçiliği, psiko-sosyal destek, ebeveynlik becerileri, zorbalık konularını içermektedir. Materyalin ayrıca bir ToT kitapçığı bulunmaktadır.
 
 ?> *Kuruluş adı: CARE International; 2018, İngilizce Tema: Child marriage, Child protection, GBV*  
+<!--
+Community Activator Guide [Dokümanı İncele](downloads\KIT\KIT_06\CA-GUIDE-DRAFT.pdf ':ignore')
 
-Community Activator Guide [Dökümanı İncele](downloads\KIT\KIT_06\CA-GUIDE-DRAFT.pdf ':ignore')
+Child Protection Outreach Training of Trainers Guide [Dokümanı İncele](downloads\KIT\KIT_06\TOT-DRAFT.pdf ':ignore')
 
-Child Protection Outreach Training of Trainers Guide [Dökümanı İncele](downloads\KIT\KIT_06\TOT-DRAFT.pdf ':ignore')
+Child Marriage Front Page 1 [Dokümanı İncele](downloads\KIT\KIT_06\Child-Marriage-Front-Page-for-Audience-1.pdf ':ignore')
 
-Child Marriage Front Page 1 [Dökümanı İncele](downloads\KIT\KIT_06\Child-Marriage-Front-Page-for-Audience-1.pdf ':ignore')
+Child Marriage Front Page 2 [Dokümanı İncele](downloads\KIT\KIT_06\Child-Marriage-Front-Page-for-Audience-2.pdf ':ignore')
 
-Child Marriage Front Page 2 [Dökümanı İncele](downloads\KIT\KIT_06\Child-Marriage-Front-Page-for-Audience-2.pdf ':ignore')
+Child Marriage Front Page 3 [Dokümanı İncele](downloads\KIT\KIT_06\Child-Marriage-Front-Page-for-Audience-3.pdf ':ignore')
 
-Child Marriage Front Page 3 [Dökümanı İncele](downloads\KIT\KIT_06\Child-Marriage-Front-Page-for-Audience-3.pdf ':ignore')
+Child Marriage Back Page 1 [Dokümanı İncele](downloads\KIT\KIT_06\Child-Marriage-Back-Page-for-the-Activator-1.pdf ':ignore')
 
-Child Marriage Back Page 1 [Dökümanı İncele](downloads\KIT\KIT_06\Child-Marriage-Back-Page-for-the-Activator-1.pdf ':ignore')
+Child Marriage Back Page 2 [Dokümanı İncele](downloads\KIT\KIT_06\Child-Marriage-Back-Page-for-the-Activator-2.pdf ':ignore')
 
-Child Marriage Back Page 2 [Dökümanı İncele](downloads\KIT\KIT_06\Child-Marriage-Back-Page-for-the-Activator-2.pdf ':ignore')
+Child Marriage Back Page 3 [Dokümanı İncele](downloads\KIT\KIT_06\Child-Marriage-Back-Page-for-the-Activator-3.pdf ':ignore')
+-->
+**Materyal Ulaşılabilir Değil
 
-Child Marriage Back Page 3 [Dökümanı İncele](downloads\KIT\KIT_06\Child-Marriage-Back-Page-for-the-Activator-3.pdf ':ignore')
+[Materyal Listesine Geri Dön](#materyal-listesi)
 
 ***
 
@@ -118,8 +145,12 @@ Child Marriage Back Page 3 [Dökümanı İncele](downloads\KIT\KIT_06\Child-Marr
  Amani Kampanyası başta olmak üzere Türkiye, Irak, Suriye ve Ürdün'de konuya ilişkin üretilmiş kampanya, eğitim, bilgilendirme materyalleri, raporlar ve görsel matetyalleri içermektedir.
 
 ?> *Kuruluş adı: Save the Children International, UN Agencies; Türkçe Tema: Çocuk yaşta evlilik*  
+<!--
+Tam Klasör [Dokümanı İncele](downloads\KIT\KIT_07.zip.001 ':ignore')
+-->
+**Materyal Ulaşılabilir Değil
 
-Tam Klasör [Dökümanı İncele](downloads\KIT\KIT_07.zip.001 ':ignore')
+[Materyal Listesine Geri Dön](#materyal-listesi)
 
 ***
 
@@ -130,8 +161,12 @@ Tam Klasör [Dökümanı İncele](downloads\KIT\KIT_07.zip.001 ':ignore')
  Uluslararası kuruluşlar ve BM ajansları tarafından çocuk korumaya ilişkin geliştirilmiş SoP, form, değerlendirme araçları, bilgi vb. materyalleri içermektedir.
 
 ?> *Kuruluş adı: Save the Children International, UN Agencies; Türkçe Tema: Çocuk koruma*  
+<!--
+Tam Klasör [Dokümanı İncele](downloads\KIT\KIT_08.zip.001 ':ignore')
+-->
+**Materyal Ulaşılabilir Değil
 
-Tam Klasör [Dökümanı İncele](downloads\KIT\KIT_08.zip.001 ':ignore')
+[Materyal Listesine Geri Dön](#materyal-listesi)
 
 ***
 
@@ -143,16 +178,18 @@ Tam Klasör [Dökümanı İncele](downloads\KIT\KIT_08.zip.001 ':ignore')
 
 ?> *Kuruluş adı: Harran Üniversitesi, Sağlık Bakanlığı, UNFPA; Türkçe Tema: Mevsimlik tarım işçileri, Üreme sağlığı, Adölesan evlilikler*  
 
-Mevsimlik Tarim İşçisi Ve Ailelerinin Sağliğini Geliştirme Programi: Mahalli Mülki Amirler İçin Rehber [Dökümanı İncele](downloads\KIT\MEVSIMLIK-TARIM-ISCISI-VE-AILELERININ-SAGLIGI-MAHALLI-MULKI-AMIRLER-ICIN-REHBER.pdf ':ignore')
+Mevsimlik Tarim İşçisi Ve Ailelerinin Sağliğini Geliştirme Programi: Mahalli Mülki Amirler İçin Rehber [Dokümanı İncele](downloads\KIT\MEVSIMLIK-TARIM-ISCISI-VE-AILELERININ-SAGLIGI-MAHALLI-MULKI-AMIRLER-ICIN-REHBER.pdf ':ignore')
 
-Tarım İş Aracısı Rehberi [Dökümanı İncele](downloads\KIT\Tarim-Is-Aracisi-Rehberi.pdf  ':ignore')
+Tarım İş Aracısı Rehberi [Dokümanı İncele](downloads\KIT\Tarim-Is-Aracisi-Rehberi.pdf  ':ignore')
 
 Doğru ve Etkili Sağlik İletişimi İçin
-“Sağlik Haberciliği –Programciliği Rehberi” [Dökümanı İncele](downloads\KIT\Saglik-Haberciligi-Rehberi.pdf ':ignore')
+“Sağlik Haberciliği –Programciliği Rehberi” [Dokümanı İncele](downloads\KIT\Saglik-Haberciligi-Rehberi.pdf ':ignore')
 
-Mevsimlik Tarim İşçilerinin ve Ailelerinin İhtiyaçlarinin Belirlenmesi Araştirmasi 2011 [Dökümanı İncele](downloads\KIT\Mevsimlik-Tarim-Iscilerinin-ve-Ailelerinin-Ihtiyaclari.pdf ':ignore')
+Mevsimlik Tarim İşçilerinin ve Ailelerinin İhtiyaçlarinin Belirlenmesi Araştirmasi 2011 [Dokümanı İncele](downloads\KIT\Mevsimlik-Tarim-Iscilerinin-ve-Ailelerinin-Ihtiyaclari.pdf ':ignore')
 
-Tam Klasör [Dökümanı İncele](downloads\KIT\KIT_09.zip ':ignore')
+Tam Klasör [Dokümanı İncele](downloads\KIT\KIT_09.zip ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
 
 ***
 
@@ -163,12 +200,16 @@ Tam Klasör [Dökümanı İncele](downloads\KIT\KIT_09.zip ':ignore')
  Save the Children, BM ajansları ve uluslararası kuruluşlar tarafından geliştirilmiş çocuk yaşta evlilik ve GBV materyallerini içermektedir; Ürdünde çocuk yaşta, erken ve zorla evliliklerle ilgili raporlar, İrak ile ilgili çocuk yaşta evlilikleri kapsiyan bir guidance note içermektedir.  
 
 ?> *Kuruluş adı: Save the Children International, UN Agencies; İngilizce, Arapça Tema: Çocuk koruma, Toplum temelli çalışma*  
+<!--
+Ürdün ile ilgili raporlar [Dokümanı İncele](downloads\KIT\Urdunde-CEFM.zip ':ignore')
 
-Ürdün ile ilgili raporlar [Dökümanı İncele](downloads\KIT\Urdunde-CEFM.zip ':ignore')
+Broşürler/Leaflets [Dokümanı İncele](downloads\KIT\Leaflets.zip ':ignore')
 
-Broşürler/Leaflets [Dökümanı İncele](downloads\KIT\Leaflets.zip ':ignore')
+Interagency Guidance Note, Prevention of and Response to Child Marriage in Iraq. [Dokümanı İncele](downloads\KIT\Iraq\Guidance-Note_Prevention-of-and-response-to-Child-Marriage.pdf ':ignore')
+-->
+**Materyal Ulaşılabilir Değil
 
-Interagency Guidance Note, Prevention of and Response to Child Marriage in Iraq. [Dökümanı İncele](downloads\KIT\Iraq\Guidance-Note_Prevention-of-and-response-to-Child-Marriage.pdf ':ignore')
+[Materyal Listesine Geri Dön](#materyal-listesi)
 
 ***
 
@@ -181,3 +222,5 @@ Interagency Guidance Note, Prevention of and Response to Child Marriage in Iraq.
 ?> *Kuruluş adı: Milli Eğitim Bakanlığı; 2016, Türkçe Tema: Eğitimde toplumsal cinsiyet eşitliği*
 
 [Yazılı kopya]
+
+[Materyal Listesine Geri Dön](#materyal-listesi)

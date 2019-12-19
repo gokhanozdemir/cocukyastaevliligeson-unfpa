@@ -1,5 +1,9 @@
-# Strateji belgeleri 
+# Strateji Belgeleri {docsify-ignore-all}
 ***
+#### __Materyal Listesi__
+
+- [Türkiye Çocuk Hakları Stratejisi ve Uygulama Planı (2013-2017) - *Çocuk Vakfı*](#türkiye-Çocuk-hakları-stratejisi-ve-uygulama-planı-2013-2017)
+- [Kurumlar-Arasi Çocuk Evlilikleri Kilavuz Notu: Müdahale Yöntemleri ve Önleyici Tedbirler - *Inter-Agency Coordination Turkey*](#kurumlar-arasi-Çocuk-evlilikleri-kilavuz-notu-müdahale-yöntemleri-ve-Önleyici-tedbirler)
 
 ## Türkiye Çocuk Hakları Stratejisi ve Uygulama Planı (2013-2017)
 *STR_01*
@@ -9,8 +13,9 @@
 
 ?> *Kuruluş adı: Çocuk Vakfı; 2012, Türkçe Tema: Çocuk hakları*
 
-[Dökümanı İncele](downloads\STR\STR_01.pdf ':ignore')
+[Dokümanı İncele](downloads\STR\STR_01.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Kurumlar-Arasi Çocuk Evlilikleri Kilavuz Notu: Müdahale Yöntemleri ve Önleyici Tedbirler
@@ -24,8 +29,10 @@ This backgrounder was created to address the needs established by a protection c
 
 ?> *Kuruluş adı: Inter-Agency Coordination Turkey; 2018, Türkçe, İngilizce Tema: Çocuk Yaşta evlilikler, Çocuk evlililkleri*
 
-Kurumlar-Arasi Çocuk Evlilikleri Kilavuz Notu (Türkçe) [Dökümanı İncele](downloads\addon\STR_02_TK.pdf ':ignore')
-Kurumlar-Arasi Çocuk Evlilikleri Kilavuz Notu: Ekler (Türkçe) [Dökümanı İncele](downloads\addon\STR_02_TK_EKLER.pdf ':ignore')
+Kurumlar-Arasi Çocuk Evlilikleri Kilavuz Notu (Türkçe) [Dokümanı İncele](downloads\addon\STR_02_TK.pdf ':ignore')
+Kurumlar-Arasi Çocuk Evlilikleri Kilavuz Notu: Ekler (Türkçe) [Dokümanı İncele](downloads\addon\STR_02_TK_EKLER.pdf ':ignore')
 
-Inter-Agency Guidance Note on Child Marriages: Measures for Prevention and Response (İngilizce) [Dökümanı İncele](downloads\addon\STR_02_EN.pdf ':ignore')
-Inter-Agency Guidance Note on Child Marriages: Annexes (İngilizce) [Dökümanı İncele](downloads\addon\STR_02_EN_ANNEX.pdf ':ignore')
+Inter-Agency Guidance Note on Child Marriages: Measures for Prevention and Response (İngilizce) [Dokümanı İncele](downloads\addon\STR_02_EN.pdf ':ignore')
+Inter-Agency Guidance Note on Child Marriages: Annexes (İngilizce) [Dokümanı İncele](downloads\addon\STR_02_EN_ANNEX.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)

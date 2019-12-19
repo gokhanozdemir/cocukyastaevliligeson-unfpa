@@ -1,6 +1,28 @@
-# Araştırmalar
+# Araştırmalar {docsify-ignore-all}
 ***
-## Erken Yaşta Evlilikin Toplumsal Meşruiyeti
+#### __Materyal Listesi__
+
+
+- [Erken Yaşta Evliliklerin Toplumsal Meşruiyeti - *Dicle Toplumsal Araştırmalar Merkjezi (DİTAM), KAMER, Diyarbakır Eczacılar Odası* ](#erken-yaşta-evliliklerin-toplumsal-meşruiyeti)
+- [Hane Ziyareti Raporu - *KAMER*](#hane-ziyareti-raporu)
+- [Türkiye'de Evlilik Tercihleri - *Aile ve Sosyal Politikalar Bakanlığı Aile ve Toplum Hizmetleri Genel Müdürlüğü*](#türkiye39de-evlilik-tercihleri)
+- [Çocukların Ev İçinde Yaşadıkları Şiddet Araştırması - *Genç Hayat Vakfı, Uluslararası Çocuk Merkezi Derneği, Geleceğimizin Çocukları Vakfı*](#türkiye39de-Çocuk-İstismarı-ve-aile-içi-Şiddet-araştırması)
+- [Türkiye'de Çocuk İstismarı ve Aile içi Şiddet Araştırması - *SHÇEK, UNICEF*]())
+- [Türkiye'deki Namus Cinayetlerinin Dinamikleri - *UNDP, UNFPA, Nüfusbilim Derneği*](#türkiye39deki-namus-cinayetlerinin-dinamikleri)
+- [Türkiye'de Ensest Sorununu Anlamak - *UNFPA, Nüfusbilim Derneği*](#türkiye39de-ensest-sorununu-anlamak)
+- [Kadına Yönelik Şiddetle Mücadele Projesi - *Başak Kültür ve Sanat Vakfı*](#kadına-yönelik-Şiddetle-mücadele-projesi)
+- [Kadına Yönelik  Aile içi Şiddet Konusunda İlköğretim İkinci Kademe ve Lise Öğrencilerinin Tutumu - *UNFPA, Nüfusbilim Derneği*](#kadına-yönelik-aile-içi-Şiddet-konusunda-İlköğretim-İkinci-kademe-ve-lise-Öğrencilerinin-tutumu)
+- [Yerel Yönetimlerde Cinsiyet Eşiltiği Yaklaşımı: Bir Pilot Çalışma - *KA-DER Ankara*](#yerel-yönetimlerde-cinsiyet-eşiltiği-yaklaşımı-bir-pilot-Çalışma)
+- [Adli Süreçte Mağdur Kadınlar - *Adalet Bakanlığı*](#adli-süreçte-mağdur-kadınlar)
+- [Evlilik ve Evlenme Yaşı Tartışmaları ve Cinsel İstismar - *KONDA*](#evlilik-ve-evlenme-yaşı-tartışmaları-ve-cinsel-İstismar)
+- [Mevsimlik Tarım Göçünden Etkilenen 6-14 Yaş Grubu Çocuklar için Temel Araştırma - *Kalkınma Atölyesi*](#mevsimlik-tarım-göçünden-etkilenen-6-14-yaş-grubu-Çocuklar-için-temel-araştırma)
+- [A Hidden Reality for Adolescent Girls: Child, Early and Forced Marriages and Unions in Latin America and the Caribbean - *Birleşmiş Milletler Nüfus Fonu, Plan International*](#a-hidden-reality-for-adolescent-girls-child-early-and-forced-marriages-and-unions-in-latin-america-and-the-caribbean)
+- [Adölesan Dönemde Evlenen Kadinlarin Üreme Sağliği Davranişlari: Bir Karma Yöntem Çalişmasi - *Aydın Adnan Menderes Üniversitesi*](#adölesan-dönemde-evlenen-kadinlarin-Üreme-sağliği-davranişlari-bir-karma-yöntem-Çalişmasi)
+- [Gender in Society Perception Study KAP Study - *UN Women, UNFPA, IOM, United Nations Peacekeeping Fund, Stat KG*](#gender-in-society-perception-study-pillar-research-report-violence-against-women-and-girls-cinsiyet-algısı-Çalışması-pillar-araştırma-raporu-kadınlara-ve-kız-Çocuklarına-yönelik-Şiddet)
+- [Tackling the Taboo: Sexuality and Gender-Transformative Programmes to End Child, Early and Forced Marriage and Unions - *CARE, CREA, Girls Not Brides, ICRW, IWHC, Promunda, Population Council, Plan International, Global Fund for Women, Nirantar Trust, Greene Works, AJWS*](#tackling-the-taboo-sexuality-and-gender-transformative-programmes-to-end-child-early-and-forced-marriage-and-unions)
+- [National Study “Early Unions, Pregnancies and Violation of Rights of Adolescents” - *BM Nüfus Fonu, FLASCO Guatemala, Guatemala Hükümeti*](#national-study-early-unions-pregnancies-and-violation-of-rights-of-adolescents-bir-ulusal-Çalışma-erken-yaşta-birliktelikler-hamilelikler-ve-adölesan-haklarının-İhlali)
+
+## Erken Yaşta Evliliklerin Toplumsal Meşruiyeti
 *ARS_01*
 
 **ÖZET**  
@@ -117,8 +139,9 @@ boyutlarını kapsayan bütüncül ve katılımcı bir politikanın oluşturulup
 
 ?> *Kuruluş adı: Dicle Toplumsal Araştırmalar Merkjezi (DİTAM), KAMER, Diyarbakır Eczacılar Odası; 2014, Türkçe Tema: Çocuk yaşta evlilik, Erken yaşta evlilik*
 
-[Dökümanı İncele](downloads\ARS\ARS_01.pdf ':ignore')
+[Dokümanı İncele](downloads\ARS\ARS_01.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Hane Ziyareti Raporu
@@ -129,16 +152,13 @@ boyutlarını kapsayan bütüncül ve katılımcı bir politikanın oluşturulup
 
 ?> *Kuruluş adı: KAMER; 2015, Türkçe Tema:Çocuk yaşta evlilik, Erken yaşta evlilik, Zorla evlilik*  
 
-Hane Ziyaretleri, 2011 [Dökümanı İncele](downloads\ARS\ARS_02\hane_ziyaretleri_-_2011.pdf ':ignore')
+Hane Ziyaretleri, 2011 [Dokümanı İncele](downloads\ARS\ARS_02\hane_ziyaretleri_-_2011.pdf ':ignore')
+Hane Ziyaretleri, 2012 [Dokümanı İncele](downloads\ARS\ARS_02\hane_ziyaretleri_-_2012.pdf ':ignore')
+Hane Ziyaretleri, 2013 [Dokümanı İncele](downloads\ARS\ARS_02\hane_ziyaretleri_-_2013.pdf ':ignore')
+Hane Ziyaretleri, 2014 [Dokümanı İncele](downloads\ARS\ARS_02\hane_ziyaretleri_-_2014.pdf ':ignore')
+Hane Ziyaretleri 2015 Sonuçları [Dokümanı İncele](downloads\ARS\ARS_02\hane-ziyaretleri_2015_infografik.pdf ':ignore')
 
-Hane Ziyaretleri, 2012 [Dökümanı İncele](downloads\ARS\ARS_02\hane_ziyaretleri_-_2012.pdf ':ignore')
-
-Hane Ziyaretleri, 2013 [Dökümanı İncele](downloads\ARS\ARS_02\hane_ziyaretleri_-_2013.pdf ':ignore')
-
-Hane Ziyaretleri, 2014 [Dökümanı İncele](downloads\ARS\ARS_02\hane_ziyaretleri_-_2014.pdf ':ignore')
-
-Hane Ziyaretleri 2015 Sonuçları [Dökümanı İncele](downloads\ARS\ARS_02\hane-ziyaretleri_2015_infografik.pdf ':ignore')
-
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Türkiye'de Evlilik Tercihleri
@@ -296,8 +316,9 @@ alınması gerekli olduğu görülmektedir.
 
 ?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı Aile ve Toplum Hizmetleri Genel Müdürlüğü; 2015, Türkçe Tema: Çocuk yaşta evlilik, Zorla evlilik*
 
-[Dökümanı İncele](downloads\ARS\ARS_03.pdf ':ignore')
+[Dokümanı İncele](downloads\ARS\ARS_03.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Çocukların Ev İçinde Yaşadıkları Şiddet Araştırması
@@ -337,8 +358,9 @@ durumları hakkında “uzman” olduklarının göz önünde tutulması önemli
 
 ?> *Kuruluş adı: Genç Hayat Vakfı, Uluslararası Çocuk Merkezi Derneği, Geleceğimizin Çocukları Vakfı; 2012, Türkçe Tema: Çocuğa yönelik şiddet*
 
-[Dökümanı İncele](downloads\ARS\ARS_04.pdf ':ignore')
+[Dokümanı İncele](downloads\ARS\ARS_04.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Türkiye'de Çocuk İstismarı ve Aile içi Şiddet Araştırması
@@ -355,8 +377,9 @@ ana unsurlar yer almıştır.
 
 ?> *Kuruluş adı: SHÇEK, UNICEF; 2010, Türkçe Tema: Çocuk istismarı*
 
-[Dökümanı İncele](downloads\ARS\ARS_05.pdf ':ignore')
+[Dokümanı İncele](downloads\ARS\ARS_05.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Türkiye'deki Namus Cinayetlerinin Dinamikleri
@@ -381,8 +404,9 @@ Türkiye, namus cinayetlerini konusunu kabullenmez ve bu konuyu ele almazsa, ken
 
 ?> *Kuruluş adı: UNDP, UNFPA, Nüfusbilim Derneği; 2004, Türkçe Tema: Namus cinayetler, Çocuk yaşta, erken yaşta ve zorla evlilik*
 
-[Dökümanı İncele](downloads\ARS\ARS_06.pdf ':ignore')
+[Dokümanı İncele](downloads\ARS\ARS_06.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Türkiye'de Ensest Sorununu Anlamak
@@ -399,8 +423,9 @@ Ensest yol açtığı sosyal sonuçların yanısıra, bir cinsel şiddet olgusu 
 
 ?> *Kuruluş adı: UNFPA, Nüfusbilim Derneği; 2009, Türkçe Tema: Çocuk yaşta, Erken yaşta ve zorla evlilik*
 
-[Dökümanı İncele](downloads\ARS\ARS_07.pdf ':ignore')
+[Dokümanı İncele](downloads\ARS\ARS_07.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Kadına Yönelik Şiddetle Mücadele Projesi
@@ -411,8 +436,9 @@ Başak Kültür Sanat Vakfı tarafından İstanbul, Şanlıurfa ve Mersin'de  y�
 
 ?> *Kuruluş adı: Başak Kültür ve Sanat Vakfı; 2012, Türkçe, İngilizce, Kürtçe Tema: Kadına yönelik şiddet*
 
-[Dökümanı İncele](downloads\ARS\ARS_08.pdf ':ignore')
+[Dokümanı İncele](downloads\ARS\ARS_08.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Kadına Yönelik  Aile içi Şiddet Konusunda İlköğretim İkinci Kademe ve Lise Öğrencilerinin Tutumu
@@ -428,8 +454,9 @@ Alanında bir ilk olan bu araştırma, okul çağındaki (11-17 yaş grubu) çoc
 
 ?> *Kuruluş adı: UNFPA, Nüfusbilim Derneği; 2013, Türkçe Tema: Kadına yönelik şiddet, Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\ARS\ARS_09.pdf ':ignore')
+[Dokümanı İncele](downloads\ARS\ARS_09.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Yerel Yönetimlerde Cinsiyet Eşiltiği Yaklaşımı: Bir Pilot Çalışma
@@ -441,6 +468,8 @@ KA.DER Ankara'nın, Ankara ve Diyarbakır'dan 4 belediyenin çalışmalarını t
 ?> *Kuruluş adı: KA.DER Ankara; 2012, Türkçe Tema: Yerel yönetimler, Toplumsal cinsiyet eşitliği*
 
 [Yazılı kopya]
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
 
 ***
 
@@ -454,6 +483,8 @@ Araştırma raporunda "Mağdur Kadınlar"ın kolluktan başlayarak adli sürecin
 
 [Yazılı kopya]
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
 ***
 
 ## Evlilik ve Evlenme Yaşı Tartışmaları ve Cinsel İstismar
@@ -464,8 +495,9 @@ KONDA tarafından hazırlanan çalışma; evlenme istatistikleri ile Türkiye to
 
 ?> *Kuruluş adı: KONDA; 2016, Türkçe Tema: Çocuk yaşta evlilik, İstatistik*
 
-[Dökümanı İncele](downloads\ARS\ARS_12.pdf ':ignore')
+[Dokümanı İncele](downloads\ARS\ARS_12.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Mevsimlik Tarım Göçünden Etkilenen 6-14 Yaş Grubu Çocuklar için Temel Araştırma
@@ -476,12 +508,16 @@ Araştırma, mevsimlik tarım göçünden etkilenen 6-14 yaş grubu çocukların
 
 ?> *Kuruluş adı: Kalkınma Atölyesi; 2012, Türkçe Tema: Mevsimlik tarım işçileri*
 
-[Dökümanı İncele](downloads\ARS\ARS_13.pdf ':ignore')
+[Dokümanı İncele](downloads\ARS\ARS_13.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## A Hidden Reality for Adolescent Girls: Child, Early and Forced Marriages and Unions in Latin America and the Caribbean
 *ARS_14*
+
+**ÖZET**
+Kız çocukları, ailelerle, hükümet ve sivil toplum liderleri ve uzmanlarıyla yarı-yapılandırılmış görüşmelere dayanan bu çalışma toplumsal cinsiyet normlarına odaklanmış ve CARE tarafından geliştirilen Sosyal Normların Analiz Planı (SNAP) metodolojisi kullanılarak yapılandırılmıştır. 
 
 **SUMMARY**  
 The research focused on social and gender norms and creatively adapted the Social Norms Analysis Plot (SNAP) methodology developed by CARE. The
@@ -489,73 +525,104 @@ research also relied on semi-structured interviews with girls, members of their 
 
 ?> *Kuruluş adı: UNFPA, Plan International; İngilizce Tema: Çocuk yaşta, erken ve zorla evlilikler*
 
-[Dökümanı İncele](downloads\addon\ARS_14.pdf ':ignore')
+[Dokümanı İncele](downloads\addon\ARS_14.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Adölesan Dönemde Evlenen Kadinlarin Üreme Sağliği Davranişlari: Bir Karma Yöntem Çalişmasi
 *ARS_15*
 
 **ÖZET**  
+
 Bu araştırma, adölesan dönemde evlenen kadınların üreme sağlığı davranışlarını incelemek amacıyla yapılmıştır. Araştırma karma yöntem (mixed research design) olarak Aralık 2017 ve Haziran 2018 tarihleri arasında SBÜ İzmir Tepecik Eğitim ve Araştırma Hastanesi Kadın – Doğum Klinikleri’nde yapılmıştır. Araştırmaya maksimum çeşitlilik örnekleme yöntemi ile nicel bölümüne 245 ve nitel bölümüne 25 kadın alınmıştır. Bu çalışmada, adölesan yaşta evlilik nedeniyle kadınların ciddi üreme sağlığı sorunları yaşadıkları belirlenmiştir.
 
 ***Anahtar kelimeler: Adölesanlar, Ebelik, Evlilik yaşı, Güvenli cinsellik, Üreme sağlığı***
 
 **ABSTRACT**
+
 The aim of this research, to examine reproductive health behaviors of women, who married in adolescence period. The research was contucted as mixed research design, between December 2017 and June 2018 in Health Science University İzmir Tepecik Education and Research Hospital Clinics of Gynecology and Obstetrics. The research was included maximum diversity sampling method, that 245 women were in the quantitive section and 25 women were in the qualitive section. Questionnaire form and semi - structured interview form were used for data collection. Analiysis of data were made with descriptive, descriptive and content analysis methods. Age average of women, who was attended the research, was 26,62 ± 5. It was determined that 77,1% of the women graduated from primary school and 80,0% were housewives, 22,9% have not health insurance. It was determined; 11,29% of the women, who had pregnancy, had hypertension (5,8% had under the age of 19 and first pregnancies), 5,0% had diabetes during pregnancy (1,2% under the age of 19 and first pregnancies) and 9,2% had infection (4,6% had under the age of 19 and first pregnancies). Pregnancy infections; which were genital warts and urinary infections were 36,4%, vaginal infections were 13,6%, dental infections, cytomegalovirus and high fever in pregnancy were 4,5%; were found. In the quantitive part of the study, 41 themes and 120 sub-themes were formed from histories of women’s reproductive health. In this research, women had serious reproductive health problems by the reason of adolescent marriage. Midwifes can contribute to improve women’s health by compherensive inquiring for women’s marriageable age and reproductive health problems during service presentations.
 
 ***Key words: Adolescents, Marriage age, Midwifery, Reproductive health, Safe sex***
 
 ?> *Kuruluş adı: Ayşegül Dönmez, Aydin Adnan Menderes Üniversitesi Sağlik Bilimleri Enstitüsü Ebelik Anabilim Dali Doktora Programi; 2019, Türkçe Tema: Adölesan evlilikleri, Üreme sağlığı*
 
-[Dökümanı İncele](downloads\addon\ARS_15.pdf ':ignore')
+[Dokümanı İncele](downloads\addon\ARS_15.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
-## Gender in Society Perception Study KAP Study
+## Gender in Society Perception Study KAP Study - Toplumsal Cinsiyet Algı Çalışması KAP Çalışması
+
 *ARS_16*
 
 **ÖZET**  
-The project "Gender in the perception of society" funded by the United Nations Peacebuilding Fund was initiated and is implemented jointly with the UN Women, UNFPA and IOM in the Kyrgyz Republic. The Study "Gender in the perception of society" provides an opportunity to study comprehensively gender
-perspective in the five areas of the Study: political participation of women; economic empowerment of women; violence against women in the form of bride abduction and underage marriages; religious radicalization of women; participation of women in labor migration.
 
+Birleşmiş Milletler Barış İnşa Fonu (UN Peacebuilding Fund) tarafından finanse edilen "Toplum Algısında Cinsiyet" projesi başlatılmış ve Kırgızistan Cumhuriyeti'nde BM Kadın Birimi, BM Nüfus Fonu ve Uluslararası Göç Örgütü ile ortaklaşa uygulanmıştır. Bu kapsamda üretilen "Toplumsal Cinsiyet Algı Çalışması"nın beş odağı: kadınların siyasi katılımı; kadınların ekonomik güçlendirmesi; gelin kaçırma ve reşit olmayan evlilikler şeklinde kadına yönelik şiddet; dini kadınların radikalleşmesi; kadınların işgücü göçüne katılımını inceleyen kapsamlı bir toplumsal cinsiyet çalışması için bir fırsat sunmaktadır. 
+
+**SUMMARY**
+
+The project "Gender in the perception of society" funded by the United Nations Peacebuilding Fund was initiated and is implemented jointly with the UN Women, UNFPA and IOM in the Kyrgyz Republic The Study "Gender in the perception of society" provides an opportunity to study comprehensively gender perspective in the five areas of the Study: political participation of women; economic empowerment of women; violence against women in the form of bride abduction and underage marriages; religious radicalization of women; participation of women in labor migration
 
 ?> *Kuruluş adı: UN Women, UNFPA, IOM, UN Peacebuilding, Stat KG; 2016, İngilizce Tema: Toplumsal cinsiyet eşitliği*
 
-[Dökümanı İncele](downloads\addon\ARS_16.pdf ':ignore')
+[Dokümanı İncele](downloads\addon\ARS_16.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
-## Gender in Society Perception Study Pillar Research Report: Violence against Women and Girls
+## Gender in Society Perception Study Pillar Research Report: Violence against Women and Girls - Cinsiyet Algısı Çalışması Pillar Araştırma Raporu: Kadınlara ve Kız Çocuklarına Yönelik Şiddet
+
 *ARS_17*
 
-**SUMMARY**  
-This pillar research report is part of the Gender in Society Perceptions Study (GSPS) funded by the United Nations Peacebuilding Fund, a joint undertaking of UN Women, UNFPA and IOM in the Kyrgyz Republic and in partnership with the National Statistical Committee of the Kyrgyz Republic. The GSPS is also supported by stakeholders from leading local universities, research institutions. Quantitative and qualitative research was carried out on five topics of key interest to understand gender practices and perceptions in Kyrgyzstan today: women’s political participation, women’s economic empowerment, violence against women and girls in the form of bride kidnapping and child marriages, women’s religious beliefs and practices. 
+**ÖZET**  
+
+Bu araştırma raporu, BM Ajansları ve Kırgızistan Cumhuriyeti Ulusal İstatistik Komitesi ortaklığıyla gerçekleştirilen Toplumsal Algılar Araştırması’nın (GSPS) bir parçasıdır. GSPS ayrıca önde gelen yerel üniversitelerden, araştırma kurumlarından gelen paydaşlar tarafından da desteklenmiştir. Bugün Kırgızistan'daki toplumsal cinsiyet pratiklerini ve algılarını anlamak için beş önemli konu üzerinde nicel ve nitel araştırmalar yapılmıştır: kadınların siyasal katılımı, kadınların ekonomik güçlenmesi, kaçırma ve çocuk yaşta evlilik şeklinde kadın ve kıza yönelik şiddet, kadınların dini inançları ve uygulamaları. 
+
+**SUMMARY** 
+
+This pillar research report is part of the Gender in Society Perceptions Study (GSPS) funded by the United Nations Peacebuilding Fund, a joint undertaking of UN Women, UNFPA and IOM in the Kyrgyz Republic and in partnership with the National Statistical Committee of the Kyrgyz Republic. The GSPS is also supported by stakeholders from leading local universities, research institutions. Quantitative and qualitative research was carried out on five topics of key interest to understand gender practices and perceptions in Kyrgyzstan today: women’s political participation, women’s economic empowerment, violence against women and girls in the form of bride kidnapping and child marriages, women’s religious beliefs and practices
 
 ?> *Kuruluş adı: UN Women, UNFPA, IOM, UN Peacebuilding, Stat KG; 2017, İngilizce Tema: Toplumsal Cinsiyet Eşitliği, Kadına ve Kız Çocuklarına Yönelik Şiddet*
 
-[Dökümanı İncele](downloads\addon\ARS_17.pdf ':ignore')
+[Dokümanı İncele](downloads\addon\ARS_17.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Tackling the Taboo: Sexuality and Gender-Transformative Programmes to End Child, Early and Forced Marriage and Unions
 *ARS_18*
 
-**ÖZET**  
+**ÖZET**
+
+Bu rapor, toplum temelli örgütlerinin öncülüğünü yaptığı programların siyasi ve kültürel açıdan muhafazakar bağlamlarda var olan toplumsal cinsiyet rollerini dönüştürücü çalışmaları ele almaktadır. Araştırmanın bulguları ile: 1-       Program uygulayıcılarına bir eğitim aracı sağlanması 2-       Gelecek araştırmalar için elde olan fırsatların ve literatürdeki eksiklerin teşhis edilmesi 3-       Kanun koyucular ve diğer önderlerle kız çocuklarının otonom, özgür ve özsaygısı olan bireyler haline gelmeleri için gerekli diyalog ortamının sağlanması hedeflenmektedir.
+
+**SUMMARY**
+
 This report captures promising gender-transformative work taking place in politically and culturally conservative contexts, including programmes led by grassroots organisations. The findings are meant to be used: 1) as a learning tool for programme implementers, 2) to present gaps and opportunities for future research, and 3) as a tool for advocates to open dialogue with leaders and policymakers about how programming designed to address CEFMU can advance girls’ and women’s greater sexual agency, bodily autonomy, freedom and dignity.
-?> *Kuruluş adı: CARE, CREA, Girls Not Brides, ICRW, IWHC, Promunda, Population Council, Plan International, Global Fund for Women, Nirantar Trust, Greene Works, AJWS; 2019, İngilizce Tema: Çocuk Yaşta Erken ve Zorla Evlilikler ve Birliktelikler, Cinsel Sağlık*
 
-[Dökümanı İncele](downloads\addon\ARS_18.pdf ':ignore')
+*Kuruluş adı: CARE, CREA, Girls Not Brides, ICRW, IWHC, Promunda, Population Council, Plan International, Global Fund for Women, Nirantar Trust, Greene Works, AJWS; 2019, İngilizce Tema: Çocuk Yaşta Erken ve Zorla Evlilikler ve Birliktelikler, Cinsel Sağlık*
 
+[Dokümanı İncele](downloads\addon\ARS_18.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
-## National Study “Early Unions, Pregnancies and Violation of Rights of Adolescents” 
+## National Study “Early Unions, Pregnancies and Violation of Rights of Adolescents” - Bir Ulusal Çalışma: “Erken Yaşta Birliktelikler, Hamilelikler ve Adölesan Haklarının İhlali”
+ 
 *ARS_19*
 
-**SUMMARY**  
-For this study, the gateway to unions was teen pregnancy. This decision was made based on the dffculty to directly approach unions, since they are often hidden and, therefore, unregistered. According to the National Survey on Maternal and Child Health 2008-2009 (ENSMI), there is a high correlation between union and pregnancy. In Guatemala, 88.1% of women who live in union before the age of
- 18, also had their first child before that age. Therefore, this study sought to approach the topic of unions by monitoring pregnant teens served at first and second level health centers. The year 2012 was taken as reference because the study wished to explore the violation of rights post pregnancy.
+**ÖZET**  
+
+Ulusal Anne ve Çocuk Araştırmasına Göre Sağlık 2008-2009 (ENSMI) çalışmasının temel bulgusu, erken yaşta birliktelikler ve gebelik arasında yüksek bir korelasyon olmasıdır. Çalışmaya göre Guatemala’da, erken yaşta birliktelik yaşayan kadınların %88,1’i 18 yaşından önce ilk doğumlarını gerçekleştirmişlerdir. Çalışma 2012 yılı verileri referans alınarak gerçekleştirilmiştir.
+
+**SUMMARY** 
+
+For this study, the gateway to unions was teen pregnancy. This decision was made based on the dffculty to directly approach unions, since they are often hidden and, therefore, unregistered. According to the National Survey on Maternal and Child Health 2008-2009 (ENSMI), there is a high correlation between union and pregnancy. In Guatemala, 88.1% of women who live in union before the age of 18, also had their first child before that age. Therefore, this study sought to approach the topic of unions by monitoring pregnant teens served at first and second level health centers. The year 2012 was taken as reference because the study wished to explore the violation of rights post pregnancy.
+
 
 ?> *Kuruluş adı: FLASCO-Guatemala, UNFPA, Ministry of Public Health and Social Assistance; 2016, İngilizce Tema: Erken yaşta birliktelikler, Erken yaşta gebelik, Hak ihlalleri*
 
-[Dökümanı İncele](downloads\addon\ARS_19.pdf ':ignore')
+[Dokümanı İncele](downloads\addon\ARS_19.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)

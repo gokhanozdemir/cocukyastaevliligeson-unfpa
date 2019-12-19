@@ -1,5 +1,12 @@
-# İstatistikler
+# İstatistikler {docsify-ignore-all}
 ***
+#### __Materyal Listesi__
+
+-[Erken Yaşlardaki Evlilikler ve Gebelikler - *Nüfus Etüdleri Enstitüsü*](#erken-yaşlardaki-evlilikler-ve-gebelikler)
+
+-[2019 Dünya Nüfus Günü: Haber Bülteni İstatistikleri - *Türkiye İstatistik Kurumu*](#_2019-dünya-nüfus-günü-haber-bülteni-İstatistikleri)
+
+-[Child Marriage: Latest Trends and Future Prospects - Çocuk Yaşta Evlilik: Son Trendler ve Gelecek Beklentileri - *UNICEF*](#child-marriage-latest-trends-and-future-prospects-Çocuk-yaşta-evlilik-son-trendler-ve-gelecek-beklentileri)
 
 ## Erken Yaşlardaki Evlilikler ve Gebelikler
 *IST_01*
@@ -9,7 +16,8 @@ Prof. Dr. Banu AKADLI GÖÇMEN ve İlknur YÜKSEL KAPTANOĞLU tarafından hazır
 
 ?> *Kuruluş adı: Nüfus Etüdleri Enstitüsü; 2015, Türkçe Tema: Çocuk yaşta, erken yaşta evlilik, Gebelik*
 
-[Dökümanı İncele](downloads\IST\IST_01.pdf ':ignore')
+[Dokümanı İncele](downloads\IST\IST_01.pdf ':ignore')
+[Materyal Listesine Geri Dön](#materyal-listesi)
 
 ***
 
@@ -24,11 +32,12 @@ Statistics and related tables regarding to birth, marriage, and gender equality 
 
 ?> *Kuruluş adı: Türkiye İstatistik Kurumu; 2019, Türkçe, İngilizce Tema: Doğum, Evlilik, Çocuk Yaşta Evlilik, Toplumsal Cinsiyet*
 
-[Dökümanı İncele](downloads\addon\IST_02.xls ':ignore')
+[Dokümanı İncele](downloads\addon\IST_02.xls ':ignore')
+[Materyal Listesine Geri Dön](#materyal-listesi)
 
 ***
 
-## Child Marriage: Latest Trends and Future Prospects
+## Child Marriage: Latest Trends and Future Prospects - Çocuk Yaşta Evlilik: Son Trendler ve Gelecek Beklentileri
 *IST_03*
 
 **SUMMARY**  
@@ -37,4 +46,5 @@ estimated in previous years.
 
 ?> *Kuruluş adı: UNICEF; 2018, İngilizce Tema: Çocuk yaşta evlilikler*
 
-[Dökümanı İncele](downloads\addon\IST_03.pdf ':ignore')
+[Dokümanı İncele](downloads\addon\IST_03.pdf ':ignore')
+[Materyal Listesine Geri Dön](#materyal-listesi)

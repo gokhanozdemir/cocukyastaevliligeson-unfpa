@@ -1,22 +1,28 @@
-# Rehberler
+# Rehberler {docsify-ignore-all}
 ***
+#### __Materyal Listesi__
 
-## Çocuk Koruma Konusunda Koordinasyon, İşbirliği, Danişmanlik ve Önceliklendirme El Kitabi 
-*RHB_0*
+- [Çocuğa Karşı Şiddeti İzleme ve Göstergeleri Kılavuzu - *UNICEF*](#Çocuğa-karşı-Şiddeti-İzleme-ve-göstergeleri-kılavuzu)
+- [Erken Uyarı Yönlendirme Sistemi - *UNICEF, Milli Eğitim Bakanlığı*](#erken-uyarı-yönlendirme-sistemi)
+- [Çocuk Koruma Alanında Asgari Standartlar - *Çocuk Koruma Çalışma Grubu, UNICEF*](#Çocuk-koruma-alanında-asgari-standartlar)
+- [Acil Durumlarda Çocuk Dostu Ortamlar Oluşturma Kılavuzu - *Global Education Cluster, Global Protection Cluster, INEE, IASC*](#acil-durumlarda-Çocuk-dostu-ortamlar-oluşturma-kılavuzu) 
+- [Cinsel İstismar Mağduru Çocuklara Bakım Kılavuzu - *International Rescue Comitte, UNICEF*](#cinsel-İstismar-mağduru-Çocuklara-bakım-kılavuzu) 
+- [Acil Durumlarda Çocuklara Yönelik Temel Görevler - *UNICEF*](#acil-durumlarda-Çocuklara-yönelik-temel-görevler) 
+- [Kadın Danışma Merkezi İşleyişi Kitabı - *Kadın Dayanışma Vakfı*](#kadın-danışma-merkezi-İşleyişi-kitabı) 
+- [Danışmanlık Tedbiri Uygulamaları El Kitabı - *Milli Eğitim Bakanlığı* ](#danışmanlık-tedbiri-uygulamaları-el-kitabı) 
+- [Gebelik ve Doğumda Komplikasyonların Yönetimi: Ebeler ve Doktorlar İçin Bir Kılavuz - *WHO, UNFPA, UNICEF, World Bank*](#gebelik-ve-doğumda-komplikasyonların-yönetimi-ebeler-ve-doktorlar-İçin-bir-kılavuz) 
+- [İnsan Hakları Eğitimcileri için El Kitabı - *UN Human Rights, Equitas*](#İnsan-hakları-eğitimcileri-için-el-kitabı) 
+- [Çocuk Evlilikleri ve İlişkili Kavramlar Sözlüğü - *Uçan Süpürge*](#Çocuk-evlilikleri-ve-İlişkili-kavramlar-sözlüğü) 
+- [Gücümüzü Fark Etmek: Kadınlarla Grup Çalışması için Rehber - *KA.DER Ankara*](#gücümüzü-fark-etmek-kadınlarla-grup-Çalışması-için-rehber) 
+- [Mağdura Yaklaşım Kılavuzu - *Adalet Bakanlığı*](#mağdura-yaklaşım-kılavuzu) 
+- [The IOM Handbook on Direct Assistance for Victims of Trafficking - *IOM*](#the-iom-handbook-on-direct-assistance-for-victims-of-trafficking) 
+- [Gender and Disaster Risk Reduction in Europe and Central Asia: Workshop  Guide for Facilitator - *UN Women, UNDP*](#gender-and-disaster-risk-reduction-in-europe-and-central-asia-workshop-guide-for-facilitator) 
+- [Glossary: Child Marriages & Key Concepts - *GEN-DER, Uçan Süpürge*](#glossary-child-marriages-amp-key-concepts) 
+- [Taking Action to Child Marriages: The Role of Different Sectors - *International Center for Research on Women, Girls not Brides*](#taking-action-to-child-marriages-the-role-of-different-sectors) 
+- [İnsani Yardım Çalışmalarında Toplumsal Cinsiyete Dayalı Şiddet Rehberi - *Hayata Destek Derneği*](#İnsani-yardım-Çalışmalarında-toplumsal-cinsiyete-dayalı-Şiddet-rehberi) 
+- [Gebelik ve Doğumda Komplikasyonların Yönetimi - *Toplum Gönüllüleri Vakfı*](#gebelik-ve-doğumda-komplikasyonların-yönetimi) 
+- [Çocuk Koruma Konusunda Koordinasyon, İşbirliği, Danışmanlık ve Önceliklendirme El Kitabı - *T.C. Başbakanlık Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü*](#Çocuk-koruma-konusunda-koordinasyon-İşbirliği-danışmanlık-ve-Önceliklendirme-el-kitabı)
 
-**ÖZET**  
-Bu alanda en önemli sorumluluk, çocuğun bir temel ihtiyaç ve hak olrak ailesinin yanında korunmasını sağlamaktır. Bunun için ailelerin çocuk bakımı ve gözetimi konusunda becerilerinin güçlendirilmesi; aynı zamanda da olanaklar bakımından desteklenmesi gerekir. Buna ek olarak, aileye ve çocuğa on arı risklere karşı korumasız bırakan aile içi sorunlar ve ailenin ihtiyaçlarına yönelik gerekli yardım ve rehberliğin sağlanması gerekir. Burada sağlık kurumlarından, eğitim hizmetlerine, sosyal güvenlik teşkilatından, sosyal hizmetlere, merkezi yönetimden yerel yönetimlere ve sivil toplum kuruluşlarına kadar pek çok kurumun işbirliğine ve hizmet sunumunda eşgüdümüne ihtiyaç
-bulunmaktadır.
-Ailesi içerisinde korunamayan çocuğun aile dışında korunması için de gerekli tedbirlerin alınması, çocuğun korunma ihtiyacı ve hakkının önemli bir parçasıdır. Burada arzu edilen yöntem, çocuğun aile bakımına en yakın bakım yöntemi ile korunmasını sağlamak ve mümkün olan en kısa sürede çocuğun gene ailesi ile birleşmesini sağlamak, bunun mümkün olamadığı durumlarda ise çocuğun en kısa zamanda bir aile edinmesini sağlamaktır. Bu konuda topluma önemli bir görev düşmekte, ailesi dışında korunması gereken çocuklar için aile olmaya aday olma sorumluluğunu paylaşmak gerekmektedir.
-Bütün kaçınma çabalarına rağmen bazı çocuklar ciddi travmalar ile karşı karşıya kalmaktadır. Duygusal, cinsel ve/veya fiziksel istismar, madde bağımlılığı, suça sürüklenmiş olma gibi çocuğun korunma ihtiyacını acil hale getiren sorunlar, daha dikkatli ve hızlı çalışan bir sistemi gerektirmektedir.
-Bütün bu ihtiyaçları dikkate alan Çocuk Koruma Kanunu ve yönetmelikleri, merkezi düzeyde, il ve ilçe düzeyinde kurumlar ve hizmetler arasında koordinasyonu öngörmektedir. Bu, her çok kurumlu çalışma için kaçınılmaz bir ihtiyaçtır. Ancak aynı zamanda da, bazen ağır iş yükü, bazen de yerleşik bürokratik alışkanlıklar sebebiyle göz ardı edilme riskine sahip bir ihtiyaçtır.
-Çocuk korumayı asli görev olarak üstlenmiş olan Kurumumuz için tüm kurumların etkili bir eşgüdüm ve işbirliği içinde çalışması vazgeçilmez önemdedir. Bu nedenle çocuk koruma mevzuatının koordinasyona ilişkin hükümlerinin hayata geçirilebilmesini desteklemeyi önemli bir görev olarak üstlenmiş bulunuyoruz. 
-
-?> *Kuruluş adı: XXX; 2008, Türkçe Tema: XXX*
-
-[Dökümanı İncele](downloads\RHB\RHB_0.pdf ':ignore')
-
-***
 ## Çocuğa Karşı Şiddeti İzleme ve Göstergeleri Kılavuzu 
 *RHB_01*
 
@@ -25,8 +31,9 @@ Adem Arkadaş-Thibert ve Feray Salman tarafından hazırlanan kılavuz, gösterg
 
 ?> *Kuruluş adı: UNICEF; 2013, Türkçe Tema: Çocuğa karşı şiddet, İzleme*
 
-[Dökümanı İncele](downloads\RHB\RHB_01.pdf ':ignore')
+[Dokümanı İncele](downloads\RHB\RHB_01.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Erken Uyarı Yönlendirme Sistemi
@@ -36,55 +43,58 @@ Adem Arkadaş-Thibert ve Feray Salman tarafından hazırlanan kılavuz, gösterg
  Çocuklara yönelik risklerin okullarda tespiti ve müdahalesine ilişkin "Erken Uyarı Modeli"ne ilişkin rehber, sunular, anketler ve araçları içermektedir.
 
 ?> *Kuruluş adı: UNICEF, Milli Eğitim Bakanlığı; 2012, Türkçe Tema: Çocuğa yönelik şiddet, ihmal, istismar, risk tespiti*  
+<!--
+Çocuklara Yönelik Riskler, Bursa Brosürü [Dokümanı İncele](downloads\RHB\RHB_02\BURSA_HARITA_(small).pdf ':ignore')
 
-Çocuklara Yönelik Riskler, Bursa Brosürü [Dökümanı İncele](downloads\RHB\RHB_02\BURSA_HARITA_(small).pdf ':ignore')
+EIS Assessment Report (English) [Dokümanı İncele](downloads\RHB\RHB_02\EIS-Assesment-Report-short-version-ENG.pdf ':ignore')
 
-EIS Assessment Report (English) [Dökümanı İncele](downloads\RHB\RHB_02\EIS-Assesment-Report-short-version-ENG.pdf ':ignore')
+EIS Assessment Report (Türkçe) [Dokümanı İncele](downloads\RHB\RHB_02\EIS-Assessment-Report-short-version-TR.pdf ':ignore') 
 
-EIS Assessment Report (Türkçe) [Dökümanı İncele](downloads\RHB\RHB_02\EIS-Assessment-Report-short-version-TR.pdf ':ignore') 
+Erken Tanıma ve Yönlendirme Brosürü [Dokümanı İncele](downloads\RHB\RHB_02\Erken_uyari_sistemi_brosuru.pdf ':ignore') 
 
-Erken Tanıma ve Yönlendirme Brosürü [Dökümanı İncele](downloads\RHB\RHB_02\Erken_uyari_sistemi_brosuru.pdf ':ignore') 
+Okul Müdür Yardımcısı Anketi [Dokümanı İncele](downloads\RHB\RHB_02\Mdyrd_anket_v5.pdf ':ignore')
 
-Okul Müdür Yardımcısı Anketi [Dökümanı İncele](downloads\RHB\RHB_02\Mdyrd_anket_v5.pdf ':ignore')
+Okul Rehber Öğretmen Anketi [Dokümanı İncele](downloads\RHB\RHB_02\rehberogrt_anket_v5.pdf ':ignore')
 
-Okul Rehber Öğretmen Anketi [Dökümanı İncele](downloads\RHB\RHB_02\rehberogrt_anket_v5.pdf ':ignore')
+Öğretmen Anketi [Dokümanı İncele](downloads\RHB\RHB_02\sinifogrt_anket_v3.pdf ':ignore')
 
-Öğretmen Anketi [Dökümanı İncele](downloads\RHB\RHB_02\sinifogrt_anket_v3.pdf ':ignore')
+RİDEF Taramaları [Dokümanı İncele](downloads\RHB\RHB_02\kilavuz+i.docx.pdf ':ignore')
 
-RİDEF Taramaları [Dökümanı İncele](downloads\RHB\RHB_02\kilavuz+i.docx.pdf ':ignore')
+Erken Tanılama ve Yönlendirme Sistemi El Kitabı [Dokümanı İncele](downloads\RHB\RHB_02\Erken-uyari-el-kitabi-2012.docx.pdf ':ignore')
 
-Erken Tanılama ve Yönlendirme Sistemi El Kitabı [Dökümanı İncele](downloads\RHB\RHB_02\Erken-uyari-el-kitabi-2012.docx.pdf ':ignore')
+Erken Tanılama ve Yönlendirme Sistemi El Kitabı Ekler [Dokümanı İncele](downloads\RHB\RHB_02\erken-uyari-el-kitabi-2012-EKLER.docx.pdf ':ignore')
 
-Erken Tanılama ve Yönlendirme Sistemi El Kitabı Ekler [Dökümanı İncele](downloads\RHB\RHB_02\erken-uyari-el-kitabi-2012-EKLER.docx.pdf ':ignore')
+Erken Tanılama ve Yönlendirme Sistemi: Okul Yöneticileri İçin El Kitabı [Dokümanı İncele](downloads\RHB\RHB_02\MUDUR-el-kitabi.pdf ':ignore')
 
-Erken Tanılama ve Yönlendirme Sistemi: Okul Yöneticileri İçin El Kitabı [Dökümanı İncele](downloads\RHB\RHB_02\MUDUR-el-kitabi.pdf ':ignore')
+Erken Tanılama ve Yönlendirme Sistemi: Okul Yöneticileri İçin El Kitabı Ekler [Dokümanı İncele](downloads\RHB\RHB_02\MUDUR-EKLER.pdf ':ignore')
 
-Erken Tanılama ve Yönlendirme Sistemi: Okul Yöneticileri İçin El Kitabı Ekler [Dökümanı İncele](downloads\RHB\RHB_02\MUDUR-EKLER.pdf ':ignore')
+Erken Uyarı Sistemi: Öğretmen El Kitabı [Dokümanı İncele](downloads\RHB\RHB_02\Ogretmen-egitim-elkitabi.pdf ':ignore')
 
-Erken Uyarı Sistemi: Öğretmen El Kitabı [Dökümanı İncele](downloads\RHB\RHB_02\Ogretmen-egitim-elkitabi.pdf ':ignore')
+Erken Tanilama ve Yönlendirme Sistemi Rehber Öğretmen (Psikolojik Danişman) Eğitici El Kitabi [Dokümanı İncele](downloads\RHB\RHB_02\PDR-el-kitabi.pdf ':ignore')
 
-Erken Tanilama ve Yönlendirme Sistemi Rehber Öğretmen (Psikolojik Danişman) Eğitici El Kitabi [Dökümanı İncele](downloads\RHB\RHB_02\PDR-el-kitabi.pdf ':ignore')
+Erken Tanilama ve Yönlendirme Sistemi Sağlik Personeli El Kitabi [Dokümanı İncele](downloads\RHB\RHB_02\saglik-el-kitabi-SON.doc.pdf ':ignore')
 
-Erken Tanilama ve Yönlendirme Sistemi Sağlik Personeli El Kitabi [Dökümanı İncele](downloads\RHB\RHB_02\saglik-el-kitabi-SON.doc.pdf ':ignore')
+Dirençle Başetmek [Dokümanı İncele](downloads\RHB\RHB_02\Direncle-basetmek.pdf ':ignore')
 
-Dirençle Başetmek [Dökümanı İncele](downloads\RHB\RHB_02\Direncle-basetmek.pdf ':ignore')
+Erken Uyarı Modeli [Dokümanı İncele](downloads\RHB\RHB_02\Erken-uyarı-modeli.pdf ':ignore')
 
-Erken Uyarı Modeli [Dökümanı İncele](downloads\RHB\RHB_02\Erken-uyarı-modeli.pdf ':ignore')
+Ön Değerlendirme Ekibine Yönlendirme [Dokümanı İncele](downloads\RHB\RHB_02\On-degerlendirme-ekibine-yonlendirme.pdf ':ignore')
 
-Ön Değerlendirme Ekibine Yönlendirme [Dökümanı İncele](downloads\RHB\RHB_02\On-degerlendirme-ekibine-yonlendirme.pdf ':ignore')
+Vaka Çalışmaları [Dokümanı İncele](downloads\RHB\RHB_02\vakalar1.pdf ':ignore')
 
-Vaka Çalışmaları [Dökümanı İncele](downloads\RHB\RHB_02\vakalar1.pdf ':ignore')
+Neden Önleme?: Önlemenin Önemi [Dokümanı İncele](downloads\RHB\RHB_02\PDR+onlemenin-onemi.pdf ':ignore')
 
-Neden Önleme?: Önlemenin Önemi [Dökümanı İncele](downloads\RHB\RHB_02\PDR+onlemenin-onemi.pdf ':ignore')
+Erken Uyarı Akışı: Önleme Mekanizması [Dokümanı İncele](downloads\RHB\RHB_02\Erken-uyarı-akis.pdf ':ignore')
 
-Erken Uyarı Akışı: Önleme Mekanizması [Dökümanı İncele](downloads\RHB\RHB_02\Erken-uyarı-akis.pdf ':ignore')
+Okul İçi Rol ve Sorumluluklar [Dokümanı İncele](downloads\RHB\RHB_02\Okul-ici-rol-ve-sorumluluklar.pdf ':ignore')
 
-Okul İçi Rol ve Sorumluluklar [Dökümanı İncele](downloads\RHB\RHB_02\Okul-ici-rol-ve-sorumluluklar.pdf ':ignore')
+RİTA'ların İşleyişi (kısa) [Dokümanı İncele](downloads\RHB\RHB_02\RITAların-isleyis.pdf ':ignore')
 
-RİTA'ların İşleyişi (kısa) [Dökümanı İncele](downloads\RHB\RHB_02\RITAların-isleyis.pdf ':ignore')
+RİTA'ların İşleyişi (uzun) [Dokümanı İncele](downloads\RHB\RHB_02\RITAların1.pdf ':ignore')
+-->
+**Materyal Ulaşılabilir Değil
 
-RİTA'ların İşleyişi (uzun) [Dökümanı İncele](downloads\RHB\RHB_02\RITAların1.pdf ':ignore')
-
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Çocuk Koruma Alanında Asgari Standartlar 
@@ -98,8 +108,9 @@ Günümüzde dünya genelindeki çatışmalardan ve afetlerden etkilenenlerin ya
 
 ?> *Kuruluş adı: Çocuk Koruma Çalışma Grubu, UNICEF; 2015, Türkçe Tema: Çocuk koruma, Acil durumi, Asgari standart*
 
-[Dökümanı İncele](downloads\RHB\RHB_03.pdf ':ignore')
+[Dokümanı İncele](downloads\RHB\RHB_03.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Acil Durumlarda Çocuk Dostu Ortamlar Oluşturma Kılavuzu 
@@ -110,8 +121,9 @@ Acil durumlarda çocuk dostu ortamlar oluşturmaya ilişkin ilkeleri ve eylemler
 
 ?> *Kuruluş adı: Global Education Cluster, Global Protection Cluster, INEE, IASC; 2015, Türkçe Tema: Acil durumlarda çocuk koruma*
 
-[Dökümanı İncele](downloads\RHB\RHB_04.pdf ':ignore')
+[Dokümanı İncele](downloads\RHB\RHB_04.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Cinsel İstismar Mağduru Çocuklara Bakım Kılavuzu 
@@ -122,8 +134,9 @@ Cinsel şiddet mağduru çocuklar ile çalışan hizmet sunucular için gelişti
 
 ?> *Kuruluş adı: International Rescue Comitte, UNICEF; 2012, Türkçe Tema: Çocukların cinsel istismarı*
 
-[Dökümanı İncele](downloads\RHB\RHB_05.pdf ':ignore')
+[Dokümanı İncele](downloads\RHB\RHB_05.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Acil Durumlarda Çocuklara Yönelik Temel Görevler 
@@ -134,8 +147,9 @@ Acil durumlarda kadın ve çocuklara yönelik ilk müdahalelere ilişkin bilgile
 
 ?> *Kuruluş adı: UNICEF; 2015, Türkçe Tema: Çocuk Koruma, Acil durum, Asgari standart*
 
-[Dökümanı İncele](downloads\RHB\RHB_06.pdf ':ignore')
+[Dokümanı İncele](downloads\RHB\RHB_06.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Kadın Danışma Merkezi İşleyişi Kitabı 
@@ -177,8 +191,9 @@ konusunda alanda çalışan kadınlar için temel bir rehber oluşturmaktır.
 
 ?> *Kuruluş adı: Kadın Dayanışma Vakfı; 2015, Türkçe Tema: Kadına yönelik şiddet, danışmanlık*
 
-[Dökümanı İncele](downloads\RHB\RHB_07.pdf ':ignore')
+[Dokümanı İncele](downloads\RHB\RHB_07.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Danışmanlık Tedbiri Uygulamaları El Kitabı 
@@ -189,8 +204,9 @@ Hakkında danışmanlık tedbiri kararı verilmiş çocuklara yönelik rehberlik
 
 ?> *Kuruluş adı: MEB; Türkçe Tema: Danışmanlık tedbiri*
 
-[Dökümanı İncele](downloads\RHB\RHB_09.pdf ':ignore')
+[Dokümanı İncele](downloads\RHB\RHB_09.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Gebelik ve Doğumda Komplikasyonların Yönetimi: Ebeler ve Doktorlar İçin Bir Kılavuz 
@@ -214,8 +230,9 @@ Bu el kitabı ve preterm ve hasta yenidoğanların yönetimi için olana bir ben
 
 ?> *Kuruluş adı: WHO, UNFPA, UNICEF, World Bank; 2003, Türkçe Tema: Gebelik, Adölesan*
 
-[Dökümanı İncele](downloads\RHB\RHB_10.pdf ':ignore')
+[Dokümanı İncele](downloads\RHB\RHB_10.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## İnsan Hakları Eğitimcileri için El Kitabı 
@@ -228,6 +245,7 @@ Bu el kitabı ve preterm ve hasta yenidoğanların yönetimi için olana bir ben
 
 [Yazılı kopya]
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Çocuk Evlilikleri ve İlişkili Kavramlar Sözlüğü 
@@ -238,8 +256,9 @@ Seelen Doğan tarafından hazırlanan yayında çocuk yaşta evlilik ile ilişki
 
 ?> *Kuruluş adı:Uçan Süpürge; 2014, Türkçe Tema: Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\RHB\RHB_12.pdf ':ignore')
+[Dokümanı İncele](downloads\RHB\RHB_12.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Gücümüzü Fark Etmek: Kadınlarla Grup Çalışması için Rehber 
@@ -252,6 +271,7 @@ Aksu Bora tarafından hazırlanan rehberde, kadınlarla gerçekleştirilen grup 
 
 [Yazılı kopya]
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Mağdura Yaklaşım Kılavuzu 
@@ -264,6 +284,7 @@ Rehber mağdura yaklaşımın temel ilkeleri hakkında bilgi vermekte; kolluk, s
 
 [Yazılı kopya]
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## The IOM Handbook on Direct Assistance for Victims of Trafficking 
@@ -301,8 +322,9 @@ Continuing and comprehensive care. The range of services outlined in Chapters 3 
 
 ?> *Kuruluş adı: IOM; 2007, İngilizce Tema: İnsan ticareti*
 
-[Dökümanı İncele](downloads\RHB\RHB_15.pdf ':ignore')
+[Dokümanı İncele](downloads\RHB\RHB_15.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Gender and Disaster Risk Reduction in Europe and Central Asia: Workshop  Guide for Facilitator 
@@ -313,8 +335,9 @@ Afet ve acil durumlara müdahale programlarına toplumsal cinsiyet perspektifini
 
 ?> *Kuruluş adı: UN Women, UNDP; 2018, İngilizce Tema: Toplumsal cinsiyet, Afet*
 
-[Dökümanı İncele](downloads\RHB\RHB_16.pdf ':ignore')
+[Dokümanı İncele](downloads\RHB\RHB_16.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Glossary: Child Marriages & Key Concepts 
@@ -325,8 +348,9 @@ Afet ve acil durumlara müdahale programlarına toplumsal cinsiyet perspektifini
 
 ?> *Kuruluş adı: GEN-DER, Uçan Süpürge; 2018, İngilizce Tema: Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\RHB\RHB_17.pdf ':ignore')
+[Dokümanı İncele](downloads\RHB\RHB_17.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Taking Action to Child Marriages: The Role of Different Sectors 
@@ -337,8 +361,9 @@ Afet ve acil durumlara müdahale programlarına toplumsal cinsiyet perspektifini
 
 ?> *Kuruluş adı: International Center for Research on Women, Girls not Brides; 2015, İngilizce Tema: Çocuk yaşta evlilik*
 
-[Dökümanı İncele](downloads\RHB\RHB_18.pdf ':ignore')
+[Dokümanı İncele](downloads\RHB\RHB_18.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## İnsani Yardım Çalışmalarında Toplumsal Cinsiyete Dayalı Şiddet Rehberi 
@@ -349,8 +374,9 @@ Afet ve acil durumlara müdahale programlarına toplumsal cinsiyet perspektifini
 
 ?> *Kuruluş adı: Hayata Destek Derneği; 2018, Türkçe Tema: İnsani yardım, Toplumsal cinsiyet temelli şiddet*
 
-[Dökümanı İncele](downloads\RHB\RHB_19.pdf ':ignore')
+[Dokümanı İncele](downloads\RHB\RHB_19.pdf ':ignore')
 
+[Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Gebelik ve Doğumda Komplikasyonların Yönetimi 
@@ -361,4 +387,27 @@ TOG faaliyetlerinin çocuk hakları standartlarına uygun biçimde yürütülmes
 
 ?> *Kuruluş adı: Toplum Gönüllüleri Vakfı (TOG); 2018, Türkçe Tema: Çocuklarla çalışma*
 
-[Dökümanı İncele](downloads\RHB\RHB_20.pdf ':ignore')
+[Dokümanı İncele](downloads\RHB\RHB_20.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+***
+
+## Çocuk Koruma Konusunda Koordinasyon, İşbirliği, Danışmanlık ve Önceliklendirme El Kitabı 
+*RHB_21*
+
+**ÖZET**  
+<!--
+Bu alanda en önemli sorumluluk, çocuğun bir temel ihtiyaç ve hak olrak ailesinin yanında korunmasını sağlamaktır. Bunun için ailelerin çocuk bakımı ve gözetimi konusunda becerilerinin güçlendirilmesi; aynı zamanda da olanaklar bakımından desteklenmesi gerekir. Buna ek olarak, aileye ve çocuğa on arı risklere karşı korumasız bırakan aile içi sorunlar ve ailenin ihtiyaçlarına yönelik gerekli yardım ve rehberliğin sağlanması gerekir. Burada sağlık kurumlarından, eğitim hizmetlerine, sosyal güvenlik teşkilatından, sosyal hizmetlere, merkezi yönetimden yerel yönetimlere ve sivil toplum kuruluşlarına kadar pek çok kurumun işbirliğine ve hizmet sunumunda eşgüdümüne ihtiyaç
+bulunmaktadır.
+Ailesi içerisinde korunamayan çocuğun aile dışında korunması için de gerekli tedbirlerin alınması, çocuğun korunma ihtiyacı ve hakkının önemli bir parçasıdır. Burada arzu edilen yöntem, çocuğun aile bakımına en yakın bakım yöntemi ile korunmasını sağlamak ve mümkün olan en kısa sürede çocuğun gene ailesi ile birleşmesini sağlamak, bunun mümkün olamadığı durumlarda ise çocuğun en kısa zamanda bir aile edinmesini sağlamaktır. Bu konuda topluma önemli bir görev düşmekte, ailesi dışında korunması gereken çocuklar için aile olmaya aday olma sorumluluğunu paylaşmak gerekmektedir.
+Bütün kaçınma çabalarına rağmen bazı çocuklar ciddi travmalar ile karşı karşıya kalmaktadır. Duygusal, cinsel ve/veya fiziksel istismar, madde bağımlılığı, suça sürüklenmiş olma gibi çocuğun korunma ihtiyacını acil hale getiren sorunlar, daha dikkatli ve hızlı çalışan bir sistemi gerektirmektedir.
+Bütün bu ihtiyaçları dikkate alan Çocuk Koruma Kanunu ve yönetmelikleri, merkezi düzeyde, il ve ilçe düzeyinde kurumlar ve hizmetler arasında koordinasyonu öngörmektedir. Bu, her çok kurumlu çalışma için kaçınılmaz bir ihtiyaçtır. Ancak aynı zamanda da, bazen ağır iş yükü, bazen de yerleşik bürokratik alışkanlıklar sebebiyle göz ardı edilme riskine sahip bir ihtiyaçtır.
+Çocuk korumayı asli görev olarak üstlenmiş olan Kurumumuz için tüm kurumların etkili bir eşgüdüm ve işbirliği içinde çalışması vazgeçilmez önemdedir. Bu nedenle çocuk koruma mevzuatının koordinasyona ilişkin hükümlerinin hayata geçirilebilmesini desteklemeyi önemli bir görev olarak üstlenmiş bulunuyoruz. 
+-->
+Bu rehber, illerde çocuk koruma alanında koordinasyonu sağlamak üzere çalışacak kişiler için hazırlanmıştır. Rehber, Çocuk Koruma Kanunu, tedbirlerin uygulanmasında koordinasyon, çocuk koruma sistemi gibi konulara odaklanmaktadır.
+
+?> *Kuruluş adı: T.C. Başbakanlık Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü; 2008, Türkçe Tema: Çocuk Koruma*
+
+[Dokümanı İncele](downloads\RHB\RHB_0.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
