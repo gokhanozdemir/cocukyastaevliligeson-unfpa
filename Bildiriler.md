@@ -16,6 +16,9 @@
 **ÖZET**  
 Nurşen Adak tarafından sunulan bilgi yer almaktadır.
 
+**SUMMARY**  
+It includes information presented by Nurşen Adak.
+
 ?> *Kuruluş adı: Türk Üniversiteli Kadınlar Derneği Antalya Şubesi; 2014, Türkçe Tema: Çocuk yaşta evlilik*
 
 [Dokümanı İncele](downloads\BLD\BLD_01.pdf ':ignore')
@@ -28,6 +31,9 @@ Nurşen Adak tarafından sunulan bilgi yer almaktadır.
 
 **ÖZET**  
 Uluslararası Göç ve Çocuk Sempozyumunda Gülay Acar Yurtman tarafından sunulan bildiride, yüksek tirajlı iki gazetede Suriyeli çocukların evlendirilmelerine ilişkin haberlerin yaklaşımı ve dili hakkında bilgi verilmiştir.
+
+**SUMMARY**  
+The memorandum, presented by Gülay Acar Yurtman at the International Migration and Children Symposium, provides information about the approach and language used in reports by two popular newspapers regarding the marriage of Syrian children.  
 
 ?> *Kuruluş adı: Üsküdar Üniversitesi; 2016, Türkçe Tema: Çocuk yaşta evlilik, Suriyeli çocuklar, Medya*
 
@@ -42,6 +48,9 @@ Uluslararası Göç ve Çocuk Sempozyumunda Gülay Acar Yurtman tarafından sunu
 **ÖZET**  
 30 Eylül- 3 Ekim 2018 tarihlerinde Ordu'da gerçekleştirilen Kongrenin bildiri özteleri kitapçığıdır; çocuk yaşta evlilik konusunda bildirileri de içermektedir.
 
+**SUMMARY**  
+It is a compendium of abstracts from memoranda presented at the Congress organized in Ordu between September 30 and October 3, 2018; it also includes memoranda on child marriage.
+
 ?> *Kuruluş adı: Çocuk İstismarını ve İhmalini Önleme Derneği, Ordu Üniversitesi, ÇOKMED; 2018, Türkçe Tema: Çouk yaşta evlilik*
 
 [Dokümanı İncele](downloads\BLD\BLD_03.pdf ':ignore')
@@ -52,13 +61,14 @@ Uluslararası Göç ve Çocuk Sempozyumunda Gülay Acar Yurtman tarafından sunu
 ## 2019 Dünya Nüfus Günü: Haber Bülteni
 *BLD_04*
 
-**ÖZET**
+**ÖZET**  
 Birleşmiş Milletler Kalkınma Programı (UNDP) tarafından, 1989 yılında dünya nüfusunun 5 milyar insana ulaştığı tarih olan "11 Temmuz 1987" tarihi "Dünya Nüfus Günü" olarak kabul edilmiştir. Bu özel günde Birleşmiş Milletler Nüfus Fonu (UNFPA) tarafından nüfusun önemli konularını ele alan bir tema belirlenmekte ve bu temaya ilişkin farkındalık yaratmaya yönelik çalışmalar yapılmaktadır. Bu yıl, UNFPA tarafından Dünya Nüfus Günü'nde, 1994 Uluslararası Nüfus ve Kalkınma Konferansı'nda, 179 hükümetin kabul ettiği "üreme sağlığı, üreme hakları ve cinsiyet eşitliğinin sürdürülebilir kalkınmanın sağlanması için gerekli olduğu" düşüncesinin ve bu konferansta verilen taahhütlerin yerine getirilmesinin gerekli olduğunun vurgulanmasına karar verilmiştir. Bu kapsamda haber bülteninde doğum, evlenme ve toplumsal cinsiyet istatistikleri konusunda temel bilgiler sunulmaktadır.
 
-TUİKin hazırladığı istatistiklar detaylı bir şekilde “2019 Dünya Nüfus Günü: Haber Bülteni İstatistikleri” (IST_02)’da incelenebilir.
+TUİK'in hazırladığı istatistiklar detaylı bir şekilde “2019 Dünya Nüfus Günü: Haber Bülteni İstatistikleri” (IST_02)’da incelenebilir.
 
-**SUMMARY**
-In 1989, UNDP arranged for July 11th, 1987 to become World Population Day to commemorate the world’s population reaching 5 million people. For this special day, UNFPA selects an important topic relating to population and conducts studies in order to raise awareness. This year, UNFPA is focusing on the 1994 International Conference on Population and Development—where 179 governments agreed upon the importance of development that supports reproductive health, reproductive rights, and gender equality—and emphasizing the importance of realizing the commitments made during the conference. Under this thematic umbrella, the news bulletin discusses statistics and presents foundational information relating to birth, marriage, and gender equality.  
+**SUMMARY**  
+11 July 1987, which was the day when the world's population reached 5 billion, was accepted as the "World Population Day" by the United Nations Development Programme (UNDP) in 1989. On this special day, United Nations Population Fund (UNFPA) selects a theme which addresses important issues of the population and works to raise awareness on this theme. This year, UNFPA decided to emphasize on the "necessity of the reproductive health, reproductive rights and gender equality for the achievement of sustainable development" which was adopted by 179
+governments on 1994 International Conference on Population and Development and to focus on the fulfilment of commitments made at this conference for the World Population Day. In this context, basic information on birth, marriage and gender statistics are presented in this press release.
 
 The statistics can be examined in more detail in “2019 Dünya Nüfus Günü: Haber Bülteni İstatistikleri” (IST_02). 
 
@@ -73,6 +83,9 @@ News Bulletin (English) [Dokümanı İncele](downloads\addon\BLD_04_EN.pdf ':ign
 
 ## Strengthening Critical Systems to End Child Marriage: UNFPA-UNICEF Global Programme to Accelerate Action to End Child Marriage
 *BLD_05*
+
+**ÖZET**  
+UNFPA ve UNICEF ortaklığıyla başlatılan Küresel Program kapsamında ergenlik çağındaki kız çocuklarının ihtiyaçlarını karşılayan kaliteli ve etkin hizmetleri güçlendirmek için sağlık, eğitim, çocuk koruma ve sosyal koruma sistemleri üzerine çalışılmaktadır. Bu kritik önemdeki sistemleri güçlendirerek ve hükümet önderliğindeki müdahaleleri arttırarak, programın milyonlarca ergen kıza ulaşması ve sağlık sonuçlarını iyileştirmek de dahil olmak üzere kız çocuklarının hayatları üzerinde anlamlı bir etkiye sahip olunması amaçlanmaktadır.
 
 **SUMMARY**  
 The Global Programme initiated by UNFPA and UNICEF works closely with health, education, child protection and social protection systems to strengthen quality and cost-effective services that meet the needs of adolescent girls. Strengthening these critical systems, and scaling up government-led interventions, enables the programme to reach millions of adolescent girls and have a meaningful impact on girls’ lives, including delaying marriage and improving their health outcomes

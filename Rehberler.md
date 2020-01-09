@@ -29,6 +29,9 @@
 **ÖZET**  
 Adem Arkadaş-Thibert ve Feray Salman tarafından hazırlanan kılavuz, göstergeleri bir analiz aracı olarak kullanılıp yerel ve ulusal raporlama yaparak çocuğa şiddeti önleme konusunda savunuculuğu desteklemeyi amaçlıyor. Raporda çocuk yaşta, erken ve zorla evlendirmeye ilişkin göstergelere de yer verilmektedir.
 
+**SUMMARY**  
+Authored by Adem Arkadaş-Thibert and Feray Salman, the guide is designed to support advocacy for preventing violence against children through local and national reporting by using the indicators as a tool for analysis. The report also includes a set of indicators on child, early, and forced marriage.
+
 ?> *Kuruluş adı: UNICEF; 2013, Türkçe Tema: Çocuğa karşı şiddet, İzleme*
 
 [Dokümanı İncele](downloads\RHB\RHB_01.pdf ':ignore')
@@ -42,8 +45,15 @@ Adem Arkadaş-Thibert ve Feray Salman tarafından hazırlanan kılavuz, gösterg
 **ÖZET**  
  Çocuklara yönelik risklerin okullarda tespiti ve müdahalesine ilişkin "Erken Uyarı Modeli"ne ilişkin rehber, sunular, anketler ve araçları içermektedir.
 
+ **SUMMARY**  
+This guidebook includes guidance, presentations, questionnaires, and tools on the “Early Warning Model” for identification of and intervention on risks for children in schools.
+
 ?> *Kuruluş adı: UNICEF, Milli Eğitim Bakanlığı; 2012, Türkçe Tema: Çocuğa yönelik şiddet, ihmal, istismar, risk tespiti*  
 <!--
+<details>
+
+  <summary> Dökümanları Görüntüle  </summary>
+
 Çocuklara Yönelik Riskler, Bursa Brosürü [Dokümanı İncele](downloads\RHB\RHB_02\BURSA_HARITA_(small).pdf ':ignore')
 
 EIS Assessment Report (English) [Dokümanı İncele](downloads\RHB\RHB_02\EIS-Assesment-Report-short-version-ENG.pdf ':ignore')
@@ -88,12 +98,14 @@ Erken Uyarı Akışı: Önleme Mekanizması [Dokümanı İncele](downloads\RHB\R
 
 Okul İçi Rol ve Sorumluluklar [Dokümanı İncele](downloads\RHB\RHB_02\Okul-ici-rol-ve-sorumluluklar.pdf ':ignore')
 
-RİTA'ların İşleyişi (kısa) [Dokümanı İncele](downloads\RHB\RHB_02\RITAların-isleyis.pdf ':ignore')
+RİTA'ların İşleyişi (kısa) [Dokümanı İncele](downloads\RHB\RHB_02\RITAlarin-isleyis.pdf ':ignore')
 
-RİTA'ların İşleyişi (uzun) [Dokümanı İncele](downloads\RHB\RHB_02\RITAların1.pdf ':ignore')
+RİTA'ların İşleyişi (uzun) [Dokümanı İncele](downloads\RHB\RHB_02\RITAlarin1.pdf ':ignore')
+
+</details>
 -->
-**Materyal Ulaşılabilir Değil
 
+**Materyal Ulaşılabilir Değil  
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -101,10 +113,10 @@ RİTA'ların İşleyişi (uzun) [Dokümanı İncele](downloads\RHB\RHB_02\RITAla
 *RHB_03*
 
 **ÖZET**  
-Günümüzde dünya genelindeki çatışmalardan ve afetlerden etkilenenlerin yarısından fazlasını çocuklar oluşturmaktadır. Çocukların karşı karşıya kaldığı çok sayıdaki risk mutlulukları, fiziksel güvenlikleri ve gelecekleriüzerinde yıkıcı etki yaratmaktadır. Bazı çocuklar yaralanmakta bazılarıysa
-öldürülmektedir. Diğerleri ailelerinden ve vasilerinden ayrılmaya ya da silahlı kuvvetlere ya da silahlı gruplara katılmaya zorlanmakta, çok daha fazlası ise cinsel şiddete veya sömürü ve istismarın diğer biçimlerine maruz bırakılmaktadır.
-Çocukların şiddetten, sömürüden, istismar ve ihmalden korunması; gerek koruma aktörleri gerekse bir dizi sektör uzmanı dâhil olmak üzere insani amaçlı eylemlerde çalışan herkes için acil öncelik taşımaktadır. Çabalarımızın hızlı, iyi planlanmış ve etkili olması ihtiyacının yanı sıra, gayretlerimizin çocuklara ulaşıp ulaşmadığını ve onları uygun şekilde koruyup korumadığını ölçmemiz de gerekmektedir. Bunun yanında insani amaçlı eylemlerimizde uzun vadede, yani acil durum müdahalesi bittiğinde de çocukları koruyacak sistemlerin güçlendirmesine ihtiyaç vardır.
-Çocuk korumaya yönelik olarak uzun süredir beklenilen kurumlar-arası bu asgari standartlar, çocukları koruma amaçlı faaliyetlerin kalitesini ve kapsamını dönüştürme ve insani yardım çalışanları olarak verdiğimiz taahhütlerin geçerliliğini ölçme potansiyeli taşımaktadır. İnsani yardım amaçlı eylemlerde yer alan herkesi bu fırsattan yararlanmaya, standartları uygulamaya ve geliştirmeye çağırıyoruz.
+Acil durumlarda çocuk korumaya ilişkin asgari standartları içermektedir.
+
+**SUMMARY**  
+This document includes minimum standards for child protection during emergencies.
 
 ?> *Kuruluş adı: Çocuk Koruma Çalışma Grubu, UNICEF; 2015, Türkçe Tema: Çocuk koruma, Acil durumi, Asgari standart*
 
@@ -119,6 +131,9 @@ Günümüzde dünya genelindeki çatışmalardan ve afetlerden etkilenenlerin ya
 **ÖZET**  
 Acil durumlarda çocuk dostu ortamlar oluşturmaya ilişkin ilkeleri ve eylemleri içermektedir.
 
+**SUMMARY**  
+The text includes the principles of and actions for creating child-friendly environments during emergencies.
+
 ?> *Kuruluş adı: Global Education Cluster, Global Protection Cluster, INEE, IASC; 2015, Türkçe Tema: Acil durumlarda çocuk koruma*
 
 [Dokümanı İncele](downloads\RHB\RHB_04.pdf ':ignore')
@@ -131,6 +146,9 @@ Acil durumlarda çocuk dostu ortamlar oluşturmaya ilişkin ilkeleri ve eylemler
 
 **ÖZET**  
 Cinsel şiddet mağduru çocuklar ile çalışan hizmet sunucular için geliştirilen rehber; temel bilgiler, çocuklarla iletişim kurma, yönlendirici ilkeler ve vaka yönetimi konularında ilke, yöntem ve araçları içermektedir.
+
+**SUMMARY**  
+This guidebook was developed for service providers working with sexually abused children and includes basic information and principles, methods, and tools for communicating with children, as well as guidance and case management.
 
 ?> *Kuruluş adı: International Rescue Comitte, UNICEF; 2012, Türkçe Tema: Çocukların cinsel istismarı*
 
@@ -145,6 +163,9 @@ Cinsel şiddet mağduru çocuklar ile çalışan hizmet sunucular için gelişti
 **ÖZET**  
 Acil durumlarda kadın ve çocuklara yönelik ilk müdahalelere ilişkin bilgileri içermektedir.
 
+**SUMMARY**  
+The document includes information about first response for women and children in emergencies.
+
 ?> *Kuruluş adı: UNICEF; 2015, Türkçe Tema: Çocuk Koruma, Acil durum, Asgari standart*
 
 [Dokümanı İncele](downloads\RHB\RHB_06.pdf ':ignore')
@@ -156,38 +177,10 @@ Acil durumlarda kadın ve çocuklara yönelik ilk müdahalelere ilişkin bilgile
 *RHB_07*
 
 **ÖZET**  
-Bu eğitim kitabı çeşitli kurum ve kuruluşların çatısı altında faaliyet gösteren Kadın
-Danışma Merkezleri çalışanlarına temel bir rehber olması amacıyla “Yerel İşbirlikleri
-Aracılığıyla Şiddetle Mücadele Mekanizmalarının Güçlendirilmesi” başlıklı proje
-kapsamında hazırlanmıştır.
-Avrupa Birliği ve Türkiye Cumhuriyeti tarafından finanse edilen, ana yararlanıcısı Aile
-ve Sosyal Politikalar Bakanlığı olan proje Kadın Dayanışma Vakfı koordinatörlüğünde,
-İzmir Kadın Dayanışma Derneği ve Adana Kadın Dayanışma Merkezi ve Sığınmaevi
-Derneği (AKDAM) ile birlikte yürütülmüştür. Proje Ankara, İzmir ve Adana illerinde
-kadına yönelik şiddetle mücadele alanında eşgüdüm içerisinde çalışan kadın örgütlerinden,
-sivil toplum kuruluşlarından, resmi kurumlardan kadınların ve bağımsız feminist kadınların
-katılımı, çabaları ve kıymetli destekleri ile sonlandırılmıştır.
-Projenin amacı, hem kurum/kuruluşlarda kadına yönelik şiddet alanında çalışan
-kadınlarla, hem de mahallelerde yaşayan kadınlarla, farkındalık ve bilinç geliştirici
-faaliyet ve eğitimler aracılığıyla bir araya gelmek olmuştur. Proje kapsamında; kadına
-yönelik şiddet alanında çalışan 3 kadın kuruluşunun (AKDAM, İzmir Kadın Dayanışma
-Derneği, Kadın Dayanışma Vakfı) kapasitesini arttırmak amacı ile 3 ilde Güçlenme
-Eğitimleri gerçekleştirilmiştir. Sonrasında eğitimlerin sürdürülebilirliğinin sağlanması ve
-yaygınlaştırılması amacıyla Güçlenme Eğitimine katılmış gönüllü kadınlara Eğitici Eğitimi
-verilmiştir. Diğer bir eğitim faaliyetimiz, proje illerinde, kamu kurumları, belediyeler ve
-kadın kuruluşlarında kadına yönelik şiddet alanında çalışmakta olan kadınlara verilen
-“Kadın Danışma Merkezi İşleyişi Eğitimleri”dir. 3 kadın kuruluşuna ait Kadın Danışma
-Merkezlerinde şiddet gören kadınlara, avukatlar hukuki danışmanlık, psikologlar psikolojik
-destek ve sosyal çalışmacılar da sosyal hizmet destekleri vermeye devam etmişlerdir. 3 ilde
-de kurumlar arası işbirliğini ve koordinasyonu sağlamak amacıyla kadına yönelik şiddetle
-mücadelede sorumlu kılınmış kurum ve kuruluş yetkilileri ile “Kadına Yönelik Şiddete
-İlişkin Kamu Kurumları Çalıştayı” gerçekleştirilmiştir. Son olarak da, mahallelerde yaşayan
-kadınlarla dayanışmak amacıyla bilinç ve farkındalık geliştirici faaliyetler kapsamında
-“mahalle/ev toplantıları” düzenlenmiştir. Eğitimlerimiz, Kadın Danışma Merkezlerimiz ve
-mahalle toplantılarımız vasıtasıyla 3 ilde 2000’e yakın kadına ulaşılmıştır.
-Bu eğitim kitabı ile amaçlanan, kadına yönelik şiddetle mücadelede önemli rol
-oynamakla birlikte literatürde az yer bulan Kadın Danışma Merkezlerinin işleyişi
-konusunda alanda çalışan kadınlar için temel bir rehber oluşturmaktır. 
+Şiddete maruz kalan kadın ve var ise çocuklarının destek alabileceği kadın danışma merkezlerinin işleyişinde dair bilgileri içermektedir.
+
+**SUMMARY**  
+This guidebook includes information on the operations of women’s solidarity centres, where women and their children who are victims of violence can receive support.
 
 ?> *Kuruluş adı: Kadın Dayanışma Vakfı; 2015, Türkçe Tema: Kadına yönelik şiddet, danışmanlık*
 
@@ -197,49 +190,45 @@ konusunda alanda çalışan kadınlar için temel bir rehber oluşturmaktır.
 ***
 
 ## Danışmanlık Tedbiri Uygulamaları El Kitabı 
-*RHB_09*
+*RHB_08*
 
 **ÖZET**  
 Hakkında danışmanlık tedbiri kararı verilmiş çocuklara yönelik rehberlik hizmetlerine ilişkin bilgileri ve uygulama adımlarını içermektedir.
 
+**SUMMARY**  
+This document includes information and implementation steps for providing the necessary services for children who have been identified as recipients of counselling.
+
 ?> *Kuruluş adı: MEB; Türkçe Tema: Danışmanlık tedbiri*
+
+[Dokümanı İncele](downloads\RHB\RHB_08.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+***
+
+## Gebelik ve Doğumda Komplikasyonların Yönetimi: Ebeler ve Doktorlar İçin Bir Kılavuz 
+*RHB_09*
+
+**ÖZET**  
+Rehber, ebeler ve doktorlar için gebelik ve doğumda meydana gelebilecek komplikasyonlara müdahaleye ilişkin bilgileri içermektedir.
+
+**SUMMARY**  
+The guidebook for midwives and physicians includes information about interventions for possible complications during pregnancy and labour.
+
+?> *Kuruluş adı: WHO, UNFPA, UNICEF, World Bank; 2003, Türkçe Tema: Gebelik, Adölesan*
 
 [Dokümanı İncele](downloads\RHB\RHB_09.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
-## Gebelik ve Doğumda Komplikasyonların Yönetimi: Ebeler ve Doktorlar İçin Bir Kılavuz 
+## İnsan Hakları Eğitimcileri için El Kitabı 
 *RHB_10*
 
 **ÖZET**  
-üvenli Annelik İnsiyatifi’ nin desteğiyle, WHO Gebeliği Daha Güvenli Hale Getirme
-Stratejisi maternal ve yenidoğan ölümlerini azaltmak için sağlık sektörünün katılımına dikkat
-çeker.
-Gebelik ve Doğumun Entegre Yönetimi (GDEY) burada belirtilen stratejinin teknik
-komponentidir ve temelde aşağıdakilere işaret eder:  
-• yerel olarak uyarlanmış kılavuzlarla ve gebelik ve doğum yönetiminin sağlık bakım
-sisteminde farklı seviyelerdeki yönetiminin standartları yoluyla sağlık çalışanlarının
-yeteneklerini geliştirmek;  
-• gebe kadınların ve onların yeni doğmuş bebeklerinin ihtiyaçlarına sağlık bakım
-sisteminin cevap verebilmesini geliştirmek için yapılacak eylemler ve uygun personel,
-lojistik, kaynaklar ve ekipmanı tedarik ederek sağlık servislerinin bölgesel yönetimini
-geliştirmek;  
-• sağlık eğitimi ve aile ve toplumun gebelik ve doğumla ilişkili tavır ve uygulamalarını geliştiren aktivitelerin teşviki.  
-Bu el kitabı ve preterm ve hasta yenidoğanların yönetimi için olana bir benzeri bölge hastanelerinde çalışan ebeler ve doktorlar için yazılmıştır.Bu el kitabı esas olarak birincil sağlık bakım seviyesi için hazırlanmış olan Gebelik ve Doğum için Temel Bakım Uygulama Kılavuzu’ nu tamamlar ve onunla ilişkilidir. Bu el kitapları beraberce gebe kadınların ve yenidoğanların tüm seviyelerdeki bakımlarında sağlık çalışanlarına kılavuzluk sağlayacaktır. Bu el kitaplarındaki açıklanmış olan girişimler en son erişilebilmiş bilimsel kanıtlara dayandırılmıştır. Temel klinik pratiğin standardı kanıta dayalı tıp olduğundan dolayı yeni bilgilere erişildikçe bu elkitabının geliştirilmesi planlanmıştır. Bu el kitabının hasta yararına kullanılacağı ve her ne zaman bir ebe veya doktor bir obstetrik acil ile karşılaşırsa elinin altında hazır bulunması umut edilmiştir.
-
-?> *Kuruluş adı: WHO, UNFPA, UNICEF, World Bank; 2003, Türkçe Tema: Gebelik, Adölesan*
-
-[Dokümanı İncele](downloads\RHB\RHB_10.pdf ':ignore')
-
-[Materyal Listesine Geri Dön](#materyal-listesi)
-***
-
-## İnsan Hakları Eğitimcileri için El Kitabı 
-*RHB_11*
-
-**ÖZET**  
 İnsan hakları alanında gerçekleştirilen eğitimler için yaklaşım, yöntem, teknik ve değerlendirilmesini kapsamlı biçimde ele almaktadır.
+
+**SUMMARY**  
+This document elaborates on the approach, methodology, techniques, and assessment for human rights training.
 
 ?> *Kuruluş adı: UN Human Rights, Equitas; 2015, Türkçe Tema: İnsan hakları, eğitim teknikleri*
 
@@ -249,23 +238,29 @@ Bu el kitabı ve preterm ve hasta yenidoğanların yönetimi için olana bir ben
 ***
 
 ## Çocuk Evlilikleri ve İlişkili Kavramlar Sözlüğü 
-*RHB_12*
+*RHB_11*
 
 **ÖZET**  
-Seelen Doğan tarafından hazırlanan yayında çocuk yaşta evlilik ile ilişkili 100'ün üzerinde kavram açıklanmıştır.
+Selen Doğan tarafından hazırlanan yayında çocuk yaşta evlilik ile ilişkili 100'ün üzerinde kavram açıklanmıştır.
+
+**SUMMARY**  
+The publication, written by Selen Doğan, explains more than 100 concepts associated with child marriage.
 
 ?> *Kuruluş adı:Uçan Süpürge; 2014, Türkçe Tema: Çocuk yaşta evlilik*
 
-[Dokümanı İncele](downloads\RHB\RHB_12.pdf ':ignore')
+[Dokümanı İncele](downloads\RHB\RHB_11.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
 ## Gücümüzü Fark Etmek: Kadınlarla Grup Çalışması için Rehber 
-*RHB_13_H*
+*RHB_12_H*
 
 **ÖZET**  
 Aksu Bora tarafından hazırlanan rehberde, kadınlarla gerçekleştirilen grup çalışmalarında dikkat edilmesi gerekenler, kullanılabilecek yöntem ve araçlara yer verilmektedir.
+
+**SUMMARY**  
+The guidebook, prepared by Aksu Bora, contains considerations for those conducting group work with women as well as possible methods and tools.
 
 ?> *Kuruluş adı: KA.DER Ankara; 2010, Türkçe Tema: Kadınlarla grup çalışmaları*
 
@@ -275,10 +270,13 @@ Aksu Bora tarafından hazırlanan rehberde, kadınlarla gerçekleştirilen grup 
 ***
 
 ## Mağdura Yaklaşım Kılavuzu 
-*RHB_14_H*
+*RHB_13_H*
 
 **ÖZET**  
 Rehber mağdura yaklaşımın temel ilkeleri hakkında bilgi vermekte; kolluk, sağlık ve yargı sürecinde mağdura nasıl yaklaşılması gerektiğini aşama aşama açıklamaktadır.
+
+**SUMMARY**  
+The guidebook offers information on the main principles of approaching survivors and explains step-by-step how to interact the survivor in law enforcement, healthcare, and litigation processes.
 
 ?> *Kuruluş adı: Adalet Bakanlığı; 2016, Türkçe Tema: Mağdura yaklaşım*
 
@@ -288,126 +286,112 @@ Rehber mağdura yaklaşımın temel ilkeleri hakkında bilgi vermekte; kolluk, s
 ***
 
 ## The IOM Handbook on Direct Assistance for Victims of Trafficking 
-*RHB_15*
+*RHB_14*
 
-**PREFACE**  
-Objectives  
-IOM has had some 13 years of experience in implementing counter-trafficking activities and has provided assistance to over 14,000 victims of trafficking in all regions of the world. With a growing number of organizations, especially local NGOs, now providing or intending to provide assistance to
-victims of trafficking, IOM would like to share its experience and lessons learned. This Handbook summarizes and systematizes this experience. IOM recognizes that each victim is unique and requires and desires different assistance. As well, the nature of trafficking is different around the world and is ever evolving, requiring changing responses. Therefore this Handbook is not meant to provide a single methodology for the provision of assistance to victims of trafficking, but to offer suggestions and guidance, based on IOM’s many years of experience. IOM hopes that it will be helpful to all organizations providing such assistance to victims, but especially for organizations who are just beginning to develop victim assistance programmes and can benefit from IOM’s experiences.
-This Handbook provides guidance and advice necessary to effectively deliver a full range of assistance to victims of trafficking from the point of initial contact and screening up to the effective social reintegration of the individuals concerned. Although the Handbook covers assistance to minors, it does not do so in the depth necessary for the concerned practitioner who should be sure to also refer to UNICEF’s Guidelines on the Protection of Child Victims of Trafficking.
+**ÖZET**  
+7 bölümden oluşan rehberde insan ticareti "mağdurlarına" destek sağlayan kişilere yönelik bilgileri içermektedir.
 
-Structure of the Handbook  
-Chapter 1 Security and Personal Safety
-Chapter 2 Screening of Victims of Trafficking
-Chapter 3 Referral and Reintegration Assistance
-Chapter 4 Shelter Guidelines
-Chapter 5 Health and Trafficking
-Chapter 6 Cooperation with Law Enforcement Authorities
-Appendix I Ethical Principles in Caring for and Interviewing Trafficked Persons
-Appendix II Interview Checklist
-Appendix III Glossary
-
-Basic Principles  
-The instructions and advice offered in this Handbook are themselves based on the following principles governing counter-trafficking activities: A commitment to curtail human trafficking and to protect the rights of those who have become victims of trafficking, and to act to achieve respect for and protection of the human dignity and well-being of victims.
-The protection, safety and the respect of human rights of actual and potential trafficking victims are the guiding principles to be followed at all times.
-All services to trafficking victims are provided on the basis of the informed consent of a victim and, concerning support under the Assisted Voluntary Return programme, such assistance shall only be extended to victims who have freely chosen to return home.
-This Handbook reflects the international standards set out in the United Nations Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children.
-It reflects the international standards set out in the United Nations Office of the High Commissioner for Human Rights – Principles and Guidelines on Human Trafficking and Human Rights.
-In providing assistance to children who have become victims of trafficking, organizations should always act in accordance with the best interests of the child.
-
-Key Guidelines  
-Do no harm. To do no harm is the first principle of most medical ethical guidance. Given the extreme risks associated with trafficking, the fragile state of many of its victims, and the potential for increased trauma, the significance of this basic rule cannot be overstated. It is the ethical responsibility of every organization providing assistance to victims of trafficking to assess the potential for harm of any proposed action and, if there is any reason to believe that carrying out an interview or conducting an examination or procedure will cause the individual to be worse off than before, it should not be undertaken at that time.
-Individualized treatment and care. While acknowledging that trafficking victims share some common experiences and circumstances, organizations should recognize and respect the individuality of victims and, to the extent possible, provide personalized care and assistance. Throughout the assistance process, staff should strive to provide the most appropriate protection, assistance and support appropriate to the needs and circumstances of the individual victim.
-Continuing and comprehensive care. The range of services outlined in Chapters 3 and 4 of this Handbook are designed to offer a holistic approach to aid the recovery of trafficking victims, thereby offering a comprehensive continuum of care in accordance with the physical, psychological and social state of the victims.
+**SUMMARY**  
+The guidelines, which are composed of 7 sections, contain information for service providers supporting “victims” of human trafficking.
 
 ?> *Kuruluş adı: IOM; 2007, İngilizce Tema: İnsan ticareti*
+
+[Dokümanı İncele](downloads\RHB\RHB_14.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+***
+
+## Gender and Disaster Risk Reduction in Europe and Central Asia: Workshop  Guide for Facilitator 
+*RHB_15*
+
+**ÖZET**  
+Afet ve acil durumlara müdahale programlarına toplumsal cinsiyet perspektifinin yerleştirilmesi amacıyla hazırlanmıştır. Rehberde Erken yaşta ve zorla evlilik konularına değinilmektedir. Rehberin Türkçeye tercüme edilerek yaygınlaştırılması planlanmaktadır.
+
+**SUMMARY**  
+This guide was prepared in order to implement a gender perspective in the disaster and emergency management programs. The guidelines touch upon the issues of early and forced marriage. There are plans to translate the guidelines into Turkish to spread their use. 
+
+?> *Kuruluş adı: UN Women, UNDP; 2018, İngilizce Tema: Toplumsal cinsiyet, Afet*
 
 [Dokümanı İncele](downloads\RHB\RHB_15.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
-## Gender and Disaster Risk Reduction in Europe and Central Asia: Workshop  Guide for Facilitator 
+## Glossary: Child Marriages & Key Concepts 
 *RHB_16*
 
 **ÖZET**  
-Afet ve acil durumlara müdahale programlarına toplumsal cinsiyet perspektifinin yerleştirilmesi amacıyla hazırlanmıştır. Rehberde Erken yaşta ve zorla evlilik konularına değinilmektedir. Rehberin Türkçeye tercüme edilerek yaygınlaştırılması planlanmaktadır.
+Çocuk yaşta evlilik ile ilgili temel kavramları tanıtmaktadır.
 
-?> *Kuruluş adı: UN Women, UNDP; 2018, İngilizce Tema: Toplumsal cinsiyet, Afet*
+**SUMMARY**  
+The document introduces the key concepts associated with child marriage.
+
+?> *Kuruluş adı: GEN-DER, Uçan Süpürge; 2018, İngilizce Tema: Çocuk yaşta evlilik*
 
 [Dokümanı İncele](downloads\RHB\RHB_16.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
-## Glossary: Child Marriages & Key Concepts 
+## Taking Action to Child Marriages: The Role of Different Sectors 
 *RHB_17*
 
 **ÖZET**  
-Çocuk yaşta evlilik ile ilgili temel kavramları tanıtmaktadır.
+Çocuk yaşta evlilik konusunda farklı sektörlerde yapılabilecek çalışmaları, dikkat edilmesi gereken noktaları ve indiktörleri içermektedir.
 
-?> *Kuruluş adı: GEN-DER, Uçan Süpürge; 2018, İngilizce Tema: Çocuk yaşta evlilik*
+**SUMMARY**  
+The document presents a set of indicators and recommended actions to be taken in different sectors to end child marriage.
+
+?> *Kuruluş adı: International Center for Research on Women, Girls not Brides; 2015, İngilizce Tema: Çocuk yaşta evlilik*
 
 [Dokümanı İncele](downloads\RHB\RHB_17.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
-## Taking Action to Child Marriages: The Role of Different Sectors 
+## İnsani Yardım Çalışmalarında Toplumsal Cinsiyete Dayalı Şiddet Rehberi 
 *RHB_18*
 
 **ÖZET**  
-Çocuk yaşta evlilik konusunda farklı sektörlerde yapılabilecek çalışmaları, dikkat edilmesi gereken noktaları ve indiktörleri içermektedir.
+İnsani yardım alanında çalışanların, toplumsal cinsiyet temelli şiddetin azaltılmasına katkı sağlayabilmeleri için gerekli bilgileri içermektedir.
 
-?> *Kuruluş adı: International Center for Research on Women, Girls not Brides; 2015, İngilizce Tema: Çocuk yaşta evlilik*
+**SUMMARY**  
+This guidebook provides insight on how humanitarian aid workers can contribute to the efforts aimed at mitigating gender-based violence.
+
+?> *Kuruluş adı: Hayata Destek Derneği; 2018, Türkçe Tema: İnsani yardım, Toplumsal cinsiyet temelli şiddet*
 
 [Dokümanı İncele](downloads\RHB\RHB_18.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
-## İnsani Yardım Çalışmalarında Toplumsal Cinsiyete Dayalı Şiddet Rehberi 
+## Gebelik ve Doğumda Komplikasyonların Yönetimi 
 *RHB_19*
 
 **ÖZET**  
-İnsani yardım alanında çalışanların, toplumsal cinsiyet temelli şiddetin azaltılmasına katkı sağlayabilmeleri için gerekli bilgileri içermektedir.
+TOG faaliyetlerinin çocuk hakları standartlarına uygun biçimde yürütülmesi amacıyla hazırlanmıştır.
 
-?> *Kuruluş adı: Hayata Destek Derneği; 2018, Türkçe Tema: İnsani yardım, Toplumsal cinsiyet temelli şiddet*
+**SUMMARY**  
+This text is designed to ensure that TOG activities are carried out in accordance with child rights standards.
+
+?> *Kuruluş adı: Toplum Gönüllüleri Vakfı (TOG); 2018, Türkçe Tema: Çocuklarla çalışma*
 
 [Dokümanı İncele](downloads\RHB\RHB_19.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
-## Gebelik ve Doğumda Komplikasyonların Yönetimi 
+## Çocuk Koruma Konusunda Koordinasyon, İşbirliği, Danışmanlık ve Önceliklendirme El Kitabı 
 *RHB_20*
 
 **ÖZET**  
-TOG faaliyetlerinin çocuk hakları standartlarına uygun biçimde yürütülmesi amacıyla hazırlanmıştır.
-
-?> *Kuruluş adı: Toplum Gönüllüleri Vakfı (TOG); 2018, Türkçe Tema: Çocuklarla çalışma*
-
-[Dokümanı İncele](downloads\RHB\RHB_20.pdf ':ignore')
-
-[Materyal Listesine Geri Dön](#materyal-listesi)
-***
-
-## Çocuk Koruma Konusunda Koordinasyon, İşbirliği, Danışmanlık ve Önceliklendirme El Kitabı 
-*RHB_21*
-
-**ÖZET**  
-<!--
-Bu alanda en önemli sorumluluk, çocuğun bir temel ihtiyaç ve hak olrak ailesinin yanında korunmasını sağlamaktır. Bunun için ailelerin çocuk bakımı ve gözetimi konusunda becerilerinin güçlendirilmesi; aynı zamanda da olanaklar bakımından desteklenmesi gerekir. Buna ek olarak, aileye ve çocuğa on arı risklere karşı korumasız bırakan aile içi sorunlar ve ailenin ihtiyaçlarına yönelik gerekli yardım ve rehberliğin sağlanması gerekir. Burada sağlık kurumlarından, eğitim hizmetlerine, sosyal güvenlik teşkilatından, sosyal hizmetlere, merkezi yönetimden yerel yönetimlere ve sivil toplum kuruluşlarına kadar pek çok kurumun işbirliğine ve hizmet sunumunda eşgüdümüne ihtiyaç
-bulunmaktadır.
-Ailesi içerisinde korunamayan çocuğun aile dışında korunması için de gerekli tedbirlerin alınması, çocuğun korunma ihtiyacı ve hakkının önemli bir parçasıdır. Burada arzu edilen yöntem, çocuğun aile bakımına en yakın bakım yöntemi ile korunmasını sağlamak ve mümkün olan en kısa sürede çocuğun gene ailesi ile birleşmesini sağlamak, bunun mümkün olamadığı durumlarda ise çocuğun en kısa zamanda bir aile edinmesini sağlamaktır. Bu konuda topluma önemli bir görev düşmekte, ailesi dışında korunması gereken çocuklar için aile olmaya aday olma sorumluluğunu paylaşmak gerekmektedir.
-Bütün kaçınma çabalarına rağmen bazı çocuklar ciddi travmalar ile karşı karşıya kalmaktadır. Duygusal, cinsel ve/veya fiziksel istismar, madde bağımlılığı, suça sürüklenmiş olma gibi çocuğun korunma ihtiyacını acil hale getiren sorunlar, daha dikkatli ve hızlı çalışan bir sistemi gerektirmektedir.
-Bütün bu ihtiyaçları dikkate alan Çocuk Koruma Kanunu ve yönetmelikleri, merkezi düzeyde, il ve ilçe düzeyinde kurumlar ve hizmetler arasında koordinasyonu öngörmektedir. Bu, her çok kurumlu çalışma için kaçınılmaz bir ihtiyaçtır. Ancak aynı zamanda da, bazen ağır iş yükü, bazen de yerleşik bürokratik alışkanlıklar sebebiyle göz ardı edilme riskine sahip bir ihtiyaçtır.
-Çocuk korumayı asli görev olarak üstlenmiş olan Kurumumuz için tüm kurumların etkili bir eşgüdüm ve işbirliği içinde çalışması vazgeçilmez önemdedir. Bu nedenle çocuk koruma mevzuatının koordinasyona ilişkin hükümlerinin hayata geçirilebilmesini desteklemeyi önemli bir görev olarak üstlenmiş bulunuyoruz. 
--->
 Bu rehber, illerde çocuk koruma alanında koordinasyonu sağlamak üzere çalışacak kişiler için hazırlanmıştır. Rehber, Çocuk Koruma Kanunu, tedbirlerin uygulanmasında koordinasyon, çocuk koruma sistemi gibi konulara odaklanmaktadır.
+
+**SUMMARY**  
+This guidebook is prepared for those who is going to work in child protection sector in provinces. The guidebook focuses on topics such as Child Protection Law, coordination on applying precautions, and child protection system.
 
 ?> *Kuruluş adı: T.C. Başbakanlık Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü; 2008, Türkçe Tema: Çocuk Koruma*
 
-[Dokümanı İncele](downloads\RHB\RHB_0.pdf ':ignore')
+[Dokümanı İncele](downloads\RHB\RHB_20.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)

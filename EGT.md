@@ -23,6 +23,9 @@
 **ÖZET**  
 Eğitim materyali Emrah Kırımsoy, Hakan Acar, Handan Yokuş Sevük, Hatice Kaynak, Murat Aydın, Şahin Antakyalıoğlu, Uğur Özdemir, Yeşim Mutlu ve Yüksel Baykara Acar tarafından hazırlanmıştır. Avrupa Birliği’nin mali, UNICEF’in teknik desteği ile Adalet Bakanlığı, Aile ve Sosyal Politikalar Bakanlığı, Hâkimler ve Savcılar Yüksek Kurulu ve Türkiye Adalet Akademisi paydaşlığında yürütülen “Çocuklar için Adalet Projesi” içerisinde tasarlanan, “Çocuk Adalet Sistemi Çalışanları Eğitim Programı”nın bir parçası olarak hazırlanmıştır. Vaka temelli eğitim materyali, karşılaştıkları çocukların dosyaları ve davaları ile ilgilenirken yahut da çocuklarla birebir çalışırken çocuğa özgü adalet sisteminin gereklilikleri konusunda temel ilkelerin, mevzuatın ve en uygun uygulamaların, çocuk adalet sistemi çalışanları için anlaşılır hale getirilmesi amaçlanmıştır. Eğitim kitabında çocuk yaşta evlilike de değinilmiştir.
 
+**SUMMARRY**  
+The training material was prepared by Emrah Kırımsoy, Hakan Acar, Handan Yokuş Sevük, Hatice Kaynak, Murat Aydın, Şahin Antakyalıoğlu, Uğur Özdemir, Yeşim Mutlu, and Yüksel Baykara Acar. It was prepared as a part of the Juvenile Justice System Personnel Training Programme designed within the Justice for Children Project executed with the funding support of the European Union and the technical support of UNICEF, and in partnership between the Ministry of Justice, the Ministry of Family and Social Policy, the High Council of Judges and Prosecutors, and the Justice Academy of Turkey. The case-based training material intends to make the main principles, legislation, and the most suitable practices in terms of the requirements of the juvenile justice system easily understandable for juvenile justice system personnel while engaging with juvenile files and cases or working one-on-one with children. The training book also addresses child marriage.
+
 ?> *Kuruluş adı: Adalet Bakanlığı, Türkiye Adalet Akademisi, Hakimler ve Savcılar Yüksek Kurulu, Aile ve Sosyal Politikalar Bakanlığı, UNICEF Türkiye; 2013, Türkçe Tema: Çocuk koruma, Adalet sistemi, Sosyal hizmet*
 
 [Dokümanı İncele](downloads\EGT\EGT_01.pdf ':ignore')
@@ -36,11 +39,14 @@ Eğitim materyali Emrah Kırımsoy, Hakan Acar, Handan Yokuş Sevük, Hatice Kay
 **ÖZET**  
  Avrupa Konseyi tarafından Beşte Bir Kampanyası kapsamında hazırlanan materyal seti, çocuğun cinsel istismarını önlemeyi hedefleyen masal, broşür, videoları içermektedir.
 
+ **SUMMARRY**  
+ The material set prepared within the scope of the One in Five campaign by the European Council includes fables, brochures, and videos intended to prevent child sexual abuse.
+
 ?> *Kuruluş adı: Avrupa Konseyi; 2013, Türkçe Tema: Çocuğun cinsel istismarı*  
 
 Kiko ve El Kitap [Dokümanı İncele](downloads\EGT\EGT_02\PREMS188713_TUR_2029_KikoBook_BAT_245x245mm_WEB.pdf ':ignore')
 
-Kiko ve El Kart Postal [Dokümanı İncele](downloads\EGT\EGT_02\PREMS188713_TUR_2029_KikoCartePostale_BAT_10x15cm_WEB.pdf ':ignore'
+Kiko ve El Kart Postal [Dokümanı İncele](downloads\EGT\EGT_02\PREMS188713_TUR_2029_KikoCartePostale_BAT_10x15cm_WEB.pdf ':ignore')
 
 Kiko ve El Öneriler [Dokümanı İncele](downloads\EGT\EGT_02\PREMS188713_TUR_2029_KikoGuidelines_BAT_A4_WEB.pdf ':ignore')
 
@@ -57,6 +63,9 @@ Kiko ve El Print [Dokümanı İncele](downloads\EGT\EGT_02\PREMS188713_TUR_2029_
 **ÖZET**  
  Sağlık Bakanlığı, Emniyet Genel Müdürlüğü ve Adalet Bakanlığı çalışanlarına aile içinde kadına yönelik şiddet konusunda verilen eğitimlerin içerik ve yöntemleri yer almaktadır.
 
+ **SUMMARRY**  
+ It presents the content and methods of training to be offered to health personnel and the police force about domestic violence against women.
+
 ?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı; 2016, Türkçe Tema: Kadına yönelik şiddet*  
 
 Sağlik Çalişanlari Eğitici El Kitabi [Dokümanı İncele](downloads\EGT\EGT_03\KIT_03A.pdf ':ignore')
@@ -71,6 +80,9 @@ Sağlik Çalişanlari Eğitimi Katilimci Kitabi [Dokümanı İncele](downloads\E
 
 **ÖZET**  
  Eğitimde toplumsal cinsiyet eşitliği projesi kapsamında geliştirilen eğitim kiti,"Eğitimde Toplumsal Cinsiyet Eşitliği Hizmet içi Eğitim El Kitabı"nı, sunuları ve videoları içermektedir.
+
+ **SUMMARRY**  
+ The training kit developed within the scope of the gender equality in education project includes the Gender Equality in Education In-Service Training handbook, presentations, and videos.
 
 ?> *Kuruluş adı: Milli Eğitim Bakanlığı; 2016, Türkçe Tema: Eğitimde toplumsal cinsiyet eşitliği*  
 
@@ -90,6 +102,9 @@ Videolar [Dokümanı İncele](downloads\EGT\EGT_04\VİDEOLAR.zip ':ignore')
 
 **ÖZET**  
  Çocuk evlilikler konusunda hizmet sağlayıcılara yönelik sunuların olduğu dosyada çocuk koruma, toplumsal cinsiyet eşitliği, kadına yönelikl şiddet, çocuk yaşta evlilik, ulusal ve uluslarararsı mevzuat, vaka yönetimi gibi konuları içeren sunu bulunmaktadır.
+
+ **SUMMARRY**  
+ The file includes presentations for service providers on child marriage with regard to various aspects such as child protection, gender equality, violence against women, child marriage, national and international legislation, and case management.
 
 ?> *Kuruluş adı: UNICEF; 2017, Türkçe Tema: Çocuk yaşta evlilik, Vaka yönetimi, Hizmet sunucular*  
 
@@ -120,6 +135,9 @@ Videolar [Dokümanı İncele](downloads\EGT\EGT_04\VİDEOLAR.zip ':ignore')
 **ÖZET**  
  Çocuk yaşta evlilik konusunda anne, baba ve 12-18 yaş arası kız çocuklara yönelik bilgilendirme üç farklı semineri sunularını içermektedir.
 
+ **SUMMARRY**  
+ It includes three different seminar presentations for providing information on child marriage to mothers, fathers, and girls aged 12-18.
+
 ?> *Kuruluş adı: UNICEF; 2017, Türkçe Tema: Çocuk yaşta evlilik, Farkındalık*  
 
 Kız Çocukları İçin Bilgilendirme Semineri [Dokümanı İncele](downloads\EGT\EGT_06\12-18-yas-kiz-cocuklarina-yonelik-bilgilendirme-semineri.pdf ':ignore')
@@ -138,10 +156,14 @@ Kız Çocukları İçin Bilgilendirme Semineri [Dokümanı İncele](downloads\EG
 **ÖZET**  
  Afet ve acil durumlarda riskli gruplarla çalışma eğitimleri için bilgi notu, sunu ve ilgili diğer materyallerden oluşan 4 günlük bir eğitim programıdır. 
 
+ **SUMMARRY**  
+ It includes information notes, presentations, and other materials for training on working with high-risk groups during disasters and emergencies.
+
 ?> *Kuruluş adı: UNICEF; Türkçe Tema: Çocuk koruma, Acil durum*  
-
+<!--
 [Dokümanı İncele](downloads\EGT\EGT_07.zip  ':ignore')
-
+-->
+**Materyal Ulaşılabilir Değil
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -150,6 +172,9 @@ Kız Çocukları İçin Bilgilendirme Semineri [Dokümanı İncele](downloads\EG
 
 **ÖZET**  
 Çocuklar için yardım hatları, çevirimiçi sohbet, e-posta, forum yöneticiliği gibi danışmanlık sistemlerinde yer alan hizmet sağlayıcılar için pratik bilgileri içermektedir.
+
+**SUMMARRY**  
+It includes practical information for service providers in counselling systems such as helplines for children, online chats, e-mail, and forum management.
 
 ?> *Kuruluş adı: ÖZGE-DER; 2013, Türkçe Tema: Çocuklara yönelik danışmanlık*
 
@@ -162,12 +187,10 @@ Kız Çocukları İçin Bilgilendirme Semineri [Dokümanı İncele](downloads\EG
 *EGT_09*
 
 **ÖNSÖZ**  
-Anne ve bebekler taşıdıkları riskler nedeniyle sağlık hizmetlerinden öncelikli ve özellikli hizmet almaları gereken iki önemli grubu oluşturmaktadır. 
-Dünya Sağlık Örgütü, Alma-Ata Deklarasyonu’nu 2008 yılında tekrar gündeme getirerek;
-eşitsizliklerin giderilmesi, hizmet sunumunun iyileştirilmesi ve başta eğitim olmak üzere tüm ilkelerin gözden geçirilmesi gerektiğini vurgulamıştır. Barselona Anne Hakları Bildirgesi’inde;
-Her kadının üreme sağlığı, gebelik, doğum ve yenidoğan bakımı konusunda yeterli eğitim ve bilgi alma hakkı vardır. Sağlık kuruluşlarının anne ve eşine bu eğitimi vermek, doğum öncesi bakımın bir parçası olarak bu eğitimlere katılmalarını özendirmek zorunda olduğuna vurgu yaparak bunun bir anne hakkı olduğu belirtilmiştir. Gebe bilgilendirme eğitimi de bunu amaçlamaktadır.
-Gebe Bilgilendirme Sınıfı Programı; tüm gebelerin, doğum öncesi, doğum ve doğum sonrası
-dönemle ilgili konularda bilgi sahibi olmalarını ve bilinçli doğum yapmalarını sağlamayı, normal doğum eylemi, ağrı yönetimi ve yeni rollerini benimsemeleri konularında bilgi ve beceri kazandırmayı amaçlamıştır.
+Gebelerin sağlıklı ve bilinçli bir doğum süreci geçirmesini desteklemek üzere hazırlanmış olan eğitim kitabıdır.
+
+**SUMMARRY**  
+This is a training book prepared to support pregnant women in having a healthy and informed experience during childbirth.
 
 ?> *Kuruluş adı: Sağlık Bakanlığı; 2014, Türkçe Tema: Gebelik, Adölesan*
 
@@ -182,6 +205,9 @@ dönemle ilgili konularda bilgi sahibi olmalarını ve bilinçli doğum yapmalar
 **ÖZET**  
 Prof. Dr. Ali Yemişçigil tarafından hazırlanan ve bir eğitim programı olarak da tasarlanan el kitabı; cinsiyete dayalı şiddete ilişkin temel kavramlar, kadına yönelik şiddetin üreme sağlığına etkileri, şiddete maruz kalan kaıdnın muayenesi, cinsiyete dayalı şiddetin önlenmesine yönelik destek çalışmaları konuları ele alınmaktadır.
 
+**SUMMARY**  
+The handbook prepared by Prof. Dr. Ali Yemişçigil, which is also designed as a training programme, discusses the main concepts pertaining to gender-based violence, the impact of violence against women on female reproductive health, the examination of women who are survivors of violence, and support activities for the prevention of gender-based violence.
+
 ?> *Kuruluş adı: Sağlık Bakanlığı, İnsan Kaynağını Geliştirme Vakfı; 2005, Türkçe Tema: Cinsiyete dayalı şiddet, Sağlık*
 
 [Yazılı kopya]
@@ -194,6 +220,9 @@ Prof. Dr. Ali Yemişçigil tarafından hazırlanan ve bir eğitim programı olar
 
 **ÖZET**  
 El kitabı; çocuk hakları, afetlerde psikososyal destek, ulusal ve uluslararası insani yardım yapılanması olmak üzere üç bölümde acil durumlarda çocuk koruma konusunu ele almaktadır.
+
+**SUMMARY**  
+The handbook discusses the concept of child protection during emergencies in three chapters, namely children’s rights, psychosocial support during disasters, and national and international humanitarian aid organisations.
 
 ?> *Kuruluş adı: UNICEF; 2015, Türkçe Tema: Çocuk koruma, Acil durum*
 
@@ -208,6 +237,9 @@ El kitabı; çocuk hakları, afetlerde psikososyal destek, ulusal ve uluslararas
 **ÖZET**  
 Uluslarararsı Af Örgütü tarafından "Kadına Yönelikl Şiddete Son" Kampanyası kapsamında geliştirilmiş olan materyal, toplumsal cinsiyet eğitimlerinde kullanılabilecek etkinlikleri içermektedir.
 
+**SUMMARY**  
+The material, developed within the scope of the Ending Violence against Women campaign by Amnesty International, includes events which could be used in training on gender.
+
 ?> *Kuruluş adı: Uluslararası Af Örgütü; 2004, Türkçe Tema: Toplumsal cinsiyet*
 
 [Yazılı kopya]
@@ -220,6 +252,9 @@ Uluslarararsı Af Örgütü tarafından "Kadına Yönelikl Şiddete Son" Kampany
 
 **ÖZET**  
 Beş modülden oluşan ve henüz taslak olan materyal siyasi kampanya yürüten kadınlara yönelik temel becerileri kazandırmayı amaçlamaktadır.
+
+**SUMMARY**  
+The material, composed of 5 modules but still in the draft phase, aims to give skills to the women running political campaigns.
 
 ?> *Kuruluş adı: UN Women; 2018, İngilizce Tema: Kadınların siyaste katılımı*
 <!--

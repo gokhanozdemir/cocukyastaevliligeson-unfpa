@@ -21,8 +21,11 @@
 ## Üniversiteler için Hastane Temelli Çocuk Koruma Merkezleri El Kitabı
 *KTP_01*
 
-**ÖNSÖZ**  
+**ÖZET**  
 Prof. Dr. Tolga DAĞLI ve Prof. Dr. Mehmet Akif İnanıcı tarafından hazırlanan el kitabı çeşitli üniversitelerin tıp fakültelerinde görev yapan akademisyenler tarafından yazılmıştır. Üniversitelerde çocuk koruma merkezlerinin nasıl kurulacağı ve nasıl çalışacağına dair temel bilgiler sunulmaktadır.
+
+**SUMMARY**  
+The handbook prepared by Prof. Dr. Tolga Dağlı and Prof. Dr. Mehmet Akif İnanıcı was written by academicians working in the medical faculties of various universities. It provides basic information on how to establish and operate child protection centers in universities.
 
 ?> *Yazar adı: Prof. Dr. Tolga Dağlı, Prof. Dr. Mehmet Akif İnanıcı; 2010, Türkçe Tema: Çocuk koruma, Sağlık*
 
@@ -38,6 +41,9 @@ Prof. Dr. Tolga DAĞLI ve Prof. Dr. Mehmet Akif İnanıcı tarafından hazırlan
 **ÖZET**  
 Sulukule Gönüllüleri Derneği tarafından, Uluslararası Çocuk Merkezi'nin Avrupa Birliği Türkiye Delegasyonu'nun desteği ile yürütülen Çocuklarla Birlikte Daha Güçlü Projesi kapsamında hazırlanmıştır. Kitapçıkta, Roman Çocuklara dair veriler ve sorunlarına ilişkin çözüm önerileri yer almaktadır. Kitapçıkta çocuk yaşta/erken yaşta evlilike de değinilmektedir.
 
+**SUMMARY**  
+The booklet was prepared within the scope of the Stronger with Children Programme conducted by the Sulukule Volunteers’ Association with the support of the International Child Centre’s European Union Delegation to Turkey. The booklet includes data on Roma children and recommended solutions for their problems. It also addresses child/early marriage.
+
 ?> *Kuruluş adı: Çocuğa Karşı Şiddeti Önlemek için Ortaklık Ağı; 2017, Türkçe Tema: Roman çocuklar, Çocuk yaşta evlilik*
 
 [Dokümanı İncele](downloads\KTP\KTP_02.pdf ':ignore')
@@ -49,20 +55,10 @@ Sulukule Gönüllüleri Derneği tarafından, Uluslararası Çocuk Merkezi'nin A
 *KTP_03*
 
 **ÖNSÖZ**  
-Birleşmiş Milletler Nüfus Fonu (UNFPA) Türkiye Ofisi, 2011 yılından bugüne İnsani Yardım Programı çerçevesinde kadın sağlığı ve kadına yönelik şiddetin önlenmesi konularında kapasite geliştirme, hizmet sunumu, üreme sağlığı ve hijyen malzemeleri temini sağlamaktadır.
-2017 yılında 41 merkeze ulaşacak olan, Kadın ve Kız Çocuklar için Güvenli Alanlar (Kadın Sağlığı Danışma Merkezleri) aracılığıyla öncelikli olarak cinsel sağlık ve üreme sağlığı, toplumsal cinsiyet temelli şiddet, psiko-sosyal destek, güçlenme ve malzeme dağıtımı konularında uygulayıcı ortaklarımızla birlikte hizmet vermekteyiz.
-Bahsi geçen Kadın Sağlığı Danışma Merkezlerinden Adıyaman, Mardin, Gaziantep, Batman, Kahramanmaraş ve Diyarbakır’da toplamda aktif olarak 7 Kadın Sağlığı Danışma Merkezinde yürütücü ortağımız KAMER ile birlikte kadın ve kız çocuklarına hizmet sunmaya devam ediyoruz. Elinizde tutmuş olduğunuz “Biz de VARIZ” kitabı, bu merkezlerden hizmet alan kadınlarının paylaştığı son derece içten ve cesurca anlatılmış gerçek hayat hikayelerinden oluşuyor. Bu çok özel hikayeleri okuduğunuzda, bu kadınların kim olduğunu, ne zorluklarla mücadele etmek zorunda kaldıklarını ve gelecek için hayallerini birinci ağızdan öğrenecek ve onları çok daha iyi anlayacaksınız.
-“Biz de VARIZ” kitabının oluşmasını sağlayan, hayatlarını bizlere açarak hikayelerini paylaşan kadınlara, bu anlatılanları derleyerek ete kemiğe bürünmesini sağlayan KAMER Vakfına ve Kadın Sağlığı Danışma Merkezlerimize ve bu alanda yaptığımız çalışmalara destek olan Avrupa Komisyonu Sivil Koruma ve İnsani Yardım Ofisine (ECHO) teşekkürlerimizi sunmak isteriz.
+UNFPA tarafından yürütülmekte olan 41 Kadın Sağlığı Merkezinin, KAMER ortaklığı ile yürütülmekte olan 7'sinden destek alan kadınların anlatılarının yer aldığı kitapta çocuk yaşta ve zorla evliliklere ilişkin deneyimler de yer almaktadır.
 
-Uluslararası Göç Örgütü, göçü “kişi veya bir grup insanın süresi, oluşumu ve sebepleri ne olursa olsun bulunduğu ülke sınırları içerisinde ya da uluslararası sınırlar arasında yer değiştirmesi” olarak tanımlamaktadır. Birleşmiş Milletler Nüfus Fonu’nun verilerine göre bugün tüm dünyada küreselleşme, savaş, yoksulluk, siyasi baskı ve benzer nedenlerle 244 milyon göçmen bulunmaktadır. 65.6 milyon insan zorunlu göçle yurtarından ayrı yaşamaya mecbur bırakılmıştır. 10 milyonun üzerinde sığınmacı 18 yaşın altındadır. Suriye’de 2011 tarihinde başlayan savaş ile birlikte halkın büyük bir kısmı güvenlik nedeniyle yurtlarını terk etmek zorunda kalmıştır. Önemli sayıdaki Suriyeli sığınmacı öncelikli olarak kendi yurtlarına yakın gördükleri sınır illerimize yerleşmiştir. Bu göç sürecinden ise en çok etkilenenin kadınlar ve çocuklar olduğu tartışılmaz bir gerçektir. Kültürel farklılıklardan dolayı uyum sağlayamama, gittikleri bölgede konuşulan dil kullanamama, organize edilemeyen yardımlar, beslenme ve barınma yetersizliği gibi sıkıntılar kadınların ve çocukların hayatlarını zorlaştırmaya devam etmektedir.
-KAMER Vakfı ülkemize sığınan herkesin aynı hak ve fırsatlara sahip olması gerektiği düşüncesinden yola çıkarak Suriyeli kadın ve çocuklara yönelik tasarlanmış çeşitli çalışmalar yürütmektedir. Aynı zamanda sığınmacı kadın ve çocukların var olan programlara katılımlarını sağlamaktadır. İlk olarak insani yardımların dağıtımı şeklinde başlayan bu çalışmalar, şu an yöntemi belirlenmiş ve oldukça etkin sonuçlar alınan programlar halinde yürütülmektedir. Bu programlar çerçevesinde UNFPA’nın desteği ile birlikte KAMER sığınmacı kadınlara yönelik sağlık hizmeti sunmakta, dil kursları açmakta, hane ziyaretlerinde bulunmakta, mahalle toplantıları ve farkındalık toplantıları düzenlemekte ve de kadınların çocuklarıyla beraber katılacakları beraber oynama grup çalışmaları yapmaktadır. Tüm bu çalışmalarla bugüne dek binlerce kadına ulaşılmıştır.
-Bu kitabı hazırlama fikri KAMER’in çalışmalarının sığınmacı kadınların hayatlarına nasıl dokunduğu sorusu üzerine ortaya çıktı. Bazen niceliksel veriler bize programın başarıyla uygulandığını gösterse de kadınların ağzından kendi hikâyelerini dinlemek ve de yaşadıkları dönüşüme tanık olmak çalışmanın derinliğine dair çok şey söylemekte.
-Bu arayıştan yola çıkarak 2017’nin Temmuzayında Doğu ve Güneydoğu Anadolu Bölgesi’nin çeşitli illerindeki KAMER merkezlerinde 19 kadınla derinlemesine görüşmeler yaptık. Görüşmelerimizi yazıya dökerken hikâyelerin anonym kalabilmesi için kadınların isimlerini ve yaşanılan yerleri paylaşmamayı tercih ettik. Her hikâyeye bir rumuz verdik. Görüşme yaptığımız kadınlara ilk olarak bugünlerde ne kadar mutlu olduklarını sorduk. Aldığımız cevapların çoğunda Suriye’deki yaşantılarına duyulan özlem vardı. Onlardan bizlere Suriye’deki yaşamlarını, savaştan nasıl etkilendiklerini, Türkiye’ye nasıl geldiklerini ve Türkiye’de neler yaşadıklarını anlatmalarını istedik.
-Görüşme yaptığımız 19 kadın da KAMER ile temas etmiş kadınlardı. Kimisi KAMER’in merkezlerinde UNFPA ile birlikte yürütülen projede sağlık aracısı ya da tercüman olarak çalışmaktaydı kimisi KAMER’in düzenlemiş olduğu Türkçe dil kurslarına, farkındalık toplantılarına ya da mahalle toplantılarına katılmıştı kimisi de hane ziyaretlerinden sonra KAMER’in merkezlerine gelmeye başlamıştı.
-Görüşmelerimizi Türkçe bilen kadınlarla Türkçe, bilmeyenlerle ise Arapça ve Kürtçe bilen tercümanlar aracılığı ile yaptık. Dil çoğu zaman onların hayatında olduğu kadar bizim görüşmelerimizdeki de en büyük engel oldu. Kadınlar anadillerinde elbet hikâyelerini daha iyi aktarabileceklerdi. Neyse ki her merkezde bize tercümeleriyle destek olan, o dili konuşan KAMER çalışanları vardı. Bu bizim için yerel çalışmanın ne kadar önemli olduğunun bir göstergesiydi.
-Kadınlar savaşın hâlâ devam etmesinden ve ülkelerinin artık eski durumuna döneceğine inanmadıklarından bundan sonraki yaşamlarının büyük bir bölümünü Türkiye’de geçireceklerini düşünmekteydi. Ve bu yeni yaşamları elbette ki bir sığınmacı olmanın getirdiği zorluklardan muaf değildi. Gittiğimiz bölgelere gelen kadınlar kendi ana dillerinin yoğunlukla konuşulduğu bölgeleri tercih etmişlerdi. Bu yolla günlük hayatlarını biraz kolaylaştırmış olsalar da sağlık, eğitim gibi kamu hizmetleri söz konusu olduğunda Türkçe bilmemek en büyük engel olarak karşılarına çıkmaktaydı. Bu noktada KAMER’in açmış olduğu Suriyeli kadınlara yönelik Türkçe okuma-yazm kurslarının ne kadar gerekli olduğunu gördük. Aldıkları Türkçe eğitiminden sonra dili kullana bilmelerinin kadınları gündelik hayatta ve kamu hizmetlerine erişimde güçlendirdiğini fark ettik. Görüşmeleri yaptığımız sırada gerek medyada ve de toplumun çeşitli kesimlerinde Suriyelilere yönelik kullanılan ayrımcı dil ve ırkçı söylemler gerekse kadınların gündelik hayatlarında maruz kaldıkları ayrımcılık hemen hemen her kadının en çok zorlandığı konulardan biriydi. Bir diğer sorun da ekonomik sıkıntılardı. İşsizlik büyük bir problemdi. Görüşme yaptığımız kadınların içinde avukat olan, öğretmen olan kadınlar, savaş yüzünden okudukları üniversiteyi bırakmak zorunda kalan oldukça iyi eğitim almış, birden fazla dil bilen kadınlar vardı ama diplomaları geçerli olmadığından Türkiye’de mesleklerini yapamıyorlardı. Çalışabilenler ise düşük ücretlerle çalıştırılıyordu. Bunun yanı sıra göçle birlikte artan ev kiraları en büyük şikâyet konusuydu. Çok kötü koşullardaki evler Suriyeliler geldikten sonra değerinin çok üzerinde kiralanıyordu.
-Bu çalışma bize tüm bu zorluklar karşısında kadınların ihtiyaç duydukları desteği sağlaması açısından KAMER’in UNFPA’nın da katkılarıyla yürüttüğü programların ne kadar önemli olduğunu gösterdi. Hane ziyaretleriyle kapı kapı dolaşılıp sığınmacı kadınlara ulaşmanın ve ilk basamak sağlık hizmeti sunmanın önemini, yapılantoplantılarda ne kadar çok kadına dokunduklarını, Türkçe dil kurslarının kadınların hayatlarını nasıl değiştirdiğini gördük. Kadınlar KAMER’I çalışmalarına katıldıkça, kendilerini, çocuklarını, eşlerini ve de çevrelerini değiştirmeye başlamışlardı. Sadece kadın, çocuk ve de mülteci haklarını öğrenmekle kalmayıp, bu hakları uygulamaya geçirmiş olmalarını görmek bu ve bunun gibi çalışmaların ne kadar değerli olduğunu bize bir kere daha hatırlattı. Kendine feminist diyen, rektör olmak isteyen, devlet başkanı olmak isteyen kadınlar tanıdık. KAMER’den aldıkları gücü diğer kadınlarla paylaşan kadınlarla tanıştık. Kadınlar KAMER ile ne kadar uzun süredir temas halinde ise farkındalıkları o kadar artmış, güçlerinin farkına varmışlar ve özgürleşmişlerdi. Kadınlar ayrıca savaş biter ve her şey düzelirse yurtlarına dönmek istediklerini ve döndüklerinde de Suriye’de KAMER gibi bir merkez açmak istediklerini bizimle paylaştılar. Suriye’de yaşayan diğer kadınlarla farkındalık toplantıları düzenlemeyi hayal ettiklerini anlattılar. Kadınların gözlerinde gördüğümüz o ışık geçmişte yaşadıkları karanlık dönemlere rağmen önlerindeki tüm engelleri aştıracak güçteydi.
-KAMER Vakfı 20 yıldır Doğu ve Güneydoğu Anadolu’nun 23 ilinde tüm zorluklara rağmen bağımsız duruşundan ödün vermeden kadınlara ulaşmaya devam ediyor. Bundan 10 yıl önce Ben Varım adlı kitapta yine kadınlar KAMER’in kendilerine nasıl dokunduğunu aktarmış ve de “ben varım” demişlerdi. Tam 10 yıl sonra bu topraklara sığınmış kadınlara ve çocuklara elini uzatarak KAMER, Suriyeli sığınmacı kadınlarla birlikte “biz de varız” diyor ve de birlikte güçlenmenin ne kadar önemli olduğunu bize hatırlatıyor. Bu güç içinden geçtiğimiz zor süreçlerde hepimize, tüm kadınlara umut olmaya devam ediyor.
+**SUMMARY**  
+The book tells the stories of women who received support from 7 of the 41 UNFPA Women’s Health Centres which are run in partnership with KAMER and includes experiences of early and forced marriage.
 
 ?> *Kuruluş adı: UNFPA, KAMER; 2017, Türkçe Tema: Göç, Çocuk yaşta evlilik, Zorla evlilik*
 
@@ -76,6 +72,9 @@ KAMER Vakfı 20 yıldır Doğu ve Güneydoğu Anadolu’nun 23 ilinde tüm zorlu
 
 **ÖZET**  
  MEB'in Çocuğa Karşı Şiddeti Önleme Projesi kapsamında geliştirdiği, okullardaki rehberlik hizmetlerine ilişkin kitapları içermektedir.
+
+ **SUMMARY**  
+ It includes the books developed by MEB within the scope of the Prevention of Violence against Children Project on counselling services in schools.
 
 ?> *Kuruluş adı: MEB; 2015, Türkçe Tema: Çocuk koruma, Danışmanlık*  
 
@@ -97,6 +96,9 @@ Okullarda Rehberlik ve Psikolojik Danışma Hizmetleri Kılavuzu [Dokümanı İn
 **ÖZET**  
 Kitapta; hak temelli izleme yaklaşımları, dava izleme, toplumsal cinsiyet anaakımlaştırması, izlemede yöntem ve teknikler konuları ele alınmaktadır.
 
+**SUMMARY**  
+The book discusses rights-based monitoring approaches, litigation follow-up, gender mainstreaming, and monitoring methods and techniques.
+
 ?> *Kuruluş adı: Cinsiyet Eşitliği İzleme Derneği; 2015, Türkçe Tema: Hak temelli izleme, Toplumsal cinsiyet*
 
 [Yazılı kopya]
@@ -109,6 +111,9 @@ Kitapta; hak temelli izleme yaklaşımları, dava izleme, toplumsal cinsiyet ana
 
 **ÖZET**  
 Kitap, kadına yönelik şiddetle mücadelede hak temelli izlemenin önemini vurgulayan ilgili normları, standartları ve yöntemi bütünlükçü bir şekilde ele almaktadır.
+
+**SUMMARY**  
+The book discusses, from a holistic view, the norms, standards, and methods which emphasise the importance of rights-based monitoring in the fight against violence against women.
 
 ?> *Kuruluş adı: Cinsiyet Eşitliği İzleme Derneği; 2014, Türkçe Tema: Kadına yönelik şiddet, İzleme*
 
@@ -123,6 +128,9 @@ Kitap, kadına yönelik şiddetle mücadelede hak temelli izlemenin önemini vur
 **ÖZET**  
 Kadın Dostu Kentler Programı kapsamında basılan kitapçıkta, toplumsal cinsiyete duyarlı veri toplamanın ne olduğu, önemi, yöntemi ve araçlaırna lişkin bilgiler yer almaktadır.
 
+**SUMMARY**  
+The booklet printed within the scope of the Woman-Friendly Cities Programme includes information about what gender-sensitive data collecting is, its importance, and related methods and tools.
+
 ?> *Kuruluş adı: Tepav, UNFPA, UNDP; İçişleri Bakanlığı; 2014, Türkçe Tema: Toplumsal cinsiyet, Veri*
 
 [Yazılı kopya]
@@ -135,6 +143,9 @@ Kadın Dostu Kentler Programı kapsamında basılan kitapçıkta, toplumsal cins
 
 **ÖZET**  
 Gürkan Sert tarafından hazırlanan kitapta üreme hakları konusu, çeşitli vaka örnekleri çerçevesinde ele alınmıştır. Kitapta zorla evlendirme, çocuk istismarı, kadına yönelik şiddet gibi konularda vaka örnekleri de yer almaktadır.
+
+**SUMMARY**  
+The book prepared by Gürkan Sert discusses reproductive rights within the framework of various example cases. The book also includes example cases of forced marriage, child abuse, and violence against women.
 
 ?> *Kuruluş adı: İnsan Kaynağını Geliştirme Vakfı; 2012, Türkçe Tema: Üreme hakları*
 
@@ -149,6 +160,9 @@ Gürkan Sert tarafından hazırlanan kitapta üreme hakları konusu, çeşitli v
 **ÖZET**  
 Çocuğun yüksek yararı, çocuğun özel yaşamına saygı, çocuğun şiddete karşı korunması, evlat edinme, çocuk işçiliği, uyuşturucu kullanımı, mağdur çocukların rehabilitasyonu ve çocuk adalet sisteminin uygulanması başlıklarında değerlendirme ve önerileri içeren yayında çocuk yaşta evlilik ve çocuğun cinsel istismarı konularına da değinilmektedir.
 
+**SUMMARY**  
+The publication includes evaluations and recommendations with respect to the best interest of the child, respect for the child’s privacy, protection of the child from violence, adoption, child workers, drug abuse, rehabilitation of child victims, and implementation of the juvenile justice system and also addresses child marriage and child sexual abuse. 
+
 ?> *Kuruluş adı: Adalet Bakanlığı, Bahçeşehir Üniversitesi; 2017, Türkçe Tema: Çocuk, Adli sistem*
 
 [Yazılı kopya]
@@ -161,6 +175,9 @@ Gürkan Sert tarafından hazırlanan kitapta üreme hakları konusu, çeşitli v
 
 **ÖZET**  
 Adalet Bakanlığı Mağdur Hakları Daire Başkanlığı tarafından hazırlanan yayın;adli sistemde çocuk, kadın ve aile ile ilişkili sorunları mağdur hakları odağında ele almaktadır. 
+
+**SUMMARY**  
+The publication prepared by the Ministry of Justice Department of Victim Rights addresses juveniles in the judicial system and problems with women and families, focusing on victim’s rights. 
 
 ?> *Kuruluş adı: Adalet Bakanlığı; 2016, Türkçe Tema: Mağdur hakları*
 
@@ -175,6 +192,9 @@ Adalet Bakanlığı Mağdur Hakları Daire Başkanlığı tarafından hazırlana
 **ÖZET**  
 Adalet Bakanlığı Mağdur Hakları Daire Başkanlığı tarafından hazırlanan yayın; Mağdur hizmetlerinde kamu-STK işbirliği odağında gerçekleştirilen çalıştayların raporlarını içermektedir.
 
+**SUMMARY**  
+The publication prepared by the Ministry of Justice Department of Victim Rights includes reports on workshops organized in public-NGO partnerships in the provision of victims’ services.
+
 ?> *Kuruluş adı: Adalet Bakanlığı; 2016, Türkçe Tema: Mağdur hakları, STK-Kamu işbirliği*
 
 [Yazılı kopya]
@@ -187,6 +207,9 @@ Adalet Bakanlığı Mağdur Hakları Daire Başkanlığı tarafından hazırlana
 
 **ÖZET**  
 Kitapta; Neriman Açıkalın tarafından Roman toplumunda çocuk yaşta evlilik çocuk haklarının ihlali çerçevesinde ele alınmıştır.
+
+**SUMMARY**  
+In the chapter by Neriman Açıkalın, child marriage in the Roma community is evaluated in the framework of children’s rights violations.
 
 ?> *Kuruluş adı: University of Silecia, University of Beloit; 2017, İngilizce Tema: Roman çocuklar, Çocuk yaşta evlilik*
 
@@ -201,6 +224,9 @@ Kitapta; Neriman Açıkalın tarafından Roman toplumunda çocuk yaşta evlilik 
 **ÖZET**  
 Girls not Brides ağı tarafından yayınlanmış olan kitapçığın kısaltılmış Türkçe versiyonudur. Parlamenterlerin konuya ilişkin rolüne dair önerileri içermektedir.
 
+**SUMMARY**  
+Abridged Turkish version of the booklet published by the Girls Not Brides network. It includes a set of recommendations about the role of legislators in addressing this issue.
+
 ?> *Kuruluş adı: GEN-DER, Uçan Süpürge; 2018, Türkçe Tema: Çocuk yaşta evlilik*
 
 [Dokümanı İncele](downloads\KTP\KTP_13.pdf ':ignore')
@@ -212,13 +238,10 @@ Girls not Brides ağı tarafından yayınlanmış olan kitapçığın kısaltıl
 *KTP_14*
 
 **ÖNSÖZ**  
-Eşitliği, özgürlüğü ve şiddetsiz bir dünyayı yaratma umuduyla bir araya gelen ve bu amaç için 94 yıldır mücadele eden Türk Kadınlar Birliği için ayrımcılık ve kadına yönelik şiddet, ortadan kaldırılması gereken ilk hedeftir.
-Eşitliğin sağlanması için ulusal düzeyde gerekli olan yasal düzenlemeler ne kadar önemli ise bunları güçlendiren Uluslararası sözleşmeler de o denli önemlidir.
-Başta 1986 yılında yürürlüğe giren “Kadınlara Karşı Her Türlü Ayrımcılığın Ortadan kaldırılması Sözleşmesi (CEDAW) olmak üzere bu mücadele alanında bizi güçlendiren çok sayıda uluslararası sözleşmeyi ülke olarak imzalamış ve taraf olmuş durumdayız.
-Son olarak bu alanda, 2014 yılının Ağustos ayında yürürlüğe giren ve hem İstanbul’da olması ile, hem de ilk imzacısı olmakla övündüğümüz “Kadına Yönelik Şiddet ve Ev İçi Şiddetin Önlenmesi ve Bunlarla Mücadeleye Dair Avrupa Konseyi Sözleşmesi” (İstanbul Sözleşmesi) de Anayasamızın 90. maddesinin sağladığı güçle, şiddetle mücadelemizde yasal güvencelerimize çok önemli bir destek kazandırmıştır.
-Gerek Cedaw, gerekse İstanbul Sözleşmesi, hem ayrımcılığın ortadan kaldırılması, hem de kadına yönelik şiddetin önlenmesi için, toplumsal cinsiyet eşitliğinin hayatın her alanında gerçekleştirilmesi gerektiğini vurgulamakta ve imzacı olan taraf devletlerden de bunu istemektedir.
-Devletin yapması gerekenlerin yanı sıra Türk Kadınlar Birliği olarak, ayrımcılığın ortadan kaldırılması ve şiddetin önlenmesindeki en önemli güvence olarak gördüğümüz bu sözleşmelerin ülkemizde tanınması, öğrenilmesi ve kullanılması için, anlatmayı ve yaygınlaştırmayı görev edinmiştik ve yıllardır çalışmalarımızı da bu alanda yoğunlaştırdık.
-Bu çerçevede Derneğimiz 2005 yılından beri Cedaw Sivil Toplum Yürütme Kurulunun sekretaryasını sürdürmekte, 2014 yılından beri de tüm Türkiye’ye yaygın olan şubeleri aracılığı ile başlattığı ve AB desteği ile sürdürdüğü İstanbul Sözleşmesinin uygulamasını izlemeye devam etmektedir.
+Kitapçık; CEDAW ve İstanbul Sözleşmelerinin önemi, özeti ve savunucluk hakkında bilgi içermektedir.
+
+**SUMMARY**  
+The booklet provides a summary of CEDAW and İstanbul Conventions, underscoring their importance, as well as insights on advocacy.
 
 ?> *Kuruluş adı: CEDAW Sivil Toplum Yürütme Kurulu, UN Women; 2018, Türkçe Tema: Kadınlara karşı ayrımcılık*
 
@@ -230,6 +253,9 @@ Bu çerçevede Derneğimiz 2005 yılından beri Cedaw Sivil Toplum Yürütme Kur
 
 **ÖZET**  
 Aile Eğitim Programı kapsamında üretilen 8 üniteden oluşan bu ders kitabı, doğumla gelen hastalıklar, hamilelik dönemi ve bu dönemde dikkat edilmesi gereken hususlar, bebek ve çocuğun sağlık ve gelişim takibi, emzirme, beslenme gibi konuları içermektedir.
+
+**SUMMARY**  
+This textbook, which consists of 8 units produced within the scope of the Family Education Program, includes topics such as illnesses during birth, pregnancy and issues to be considered during this period, health and development follow-up of baby and child, breastfeeding and nutrition.
 
 ?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı; 2011, Türkçe Tema: Çocuk ve Ergen Sağlığı, Aşılama, Beslenme, Ev İçi Hava Temizliği*
 

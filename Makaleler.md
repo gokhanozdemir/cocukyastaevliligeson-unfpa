@@ -152,6 +152,9 @@ Tema: Çocuk yaşta evlilik*
 Bu araştırmada Türkiye’de bir sosyal problem olarak erken evlilik konusu ele alınmıştır. Araştırmanın amacı, Türkiye’de 18 yaşın altında evlilik yapmış olan kadınların anlatılarından hareketle erken yaşta evliliğe ilişkin geleneksel uygulamaların rolünü ortaya koymaktır. Bu çerçevede kültürün erken evliliğin varlığındaki ve sürdürülmesindeki önemi Türkiye üzerinden örneklendirilmiştir. Araştırmanın verileri Türkiye’de erken yaşta evlilik yapan farklı bölge (Doğu, Batı, Orta Anadolu), etnik köken (Türk, Kürt, Laz) ve mezhepteki (Sünni ve Alevi) sekiz kadınla yapılan derinlemesine görüşmelerle elde edilmiştir. Derinlemesine görüşmelerle araştırmaya katılan kadınların erken evliliğine ilişkin öykülerine ulaşılmış ve kadınların erken evliliğe ilişkin anlatılarının çözümlenmesinde anlatı analizi kullanılmıştır. Araştırma sonuçlarına göre erken evliliğin varlığında ve sürdürülmesinde geleneksel uygulamaların rolü önemlidir. Geleneksel anlayışın kabul gördüğü bir patriarkal sistemde kadınlar farkında olsa da olmasa da kültürel system tarafından evliliğe hazırlanmaktadır. Erken yaşta evlilik, kadının namusunun korunması, kadının ekonomik yükünün bir diğerine devredilmesi, kadın ve aile için evliliğin kazandırdığı prestije kavuşulması gibi geleneksel uygulamalardan beslen-
 mektedir.
 
+**SUMMARY**  
+This study includes the results of in-depth interviews conducted with 8 women living in Ankara by Esra Burcu, Filiz Yıldırım, Çiğdem Sema Sırma, Seçil Sanıyaman. The issue was discussed from various perspectives including demographics, the marriage process, the perception of marriage, and attitudes of the individual’s inner circle. Examples taken from the women’s stories are included as well. 
+
 ***Anahtar kelimeler: Erken evlilik, Kadın, Geleneksel uygulamalar, Kültür, Anlatı analizi***
 
 ?> *Kuruluş adı: Hacettepe Üniversitesi; 2015, Türkçe
@@ -212,6 +215,9 @@ Tema: Çocuk yaşta evlilik, aile, okul terki*
 
 **GİRİŞ VE AMAÇ**  
 Erken yaşta evlenme, kadınların hayatında biyolojik, psikolojik ve sosyal alanlarda pek çok soruna yol açabilen, dünya çapında yaygın bir durumdur. Erken yaşta evlilik; aile ve arkadaşlardan erken yaşta ayrılma, gereken zihinsel ve fiziksel gelişimi tamamlamadan cinsellikle tanışma, doğum, çocuk sahibi olma, partner ve onun ailesi tarafından fiziksel ve duygusal şiddete uğrama gibi çoklu ve kronik travmalara yol açabilecek etkenlere maruz kalma olasılığının artması anlamına gelebilmektedir. Erken yaşta evliliklere dair araştırmalar daha çok toplumsal ve jinekolojik alanlarda yoğunlaşmaktadır ve bu durumun psikiyatrik sonuçlarına dair çalışmalar oldukça sınırlıdır. Bu eksiklikten yola çıkarak çalışmamızda 17 yaş ve altında evlenen kadınların sosyodemografik verilerini, evlendikten sonra karşılaştığı olası ruhsal, cinsel ve sosyal sorunları ve erken yaşta evlenmeye neden olabileceği düşünülen psikososyal faktörleri, 20 yaşından sonar evlenen, cinsiyet, yaş, eğitim ve sosyoekonomik özelliklerine göre eşleştirilmiş kontrol grubuyla karşılaştırarak incelemeyi hedefledik.
+
+**SUMMARY**  
+The article authored by Hatice Kaya, Berfin Zeynep Subaşı, and Doğan Şahin reviews the psychological, sexual and social problems affecting women. 
 
 ?> *Kuruluş adı: İstanbul Üniversitesi; 2017, Türkçe
 Tema: Çocuk yaşta evlilik, ruh sağlığı*
@@ -320,6 +326,9 @@ wnload/article-file/317609)
 
 **ÖZET**  
 Mehmet Güneş ve diğ. tarafından Journal of Mood Disorders dergisinde yayımlanan makalede çocuk yaşta evlendirmenin ruh sağlığı ve çift uyumu üzerindeki etkileri incelenmiştir.
+
+**SUMMARY**  
+The article authored by Mehmet Güneş et al. and published in The Journal of Mood Disorders reviews the impacts of child marriage on mental health and couple cohesion.
 
 ?> *Kuruluş adı: Dicle Üniversitesi; 2013, Türkçe
 Tema: Çocuk yaşta evlilik, ruh sağlığı*
@@ -535,9 +544,12 @@ This study aims to search the factors that cause getting married at young ages, 
 **ÖZET**  
 Uluslararası belgelere göre, on sekiz yaşının altında yapılan her evliliğe çocuk evliliği ve evlenen kıza çocuk gelin denilmektedir. Kız çocuklarının erken yaşta evlenmelerinin başlıca sebepleri arasında, geçim sıkıntısı, aile içi cinsel saldırı, evlilik dışı gebelik ve geleneksel yaşayışta hakim olan kocaya itaatin erken yaşta tesis edilmesi gerektiği şeklindeki anlayış sayılabilir. Ancak bu sebepler arasında, iktisadi gerekçelerin ağır bastığını söylemek mümkündür. Nitekim çocuk gelinlerin hangi gelir grubuna giren ailelerde görüldüğüne ilişkin çoğunlukla üniversiteler tarafından yapılan ulusal ölçekteki araştırmalar, çocuk gelin görülme sıklığı ile ailenin yoksulluğu arasında doğru orantı olduğunu; küresel ölçekte, çoğunlukla Dünya Bankası  ve Birleşmiş Milletler örgütleri tarafından yapılan araştırmalarda da, kız çocuklarında görülen erken yaş evlilikler ile ülkenin gelişmişlik düzeyi arasında doğrudan bir ilişki olduğunu göstermektedir. Türkiye’de, her üç kadından birinin çocuk evliliği yapmış olduğunu söylemek mümkündür. Türkiye’de çocuk gelin sorununa yaklaşımda, başlangıç olarak, ortak bir dil oluşturulması gerektiği düşünülmektedir. Bir ortak dil oluşturulduktan sonra, mücadele yöntemlerinin neler olabileceğine karar verilmesinin doğru olacağı öngörülmektedir. Çalışmada çocuk gelin sorunu ile mücadele yöntemleri olarak mevzuatta değişiklik yapılması ve mevzuatın hassasiyetle uygulanması, kızlara zorunlu askerlik uygulaması getirilmesi, toplumda dinsel ahlakın yerini laik ahlakın hakim kılınması, kişi başına düşen milli gelirin artırılması yönünde iktisadi politikalar üretilmesi önerilmektedir. Çalışmada, Türkiye’de çocuk gelin sorununa iktisadi açıdan yaklaşılmadığı müddetçe, her çabanın yarım kalacak bir çaba olacağı savunulmaktadır. Belge tarama ve içerik çözümleme yöntemlerinin kullanıldığı bu çalışmanın, iktisadi gelişmişlik düzeyi ve toplumsal cinsiyet bağlamında yeni tartışmalar açacak olması bakımından önem arz ettiği düşünülmektedir.
 
+**SUMMARY**  
+The article incorporates a set of recommendations on the legislation and policies regarding child marriage in Turkey.
+
 ***Anahtar kelimeler: Çocuk gelin, Çocuk evliliği, Başlık parası, Azgelişmişlik, Yoksulluk***
 
-?> *Kuruluş adı: Hitit Ünibversitesi; Türkçe Tema: Çocuk yaşta evlilik*
+?> *Kuruluş adı: Hitit Üniversitesi; Türkçe Tema: Çocuk yaşta evlilik*
 
 [Dokümanı İncele](downloads\MKL\MKL_21.pdf ':ignore')
 [Materyal Listesine Geri Dön](#materyal-listesi)
@@ -630,7 +642,7 @@ Sonuç: Toplum tarafından erken evliliklerin normal olarak algılanması bu sor
 ***Anahtar kelimeler: Erken evlilik, Çocuk istismarı, Hekim,
 Farkındalık***
 
-**SUMMARY**
+**SUMMARY**  
 Objective: In terms of official marriage, which is to be
 done at an early age physicians play a crucial role in protecting
 children from early marriage, which is a form of
@@ -697,7 +709,7 @@ The aim of this study is to define the reasons of early and forced marriages in 
 ***
 
 ## Üniversite Öğrencilerinin Erken Yaş Evlilikler Hakkında Bilgi ve Görüşlerinin İncelenmesi
-* MKL_26*
+*MKL_26*
 
 **ÖZET**  
 Amaç: Erken yaş evliliklerinin özelde kadın sağlığı genelde de toplum sağlığı üzerine olumsuz etkileri vardır. Bu nedenle erken yaş evliliklerinin önlenmesinde sağlık profesyonellerine önemli görevler düşmektedir. Bu bağlamda geleceğin sağlık profesyonellerinin konuya yönelik bilgilerinin incelenmesi ve bu araştırma sayesinde biraz da olsa farkındalıklarının geliştirilmesi amacıyla; araştırma üniversite ebelik ve hemşirelik öğrencilerinin erken yaş evlilikleri konusunda bilgileri ve erken yaş evliliklerin önlenmesine yönelik düşüncelerini belirlemek amacıyla tanımlayıcı olarak yapılmıştır. Gereç-yöntem: Araştırmanın evrenini 2014-2015 öğretim dönemi bahar yarıyılında eğitim gören 358 Balıkesir Sağlık Yüksekokulu Hemşirelik ve Ebelik Bölümü üç ve dördüncü sınıf öğrencileri oluşturmuştur. Araştırmada örneklem seçimine gidilmemiş ve araştırmaya katılmayı kabul eden ve anket formunu eksiksiz olarak dolduran 199 öğrenci araştırma kapsamına alınmıştır. Bulgular: Araştırmaya katılan öğrencilerin erken yaş evliliklerine yönelik bilgileri incelendiğinde; %93,5’i 1318 yaş grubunda yapılan evlilikleri erken yaş evlilik, %40,2’si erken yaş evliliklerin birinci sırada sebebinin düşük eğitim seviyesi olduğunu belirtmiştir. Evlilik kararı alınırken öğrencilerin %93,5’i kişinin kendi seçimi ve aile kararı ile olması gerektiğini belirtmiştir. Erken yaş evliliklerinde yaşanan sorunlar sorgulandığında öğrencilerin %80,4’ü, aile içi sorunlara %79,4’ü psikolojik sorunlara, %75,9’u sosyal sorunlara ve %50,8’i de sağlık sorunlarına neden olacağını belirtmişlerdir. Öğrencilerin yalnızca %31,7’si erken yaş evliliklerin önlenmesine yönelik ülkemizdeki projeleri duyduklarını belirtirken bu projelerin neler olduğu sorgulandığında %72,9’unun bilgisinin olmadığı tespit edilmiştir. Sonuç: Çalışmanın sonucunda, ebelik ve hemşirelik öğrencilerinin aldıkları eğitim sayesinde erken yaş evlilikleri ile ilgili teorik bilgilerinin yeterli olduğu belirlenmesine karşın konu ile ilgili çözüm önerileri geliştirme ve yürütülen projeler ile ilgili farkındalıklarının yetersiz olduğu belirlenmiştir. Bu doğrultuda öğrencilerin erken yaş evliliklerin önlenmesinde kritik düşünme yeteneklerinin geliştirilmesine yönelik müdahalelerin eğitim programlarına entegre edilmesi önerilmektedir.
@@ -766,7 +778,7 @@ The peaceful public demonstrations that began in the Syrian town of Daraa in Mar
 ***
 
 ## Hemşirelik Öğrencilerinin Erken Evlilik ve Çocuk Gelinler Hakkındaki Görüşlerinin Belirlenmesi
-* MKL_29*
+*MKL_29*
 
 **ÖZET**  
 Amaç: Bu çalışma, bir üniversitenin hemşirelik bölümünde öğrenim gören öğrencilerin erken evlilik ve çocuk gelinler hakkındaki görüşlerini belirlemek amacıyla planlandı. Yöntemler: Tanımlayıcı ve kesitsel olarak planlanan araştırmanın örneklemini Mart - Nisan 2016 tarihleri arasında Bandırma’da bir üniversitenin hemşirelik bölümünde öğrenim gören ve çalışmaya katılmaya istekli 308 öğrenci oluşturdu. Araştırma verileri araştırmacılar tarafından geliştirilen anket formu ile yüz yüze görüşme yöntemi ile toplandı. Bulgular: Araştırmaya dahil edilen öğrencilerin yaş ortalamaları 20,68±2,12 olup, %58,1’inin kız öğrenci olduğu belirlendi. Öğrencilerin %25,6’sının birinci ve ikinci derece yakınlarında 18 yaş altında evlendirilen kız çocuğu olduğu belirlendi. Araştırmaya katılan öğrencilerin %92,2’si erken yaşta evlendirilmenin toplumsal bir sorun olduğunu ve %89,3’ü ise bir istismar davranışı olduğunu belirtti. Çocuk gelinler sorununun çözümü için öğrencilerin %67,5’i kanunlar hükmünde yasal yaptırımlar uygulanması, %65,6’sı kız çocuklarının okutulması ve %63’ü ise toplumda yaygın eğitim programlarının düzenlenmesi gerektiğini belirtti. Sonuç: Sonuç olarak küçük yaşta yapılan evlilikler ve bu durumun getireceği risklerin çözümleri kapsamında sağlık profesyonellerine önemli görevler düşmektedir. Sağlık profesyonellerinin çağdaş rolleri kapsamında erken yaş evliliklerinin nedenlerini ve sonuçlarını analiz ederek bakım ve sosyal destek hizmetlerini düzenlemeleri önem taşımaktadır.
@@ -1093,6 +1105,9 @@ in education rates and finding out effective ways of fighting with poverty are p
 
 **ÖZET**
 2012'de yapılan çocuk yaşta evlilikler ile ilgili bir konferansın belgesini içermektedir. Sunucular, hem Türkiye'deki hem de başka ülkelerdeki çocuk yaşta ve erken evlilikler ile ilgili durumları anlatıyor ve analiz ediyorlar.
+
+**SUMMARY**  
+The material includes a conference text held in 2012 on child marriage. Material includes current situation and situation analysis on cases related to child and early marriages in Turkey and other countries.
 
 ?> *Kuruluş adı: İzmir Ekonomi Üniversitesi Yayınları; 2014, Türkçe Tema: Çocuk yaşta, erken evlilik, Hukuk, Çocuk gelin*
 

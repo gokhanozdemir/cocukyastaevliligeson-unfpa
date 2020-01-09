@@ -13,6 +13,9 @@
 **ÖZET**  
  Dosyada çocuğa karşı ev içi şiddetin önlenmesi politika dokümanı ile çocuğa karşı şiddeti önleme ve toplumsal cinsiyet politika dokümanı yer almaktadır. 
 
+ **SUMMARY**  
+The folder consists of a policy document for preventing domestic violence against children and a gender policy document.
+
 ?> *Kuruluş adı: ICC, Genç Hayat Vakfı, Geleceğimizin Çocukları Vakfı; 2012, Türkçe Tema: Çocuğa yönelik şiddet*  
 
 Şiddetin Önlenmesinde Çözümün Parçası Olmak: Çocuğa Karşı Ev İçi Şiddetin Sonlandırılması [Dokümanı İncele](downloads\PLT\PLT_01\Cocuga-karsi-ev-ici-siddetin-sonlandirilmasi.pdf ':ignore')
@@ -27,6 +30,9 @@
 **ÖZET**  
  Dosyada çocuk dostu adalet politka belgesi ile çocuk adalet sisteminde çocuğun yüksek yararı politika belgeleri bulunmaktadır.
 
+ **SUMMARY**  
+ The folder includes a child-friendly justice policy document and a policy document on the best interests principle in the juvenile justice system.
+
 ?> *Kuruluş adı: İnsan Hakları Ortak Platformu; 2012, Türkçe Tema: Çocuk adalet sistemi*  
 
 Çocuk Adalet Sisteminde Çocuğun Yüksek Yararı Politika Belgesi [Dokümanı İncele](downloads\PLT\PLT_02\Cocuk-adalet-sistemi.pdf ':ignore')
@@ -40,6 +46,9 @@
 
 **ÖZET**  
 Koruncuk Vakfı'nın çocuklarla çalışmalarında esas aldığı ilkeleri ve uygulama prensiplerini içermektedir.
+
+**SUMMARY**  
+ This document presents the key elements of and implementation principles for the efforts undertaken by the Koruncuk Foundation.
 
 ?> *Kuruluş adı: Türkiye Korunmaya Muhtaç Çocuklar Vakfı; Türkçe Tema: Çocuk koruma*
 
