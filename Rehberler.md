@@ -385,6 +385,14 @@ This text is designed to ensure that TOG activities are carried out in accordanc
 *RHB_20*
 
 **ÖZET**  
+<!--
+Bu alanda en önemli sorumluluk, çocuğun bir temel ihtiyaç ve hak olrak ailesinin yanında korunmasını sağlamaktır. Bunun için ailelerin çocuk bakımı ve gözetimi konusunda becerilerinin güçlendirilmesi; aynı zamanda da olanaklar bakımından desteklenmesi gerekir. Buna ek olarak, aileye ve çocuğa on arı risklere karşı korumasız bırakan aile içi sorunlar ve ailenin ihtiyaçlarına yönelik gerekli yardım ve rehberliğin sağlanması gerekir. Burada sağlık kurumlarından, eğitim hizmetlerine, sosyal güvenlik teşkilatından, sosyal hizmetlere, merkezi yönetimden yerel yönetimlere ve sivil toplum kuruluşlarına kadar pek çok kurumun işbirliğine ve hizmet sunumunda eşgüdümüne ihtiyaç
+bulunmaktadır.
+Ailesi içerisinde korunamayan çocuğun aile dışında korunması için de gerekli tedbirlerin alınması, çocuğun korunma ihtiyacı ve hakkının önemli bir parçasıdır. Burada arzu edilen yöntem, çocuğun aile bakımına en yakın bakım yöntemi ile korunmasını sağlamak ve mümkün olan en kısa sürede çocuğun gene ailesi ile birleşmesini sağlamak, bunun mümkün olamadığı durumlarda ise çocuğun en kısa zamanda bir aile edinmesini sağlamaktır. Bu konuda topluma önemli bir görev düşmekte, ailesi dışında korunması gereken çocuklar için aile olmaya aday olma sorumluluğunu paylaşmak gerekmektedir.
+Bütün kaçınma çabalarına rağmen bazı çocuklar ciddi travmalar ile karşı karşıya kalmaktadır. Duygusal, cinsel ve/veya fiziksel istismar, madde bağımlılığı, suça sürüklenmiş olma gibi çocuğun korunma ihtiyacını acil hale getiren sorunlar, daha dikkatli ve hızlı çalışan bir sistemi gerektirmektedir.
+Bütün bu ihtiyaçları dikkate alan Çocuk Koruma Kanunu ve yönetmelikleri, merkezi düzeyde, il ve ilçe düzeyinde kurumlar ve hizmetler arasında koordinasyonu öngörmektedir. Bu, her çok kurumlu çalışma için kaçınılmaz bir ihtiyaçtır. Ancak aynı zamanda da, bazen ağır iş yükü, bazen de yerleşik bürokratik alışkanlıklar sebebiyle göz ardı edilme riskine sahip bir ihtiyaçtır.
+Çocuk korumayı asli görev olarak üstlenmiş olan Kurumumuz için tüm kurumların etkili bir eşgüdüm ve işbirliği içinde çalışması vazgeçilmez önemdedir. Bu nedenle çocuk koruma mevzuatının koordinasyona ilişkin hükümlerinin hayata geçirilebilmesini desteklemeyi önemli bir görev olarak üstlenmiş bulunuyoruz. 
+-->
 Bu rehber, illerde çocuk koruma alanında koordinasyonu sağlamak üzere çalışacak kişiler için hazırlanmıştır. Rehber, Çocuk Koruma Kanunu, tedbirlerin uygulanmasında koordinasyon, çocuk koruma sistemi gibi konulara odaklanmaktadır.
 
 **SUMMARY**  

@@ -1,5 +1,6 @@
-* [Anasayfa](/)
-* [Bütün Materyaller](ARS_BLD_BRS_DRG_EGT_EYP_FLM_IST_KIT_KTP_LTR_MKL_PLT_RHB_RPR_SLT_SPT_STR_YON_EKLER.md) 
+* [Anasayfa](README.md)
+
+* [Bütün Materyaller](Butun_Materyaller_new.md)
 
 * [Akademik](Akademik_ARS_DRG_IST_LTR_MKL.md) 
   * [Araştırmalar](Arastirmalar.md)

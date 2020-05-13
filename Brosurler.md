@@ -124,6 +124,7 @@ Draft brochures that is developed for girls and boys, contains basic information
 
 12-18 Yaş Kız Çocuk Broşür [Dokümanı İncele](downloads\BRS\BRS_06\Kiz_Cocuk_Brosur.pdf ':ignore')
 -->
+*Materyal ulaşılabilir değil
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
