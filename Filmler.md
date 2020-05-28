@@ -20,7 +20,7 @@ It includes 10 animated and short films on child protection, children’s rights
 
 ?> *Kuruluş adı: UNICEF; Türkçe Tema: Çocuk koruma, Çocuk yaşta evlilik*  
 
-xxx [Dokümanı İncele](xxx ':ignore')
+Materyal Ulaşılabilir Değil
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
@@ -29,7 +29,7 @@ xxx [Dokümanı İncele](xxx ':ignore')
 *FLM_02*
 
 **ÖZET**  
-Çocuk yaşta evlilikin önlenmesine ilşkin kamu spotu
+Çocuk yaşta evliliklerin önlenmesine ilşkin kamu spotu
 
 **SUMMARY**  
  Public service ad on the prevention of child marriage 
