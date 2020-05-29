@@ -244,7 +244,7 @@ Kız çocukları, ailelerle, hükümet ve sivil toplum liderleri ve uzmanlarıyl
 
 **SUMMARY**  
 The research focused on social and gender norms and creatively adapted the Social Norms Analysis Plot (SNAP) methodology developed by CARE. The
-research also relied on semi-structured interviews with girls, members of their families and communities, and government and civil society leaders and experts. The vignettes and interview questions used in the study highlighted key themes of sexuality, choice, decision-making, femininity and masculinity, the transition to adulthood, schooling, employment opportunities, and violence. Each team also reviewed demographic and other quantitative data on the prevalence of child marriage and unions, adolescent pregnancy, rates of school attendance, exposure to violence and early childbearing, and also conducted a scan of relevant policies.
+research also relied on semi-structured interviews with girls, members of their families and communities, and government and civil society leaders and experts. <!--The vignettes and interview questions used in the study highlighted key themes of sexuality, choice, decision-making, femininity and masculinity, the transition to adulthood, schooling, employment opportunities, and violence. Each team also reviewed demographic and other quantitative data on the prevalence of child marriage and unions, adolescent pregnancy, rates of school attendance, exposure to violence and early childbearing, and also conducted a scan of relevant policies.-->
 
 ?> *Kuruluş adı: UNFPA, Plan International; İngilizce Tema: Çocuk yaşta, erken ve zorla evlilikler*
 
