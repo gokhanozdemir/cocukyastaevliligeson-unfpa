@@ -10,13 +10,13 @@
 
 -->
 ![Çocuk Yaşta Erken ve Zorla Evliliklerin Önlenmesine Yönelik Birleşmiş Milletler Ortak Programı Logo](assets/Cocuk-Yasta-Erken-ve-Zorla-Evliliklerin-Onlenmesi-Logo-smaller.png)
-## Materyal Veritabanı
+## Materyal Veritabanı *
 
 
 <p style="
     font-size: smaller;
     line-height: inherit;
-">*Bu veritabanı UNFPA, Birleşmiş Milletler Nüfus Fonu Türkiye'nin katkıları ile hazırlanmıştır. <br/> Veritabanınında yer alan materyallerden yalnızca materyallerin hak sahipleri, ilgili kurum ve kuruluşlar sorumludur. <br/> Bu içerikler herhangi bir şekilde UNFPA, Birleşmiş Milletler Nüfus Fonu Türkiye’nin görüş veya tutumunu yansıtmaz.</p>
+">* Bu veritabanı UNFPA, Birleşmiş Milletler Nüfus Fonu Türkiye'nin katkıları ile hazırlanmıştır. <br/> Veritabanınında yer alan materyallerden yalnızca materyallerin hak sahipleri, ilgili kurum ve kuruluşlar sorumludur. <br/> Bu içerikler herhangi bir şekilde UNFPA, Birleşmiş Milletler Nüfus Fonu Türkiye’nin görüş veya tutumunu yansıtmaz.</p>
 
 
 [UNFPA Türkiye Web Sayfası](https://turkey.unfpa.org/en ':target=_blank')
