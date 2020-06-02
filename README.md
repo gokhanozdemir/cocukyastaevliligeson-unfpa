@@ -1,9 +1,4 @@
-![Çocuk Yaşta Erken ve Zorla Evliliklerin Önlenmesine Yönelik Birleşmiş Milletler Ortak Programı Logo](assets/Adsız.png)
-
-
-
-<body>
-<h5>
+## Başlarken
 
 Çocuk Yaşta, Erken ve Zorla Evliliklerin Önlenmesine Yönelik Birleşmiş Milletler Ortak Programının genel amacı kız çocuklarını, oğlan çocuklarını ve risk altında bulunan tüm yetişkinleri çocuk yaşta, erken ve zorla evliliklerden ve bu evliliklerin olumsuz sonuçlarından korumaktır. Bu açıdan ortak program çocuk yaşta, erken ve zorla evliliklerin nedenlerinin ve sonuçlarının belirlenmesini, risk faktörlerinin belirlenip, azaltılması ya da sonlandırılması yolu ile bu sorunun önüne geçebilmek için kurumsal kapasitenin güçlendirilmesini hedeflemektedir.<br/>
 <br/>
@@ -12,9 +7,6 @@ Bu program kapsamında, Çocuk Yaşta, Erken ve Zorla Evlilikler konusuyla ilgil
 Veritabanında yer alan tüm materyallere ekranın sol tarafında ve üst tarafında yer alan listelerden ulaşabilirsiniz.<br/>
 Tüm materyallerin sıralı listesine aşağıda yer alan bağlantılardan ulaşabilirsiniz.
 
-
-</h5>
-</body>
 
 
 - Materyal Listesi:  [Türkçe](.\downloads\trlist.xlsx ':ignore') [İngilizce](download\englist.xlsx ':ignore')
