@@ -14,7 +14,7 @@
 
 * Politika Belgeleri
   * [Eylem Planları](Eylem-Planlari.md)
-  * [Politika Dokümanlar](Politika-Dokumanlar.md)
+  * [Politika Dokümanları](Politika-Dokumanlar.md)
   * [Strateji Dokümanları](Strateji-belgeleri.md)
   * [Yönergeler](Yönergeler.md)
 
