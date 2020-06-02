@@ -1,6 +1,6 @@
 ![Çocuk Yaşta Erken ve Zorla Evliliklerin Önlenmesine Yönelik Birleşmiş Milletler Ortak Programı Logo](assets/unfpalogo.jpg)
 
-# Çocuk Yaşta, Erken ve Zorla Evliliklerin Önlenmesi <br/> Materyal Analiz Raporu ve Materyal Veritabanı 
+# Çocuk Yaşta, Erken ve Zorla Evliliklerin Önlenmesi <br/> Materyal Veritabanı 
 <!--
 <small>by UNFPA</small>
 
@@ -15,7 +15,7 @@
 *Bu veritabanı UNFPA, Birleşmiş Milletler Nüfus Fonu Türkiye'nin katkıları ile hazırlanmıştır. <br/> Veritabanınında yer alan materyallerden yalnızca materyallerin hak sahipleri, ilgili kurum ve kuruluşlar sorumludur. <br/> Bu içerikler herhangi bir şekilde UNFPA, Birleşmiş Milletler Nüfus Fonu Türkiye’nin görüş veya tutumunu yansıtmaz.
 
 [UNFPA Türkiye Web Sayfası](https://turkey.unfpa.org/en)
-[Veritabanı ve Materyal Analiz Raporu](README.md)
+[Materyal Veritabanı](README.md)
 
 <!-- background color -->
 
