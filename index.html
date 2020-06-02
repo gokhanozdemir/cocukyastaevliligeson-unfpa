@@ -30,7 +30,24 @@
         maxAge: 1000,
         // maxAge: 86400000,
         depth: 6
-      }
+      },
+      plugins: [
+    function(hook) {
+      var footer = [
+        '<hr/>',
+        '<footer style="font-size: smaller;line-height: inherit">',
+        '<span><a href="https://turkey.unfpa.org/" target="_blank">UNFPA Türkiye Ofisi</a> - Çocuk Yaşta Erken ve Zorla Evliliklerin Önlenmesine Yönelik Birleşmiş Milletler Ortak Programı | 2020.</span>',
+        "<p style='font-size: smaller;line-height: inherit;'>* Bu veritabanı UNFPA, Birleşmiş Milletler Nüfus Fonu Türkiye'nin katkıları ile hazırlanmıştır. Veritabanınında yer alan materyallerden yalnızca materyallerin hak sahipleri, ilgili kurum ve kuruluşlar sorumludur.Bu içerikler herhangi bir şekilde UNFPA, Birleşmiş Milletler Nüfus Fonu Türkiye’nin görüş veya tutumunu yansıtmaz.</p>",
+        // '<span>Proudly published with <a href="https://github.com/docsifyjs/docsify" target="_blank">docsify</a>.</span>',
+
+        '</footer>'
+      ].join('');
+
+      hook.afterEach(function(html) {
+        return html + footer;
+      });
+    }
+  ]
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
