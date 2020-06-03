@@ -64,10 +64,13 @@ Hizmet Sağlayıcılar İçin Çocuk Yaşta Evliliklerin Önlenmesi [Dokümanı 
  Contains presentations, questionnaires, brochures, films and posters about child marriage.
 
 ?> *Kuruluş adı: Gaziantep Büyükşehir Belediyesi; Türkçe Tema: Çocuk yaşta evlilik, Kız çocukların eğitimi*  
-
+<!--
 Eğitim, Form, Görsel, ve Politika  [Dokümanı İncele](downloads\KIT\KIT_02\KIT_02.zip ':ignore')
 
 Filmler [Dokümanı İncele](downloads\KIT\KIT_02\FILM.zip ':ignore')
+-->
+
+**Materyal Ulaşılabilir Değil
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
