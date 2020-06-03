@@ -22,8 +22,6 @@
 [UNFPA Türkiye Web Sayfası](https://turkey.unfpa.org/en ':target=_blank')
 [Materyal Veritabanına İlerle](#Başlarken)
 
+<!-- background image -->
 
-
-![](assets/bg-blue-orangy.jpg)
-
-![](#fff)
+![](assets/bg-blue-orangy-lighter.jpg)
