@@ -18,12 +18,11 @@
     line-height: inherit;
 ">* Bu veritabanı UNFPA, Birleşmiş Milletler Nüfus Fonu Türkiye'nin katkıları ile hazırlanmıştır. <br/> Veritabanınında yer alan materyallerden yalnızca materyallerin hak sahipleri, ilgili kurum ve kuruluşlar sorumludur. <br/> Bu içerikler herhangi bir şekilde UNFPA, Birleşmiş Milletler Nüfus Fonu Türkiye’nin görüş veya tutumunu yansıtmaz.</p>
 
+<!-- [Materyal Veritabanına İlerle](#Başlarken)  turn on after content is stable --> 
 
-[UNFPA Türkiye Web Sayfası](https://turkey.unfpa.org/en ':target=_blank')
-[Materyal Veritabanına İlerle](#Başlarken)
+[UNFPA Türkiye Web Sayfası](https://turkey.unfpa.org/en ':target=_blank') <br>
+[Güncelleniyor Daha Sonra Tekrar Ziyaret Ediniz]()
 
+<!-- background image -->
 
-
-![](assets/bg-blue-orangy.jpg)
-
-![](#fff)
+![](assets/bg-blue-orangy-lighter.jpg)
