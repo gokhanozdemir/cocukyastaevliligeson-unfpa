@@ -27,9 +27,10 @@ Eğitim materyali Emrah Kırımsoy, Hakan Acar, Handan Yokuş Sevük, Hatice Kay
 The training material was prepared by Emrah Kırımsoy, Hakan Acar, Handan Yokuş Sevük, Hatice Kaynak, Murat Aydın, Şahin Antakyalıoğlu, Uğur Özdemir, Yeşim Mutlu, and Yüksel Baykara Acar. It was prepared as a part of the Juvenile Justice System Personnel Training Programme designed within the Justice for Children Project executed with the funding support of the European Union and the technical support of UNICEF, and in partnership between the Ministry of Justice, the Ministry of Family and Social Policy, the High Council of Judges and Prosecutors, and the Justice Academy of Turkey. The case-based training material intends to make the main principles, legislation, and the most suitable practices in terms of the requirements of the juvenile justice system easily understandable for juvenile justice system personnel while engaging with juvenile files and cases or working one-on-one with children. The training book also addresses child marriage.
 
 ?> *Kuruluş adı: Adalet Bakanlığı, Türkiye Adalet Akademisi, Hakimler ve Savcılar Yüksek Kurulu, Aile ve Sosyal Politikalar Bakanlığı, UNICEF Türkiye; 2013, Türkçe Tema: Çocuk koruma, Adalet sistemi, Sosyal hizmet*
-
+<!--
 [Dokümanı İncele](downloads\EGT\EGT_01.pdf ':ignore')
-
+-->
+**Materyal Ulaşılabilir Değil
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -107,7 +108,7 @@ Videolar [Dokümanı İncele](downloads\EGT\EGT_04\VİDEOLAR.zip ':ignore')
  The file includes presentations for service providers on child marriage with regard to various aspects such as child protection, gender equality, violence against women, child marriage, national and international legislation, and case management.
 
 ?> *Kuruluş adı: UNICEF; 2017, Türkçe Tema: Çocuk yaşta evlilik, Vaka yönetimi, Hizmet sunucular*  
-
+<!--
 Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Koruma [Dokümanı İncele](downloads\EGT\EGT_05\Slayt-1-Cocuk-Koruma-Temel-Kavramlar.pdf ':ignore')
 
 Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Türkiye'de Çocuk Koruma ile İlgili Yasal ve Kurumsal Çerçeve [Dokümanı İncele](downloads\EGT\EGT_05\Slayt-2-Turkiyede-cocuk-korumanin-yasal-ve-kurumsal-cercevesi.pdf ':ignore')
@@ -125,6 +126,8 @@ Videolar [Dokümanı İncele](downloads\EGT\EGT_04\VİDEOLAR.zip ':ignore')
 Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evlilikler Önleme ve Müdahale Yöntemleri [Dokümanı İncele](downloads\EGT\EGT_05\Slayt-8-Cocuk-yasta-evlilikler-onleme-ve-mudahale.pptx.pdf ':ignore')
 
 Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evlendirilen Çocukların Tespiti ve Vaka Yönetimi [Dokümanı İncele](downloads\EGT\EGT_05\Slayt-9-Cocuk-yasta-evlilikler-tespit-ve-vaka-yonetimi.pdf ':ignore')
+-->
+**Materyal Ulaşılabilir Değil
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
@@ -139,12 +142,14 @@ Videolar [Dokümanı İncele](downloads\EGT\EGT_04\VİDEOLAR.zip ':ignore')
  It includes three different seminar presentations for providing information on child marriage to mothers, fathers, and girls aged 12-18.
 
 ?> *Kuruluş adı: UNICEF; 2017, Türkçe Tema: Çocuk yaşta evlilik, Farkındalık*  
-
+<!--
 Kız Çocukları İçin Bilgilendirme Semineri [Dokümanı İncele](downloads\EGT\EGT_06\12-18-yas-kiz-cocuklarina-yonelik-bilgilendirme-semineri.pdf ':ignore')
 
 Çocuk Yaşta Evliliklerin Önlenmesi: Annelere Yönelik Bilgilendirme Semineri [Dokümanı İncele](downloads\EGT\EGT_06\Anne-Bilgilendirme-Semineri.pdf ':ignore')
 
 Çocuk Yaşta Evliliklerin Önlenmesi: Babalara Yönelik Bilgilendirme Semineri [Dokümanı İncele](downloads\EGT\EGT_06\Baba-Bilgilendirme-Semineri.pdf ':ignore')
+-->
+**Materyal Ulaşılabilir Değil
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 

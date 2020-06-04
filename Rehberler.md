@@ -33,8 +33,10 @@ Adem Arkadaş-Thibert ve Feray Salman tarafından hazırlanan kılavuz, gösterg
 Authored by Adem Arkadaş-Thibert and Feray Salman, the guide is designed to support advocacy for preventing violence against children through local and national reporting by using the indicators as a tool for analysis. The report also includes a set of indicators on child, early, and forced marriage.
 
 ?> *Kuruluş adı: UNICEF; 2013, Türkçe Tema: Çocuğa karşı şiddet, İzleme*
-
+<!--
 [Dokümanı İncele](downloads\RHB\RHB_01.pdf ':ignore')
+-->
+**Materyal Ulaşılabilir Değil
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
@@ -119,8 +121,10 @@ Acil durumlarda çocuk korumaya ilişkin asgari standartları içermektedir.
 This document includes minimum standards for child protection during emergencies.
 
 ?> *Kuruluş adı: Çocuk Koruma Çalışma Grubu, UNICEF; 2015, Türkçe Tema: Çocuk koruma, Acil durumi, Asgari standart*
-
+<!--
 [Dokümanı İncele](downloads\RHB\RHB_03.pdf ':ignore')
+-->
+**Materyal Ulaşılabilir Değil
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
@@ -151,8 +155,10 @@ Cinsel şiddet mağduru çocuklar ile çalışan hizmet sunucular için gelişti
 This guidebook was developed for service providers working with sexually abused children and includes basic information and principles, methods, and tools for communicating with children, as well as guidance and case management.
 
 ?> *Kuruluş adı: International Rescue Comitte, UNICEF; 2012, Türkçe Tema: Çocukların cinsel istismarı*
-
+<!--
 [Dokümanı İncele](downloads\RHB\RHB_05.pdf ':ignore')
+-->
+**Materyal Ulaşılabilir Değil
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
@@ -167,8 +173,10 @@ Acil durumlarda kadın ve çocuklara yönelik ilk müdahalelere ilişkin bilgile
 The document includes information about first response for women and children in emergencies.
 
 ?> *Kuruluş adı: UNICEF; 2015, Türkçe Tema: Çocuk Koruma, Acil durum, Asgari standart*
-
+<!--
 [Dokümanı İncele](downloads\RHB\RHB_06.pdf ':ignore')
+-->
+**Materyal Ulaşılabilir Değil
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
@@ -215,8 +223,10 @@ Rehber, ebeler ve doktorlar için gebelik ve doğumda meydana gelebilecek kompli
 The guidebook for midwives and physicians includes information about interventions for possible complications during pregnancy and labour.
 
 ?> *Kuruluş adı: WHO, UNFPA, UNICEF, World Bank; 2003, Türkçe Tema: Gebelik, Adölesan*
-
+<!--
 [Dokümanı İncele](downloads\RHB\RHB_09.pdf ':ignore')
+-->
+**Materyal Ulaşılabilir Değil
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***

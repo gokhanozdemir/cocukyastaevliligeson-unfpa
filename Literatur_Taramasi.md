@@ -16,8 +16,10 @@ UNICEF tarafından yürütülen ve Avrupa Birliği tarafından finansal olarak d
 The review, prepared by Selin Berghan and Adem Arkadaş Thibert within the scope of the Prevention of Violence against Children in Southeast Europe Project executed by UNICEF and funded by the European Union, addresses early and forced marriage.
 
 ?> *Kuruluş adı: UNICEF; 2013, Türkçe Tema: Çocuğa karşı şiddet, Çocuk yaşta, erken yaşta ve zorla evlilik*
-
+<!--
 [Dokümanı İncele](downloads\LTR\LTR_01.pdf ':ignore')
+-->
+**Materyal Ulaşılabilir Değil
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***

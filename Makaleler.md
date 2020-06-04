@@ -73,7 +73,7 @@ Tema: Çocuk yaşta, erken yaşta evlilik, sağlık*
 
 
 <!--
-kümanı İncele](downloads\MKL\MKL_01.pdf ':ignore')
+Dokümanı İncele](downloads\MKL\MKL_01.pdf ':ignore')
 -->
 [Materyal Erişim Linki](http://dergipark.gov.tr/download/article-file/2644)
 

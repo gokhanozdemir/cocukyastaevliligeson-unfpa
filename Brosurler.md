@@ -90,7 +90,7 @@ The brochure provides information about adolescence and the consequences of chil
 The brochure, which  was prepared by CARE with the technical support of UNICEF, contains the definition of child marriage, what can be done to prevent, and contact numbers of relevant institutions.
 
 ?> *Kuruluş adı: CARE International, UNICEF; 2018, Türkçe, İngilizce, Arapça Tema: Child marriage*  
-
+<!--
 Child Marriage part 1, Arabic [Dokümanı İncele](downloads\BRS\BRS_05\Child_Marriage_1_AR.pdf ':ignore')
 
 Child Marriage part 1, Turkish [Dokümanı İncele](downloads\BRS\BRS_05\Child_Marriage_1_TR.pdf ':ignore')
@@ -102,6 +102,8 @@ Child Marriage part 2, Arabic [Dokümanı İncele](downloads\BRS\BRS_05\Child_Ma
 Child Marriage part 2, Turkish [Dokümanı İncele](downloads\BRS\BRS_05\Child_Marriage_2_TR.pdf ':ignore')
 
 Child Marriage part 2, English [Dokümanı İncele](downloads\BRS\BRS_05\Child_Marriage_2.pdf ':ignore')
+-->
+**Materyal Ulaşılabilir Değil
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***

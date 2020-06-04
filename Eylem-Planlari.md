@@ -78,7 +78,9 @@ Nevşehir Yerel Eşitlik Stratejik Planı Nevşehir Valiliği [Dokümanı İncel
  It includes actions defined according to 10 strategic targets regarding child protection services. Although a direct project on child marriage is not planned, it includes activities which strengthen the mechanisms related to CEFM.
 
 ?> *Kuruluş adı: Adalet Bakanlığı, ASPB, Hakim ve Savcılar Yüksek Kurulu, Adalaet Akademisi, UNICEF; 2014, Türkçe Tema: Çocuk koruma, Strateji*
-
+<!--
 [Dokümanı İncele](downloads\EYP\EYP_04.pdf ':ignore')
+-->
+**Materyal Ulaşılabilir Değil
 
 [Materyal Listesine Geri Dön](#materyal-listesi)

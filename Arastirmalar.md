@@ -100,8 +100,10 @@ Türkiye'nin 6 ilinden 7-18 yaş çocuklarla gerçekleştirilen odak grup ve ank
 This report includes the results of focus group and questionnaire activities conducted with children aged 7-18 from 6 provinces in Turkey. The report includes information about types of child neglect and abuse and their impact, and perpetrators. The report also contains the impacts of abuse, recommended solutions, and children’s statements.
 
 ?> *Kuruluş adı: SHÇEK, UNICEF; 2010, Türkçe Tema: Çocuk istismarı*
-
+<!--
 [Dokümanı İncele](downloads\ARS\ARS_05.pdf ':ignore')
+-->
+**Materyal Ulaşılabilir Değil
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
