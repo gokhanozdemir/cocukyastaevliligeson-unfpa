@@ -91,7 +91,8 @@ UNFPA ve UNICEF ortaklığıyla başlatılan Küresel Program kapsamında ergenl
 The Global Programme initiated by UNFPA and UNICEF works closely with health, education, child protection and social protection systems to strengthen quality and cost-effective services that meet the needs of adolescent girls. Strengthening these critical systems, and scaling up government-led interventions, enables the programme to reach millions of adolescent girls and have a meaningful impact on girls’ lives, including delaying marriage and improving their health outcomes
 
 ?> *Kuruluş adı: UNFPA-UNICEF; 2019, İngilizce Tema: Çocuk yaşta evlilikler*
-
+<!--
 [Dokümanı İncele](downloads\addon\BLD_05.pdf ':ignore')
-
+-->
+**Materyal Ulaşılabilir Değil
 [Materyal Listesine Geri Dön](#materyal-listesi)

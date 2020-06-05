@@ -2,11 +2,11 @@
 ***
 #### __Materyal Listesi__
 
--[Erken Yaşlardaki Evlilikler ve Gebelikler - *Nüfus Etüdleri Enstitüsü*](#erken-yaşlardaki-evlilikler-ve-gebelikler)
+- [Erken Yaşlardaki Evlilikler ve Gebelikler - *Nüfus Etüdleri Enstitüsü*](#erken-yaşlardaki-evlilikler-ve-gebelikler)
 
--[2019 Dünya Nüfus Günü: Haber Bülteni İstatistikleri - *Türkiye İstatistik Kurumu*](#_2019-dünya-nüfus-günü-haber-bülteni-İstatistikleri)
+- [2019 Dünya Nüfus Günü: Haber Bülteni İstatistikleri - *Türkiye İstatistik Kurumu*](#_2019-dünya-nüfus-günü-haber-bülteni-İstatistikleri)
 
--[Child Marriage: Latest Trends and Future Prospects - Çocuk Yaşta Evlilik: Son Trendler ve Gelecek Beklentileri - *UNICEF*](#child-marriage-latest-trends-and-future-prospects-Çocuk-yaşta-evlilik-son-trendler-ve-gelecek-beklentileri)
+- [Child Marriage: Latest Trends and Future Prospects - Çocuk Yaşta Evlilik: Son Trendler ve Gelecek Beklentileri - *UNICEF*](#child-marriage-latest-trends-and-future-prospects-Çocuk-yaşta-evlilik-son-trendler-ve-gelecek-beklentileri)
 
 ## Erken Yaşlardaki Evlilikler ve Gebelikler
 *IST_01*
