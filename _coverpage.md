@@ -17,11 +17,11 @@
     font-size: smaller;
     line-height: inherit;
 ">* Bu veritabanı UNFPA, Birleşmiş Milletler Nüfus Fonu Türkiye'nin katkıları ile hazırlanmıştır. <br/> Veritabanınında yer alan materyallerden yalnızca materyallerin hak sahipleri, ilgili kurum ve kuruluşlar sorumludur. <br/> Bu içerikler herhangi bir şekilde UNFPA, Birleşmiş Milletler Nüfus Fonu Türkiye’nin görüş veya tutumunu yansıtmaz.</p>
+<!-- [Güncelleniyor Daha Sonra Tekrar Ziyaret Ediniz]() -->
 
-<!-- [Materyal Veritabanına İlerle](#Başlarken)  turn on after content is stable --> 
 
 [UNFPA Türkiye Web Sayfası](https://turkey.unfpa.org/en ':target=_blank') <br>
-[Güncelleniyor Daha Sonra Tekrar Ziyaret Ediniz]()
+[Materyal Veritabanına İlerle](#Başlarken)
 
 <!-- background image -->
 
