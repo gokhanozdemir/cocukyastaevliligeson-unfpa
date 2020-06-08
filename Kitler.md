@@ -87,7 +87,7 @@ The information and training set on child marriage is comprised of 4 booklets, n
 
 ?> *Kuruluş adı: UNICEF; 2017, Türkçe Tema: Çocuk yaşta evlilik*
 
-[Yazılı kopya]
+[Yazılı kopya] - UNICEF Türkiye Web Sayfası https://www.unicef.org/turkey/
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 

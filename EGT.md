@@ -30,7 +30,7 @@ The training material was prepared by Emrah Kırımsoy, Hakan Acar, Handan Yoku�
 <!--
 [Dokümanı İncele](downloads\EGT\EGT_01.pdf ':ignore')
 -->
-**Materyal Ulaşılabilir Değil
+**Materyal Ulaşılabilir Değil - UNICEF Türkiye Web Sayfası https://www.unicef.org/turkey/
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -127,7 +127,7 @@ Videolar [Dokümanı İncele](downloads\EGT\EGT_04\VİDEOLAR.zip ':ignore')
 
 Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evlendirilen Çocukların Tespiti ve Vaka Yönetimi [Dokümanı İncele](downloads\EGT\EGT_05\Slayt-9-Cocuk-yasta-evlilikler-tespit-ve-vaka-yonetimi.pdf ':ignore')
 -->
-**Materyal Ulaşılabilir Değil
+**Materyal Ulaşılabilir Değil - UNICEF Türkiye Web Sayfası https://www.unicef.org/turkey/
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
@@ -149,7 +149,7 @@ Kız Çocukları İçin Bilgilendirme Semineri [Dokümanı İncele](downloads\EG
 
 Çocuk Yaşta Evliliklerin Önlenmesi: Babalara Yönelik Bilgilendirme Semineri [Dokümanı İncele](downloads\EGT\EGT_06\Baba-Bilgilendirme-Semineri.pdf ':ignore')
 -->
-**Materyal Ulaşılabilir Değil
+**Materyal Ulaşılabilir Değil - UNICEF Türkiye Web Sayfası https://www.unicef.org/turkey/
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
@@ -168,7 +168,8 @@ Kız Çocukları İçin Bilgilendirme Semineri [Dokümanı İncele](downloads\EG
 <!--
 [Dokümanı İncele](downloads\EGT\EGT_07.zip  ':ignore')
 -->
-**Materyal Ulaşılabilir Değil
+**Materyal Ulaşılabilir Değil - UNICEF Türkiye Web Sayfası https://www.unicef.org/turkey/
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -231,7 +232,7 @@ The handbook discusses the concept of child protection during emergencies in thr
 
 ?> *Kuruluş adı: UNICEF; 2015, Türkçe Tema: Çocuk koruma, Acil durum*
 
-[Yazılı kopya]
+[Yazılı kopya] - UNICEF Türkiye Web Sayfası https://www.unicef.org/turkey/
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***

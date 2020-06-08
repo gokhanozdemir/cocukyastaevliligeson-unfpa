@@ -29,8 +29,7 @@ The draft document developed by UNICEF includes methodology for developing a loc
 
 İli Çocuk Yaşta Evliliklerin Önlenmesi Çalışma Planı [Dokümanı İncele](downloads\EYP\EYP_01\SABLON_SON-doc.docx.pdf ':ignore')
 -->
-**Materyal Ulaşılabilir Değil
- [UNICEF Türkiye Web Sayfası](www.unicef.org.tr)
+**Materyal Ulaşılabilir Değil - UNICEF Türkiye Web Sayfası https://www.unicef.org/turkey/
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
