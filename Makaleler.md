@@ -75,7 +75,7 @@ Tema: Çocuk yaşta, erken yaşta evlilik, sağlık*
 <!--
 Dokümanı İncele](downloads\MKL\MKL_01.pdf ':ignore')
 -->
-[Materyal Erişim Linki](http://dergipark.gov.tr/download/article-file/2644)
+[Dokümanı İncele](http://dergipark.gov.tr/download/article-file/2644)
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
@@ -97,6 +97,7 @@ The endless civil war in the Middle East has spilled over into Syria and thousan
 Tema: Çocuk yaşta, erken yaşta evlilik, göç, sosyal politika*
 
 [Dokümanı İncele](downloads\MKL\MKL_02.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -117,6 +118,7 @@ This is the text of a speech given by Sema Aksoy, Esq. during the “Child Bride
 Theme: Child Marriage, law*
 
 [Dokümanı İncele](downloads\MKL\MKL_03.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -162,6 +164,7 @@ Tema: Çocuk yaşta evlilik*
 
 
 [Dokümanı İncele](downloads\MKL\MKL_05.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -207,6 +210,7 @@ Participants are 40 girls who married underage and 30 girls who have no such his
 Tema: Çocuk yaşta evlilik, aile, okul terki*
 
 [Dokümanı İncele](downloads\MKL\MKL_07.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -223,6 +227,7 @@ The article authored by Hatice Kaya, Berfin Zeynep Subaşı, and Doğan Şahin r
 Tema: Çocuk yaşta evlilik, ruh sağlığı*
 
 [Dokümanı İncele](downloads\MKL\MKL_08.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -271,6 +276,7 @@ The age of early marriage among Romanies is 12. Almost half of the marriages are
 Tema: Çocuk yaşta evlilik, erken yaşta evlilik, Romanlar*
 
 [Dokümanı İncele](downloads\MKL\MKL_10.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -291,6 +297,7 @@ In this study it is aimed to understand differences and similarities of child ma
 Tema: Çocuk yaşta evlilik, nitel araştırma*
 
 [Dokümanı İncele](downloads\MKL\MKL_11.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -334,6 +341,7 @@ The article authored by Mehmet Güneş et al. and published in The Journal of Mo
 Tema: Çocuk yaşta evlilik, ruh sağlığı*
 
 [Dokümanı İncele](downloads\MKL\MKL_13.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -372,6 +380,7 @@ it requires a similar approach.
 Tema: Çocuk yaşta evlilik*
 
 [Dokümanı İncele](downloads\MKL\MKL_14.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 <!-- 
@@ -421,6 +430,7 @@ the first place and they may face situations such as being pregnant and having c
 Tema: Çocuk yaşta evlilik*
 
 [Dokümanı İncele](downloads\MKL\MKL_16.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -468,6 +478,7 @@ attempts in some countries.
 Tema: Çocuk yaşta evlilik*
 
 [Dokümanı İncele](downloads\MKL\MKL_17.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -516,6 +527,7 @@ This study is carried on with the objective of determining the opinion of univer
 Tema: Çocuk yaşta evlilik*
 
 [Dokümanı İncele](downloads\MKL\MKL_19.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -535,6 +547,7 @@ This study aims to search the factors that cause getting married at young ages, 
 ?> *Kuruluş adı: Kırıkkale Üniversitesi, Kahramanmaraş Sütçü İmam Üniversitesi; 2008, Türkçe Tema: Erken yaşta evlilik*
 
 [Dokümanı İncele](downloads\MKL\MKL_20.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -552,6 +565,7 @@ The article incorporates a set of recommendations on the legislation and policie
 ?> *Kuruluş adı: Hitit Üniversitesi; Türkçe Tema: Çocuk yaşta evlilik*
 
 [Dokümanı İncele](downloads\MKL\MKL_21.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -581,6 +595,7 @@ In this review, early age marriage and the problem of adolescent pregnancy are i
 ?> *Kuruluş adı: Ege Üniversitesi Hemşirelik Yüksekokulu; 2011, Türkçe Tema: Çocuk yaşta evlilik*
 
 [Dokümanı İncele](downloads\MKL\MKL_22.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -602,6 +617,7 @@ Discussion: Although the sample of our study comprises only cases were referred 
 ?> *Kuruluş adı: Gaziantep Üniversitesi Çocuk Hastanesi, Sakarya Eğitim Araştırma Hastanesi; 2012, Türkçe Tema: Çocuk yaşta evlilik*
 
 [Dokümanı İncele](downloads\MKL\MKL_23.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -622,6 +638,7 @@ difficulties they face, attempt suicide and even can lose their lives. In this s
 ?> *Kuruluş adı: Ondokuz Mayıs Üniversitesi, Ankara Üniversitesi; 2016, Türkçe Tema: Çocuk yaşta evlilik*
 
 [Dokümanı İncele](downloads\MKL\MKL24.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 ## Hekimlerin Erken Yaşta Evliliklere Yönelik Farkındalıkları ve Tutumları
@@ -682,6 +699,7 @@ legal contexts at the point of prevention of early marriages.
 ?> *Kuruluş adı: Nagihan Saday Duman, Emel Sarı Gökten, Hasan Nadir Rana, Klinik Psikiyatri Dergesi; 2017, Türkçe*
 
 [Dokümanı İncele](downloads\addon\MKL_25.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
@@ -1112,6 +1130,7 @@ The material includes a conference text held in 2012 on child marriage. Material
 ?> *Kuruluş adı: İzmir Ekonomi Üniversitesi Yayınları; 2014, Türkçe Tema: Çocuk yaşta, erken evlilik, Hukuk, Çocuk gelin*
 
 [Dokümanı İncele](downloads\addon\Health_Research_Index\MKL_43.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
