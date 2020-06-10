@@ -43,6 +43,7 @@
 - [The Economic Impacts of Child Marriage: Global Synthesis Report - *World Bank, ICRW, CIFF, Bill and Melinda Gates Foundation, Global Partnership for Education*](#the-economic-impacts-of-child-marriage-global-synthesis-report)
 - [Lessons Learned from National Government-led Efforts to Reduce Adolescent Pregnancy in Chile, England and Ethiopia - *UNFPA, WHO, Universities*](#lessons-learned-from-national-government-led-efforts-to-reduce-adolescent-pregnancy-in-chile-england-and-ethiopia)
 - [2017 Annual Report: UNFPA-UNICEF Global Programme to Accelerate Action To End Child Marriage - *UNFPA, UNICEF*](#_2017-annual-report-unfpa-unicef-global-programme-to-accelerate-action-to-end-child-marriage)
+- [2018 Annual Report: UNFPA-UNICEF Global Programme to Accelerate Action To End Child Marriage - *UNFPA, UNICEF*](#_2018-annual-report-unfpa-unicef-global-programme-to-accelerate-action-to-end-child-marriage)
 
 
 
@@ -712,4 +713,21 @@ for the Global Programme initiated by UNICEF and UNFPA. The report begins with h
 [Dokümanı İncele](downloads\addon\RPR_41.pdf ':ignore')
 -->
 **Materyal Ulaşılabilir Değil
+[Materyal Listesine Geri Dön](#materyal-listesi)
+***
+
+## 2018 Annual Report: UNFPA-UNICEF Global Programme to Accelerate Action To End Child Marriage
+*RPR_42*
+
+**ÖZET**  
+Materyal, UNICEF ve UNFPA tarafından çocuk yaşta evliliklerin önlenmesine yönelik olarak başlatılan Küresel Programın 2018 raporudur
+
+**SUMMARY**  
+The material is the 2018 report of the Global Program launched by UNICEF and UNFPA to prevent child marriages
+
+
+?> *Kuruluş adı: UNFPA, UNICEF; 2017, İngilizce Tema: Çocuk yaşta evlilik*
+
+[Dokümanı İncele](downloads\RPR\RPR_42.pdf ':ignore')
+
 [Materyal Listesine Geri Dön](#materyal-listesi)
