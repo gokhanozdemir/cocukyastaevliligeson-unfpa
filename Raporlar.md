@@ -122,10 +122,8 @@ UNICEF'in çocukların durumuna ilişkin 2011 Raporunda çocuk yaşta evlilikler
 The 2011 UNICEF report on the status of children addresses the prevalence of and reasons for child marriage, the applicable legislation, and developments in the area.
 
 ?> *Kuruluş adı: UNICEF; 2011, Türkçe Tema: Çocuk Hakları, Çocuk yaşta evlilik*
-<!--
+
 [Dokümanı İncele](downloads\RPR\RPR_05.pdf ':ignore') 
--->
-**Materyal Ulaşılabilir Değil - UNICEF Türkiye Web Sayfası https://www.unicef.org/turkey/
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***

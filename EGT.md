@@ -136,10 +136,10 @@ Videolar [Dokümanı İncele](downloads\EGT\EGT_04\VİDEOLAR.zip ':ignore')
 *EGT_06 Klasör*  
 
 **ÖZET**  
- Çocuk yaşta evlilik konusunda anne, baba ve 12-18 yaş arası kız çocuklara yönelik bilgilendirme üç farklı semineri sunularını içermektedir.
+ Çocuk yaşta evlilik konusunda anne, baba ve kız çocuklara yönelik bilgilendirme seminerleri içermektedir.
 
  **SUMMARRY**  
- It includes three different seminar presentations for providing information on child marriage to mothers, fathers, and girls aged 12-18.
+ It includes seminars for providing information on child marriage to mothers, fathers, and girls.
 
 ?> *Kuruluş adı: UNICEF; 2017, Türkçe Tema: Çocuk yaşta evlilik, Farkındalık*  
 <!--
@@ -149,7 +149,10 @@ Kız Çocukları İçin Bilgilendirme Semineri [Dokümanı İncele](downloads\EG
 
 Çocuk Yaşta Evliliklerin Önlenmesi: Babalara Yönelik Bilgilendirme Semineri [Dokümanı İncele](downloads\EGT\EGT_06\Baba-Bilgilendirme-Semineri.pdf ':ignore')
 -->
-**Materyal Ulaşılabilir Değil - UNICEF Türkiye Web Sayfası https://www.unicef.org/turkey/
+
+Çocuk Yaşta Evliliklerin Önlenmesi: Anne Baba ve Çocuklar İçin Seminerler [Dokümanı İncele](downloads\EGT\EGT_06\anne_baba_cocuk.pdf ':ignore')
+
+Çocuk Yaşta Evliliklerin Önlenmesi: Toplum Temelli Faaliyetler El Kitabı [Dokümanı İncele](downloads\EGT\EGT_06\toplum_temelli_faaliyetler.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
@@ -165,10 +168,8 @@ Kız Çocukları İçin Bilgilendirme Semineri [Dokümanı İncele](downloads\EG
  It includes information notes, presentations, and other materials for training on working with high-risk groups during disasters and emergencies.
 
 ?> *Kuruluş adı: UNICEF; Türkçe Tema: Çocuk koruma, Acil durum*  
-<!--
+
 [Dokümanı İncele](downloads\EGT\EGT_07.zip  ':ignore')
--->
-**Materyal Ulaşılabilir Değil - UNICEF Türkiye Web Sayfası https://www.unicef.org/turkey/
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***

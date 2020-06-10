@@ -28,26 +28,24 @@
 
 <details>
   <summary>Dökümanları Görüntüle</summary>
-
+<!--
 Hizmet Sağlayıcılar İçin Çocuk Yaşta Evliliklerin Önlenmesi [Dokümanı İncele](downloads\KIT\KIT_01\egitici_el_kitabi_A4_rev.pdf ':ignore')
-
 Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Koruma [Dokümanı İncele](downloads\KIT\KIT_01\Slayt1-Cocuk-Koruma-Temel-Kavramlar.pdf ':ignore')
-
 Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Türkiye'de Çocuk Koruma ile İlgili Yasal ve Kurumsal Çerçeve [Dokümanı İncele](downloads\KIT\KIT_01\Slayt2-Turkiyede-cocuk-korumanin-yasal-ve-kurumsal-cercevesi.pdf ':ignore')
-
 Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evlilikler Temel Kavramlar ve Olgular [Dokümanı İncele](downloads\KIT\KIT_01\Slayt3-Cocuk-yasta-evlilikler-temel-kavram-ve-olgular.pdf ':ignore')
-
 Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evliliklerin Sebep ve Sonuçları [Dokümanı İncele](downloads\KIT\KIT_01\Slayt4-Cocuk-yasta-evlilikler-sebep-ve-sonuclar.pdf ':ignore')
-
 Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Toplumsal Cinsiyet Eşitliği [Dokümanı İncele](downloads\EGT\EGT_05\Slayt-5-Toplumsal-cinsiyet-temel-kavramlar.pdf ':ignore')
-
 Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Toplumsal Cinsiyet ve Şiddet [Dokümanı İncele](downloads\KIT\KIT_01\Slayt6-Toplumsal-cinsiyet-ve-siddet.pdf ':ignore')
-
 Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Türkiye'de Kadına Yönelik Şiddetle Mücadele Mekanizması [Dokümanı İncele](downloads\KIT\KIT_01\Slayt7-Turkiyede-kadina-siddetle-mucadele-mekanizmasi.pdf ':ignore')
-
 Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evlilikler Önleme ve Müdahale Yöntemleri [Dokümanı İncele](downloads\KIT\KIT_01\Slayt8-Cocuk-yasta-evlilikler-onleme-ve-mudahale.pdf ':ignore')
-
 Çocuk Yaşta Evliliklerin Önlenmesi Temel Eğitim Programı: Çocuk Yaşta Evlendirilen Çocukların Tespiti ve Vaka Yönetimi [Dokümanı İncele](downloads\KIT\KIT_01\Slayt9-Cocuk-yasta-evlilikler-tespit-ve-vaka-yonetimi.pdf ':ignore')
+-->
+
+Hizmet Sağlayıcılar İçin Eğitim Programı Katılımcı El Kitabı [Dokümanı İncele](downloads\KIT\KIT_01\Hizmet_saglayicilar_icin_egitim_programi_katilimci_el_kitabi ':ignore')
+
+Hizmet Sağlayıcılar İçin Uygulama Rehberi [Dokümanı İncele](downloads\KIT\KIT_01\Hizmet_saglayicilar_icin_uygulama_rehberi ':ignore')
+
+** Kitte yer alan diğer materyaller kamusal kullanıma açık değildir.
 </details>
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
@@ -87,7 +85,7 @@ The information and training set on child marriage is comprised of 4 booklets, n
 
 ?> *Kuruluş adı: UNICEF; 2017, Türkçe Tema: Çocuk yaşta evlilik*
 
-[Yazılı kopya] - UNICEF Türkiye Web Sayfası https://www.unicef.org/turkey/
+UNICEF Türkiye Web Sayfası https://www.unicef.org/turkey/
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
