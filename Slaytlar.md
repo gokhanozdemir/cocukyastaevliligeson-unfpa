@@ -87,8 +87,12 @@ The document was produced by the MoFSP to raise awareness among staff members of
 
 ?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı, Samsun Valiliği; 2018, Türkçe Tema: Erken yaşta evlilik, Zorla evlilik*  
 
+<!--
 Erken Yaşta ve Zorla Evlilikler [Dokümanı İncele](downloads\SLT\SLT_5\Erken-Evlilik-Sunum2.pdf ':ignore')
 
 Erken Yaşta Evlilikleri Önleme Komitesi Sunumu [Dokümanı İncele](downloads\SLT\SLT_5\Erken-Yasta-Evlilikleri-Onleme-Komitesi-Sunumu-Agustos-2017_hicran.pdf ':ignore')
+-->
+
+**Materyal Ulaşılabilir Değil
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
