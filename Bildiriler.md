@@ -8,7 +8,7 @@
 - [2019 Dünya Nüfus Günü: Haber Bülteni - *Türkiye İstatistik Kurumu*](#_2019-dünya-nüfus-günü-haber-bülteni)
 - [Strengthening Critical Systems to End Child Marriage: UNFPA-UNICEF Global Programme to Accelerate Action to End Child Marriage - *UNFPA-UNICEF*](#strengthening-critical-systems-to-end-child-marriage-unfpa-unicef-global-programme-to-accelerate-action-to-end-child-marriage)
 
-
+asdsa
 
 ## Çocuk Gelin Ayıbı Üzerine Sosyolojik Bir Değerlendirme
 *BLD_01*
