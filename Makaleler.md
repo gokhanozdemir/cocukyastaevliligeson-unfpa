@@ -1376,3 +1376,28 @@ This article interrogates the politics of safety that underpin rehabilitative pr
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_51.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## "“Child marriage” in Context: Exploring Local Attitudes towards Early Marriage in Rural Tanzania"
+*MKL_52*
+
+**ÖZET** 
+
+Yazarların Görüşü: "Bu çalışma, 18 yaşından önce veya hemen sonra evliliğin norm haline geldiği Tanzanya'nın kuzeybatı kesiminde erken evliliğe yönelik tavırlara ilişkin bir keşif çalışması niteliğindedir. Çalışmada, evlilik ile ilgili yerel düzeyde neler düşünüldüğünü araştırmak adına 993 kadının katıldığı bir anket ile desteklenen odak grup tartışmalarından yararlanılmıştır. Çalışma kapsamında (i) insanların neden evlendiği, (ii) evliliğin ne zaman uygun görüldüğü ve (iii) evlilik sürecinde kimin yol gösterici olduğu gibi sorulara yanıt aranmıştır."
+
+***Anahtar kelimeler: Erken Evlilik***
+
+**ABSTRACT** 
+"From the Authors: ""We present an exploratory study of attitudes to early marriage in northwestern Tanzania where marriage before or shortly after 18 years is normative. We use focus group discussions, complimented by a survey of 993 women, to investigate local views on marriage. We explore (i) why people marry, (ii) when marriage is deemed appropriate, and (iii) who guides the marriage process."""
+
+***Key words: Early Marriage***
+
+?> *Kuruluş adı: Sexual and Reproductive Health Matters; 2019, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_52.pdf ':ignore')
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/331122629_Child_marriage_in_context_exploring_local_attitudes_towards_early_marriage_in_rural_Tanzania)
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+
+
