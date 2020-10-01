@@ -1399,5 +1399,26 @@ Yazarların Görüşü: "Bu çalışma, 18 yaşından önce veya hemen sonra evl
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## A Qualitative Study Exploring Child Marriage Practices Among Syrian Conflict-affected Populations in Lebanon
+*MKL_53*
+
+**ÖZET**
+
+Bu çalışmanın amacı, Suriyeli mültecilerinin çoğunluğunun Lübnan'da yerleştiği yer olan Bekaa Vadisi'ndeki Al Marj bölgesinde Suriyeli mülteciler arasında çocuk yaşta evlilik uygulamalarını destekleyen faktörler ile ilgili niteliksel veriler toplamaktır. Çalışmanın bir diğer amacı da, elde edilen bulgular ışığında çocuk yaşta evlilik uygulamalarının nedenlerinin ve sonuçlarının nasıl hafifletileceği ile ilgili tavsiyelerde bulunmaktır.
+
+***Anahtar kelimeler: Çatışma, Yerinden Edilme, Suriyeli Mülteciler, Erken Evlilik, Çocuk Yaşta Evlilik, Lübnan***
+
+**ABSTRACT** 
+This study aims to gather qualitative data about the factors that promote child marriage practices among Syrian refugees in Al Marj area in the Bekaa valley, Lebanon, where the majority of Syrian refugees have settled in Lebanon. The second aim of this study is to generate recommendations on how to mitigate the drivers and consequences of child marriage practices based on the findings.
+
+***Key words: Conflict, Displacement, Syrian Refugees, Early Marriage, Child Marriage, Lebanon***
+
+?> *Kuruluş adı: "American University of Beirut Women’s Refugee Commission"; 2017, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_53.pdf ':ignore')
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/321054946_A_qualitative_study_exploring_child_marriage_practices_among_Syrian_conflict-affected_populations_in_Lebanon)
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
 
 
