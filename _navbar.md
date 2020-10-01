@@ -15,7 +15,7 @@
   * [Kitaplar ve Kitapçıklar](Kitaplar_Kitapciklar.md)
   * [Rehberler](Rehberler.md)
 
-* [Politika Belgeleri](Politika-Ornek_EYP_PLT_STR_YON.md) 
+* [Politika Belgeleri Cansu](Politika-Ornek_EYP_PLT_STR_YON.md) 
   * [Eylem Planları](Eylem-Planlari.md)
   * [Politika Dokümanları](Politika-Dokumanlar.md)
   * [Strateji Dokümanları](Strateji-belgeleri.md)

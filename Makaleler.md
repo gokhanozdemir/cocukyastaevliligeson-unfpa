@@ -52,6 +52,7 @@
 - [Türkiye’den Belçika’ya Damat Göçü ve Psikolojik Etkileri - *Bingöl Üniversitesi Sosyal Bilimler Enstitüsü Dergisi*](#türkiyeden-belçikaya-damat-göçü-ve-psikolojik-etkileri)   
 - [The Reasons for Women’s Labour Force Nonarticipation; Empirical Evidence from Bandirma - *Yönetim ve Ekonomi Araştırmaları Dergisi*](#the-reasons-for-womens-labour-force-non-participation-empirical-evidence-from-bandirma)   
 - [Evli Kadin ve Erkeklerde Psikolojik İyi Oluşun Ebeveyn Tutumuna Etkisinin Incelenmesi - *İstanbul Ticaret Üniversitesi Sosyal Bilimler Dergisi*](#evli-kadin-ve-erkeklerde-psikolojik-İyi-oluşun-ebeveyn-tutumuna-etkisinin-incelenmesi) 
+- [‘Safe Spaces’ and ‘Bad’ girls: ‘child marriage victims’’ experiences from a shelter in Eastern India](#)
 
 
 ## Çocuk Gelinler 
@@ -1353,5 +1354,25 @@ The aim of this study is analysis of any effect of psychological well-being on p
 [Dokümanı İncele](downloads\addon\Health_Research_Index\MKL_51.pdf ':ignore')
 -->
 [Materyal Erişim Linki](https://www.researchgate.net/publication/325194918_EVLI_KADIN_VE_ERKEKLERDE_PSIKOLOJIK_IYI_OLUSUN_EBEVEYN_TUTUMUNA_ETKISININ_INCELENMESI/download)
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## ‘Safe spaces’ and ‘bad’ girls: ‘child marriage victims’’ experiences from a shelter in Eastern India
+*MKL_51*
+
+**ÖZET** 
+
+Bu çalışma, Hindistan'ın doğusunda insan kaçakçılığı ile mücadele eden bir STK'nın işlettiği devlet destekli bir sığınma evindeki rehabilite edici uygulamalara dayanak oluşturan güvenlik politikalarını sorgulamaktadır. Sığınma evinde kalan ve "çocuk yaşta evlilik mağduru" olarak nitelendirilen bir grup ergen kadının deneyimlerinden bahsedilmektedir. Bu çalışmada, Hindistan'da "güvenli alanlar" ile kadın cinselliğini baskılayan zapturapt altına almaya devam eden ataerkil normlara karşı meydan okunması gerektiğinin altı çizilmektedir.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik***
+
+**ABSTRACT**  
+This article interrogates the politics of safety that underpin rehabilitative practices in a state-funded shelter run by an anti-trafficking NGO in Eastern India. It focuses on the experiences of a group of female adolescents, categorised as ‘child marriage victims’, residing at the shelter. The article highlights the need to challenge the ways in which patriarchal norms continue to spatially govern and discipline the expression of female sexuality and agency through ’safe spaces’ in India.
+
+***Key words: Child Marriage***
+
+?> *Kuruluş adı: Anglia Ruskin University; 2019, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_51.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
