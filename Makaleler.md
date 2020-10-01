@@ -1421,4 +1421,50 @@ This study aims to gather qualitative data about the factors that promote child 
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## "Abduction for Forced Marriage – Rights and Remedies in Bangladesh and Pakistan"
+*MKL_54*
+
+**ÖZET**
+
+Zorla evlilik, kadının cinselliğini ve özerkliğini kontrol altına alma aracıdır. Buna cebir, ruhsal istismar ve duygusal şantaj ile yoğun sosyal baskı da dahildir. Uç vakalarda işin içine fiziksel şiddet, kaçırma, kişiyi hürriyetinden yoksun bırakma, tecavüz veya cinsel istismar ve cinayet de girebilmektedir.
+
+***Anahtar kelimeler: Zorla Evlilik***
+
+**ABSTRACT** 
+Forced marriage is a means of controlling female sexuality and women’s autonomy. It involves coercion, mental abuse and emotional blackmail, and intense social pressure. In the most extreme cases, it may also involve physical violence, abduction, false imprisonment, rape or sexual abuse, and murder
+
+***Key words: Forced Marriage***
+
+?> *Kuruluş adı: ". INTERIGHTS British Home Office’s Working Group on Forced Marriage"; 2001, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_54.pdf ':ignore')
+
+[Materyal Erişim Linki](https://www.soas.ac.uk/honourcrimes/resources/file55687.pdf?filename=..)
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Are Female Orphans at Risk for Early Marriage, Early Sexual Debut, and Teen Pregnancy? Evidence from Sub-Saharan Africa
+*MKL_55*
+
+**ÖZET**
+
+Erken evlilik, erken çocuk sahibi olma ve riskli cinsel davranış bakımından yetim kız çocuklarının risk altında olduğu geniş ölçüde kabul görmektedir. Ancak, şu ana kadar birden fazla ülkedeki nüfus verilerinden yararlanarak bu bağlantıları araştıran bir çalışma yapılmamıştır. 15-17 yaş arası kız çocuklar arasında erken evlilik, erkek cinsel ilişki ve genç yaşta hamilelik ile yetimlik arasındaki ilişkiyi incelemek üzere bu çalışmada, on Sahra altı Afrika ülkesinin güncel demografik ve sağlık verilerinden yararlanılmıştır.
+
+***Anahtar kelimeler: Erken Evlilik, Genç Yaşta Hamilelik***
+
+**ABSTRACT** 
+Female orphans are widely cited as being at risk for early marriage, early childbearing, and risky sexual behavior; however, to date no studies have examined these linkages using population-level data across multiple countries. This study draws from recent Demographic and Health Surveys from ten sub-Saharan African countries to examine the relationship between orphanhood status and measures of early marriage, early sexual debut, and teen pregnancy among adolescent girls aged 15 to 17.
+
+***Key words: Early Marriage, Teen Pregnancy***
+
+?> *Kuruluş adı: "Ipas University of North Caroline" ; 2009, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_55.pdf ':ignore')
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/26724739_Are_Female_Orphans_at_Risk_for_Early_Marriage_Early_Sexual_Debut_and_Teen_Pregnancy_Evidence_From_Sub-Saharan_Africa)
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+
+
 
