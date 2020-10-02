@@ -52,7 +52,8 @@
 - [Türkiye’den Belçika’ya Damat Göçü ve Psikolojik Etkileri - *Bingöl Üniversitesi Sosyal Bilimler Enstitüsü Dergisi*](#türkiyeden-belçikaya-damat-göçü-ve-psikolojik-etkileri)   
 - [The Reasons for Women’s Labour Force Nonarticipation; Empirical Evidence from Bandirma - *Yönetim ve Ekonomi Araştırmaları Dergisi*](#the-reasons-for-womens-labour-force-non-participation-empirical-evidence-from-bandirma)   
 - [Evli Kadin ve Erkeklerde Psikolojik İyi Oluşun Ebeveyn Tutumuna Etkisinin Incelenmesi - *İstanbul Ticaret Üniversitesi Sosyal Bilimler Dergisi*](#evli-kadin-ve-erkeklerde-psikolojik-İyi-oluşun-ebeveyn-tutumuna-etkisinin-incelenmesi)
-- [Safe Spaces and 'Bad' girls: 'child marriage victims' experiences from a shelter in Eastern India - *Anglia Ruskin University](#_39safe-spaces39-and-39bad39-girls-39child-marriage-victims39-experiences-from-a-shelter-in-eastern-india)
+- [Safe Spaces and 'Bad' girls: 'child marriage victims' experiences from a shelter in Eastern India - *Anglia Ruskin University*](#_39safe-spaces39-and-39bad39-girls-39child-marriage-victims39-experiences-from-a-shelter-in-eastern-india)
+- [“Child marriage” in Context: Exploring Local Attitudes towards Early Marriage in Rural Tanzania" - *Sexual and Reproductive Health Matters*](#quotchild-marriage-in-context-exploring-local-attitudes-towards-early-marriage-in-rural-tanzaniaquot)
 
 ## Çocuk Gelinler 
 *MKL_01*
