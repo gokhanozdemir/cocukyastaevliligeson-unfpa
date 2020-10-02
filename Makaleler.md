@@ -54,12 +54,9 @@
 - [Evli Kadin ve Erkeklerde Psikolojik İyi Oluşun Ebeveyn Tutumuna Etkisinin Incelenmesi - *İstanbul Ticaret Üniversitesi Sosyal Bilimler Dergisi*](#evli-kadin-ve-erkeklerde-psikolojik-İyi-oluşun-ebeveyn-tutumuna-etkisinin-incelenmesi)
 - [Safe Spaces and 'Bad' girls: 'child marriage victims' experiences from a shelter in Eastern India - *Anglia Ruskin University*](#_39safe-spaces39-and-39bad39-girls-39child-marriage-victims39-experiences-from-a-shelter-in-eastern-india)
 - [“Child marriage” in Context: Exploring Local Attitudes towards Early Marriage in Rural Tanzania" - *Sexual and Reproductive Health Matters*](#quotchild-marriage-in-context-exploring-local-attitudes-towards-early-marriage-in-rural-tanzaniaquot)
-- [A Qualitative Study Exploring Child Marriage Practices Among Syrian Conflict-affected Populations in Lebanon - *American University of Beirut Women’s Refugee Commission*]
-(#a-qualitative-study-exploring-child-marriage-practices-among-syrian-conflict-affected-populations-in-lebanon)
-- ["Abduction for Forced Marriage – Rights and Remedies in Bangladesh and Pakistan" - *INTERIGHTS British Home Office’s Working Group on Forced Marriage*]
-(#quotabduction-for-forced-marriage-rights-and-remedies-in-bangladesh-and-pakistanquot)
-- [Are Female Orphans at Risk for Early Marriage, Early Sexual Debut, and Teen Pregnancy? Evidence from Sub-Saharan Africa - *Ipas University of North Caroline*]
-(#are-female-orphans-at-risk-for-early-marriage-early-sexual-debut-and-teen-pregnancy-evidence-from-sub-saharan-africa)
+- [A Qualitative Study Exploring Child Marriage Practices Among Syrian Conflict-affected Populations in Lebanon - *American University of Beirut Women’s Refugee Commission*](#a-qualitative-study-exploring-child-marriage-practices-among-syrian-conflict-affected-populations-in-lebanon)
+- ["Abduction for Forced Marriage – Rights and Remedies in Bangladesh and Pakistan" - *INTERIGHTS British Home Office’s Working Group on Forced Marriage*](#quotabduction-for-forced-marriage-rights-and-remedies-in-bangladesh-and-pakistanquot)
+- [Are Female Orphans at Risk for Early Marriage, Early Sexual Debut, and Teen Pregnancy? Evidence from Sub-Saharan Africa - *Ipas University of North Caroline*](#are-female-orphans-at-risk-for-early-marriage-early-sexual-debut-and-teen-pregnancy-evidence-from-sub-saharan-africa)
 
 
 ## Çocuk Gelinler 
@@ -1623,3 +1620,47 @@ This article argues that the early and/or forced marriage of girls under 18 shou
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Child Brides, Forced Marriage, and Partner Violence in America
+*MKL_62*
+
+**ÖZET**
+
+Bu çalışmada, Amerika Birleşik Devletleri'ndeki çocuk yaşta evlilik, zorla evlilik ve partner şiddetinin kesişim noktaları incelenmektedir.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Zorla Evlilik, Partner Şiddeti ***
+
+**ABSTRACT**
+This study examines the intersection of child marriage, forced marriage and intimate partner violence in the United States.
+
+***Key words: Child Marriage, Forced Marriage, Partner Violence ***
+
+?> *Kuruluş adı: The American College of Obstetricians and Gynecologists ; 2016, İngilizce*
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_62.pdf ':ignore')
+-->
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/297672944_Child_Brides_Forced_Marriage_and_Partner_Violence_in_America)
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Child marriage and intimate partner violence: a comparative study of 34 countries
+*MKL_63*
+
+**ÖZET**
+
+Bu çalışmada, çocuk yaşta evlenen genç kadınların (20-24 yaş arası), yetişkinlik çağında evlenen kadınlara kıyasla eşleri tarafından fiziksel ve/veya cinsel şiddete maruz kalma riskinin daha fazla olduğu hipotezini sınamak üzere bu çalışmada 34 ülkenin standart demografik ve sağlık verilerinden yararlanılmıştır.
+
+***Anahtar kelimeler: Partner Şiddeti, Çocuk Yaşta Evlilik ***
+
+**ABSTRACT**
+This study uses standardized data from demographic and health surveys in 34 countries to test the hypothesis that young women (age 20–24) who married as children are at increased risk of past year physical and/or sexual IPV as compared with those women who married as adults.
+
+***Key words: Intimate Partner Violence, Child Marriage ***
+
+?> *Kuruluş adı: Health Sciences Center ; 2016, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_63.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
