@@ -1393,8 +1393,6 @@ Yazarların Görüşü: "Bu çalışma, 18 yaşından önce veya hemen sonra evl
 
 ?> *Kuruluş adı: Sexual and Reproductive Health Matters; 2019, İngilizce*
 
-[Dokümanı İncele](downloads\HUNEE\MKL\MKL_52.pdf ':ignore')
-
 [Materyal Erişim Linki](https://www.researchgate.net/publication/331122629_Child_marriage_in_context_exploring_local_attitudes_towards_early_marriage_in_rural_Tanzania)
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
@@ -1414,8 +1412,6 @@ This study aims to gather qualitative data about the factors that promote child 
 ***Key words: Conflict, Displacement, Syrian Refugees, Early Marriage, Child Marriage, Lebanon***
 
 ?> *Kuruluş adı: "American University of Beirut Women’s Refugee Commission"; 2017, İngilizce*
-
-[Dokümanı İncele](downloads\HUNEE\MKL\MKL_53.pdf ':ignore')
 
 [Materyal Erişim Linki](https://www.researchgate.net/publication/321054946_A_qualitative_study_exploring_child_marriage_practices_among_Syrian_conflict-affected_populations_in_Lebanon)
 
@@ -1437,8 +1433,6 @@ Forced marriage is a means of controlling female sexuality and women’s autonom
 
 ?> *Kuruluş adı: ". INTERIGHTS British Home Office’s Working Group on Forced Marriage"; 2001, İngilizce*
 
-[Dokümanı İncele](downloads\HUNEE\MKL\MKL_54.pdf ':ignore')
-
 [Materyal Erişim Linki](https://www.soas.ac.uk/honourcrimes/resources/file55687.pdf?filename=..)
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
@@ -1458,8 +1452,6 @@ Female orphans are widely cited as being at risk for early marriage, early child
 ***Key words: Early Marriage, Teen Pregnancy***
 
 ?> *Kuruluş adı: "Ipas University of North Caroline" ; 2009, İngilizce*
-
-[Dokümanı İncele](downloads\HUNEE\MKL\MKL_55.pdf ':ignore')
 
 [Materyal Erişim Linki](https://www.researchgate.net/publication/26724739_Are_Female_Orphans_at_Risk_for_Early_Marriage_Early_Sexual_Debut_and_Teen_Pregnancy_Evidence_From_Sub-Saharan_Africa)
 
