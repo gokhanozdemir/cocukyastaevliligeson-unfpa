@@ -1588,3 +1588,28 @@ This study examines investments in countries of low income, lower-middle income,
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Child brides or child labor in a worst form?
+*MKL_61*
+
+**ÖZET**
+
+Bu çalışmada, 18 yaş altı kız çocukların erken ve/veya zorla evlendirilmesinin, bir tür sömürücü çocuk işçiliği olarak algılanması gerektiği savunulmaktadır. Çalışmada, çocuk gelinlerin sıklıkla karşılaştığı iş türleri ve koşulları tanımlanırken aynı zamanda bu sorunu ele alma konusunda uluslararası kanunların güçlü ve zayıf noktaları irdelenmektedir. Ayrıca, çocuk gelin sorununun, Uluslararası Çalışma Örgütü (ILO) tarafından çocuk işçiliğinin en kötü biçimlerinden biri olarak tanımlanması gerektiği savunulmaktadır. Son olarak yasal mekanizma olarak ILO'nun 182 sayılı Sözleşmesi (Çocuk İşçiliğinin En Kötü Biçimleri Sözleşmesi olarak da bilinmektedir) tavsiye edilmektedir.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Çocuk İşçiliği ***
+
+**ABSTRACT**
+This article argues that the early and/or forced marriage of girls under 18 should be understood, in part, as an exploitive form of child labor. It describes the types and conditions of labor that are commonly experienced by child brides and it examinse the strengths and weaknesses of current international laws to adequately address the issue. It also argues that the problem of child brides should be addressed by the International Labour Organization (ILO) as one of the worst forms of child labor. Finally, it suggests the ILO Convention No. 182 (known as the Worst Forms of Child Labour Convention) as a legal mechanism.
+
+***Key words: Child Marriage, Child Labor ***
+
+?> *Kuruluş adı: "İzmir University of Economics Loyola Marymount University" ; 2019, İngilizce*
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_61.pdf ':ignore')
+-->
+
+[Materyal Erişim Linki](https://onlinelibrary.wiley.com/doi/abs/10.1111/wusa.12407)
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
