@@ -1684,3 +1684,24 @@ This study aims to determine the associations between child marriage and control
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_64.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Child Marriage and Relationship Quality in Ethiopia
+*MKL_65*
+
+**ÖZET**
+
+Çocuk yaşta evlilik, Afrika'da oldukça yaygın olup kız çocuklarının neredeyse %40'ı, 18 yaşından önce evlenmektedir. Çocuk yaşta evlilik, eş şiddeti de dahil olmak üzere pek çok olumsuz sonuç ile ilişkilendirilse de iletişim düzeyi, güven, eşitlik, yakınlık, çatışma, evlilikten memnuniyet veya mutluluk bakımından bu evliliklerin niteliği ile ilgili çok az şey bilinmektedir. Bu çalışmada, hem niceliksel hem niteliksel verilerden yararlanarak Etiyopya'da ilişkilerin niteliğine dair birden fazla alanı etkileyen ilk evliliğin tam olarak kaç yaşında yapıldığı incelenmektedir. 
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, İlişki Niteliği ***
+
+**ABSTRACT**
+Child marriage is prevalent in Africa, with almost 40% of girls being married before age 18. Although child marriage is linked to a range of adverse outcomes, including intimate partner violence, little is known about the quality of these marriages in terms of the levels of communication, trust, equality, intimacy, conflict, marital satisfaction or happiness. This paper examines how exact age at first marriage influenced multiple domains of relationship quality in Ethiopia using both quantitative and qualitative data. 
+
+***Key words: Child Marriage, Relationship Quality ***
+
+?> *Kuruluş adı: International Center for Research on Women ; 2019, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_65.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
