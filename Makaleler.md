@@ -1393,6 +1393,11 @@ Yazarların Görüşü: "Bu çalışma, 18 yaşından önce veya hemen sonra evl
 
 ?> *Kuruluş adı: Sexual and Reproductive Health Matters; 2019, İngilizce*
 
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_52.pdf ':ignore')
+-->
+
 [Materyal Erişim Linki](https://www.researchgate.net/publication/331122629_Child_marriage_in_context_exploring_local_attitudes_towards_early_marriage_in_rural_Tanzania)
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
@@ -1412,6 +1417,11 @@ This study aims to gather qualitative data about the factors that promote child 
 ***Key words: Conflict, Displacement, Syrian Refugees, Early Marriage, Child Marriage, Lebanon***
 
 ?> *Kuruluş adı: "American University of Beirut Women’s Refugee Commission"; 2017, İngilizce*
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_53.pdf ':ignore')
+-->
 
 [Materyal Erişim Linki](https://www.researchgate.net/publication/321054946_A_qualitative_study_exploring_child_marriage_practices_among_Syrian_conflict-affected_populations_in_Lebanon)
 
@@ -1433,6 +1443,11 @@ Forced marriage is a means of controlling female sexuality and women’s autonom
 
 ?> *Kuruluş adı: ". INTERIGHTS British Home Office’s Working Group on Forced Marriage"; 2001, İngilizce*
 
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_54.pdf ':ignore')
+-->
+
 [Materyal Erişim Linki](https://www.soas.ac.uk/honourcrimes/resources/file55687.pdf?filename=..)
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
@@ -1453,10 +1468,76 @@ Female orphans are widely cited as being at risk for early marriage, early child
 
 ?> *Kuruluş adı: "Ipas University of North Caroline" ; 2009, İngilizce*
 
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_55.pdf ':ignore')
+-->
+
 [Materyal Erişim Linki](https://www.researchgate.net/publication/26724739_Are_Female_Orphans_at_Risk_for_Early_Marriage_Early_Sexual_Debut_and_Teen_Pregnancy_Evidence_From_Sub-Saharan_Africa)
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Association Between Child Marriage and Reproductive Health Outcomes and Service Utilization: A Multi-Country Study From South Asia
+*MKL_56*
 
+**ÖZET**
 
+Çocuk yaşta evliliğin yaygınlığına ve üreme sağlığına yönelik olumsuz sonuçlarına rağmen bu konu ile ilgili çok az ampirik veri bulunmaktadır. Bu durum, gençlere yönelik sağlık programlarının gelişimine yönelik çalışmaları engellemektedir. Bu çalışmanın amacı, dört Güney Asya ülkesindeki (Hindistan, Bangladeş, Nepal ve Pakistan) çocuk yaşta evlilik ile doğurganlık, doğurganlık kontrolü ve anne sağlığı hizmetlerinden yararlanma durumu arasındaki ilişkiyi değerlendirmektir. 
 
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Güney Asya, Doğurganlık, Doğum Kontrol Yöntemlerinden Yararlanma, Anne Sağlığı Hizmetlerine Erişim***
+
+**ABSTRACT** 
+Despite the pervasiveness of child marriage and its potentially adverse consequences on reproductive health outcomes, there is relatively little empirical evidence available on this issue, which has hindered efforts to improve the targeting of adolescent health programs. The purpose of this studywas to assess the association of child marriage with fertility, fertility control, and maternal health care use outcomes in four South Asian countries: India, Bangladesh, Nepal, and Pakistan.
+
+***Key words: Child Marriage, South Asia, Fertility, Contraceptive Use, Maternal Health Care Utilization***
+
+?> *Kuruluş adı: Tulane University School of Public Health and Tropical Medicine; 2013, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_56.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Association between child marriage and utilization of maternal health care services in India: Evidence from a nationally representative cross-sectional survey
+*MKL_57*
+
+**ÖZET**
+
+Bu çalışmanın amacı, Hindistan'ın tüm ülkeyi temsil eder nitelikteki örneklem araştırmasından yararlanarak çocuk yaşta evlilik ile anne sağlığı hizmetlerinden yararlanma durumu arasındaki ilişkiyi incelemektir.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Doğum Öncesi Bakım (DÖB), Doğum Bakımı, Doğum Sonrası Bakım (DSB), Hindistan***
+
+**ABSTRACT** 
+In this study, it is aimed to examine the association between child marriage and utilization of maternal health care services using nationally representative sample survey of India.
+
+***Key words: Child Marriage, Antenatal Care (ANC), Delivery Care, Postnatal Care (PNC), India***
+
+?> *Kuruluş adı: "Jawaharlal Nehru University, University of Gour Banga"; 2019, İngilizce*
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_57.pdf ':ignore')
+-->
+
+[Materyal Erişim Linki](https://www.sciencedirect.com/science/article/abs/pii/S0266613819300907?via%3Dihub)
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Associations Between Early Marriage and Young Women’s Marital and Reproductive Health Outcomes: Evidence from India
+*MKL_58*
+
+**ÖZET**
+
+Bu çalışmanın amacı, Hindistan'da bir vaka çalışması üzerinden erken evlilik ile anne ve üreme sağlığı sorunları arasındaki ilişkiyi ortaya çıkarmaktır. 
+
+***Anahtar kelimeler: Erken Evlilik, Üreme Sağlığı, Anne Sağlığı ***
+
+**ABSTRACT** 
+This paper aims to reveal association between early marriage and marital and reproductive health problems through a case study in India. 
+
+***Key words: Early Marriage, Reproductive Health, Maternal Health ***
+
+?> *Kuruluş adı: "Population Council International Institute for Population Sciences"; 2010, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_58.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
