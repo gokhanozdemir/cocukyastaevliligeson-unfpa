@@ -1664,3 +1664,23 @@ This study uses standardized data from demographic and health surveys in 34 coun
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_63.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Child Marriage and Its Associations With Controlling Behaviors and Spousal Violence Against Adolescent and YoungWomen in Pakistan
+*MKL_64*
+
+**ÖZET**
+
+Bu çalışmanın amacı, Pakistan'da sosyal kırılganlıklara atfedilenlerin ötesinde ergenlere ve genç kadınlara karşı eşlerinin uyguladığı kontrol edici davranışlar ve eş şiddeti ile çocuk yaşta evlilik arasındaki ilişkileri tespit etmektir.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Kadınlar, Şiddet, Eş, Partner, Pakistan ***
+
+**ABSTRACT**
+This study aims to determine the associations between child marriage and controlling behaviors (CB) and spousal violence by husbands against adolescent and young women in Pakistan beyond those attributed to social vulnerabilities.
+
+***Key words: Child Marriage, Women, Violence, Spouse, Partner, Pakistan ***
+
+?> *Kuruluş adı: "Bielefeld University, Emory University, West Virginia University, University of the Punjab" ; 2014, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_64.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
