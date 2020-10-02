@@ -54,6 +54,13 @@
 - [Evli Kadin ve Erkeklerde Psikolojik İyi Oluşun Ebeveyn Tutumuna Etkisinin Incelenmesi - *İstanbul Ticaret Üniversitesi Sosyal Bilimler Dergisi*](#evli-kadin-ve-erkeklerde-psikolojik-İyi-oluşun-ebeveyn-tutumuna-etkisinin-incelenmesi)
 - [Safe Spaces and 'Bad' girls: 'child marriage victims' experiences from a shelter in Eastern India - *Anglia Ruskin University*](#_39safe-spaces39-and-39bad39-girls-39child-marriage-victims39-experiences-from-a-shelter-in-eastern-india)
 - [“Child marriage” in Context: Exploring Local Attitudes towards Early Marriage in Rural Tanzania" - *Sexual and Reproductive Health Matters*](#quotchild-marriage-in-context-exploring-local-attitudes-towards-early-marriage-in-rural-tanzaniaquot)
+- [A Qualitative Study Exploring Child Marriage Practices Among Syrian Conflict-affected Populations in Lebanon - *American University of Beirut Women’s Refugee Commission*]
+(#a-qualitative-study-exploring-child-marriage-practices-among-syrian-conflict-affected-populations-in-lebanon)
+- ["Abduction for Forced Marriage – Rights and Remedies in Bangladesh and Pakistan" - *INTERIGHTS British Home Office’s Working Group on Forced Marriage*]
+(#quotabduction-for-forced-marriage-rights-and-remedies-in-bangladesh-and-pakistanquot)
+- [Are Female Orphans at Risk for Early Marriage, Early Sexual Debut, and Teen Pregnancy? Evidence from Sub-Saharan Africa - *Ipas University of North Caroline*]
+(#are-female-orphans-at-risk-for-early-marriage-early-sexual-debut-and-teen-pregnancy-evidence-from-sub-saharan-africa)
+
 
 ## Çocuk Gelinler 
 *MKL_01*
