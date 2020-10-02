@@ -1543,3 +1543,75 @@ This paper aims to reveal association between early marriage and marital and rep
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_58.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Barriers to Education of Syrian Refugee Girls in Jordan: Gender-Based Threats and Challenges
+*MKL_59*
+
+**ÖZET**
+
+Bu çalışmanın amacı, Suriyeli mülteci kız çocuklarının Ürdün'ün Za'atri Suriyeli Mülteci Kampı'nda yaşadıkları ışığında eğitimin önündeki engellerin ortaya çıkarılması ve tanımlanmasıdır.
+
+***Anahtar kelimeler: Çocuk İşçiliği, Çocuk Yaşta Evlilik, Eğitim,  Suriyeli Mülteci Kız Çocuklar, Ürdün Za'atri Kampı ***
+
+**ABSTRACT** 
+
+The purpose of this study was to uncover and describe the barriers to education as experienced by Syrian refugee girls in the Za’atri Syrian Refugee Camp in Jordan.
+
+***Key words: "Child Labor, Child Marriage, Education, Syrian Refugee Girls, Za’atri Camp Jordan" ***
+
+?> *Kuruluş adı: California State University Northridge ; 2019, İngilizce*
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_59.pdf ':ignore')
+-->
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/332388167_Barriers_to_Education_of_Syrian_Refugee_Girls_in_Jordan_Gender-Based_Threats_and_Challenges)
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Building The Foundations for Sustainable Development: A Case For Global Investment in The Capabilities of Adolescents
+*MKL_60*
+
+**ÖZET**
+
+Bu çalışmada, mevcut bilgiler ışığında yatırımların getirisi ile ilgili tahminlerde bulunmak üzere dünya genelinde gençlerin çoğunun bulunduğu düşük gelirli, orta-düşük gelirli ve üst-orta gelirli ülkelere yapılan yatırımlar incelenmektedir.
+
+***Anahtar kelimeler: Sürdürülebilir Kalkınma, Ergenler ***
+
+**ABSTRACT**
+This study examines investments in countries of low income, lower-middle income, and upper-middle income covering the majority of these adolescents globally to derive estimates of investment returns given existing knowledge.
+
+***Key words: Sustainable Development, Adolescents ***
+
+?> *Yayımlayan :"Peter Sheehan, Kim Sweeny, Bruce Rasmussen, Annababette Wils, Howard S Friedman, Jacqueline Mahon, George C Patton, Susan M Sawyer, Eric Howard, John Symons, Karin Stenberg, Satvika Chalasani, Neelam Maharaj, Nicola Reavley, Hui Shi, Masha Fridman, Alison Welsh, Emeka Nsofor, Laura Laski" ; 2017, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_60.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Child brides or child labor in a worst form?
+*MKL_61*
+
+**ÖZET**
+
+Bu çalışmada, 18 yaş altı kız çocukların erken ve/veya zorla evlendirilmesinin, bir tür sömürücü çocuk işçiliği olarak algılanması gerektiği savunulmaktadır. Çalışmada, çocuk gelinlerin sıklıkla karşılaştığı iş türleri ve koşulları tanımlanırken aynı zamanda bu sorunu ele alma konusunda uluslararası kanunların güçlü ve zayıf noktaları irdelenmektedir. Ayrıca, çocuk gelin sorununun, Uluslararası Çalışma Örgütü (ILO) tarafından çocuk işçiliğinin en kötü biçimlerinden biri olarak tanımlanması gerektiği savunulmaktadır. Son olarak yasal mekanizma olarak ILO'nun 182 sayılı Sözleşmesi (Çocuk İşçiliğinin En Kötü Biçimleri Sözleşmesi olarak da bilinmektedir) tavsiye edilmektedir.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Çocuk İşçiliği ***
+
+**ABSTRACT**
+This article argues that the early and/or forced marriage of girls under 18 should be understood, in part, as an exploitive form of child labor. It describes the types and conditions of labor that are commonly experienced by child brides and it examinse the strengths and weaknesses of current international laws to adequately address the issue. It also argues that the problem of child brides should be addressed by the International Labour Organization (ILO) as one of the worst forms of child labor. Finally, it suggests the ILO Convention No. 182 (known as the Worst Forms of Child Labour Convention) as a legal mechanism.
+
+***Key words: Child Marriage, Child Labor ***
+
+?> *Kuruluş adı: "İzmir University of Economics Loyola Marymount University" ; 2019, İngilizce*
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_61.pdf ':ignore')
+-->
+
+[Materyal Erişim Linki](https://onlinelibrary.wiley.com/doi/abs/10.1111/wusa.12407)
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
