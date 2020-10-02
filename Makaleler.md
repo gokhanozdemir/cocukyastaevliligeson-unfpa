@@ -28,7 +28,7 @@
 - [Hekimlerin Erken Yaşta Evliliklere Yönelik Farkındalıkları ve Tutumları - *Klinik Psikiyatri Dergisi*](#hekimlerin-erken-yaşta-evliliklere-yönelik-farkındalıkları-ve-tutumları)   
 - [Önemli Bir Kız Çocuk ve Kadın Sorunu: Çocuk Evlilikler - *Türk Pediatri Arşivi Dergisi*](#Önemli-bir-kız-Çocuk-ve-kadın-sorunu-Çocuk-evlilikler)  
 - [Üniversite Öğrencilerinin Erken Yaş Evlilikler Hakkında Bilgi ve Görüşlerinin İncelenmesi - *Sürekli Tıp Eğitimi Dergisi*](#Üniversite-Öğrencilerinin-erken-yaş-evlilikler-hakkında-bilgi-ve-görüşlerinin-İncelenmesi)
-- [Değişen Aile Dinamikleri Açisindan Erken Yaşta Evlilikler Sorunu ve Toplumsal Önemi - *Süleyman Demirel Üniv[Materyal Listesine Geri Dön](#materyal-listesi)ersitesi İktisadi ve İdari Bilimler Fakültesi Dergisi*](#değişen-aile-dinamikleri-açisindan-erken-yaşta-evlilikler-sorunu-ve-toplumsal-Önemi)  
+- [Değişen Aile Dinamikleri Açisindan Erken Yaşta Evlilikler Sorunu ve Toplumsal Önemi - *Süleyman Demirel Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi*](#değişen-aile-dinamikleri-açisindan-erken-yaşta-evlilikler-sorunu-ve-toplumsal-Önemi)  
 - [War Hits the Women: Marriage as Syrian Women’s Coping Mechanism and Its Impact On Turkish Women - *Turkish Studies*](#war-hits-the-women-marriage-as-syrian-womens-coping-mechanism-and-its-impact-on-turkish-women)  
 - [Hemşirelik Öğrencilerinin Erken Evlilik ve Çocuk Gelinler Hakkındaki Görüşlerinin Belirlenmesi - *Clinical and Experimental Health Sciences*](#hemşirelik-Öğrencilerinin-erken-evlilik-ve-Çocuk-gelinler-hakkındaki-görüşlerinin-belirlenmesi)
 - [Kadına Yönelik Şiddet ve Yaşam Kalitesi - *Anadolu Psikiyatri Dergisi*](#kadına-yönelik-Şiddet-ve-yaşam-kalitesi)
@@ -51,9 +51,8 @@
 - [Evlilik Göçüyle Türkiye'den Belçika'ya Gelen Gelinler ve Boşanma Sorunu - *Haceteppe Üniversitesi Türkiyat Araştırmaları Enstitüsü*](#evlilik-göçüyle-türkiye39den-belçika39ya-gelen-gelinler-ve-boşanma-sorunu)  
 - [Türkiye’den Belçika’ya Damat Göçü ve Psikolojik Etkileri - *Bingöl Üniversitesi Sosyal Bilimler Enstitüsü Dergisi*](#türkiyeden-belçikaya-damat-göçü-ve-psikolojik-etkileri)   
 - [The Reasons for Women’s Labour Force Nonarticipation; Empirical Evidence from Bandirma - *Yönetim ve Ekonomi Araştırmaları Dergisi*](#the-reasons-for-womens-labour-force-non-participation-empirical-evidence-from-bandirma)   
-- [Evli Kadin ve Erkeklerde Psikolojik İyi Oluşun Ebeveyn Tutumuna Etkisinin Incelenmesi - *İstanbul Ticaret Üniversitesi Sosyal Bilimler Dergisi*](#evli-kadin-ve-erkeklerde-psikolojik-İyi-oluşun-ebeveyn-tutumuna-etkisinin-incelenmesi) 
-- [‘Safe Spaces’ and ‘Bad’ girls: ‘child marriage victims’’ experiences from a shelter in Eastern India](#)
-
+- [Evli Kadin ve Erkeklerde Psikolojik İyi Oluşun Ebeveyn Tutumuna Etkisinin Incelenmesi - *İstanbul Ticaret Üniversitesi Sosyal Bilimler Dergisi*](#evli-kadin-ve-erkeklerde-psikolojik-İyi-oluşun-ebeveyn-tutumuna-etkisinin-incelenmesi)
+- [Safe Spaces and 'Bad' girls: 'child marriage victims' experiences from a shelter in Eastern India - *Anglia Ruskin University](#_39safe-spaces39-and-39bad39-girls-39child-marriage-victims39-experiences-from-a-shelter-in-eastern-india)
 
 ## Çocuk Gelinler 
 *MKL_01*
@@ -285,7 +284,7 @@ Tema: Çocuk yaşta evlilik, erken yaşta evlilik, Romanlar*
 *MKL_11*
 
 **ÖZET**  
-Bu araştırmada çocuk yaşlarda evlenen kadınların erken evlilik öncesi yaşamsal deneyimlerinden hareketle çocuk evliliklerin (erken evlilikler) kuruluş biçimleri açısından farklılıkları ve benzerlikleri anlaşılmaya çalışılmaktadır. Erken evlenen kadınlar ve kararalıcılar (babalar) ile yüz yüze derinlemesine yarı yapılandırılmış görüşmeler gerçekleştirilerek erken evlilik öncesi karar verme aşamasındaki gömülü bilgiler keşfedilmeye çalışılmıştır. Bu nedenle araştırma nitel desende oluşturulmuş ve yürütülmüştür. Araştırmada, çocuk evliliklere nasıl karar verildiğine yönelik farklılıkları ve benzerlikleri ortaya koyan yeni bir sınıflandırma keşfedilmiştir. Bu sınıflandırma; ‘İsteğe Bağlı Olmayan Erken Evlilikler’ ve ‘İsteğe Bağlı Olan Erken Evlilikler’ olmak üzere iki ana başlık altında toplanmıştır. İsteğe bağlı olan erken evlilikler, genellikle erken evlenen kadınların isteğidoğrultusunda gerçekleşen evliliklerdir. Bu gruptaki kadınların erken evlilikleri bir kurtuluş ya da kaçış olarak gördükleri anlaşılmıştır. Araştırmada isteğe bağlı olmayan erken evlilikler ise kadınların isteği dışında baba ya da ailenin diğer üyelerinin etkisiyle zorla ya da ikna yolu ile kurulan evlilikler olarak kavramlaştırılmıştır. Araştırmada erken evliliklerin kuruluş biçimlerinin birbirinden farklı olduğu sonucuna ulaşılmıştır. Dolayısıyla erken evlilikler ile mücadelede erken evlilik türlerine özgü farklı müdahale yöntemlerinin geliştirilmesinin gerekliliği keşfedilmiştir.
+Bu araştırmada çocuk yaşlarda evlenen kadınların erken evlilik öncesi yaşamsal deneyimlerinden hareketle çocuk evliliklerin (erken evlilikler) kuruluş biçimleri açısından farklılıkları ve benzerlikleri anlaşılmaya çalışılmaktadır. Erken evlenen kadınlar ve kararalıcılar (babalar) ile yüz yüze derinlemesine yarı yapılandırılmış görüşmeler gerçekleştirilerek erken evlilik öncesi karar verme aşamasındaki gömülü bilgiler keşfedilmeye çalışılmıştır. Bu nedenle araştırma nitel desende oluşturulmuş ve yürütülmüştür. Araştırmada, çocuk evliliklere nasıl karar verildiğine yönelik farklılıkları ve benzerlikleri ortaya koyan yeni bir sınıflandırma keşfedilmiştir. Bu sınıflandırma; 'İsteğe Bağlı Olmayan Erken Evlilikler’ ve 'İsteğe Bağlı Olan Erken Evlilikler’ olmak üzere iki ana başlık altında toplanmıştır. İsteğe bağlı olan erken evlilikler, genellikle erken evlenen kadınların isteğidoğrultusunda gerçekleşen evliliklerdir. Bu gruptaki kadınların erken evlilikleri bir kurtuluş ya da kaçış olarak gördükleri anlaşılmıştır. Araştırmada isteğe bağlı olmayan erken evlilikler ise kadınların isteği dışında baba ya da ailenin diğer üyelerinin etkisiyle zorla ya da ikna yolu ile kurulan evlilikler olarak kavramlaştırılmıştır. Araştırmada erken evliliklerin kuruluş biçimlerinin birbirinden farklı olduğu sonucuna ulaşılmıştır. Dolayısıyla erken evlilikler ile mücadelede erken evlilik türlerine özgü farklı müdahale yöntemlerinin geliştirilmesinin gerekliliği keşfedilmiştir.
 
 ***Anahtar kelimeler: Erken evlilikler, İsteğe bağlı erken evlilikler, İsteğe bağlı olmayan erken evlilikler***
 
@@ -350,7 +349,7 @@ Tema: Çocuk yaşta evlilik, ruh sağlığı*
 *MKL_14*
 
 **ÖZET**  
-On sekiz yaşın altında evlendirilen kız çocuklarına ‘çocuk gelin’ denilmektedir. ‘Çocuk
+On sekiz yaşın altında evlendirilen kız çocuklarına 'çocuk gelin’ denilmektedir. 'Çocuk
 gelinler’ sorunu gelişmemiş ve gelişmekte olan birçok ülkenin olduğu gibi Türkiye’nin de önemli bir sorunudur. Bu çalışma kız çocukların erken yaşta evlendirilmesinin Türkiye’deki
 yaygınlığı, sakıncaları, nedenlerinin araştırılması ve çözüm önerilerinin sunulması amacıyla hazırlanmıştır. Alanyazın incelemesi sonucu kız çocuk evliliklerinin Türkiye’de oldukça
 yaygın bir uygulama olduğu görülmüştür. Ayrıca kız çocuklarının erken yaşta
@@ -363,16 +362,16 @@ olduğu ve çözümünün de çok boyutlu bir çaba gerektirdiği öne sürülm�
 ***Anahtar kelimeler: Çocuk evlilikleri, Çocuk gelinler, Türkiye’de çocuk gelinler***
 
 **ABSTRACT**  
-‘Child Brides’ are described as girls who are forced to get married before
+'Child Brides’ are described as girls who are forced to get married before
 they are 18 year old. The issue of child brides is a concern for undeveloped and
 developing countries as well as Turkey. This work aims to explore the prevalence,
-problems and causes related to the problem of ‘child brides’ as well as offering
-solutions for this problem. The literature shows that ‘child bride’ is quite widespread
+problems and causes related to the problem of 'child brides’ as well as offering
+solutions for this problem. The literature shows that 'child bride’ is quite widespread
 practice in Turkey. Moreover, forced marriage at an early age is problematic in
 many ways. In addition, there are some factors which contribute the problem
 including legal gaps, education level of the family and the daughter, economical
 conditions, stereotypes, traditional practices and sexism level. Finally, it is suggested
-that the reasons for the problem of ‘child brides’ are multi-dimensional and therefore
+that the reasons for the problem of 'child brides’ are multi-dimensional and therefore
 it requires a similar approach.
 
 ***Key words: Child marriages, Child brides, Child brides in Turkey***
@@ -487,7 +486,7 @@ Tema: Çocuk yaşta evlilik*
 *MKL_17*
 
 **ÖZET**  
-Bu çalışmanın kavramsal çerçevesini, ulusal ve uluslararası mevzuatta yer alan ‘çocuk gelin’ olgusu oluşturmaktadır. Modern toplumlarda, on sekiz yaşın altında yapılan her evliliğe ‘çocuk evliliği’, bu evliliğe mecbur bırakılan kız çocuklarına da ‘çocuk gelin’ denilmektedir. Ulusal ve uluslararası yasal düzenlemelere göre erken evlilikler, temel bir insan hakkı ihlali ve kız çocuklarına yönelik bir şiddet eylemi olarak kabul edilmektedir. Buna karşın, evlilik yaşına gelmemiş bir çocuğun hukuki olarak olmasa da, sosyolojik anlamda evlendirilmesi tüm dünyada görülen bir durumdur. Türkiye’de, toplumsal bir sorun olarak varlığını sürdüren çocuk gelin sorununa ilişkin, özellikle 2010 yılı ve sonrasında toplumsal bir farkındalık yaşandığı görülmektedir. Çalışmada, geniş kitlelere ulaşabilen bir kitle iletişim aracı olarak sinemanın, bu toplumsal bilinçlenmedeki rolü araştırılmaktadır. 2010 sonrasında gösterime giren Lal Gece, Halam Geldi, Yarım and Tereddüt ve Tereddüt filmleri olay örgüsü, konuyu ele alış şekli ve temsil düzeyi açısından niteliksel içerik analizi yöntemiyle incelenmekte; bu filmler çerçevesinde sinemanın, sorunun çözümüne katkı sunup sunmadığı araştırılmaktadır.
+Bu çalışmanın kavramsal çerçevesini, ulusal ve uluslararası mevzuatta yer alan 'çocuk gelin’ olgusu oluşturmaktadır. Modern toplumlarda, on sekiz yaşın altında yapılan her evliliğe 'çocuk evliliği’, bu evliliğe mecbur bırakılan kız çocuklarına da 'çocuk gelin’ denilmektedir. Ulusal ve uluslararası yasal düzenlemelere göre erken evlilikler, temel bir insan hakkı ihlali ve kız çocuklarına yönelik bir şiddet eylemi olarak kabul edilmektedir. Buna karşın, evlilik yaşına gelmemiş bir çocuğun hukuki olarak olmasa da, sosyolojik anlamda evlendirilmesi tüm dünyada görülen bir durumdur. Türkiye’de, toplumsal bir sorun olarak varlığını sürdüren çocuk gelin sorununa ilişkin, özellikle 2010 yılı ve sonrasında toplumsal bir farkındalık yaşandığı görülmektedir. Çalışmada, geniş kitlelere ulaşabilen bir kitle iletişim aracı olarak sinemanın, bu toplumsal bilinçlenmedeki rolü araştırılmaktadır. 2010 sonrasında gösterime giren Lal Gece, Halam Geldi, Yarım and Tereddüt ve Tereddüt filmleri olay örgüsü, konuyu ele alış şekli ve temsil düzeyi açısından niteliksel içerik analizi yöntemiyle incelenmekte; bu filmler çerçevesinde sinemanın, sorunun çözümüne katkı sunup sunmadığı araştırılmaktadır.
 
 ***Anahtar kelimeler: Erken evlilik, Çocuk gelin, Ulusal mevzuat, Uluslararası mevzuat, Sinema***
 
@@ -846,7 +845,7 @@ Objective: The aim of this study is to determine the prevalence, risk factors of
 *MKL_31*
 
 **ÖZET**  
-‘Çocuk’ ve ‘Çocuk Evliliği’ ve/ve ya ‘Çocuk Yaşta Yapılan Evlilikler’ kavramlarının tanımları farklılık gösterse de küresel ölçekte, 18 yaş altı “çocuk” ve 18 yaşından önce yapılan evlilikler de ‘Çocuk Yaşta Yapılan Evlilikler’ olarak kabul edilmektedir. Çocuk yaşta yapılan evlilikler çocukları sosyal-arkadaş ortamlarından uzaklaştırmakta, baskı ve şiddet görmeye yatkın olan bu evlilikler sonucunda çocukların toplum içinde söz hakkı olmamakta, özgüven eksikliği yaşamakta ve aynı yaşta evli olmayan akranlarına kıyasla intihar etme durumları daha sık yaşanmaktadır. Fiziksel ve psikolojik gelişimini tamamlamadan evlendirilen çocuklar ile bu evlilikler sonucu dünyaya gelen çocuklarda ciddi sorunlar meydana gelmektedir. Ayrıca bu tür ailelerden doğan çocuklarda, gelecekte benzer evlilik ve sorunların yaşanması riski oluşmaktadır. Çocuk yaşta yapılan evlilikler ve bu evliliklerden doğabilecek sorunların aile yapısı, çocuk ve toplum sağlığına etkileri konusunda özellikle çocuk yaşta yapılan evliliklerin yaygın olduğu bölgeler başta olmak üzere toplumun tüm kesiminin bilgilendirilmesi ve toplumun farkındalığının artırılması gerekmektedir. 
+'Çocuk’ ve 'Çocuk Evliliği’ ve/ve ya 'Çocuk Yaşta Yapılan Evlilikler’ kavramlarının tanımları farklılık gösterse de küresel ölçekte, 18 yaş altı “çocuk” ve 18 yaşından önce yapılan evlilikler de 'Çocuk Yaşta Yapılan Evlilikler’ olarak kabul edilmektedir. Çocuk yaşta yapılan evlilikler çocukları sosyal-arkadaş ortamlarından uzaklaştırmakta, baskı ve şiddet görmeye yatkın olan bu evlilikler sonucunda çocukların toplum içinde söz hakkı olmamakta, özgüven eksikliği yaşamakta ve aynı yaşta evli olmayan akranlarına kıyasla intihar etme durumları daha sık yaşanmaktadır. Fiziksel ve psikolojik gelişimini tamamlamadan evlendirilen çocuklar ile bu evlilikler sonucu dünyaya gelen çocuklarda ciddi sorunlar meydana gelmektedir. Ayrıca bu tür ailelerden doğan çocuklarda, gelecekte benzer evlilik ve sorunların yaşanması riski oluşmaktadır. Çocuk yaşta yapılan evlilikler ve bu evliliklerden doğabilecek sorunların aile yapısı, çocuk ve toplum sağlığına etkileri konusunda özellikle çocuk yaşta yapılan evliliklerin yaygın olduğu bölgeler başta olmak üzere toplumun tüm kesiminin bilgilendirilmesi ve toplumun farkındalığının artırılması gerekmektedir. 
 
 ***Anahtar kelimeler: Çocuk, Çocuk evlilikleri, Erken evlilik, Hemşirelik***
 
@@ -1357,7 +1356,7 @@ The aim of this study is analysis of any effect of psychological well-being on p
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
-## ‘Safe spaces’ and ‘bad’ girls: ‘child marriage victims’’ experiences from a shelter in Eastern India
+## 'Safe spaces' and 'bad' girls: 'child marriage victims' experiences from a shelter in Eastern India
 *MKL_51*
 
 **ÖZET** 
@@ -1367,13 +1366,16 @@ Bu çalışma, Hindistan'ın doğusunda insan kaçakçılığı ile mücadele ed
 ***Anahtar kelimeler: Çocuk Yaşta Evlilik***
 
 **ABSTRACT**  
-This article interrogates the politics of safety that underpin rehabilitative practices in a state-funded shelter run by an anti-trafficking NGO in Eastern India. It focuses on the experiences of a group of female adolescents, categorised as ‘child marriage victims’, residing at the shelter. The article highlights the need to challenge the ways in which patriarchal norms continue to spatially govern and discipline the expression of female sexuality and agency through ’safe spaces’ in India.
+This article interrogates the politics of safety that underpin rehabilitative practices in a state-funded shelter run by an anti-trafficking NGO in Eastern India. It focuses on the experiences of a group of female adolescents, categorised as 'child marriage victims’, residing at the shelter. The article highlights the need to challenge the ways in which patriarchal norms continue to spatially govern and discipline the expression of female sexuality and agency through ’safe spaces’ in India.
 
 ***Key words: Child Marriage***
 
 ?> *Kuruluş adı: Anglia Ruskin University; 2019, İngilizce*
 
+<!--
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_51.pdf ':ignore')
+-->
+[Materyal Erişim Linki](https://www.researchgate.net/publication/332456763_'Safe_spaces'_and_'bad'_girls_'child_marriage_victims''_experiences_from_a_shelter_in_Eastern_India)
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
