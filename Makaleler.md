@@ -1705,3 +1705,43 @@ Child marriage is prevalent in Africa, with almost 40% of girls being married be
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Child Marriage as Constitutional Violation
+*MKL_66*
+
+**ÖZET**
+
+Bu çalışmada aydınlatılmış onam verme ehliyeti olmayan çocukların, anayasal haklarının korunması adına kesinlikle evlenmelerine izin verilmemesi gerektiği savunulmaktadır. Yaşı biraz daha büyük çocuklar, evlilik konusunda bilinçli bir seçim yapabilecek olgunluğa sahip olsa da bu çalışmada, devletlerin on sekiz yaş üstü kişiler ile evliliğe kısıtlama getirebileceği dile getirilmektedir.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Aydınlatılmış Onam ***
+
+**ABSTRACT**
+This Article argues that in order to protect their constitutional rights, childrens who are incapable of giving informed consent should never be allowed to marry. While some older minors may be mature enough to make an informed choice about marriage, the Article concludes that states may restrict marriage to those over eighteen years of age.
+
+***Key words: "Child Marriage, Informed Consent" ***
+
+?> *Kuruluş adı: Nevada Law Journal ; 2018, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_66.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Child Marriage in Bangladesh: Trends and Determinants
+*MKL_67*
+
+**ÖZET**
+
+Bu çalışmada, Bangladeş'te 20-49 yaş arası kadınlar arasında çocuk yaşta evliliğe ilişkin eğilimler ve belirleyici unsurlar incelenmektedir.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik ***
+
+**ABSTRACT**
+This study examines the trends and determinants of child marriage among women aged 20–49 in Bangladesh.
+
+***Key words: Child Marriage ***
+
+?> *Kuruluş adı: University of Malaya, Islamic University ; 2014, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_67.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
