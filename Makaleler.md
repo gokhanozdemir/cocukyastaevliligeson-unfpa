@@ -1745,3 +1745,23 @@ This study examines the trends and determinants of child marriage among women ag
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Child Marriage or Forced Marriage? South Asian Communities in North East England
+*MKL_68*
+
+**ÖZET**
+Bu çalışmada, Kuzey Doğu İngiltere'de yaşayan Güney Asyalı topluluklar ile ilgili bir araştırmadan yararlanarak Birleşik Krallık'taki çocuk yaşta evlilik ve zorla evlilik arasındaki ilişkiler ele alınmaktadır. Ayrıca, Birleşik Krallık ve Güney Asya ülkelerinin politikaları analiz edilerek tanımsal konulara değinilmektedir. Bunun dışında bu kavramların hizmet sağlayıcıları, erken yaşta evlilik mağdurları ve Güney Asya topluluklarına mensup gençler tarafından nasıl algılandığı analiz edilmektedir. Son olarak, ideal evlilik pratiklerine yansımış toplumsal cinsiyet, yaş, aile ve topluluk denetimi gibi kavramlar el alınmaktadır.  
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Zorla Evlilik ***
+
+**ABSTRACT**
+This article addresses the links between child marriage and forced marriage in the UK, drawing from a research study on South Asian communities in North East England. It looks at definitional issues through an analysis of UK and South Asian policies. It also analyses how these concepts are understood by service providers, survivors of child marriage and young people from South Asian communities. Finally, concepts such as gender, age, familial and community control reflected in normative marriage practices are addressed.
+
+***Key words: Child Marriage, Forced Marriage ***
+
+?> *Kuruluş adı: "University of Bristol University of Edinburgh" ; 2009, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_68.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+
