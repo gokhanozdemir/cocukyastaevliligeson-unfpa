@@ -57,6 +57,15 @@
 - [A Qualitative Study Exploring Child Marriage Practices Among Syrian Conflict-affected Populations in Lebanon - *American University of Beirut Women’s Refugee Commission*](#a-qualitative-study-exploring-child-marriage-practices-among-syrian-conflict-affected-populations-in-lebanon)
 - ["Abduction for Forced Marriage – Rights and Remedies in Bangladesh and Pakistan" - *INTERIGHTS British Home Office’s Working Group on Forced Marriage*](#quotabduction-for-forced-marriage-rights-and-remedies-in-bangladesh-and-pakistanquot)
 - [Are Female Orphans at Risk for Early Marriage, Early Sexual Debut, and Teen Pregnancy? Evidence from Sub-Saharan Africa - *Ipas University of North Caroline*](#are-female-orphans-at-risk-for-early-marriage-early-sexual-debut-and-teen-pregnancy-evidence-from-sub-saharan-africa)
+- [Association Between Child Marriage and Reproductive Health Outcomes and Service Utilization: A Multi-Country Study From South Asia - *Tulane University School of Public Health and Tropical Medicine*](#association-between-child-marriage-and-reproductive-health-outcomes-and-service-utilization-a-multi-country-study-from-south-asia)
+- [Association Between Child Marriage and Utilization of Maternal Health Care Services in India: Evidence from a nationally representative cross-sectional survey - *Jawaharlal Nehru University, University of Gour Banga*](#association-between-child-marriage-and-reproductive-health-outcomes-and-service-utilization-a-multi-country-study-from-south-asia)
+- [Associations Between Early Marriage and Young Women’s Marital and Reproductive Health Outcomes: Evidence from India- *Population Council International Institute for Population Sciences*](#associations-between-early-marriage-and-young-womens-marital-and-reproductive-health-outcomes-evidence-from-india)
+- [Barriers to Education of Syrian Refugee Girls in Jordan: Gender-Based Threats and Challenges - *California State University Northridge*](#barriers-to-education-of-syrian-refugee-girls-in-jordan-gender-based-threats-and-challenges)
+- [Building The Foundations for Sustainable Development: A Case For Global Investment in The Capabilities of Adolescents - *Peter Sheehan, Kim Sweeny, Bruce Rasmussen, Annababette Wils, Howard S Friedman, Jacqueline Mahon, George C Patton, Susan M Sawyer, Eric Howard, John Symons, Karin Stenberg, Satvika Chalasani, Neelam Maharaj, Nicola Reavley, Hui Shi, Masha Fridman, Alison Welsh, Emeka Nsofor, Laura Laski*](#building-the-foundations-for-sustainable-development-a-case-for-global-investment-in-the-capabilities-of-adolescents)
+
+
+
+
 
 
 ## Çocuk Gelinler 
