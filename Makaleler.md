@@ -1366,6 +1366,7 @@ Bu çalışmada, psikolojik iyi oluşun ebeveyn tutumuna etkisini incelemek ama�
 ***Anahtar kelimeler: Psikolojik iyi oluş, Ebeveyn tutumu, Çocuk gelişimi***
 
 **ABSTRACT**  
+
 The aim of this study is analysis of any effect of psychological well-being on parenting styles. Research was designed as relational screening model from quantitative methods. In this research, 288 married women and 47 married men have children who are ages from 2-6 were taken as a sample. In data acquisition, Parents Attitude Scale (PAS) was developed by Demir and Şendil in 2008 and Psychological Well-Being Scale for Married Women and Men were developed by Özmete in 2016 were used. In results, rise one unit of psychological well-being increases democratic parenting styles and permissive parenting styles, although it decreases authoritative parenting style. 
 
 ***Key words: Psychological Well-Being, Parenting Styles, Child Development***
@@ -1389,6 +1390,7 @@ Bu çalışma, Hindistan'ın doğusunda insan kaçakçılığı ile mücadele ed
 ***Anahtar kelimeler: Çocuk Yaşta Evlilik***
 
 **ABSTRACT**  
+
 This article interrogates the politics of safety that underpin rehabilitative practices in a state-funded shelter run by an anti-trafficking NGO in Eastern India. It focuses on the experiences of a group of female adolescents, categorised as 'child marriage victims’, residing at the shelter. The article highlights the need to challenge the ways in which patriarchal norms continue to spatially govern and discipline the expression of female sexuality and agency through ’safe spaces’ in India.
 
 ***Key words: Child Marriage***
@@ -1412,6 +1414,7 @@ Yazarların Görüşü: "Bu çalışma, 18 yaşından önce veya hemen sonra evl
 ***Anahtar kelimeler: Erken Evlilik***
 
 **ABSTRACT** 
+
 "From the Authors: ""We present an exploratory study of attitudes to early marriage in northwestern Tanzania where marriage before or shortly after 18 years is normative. We use focus group discussions, complimented by a survey of 993 women, to investigate local views on marriage. We explore (i) why people marry, (ii) when marriage is deemed appropriate, and (iii) who guides the marriage process."""
 
 ***Key words: Early Marriage***
@@ -1437,6 +1440,7 @@ Bu çalışmanın amacı, Suriyeli mültecilerinin çoğunluğunun Lübnan'da ye
 ***Anahtar kelimeler: Çatışma, Yerinden Edilme, Suriyeli Mülteciler, Erken Evlilik, Çocuk Yaşta Evlilik, Lübnan***
 
 **ABSTRACT** 
+
 This study aims to gather qualitative data about the factors that promote child marriage practices among Syrian refugees in Al Marj area in the Bekaa valley, Lebanon, where the majority of Syrian refugees have settled in Lebanon. The second aim of this study is to generate recommendations on how to mitigate the drivers and consequences of child marriage practices based on the findings.
 
 ***Key words: Conflict, Displacement, Syrian Refugees, Early Marriage, Child Marriage, Lebanon***
@@ -1462,6 +1466,7 @@ Zorla evlilik, kadının cinselliğini ve özerkliğini kontrol altına alma ara
 ***Anahtar kelimeler: Zorla Evlilik***
 
 **ABSTRACT** 
+
 Forced marriage is a means of controlling female sexuality and women’s autonomy. It involves coercion, mental abuse and emotional blackmail, and intense social pressure. In the most extreme cases, it may also involve physical violence, abduction, false imprisonment, rape or sexual abuse, and murder
 
 ***Key words: Forced Marriage***
@@ -1487,6 +1492,7 @@ Erken evlilik, erken çocuk sahibi olma ve riskli cinsel davranış bakımından
 ***Anahtar kelimeler: Erken Evlilik, Genç Yaşta Hamilelik***
 
 **ABSTRACT** 
+
 Female orphans are widely cited as being at risk for early marriage, early childbearing, and risky sexual behavior; however, to date no studies have examined these linkages using population-level data across multiple countries. This study draws from recent Demographic and Health Surveys from ten sub-Saharan African countries to examine the relationship between orphanhood status and measures of early marriage, early sexual debut, and teen pregnancy among adolescent girls aged 15 to 17.
 
 ***Key words: Early Marriage, Teen Pregnancy***
@@ -1512,6 +1518,7 @@ Female orphans are widely cited as being at risk for early marriage, early child
 ***Anahtar kelimeler: Çocuk Yaşta Evlilik, Güney Asya, Doğurganlık, Doğum Kontrol Yöntemlerinden Yararlanma, Anne Sağlığı Hizmetlerine Erişim***
 
 **ABSTRACT** 
+
 Despite the pervasiveness of child marriage and its potentially adverse consequences on reproductive health outcomes, there is relatively little empirical evidence available on this issue, which has hindered efforts to improve the targeting of adolescent health programs. The purpose of this studywas to assess the association of child marriage with fertility, fertility control, and maternal health care use outcomes in four South Asian countries: India, Bangladesh, Nepal, and Pakistan.
 
 ***Key words: Child Marriage, South Asia, Fertility, Contraceptive Use, Maternal Health Care Utilization***
@@ -1532,6 +1539,7 @@ Bu çalışmanın amacı, Hindistan'ın tüm ülkeyi temsil eder nitelikteki ör
 ***Anahtar kelimeler: Çocuk Yaşta Evlilik, Doğum Öncesi Bakım (DÖB), Doğum Bakımı, Doğum Sonrası Bakım (DSB), Hindistan***
 
 **ABSTRACT** 
+
 In this study, it is aimed to examine the association between child marriage and utilization of maternal health care services using nationally representative sample survey of India.
 
 ***Key words: Child Marriage, Antenatal Care (ANC), Delivery Care, Postnatal Care (PNC), India***
@@ -1557,6 +1565,7 @@ Bu çalışmanın amacı, Hindistan'da bir vaka çalışması üzerinden erken e
 ***Anahtar kelimeler: Erken Evlilik, Üreme Sağlığı, Anne Sağlığı ***
 
 **ABSTRACT** 
+
 This paper aims to reveal association between early marriage and marital and reproductive health problems through a case study in India. 
 
 ***Key words: Early Marriage, Reproductive Health, Maternal Health ***
@@ -1603,6 +1612,7 @@ Bu çalışmada, mevcut bilgiler ışığında yatırımların getirisi ile ilgi
 ***Anahtar kelimeler: Sürdürülebilir Kalkınma, Ergenler ***
 
 **ABSTRACT**
+
 This study examines investments in countries of low income, lower-middle income, and upper-middle income covering the majority of these adolescents globally to derive estimates of investment returns given existing knowledge.
 
 ***Key words: Sustainable Development, Adolescents ***
@@ -1623,6 +1633,7 @@ Bu çalışmada, 18 yaş altı kız çocukların erken ve/veya zorla evlendirilm
 ***Anahtar kelimeler: Çocuk Yaşta Evlilik, Çocuk İşçiliği ***
 
 **ABSTRACT**
+
 This article argues that the early and/or forced marriage of girls under 18 should be understood, in part, as an exploitive form of child labor. It describes the types and conditions of labor that are commonly experienced by child brides and it examinse the strengths and weaknesses of current international laws to adequately address the issue. It also argues that the problem of child brides should be addressed by the International Labour Organization (ILO) as one of the worst forms of child labor. Finally, it suggests the ILO Convention No. 182 (known as the Worst Forms of Child Labour Convention) as a legal mechanism.
 
 ***Key words: Child Marriage, Child Labor ***
@@ -1648,6 +1659,7 @@ Bu çalışmada, Amerika Birleşik Devletleri'ndeki çocuk yaşta evlilik, zorla
 ***Anahtar kelimeler: Çocuk Yaşta Evlilik, Zorla Evlilik, Partner Şiddeti ***
 
 **ABSTRACT**
+
 This study examines the intersection of child marriage, forced marriage and intimate partner violence in the United States.
 
 ***Key words: Child Marriage, Forced Marriage, Partner Violence ***
@@ -1673,6 +1685,7 @@ Bu çalışmada, çocuk yaşta evlenen genç kadınların (20-24 yaş arası), y
 ***Anahtar kelimeler: Partner Şiddeti, Çocuk Yaşta Evlilik ***
 
 **ABSTRACT**
+
 This study uses standardized data from demographic and health surveys in 34 countries to test the hypothesis that young women (age 20–24) who married as children are at increased risk of past year physical and/or sexual IPV as compared with those women who married as adults.
 
 ***Key words: Intimate Partner Violence, Child Marriage ***
@@ -1693,6 +1706,7 @@ Bu çalışmanın amacı, Pakistan'da sosyal kırılganlıklara atfedilenlerin �
 ***Anahtar kelimeler: Çocuk Yaşta Evlilik, Kadınlar, Şiddet, Eş, Partner, Pakistan ***
 
 **ABSTRACT**
+
 This study aims to determine the associations between child marriage and controlling behaviors (CB) and spousal violence by husbands against adolescent and young women in Pakistan beyond those attributed to social vulnerabilities.
 
 ***Key words: Child Marriage, Women, Violence, Spouse, Partner, Pakistan ***
@@ -1713,6 +1727,7 @@ This study aims to determine the associations between child marriage and control
 ***Anahtar kelimeler: Çocuk Yaşta Evlilik, İlişki Niteliği ***
 
 **ABSTRACT**
+
 Child marriage is prevalent in Africa, with almost 40% of girls being married before age 18. Although child marriage is linked to a range of adverse outcomes, including intimate partner violence, little is known about the quality of these marriages in terms of the levels of communication, trust, equality, intimacy, conflict, marital satisfaction or happiness. This paper examines how exact age at first marriage influenced multiple domains of relationship quality in Ethiopia using both quantitative and qualitative data. 
 
 ***Key words: Child Marriage, Relationship Quality ***
@@ -1733,6 +1748,7 @@ Bu çalışmada aydınlatılmış onam verme ehliyeti olmayan çocukların, anay
 ***Anahtar kelimeler: Çocuk Yaşta Evlilik, Aydınlatılmış Onam ***
 
 **ABSTRACT**
+
 This Article argues that in order to protect their constitutional rights, childrens who are incapable of giving informed consent should never be allowed to marry. While some older minors may be mature enough to make an informed choice about marriage, the Article concludes that states may restrict marriage to those over eighteen years of age.
 
 ***Key words: "Child Marriage, Informed Consent" ***
@@ -1753,6 +1769,7 @@ Bu çalışmada, Bangladeş'te 20-49 yaş arası kadınlar arasında çocuk yaş
 ***Anahtar kelimeler: Çocuk Yaşta Evlilik ***
 
 **ABSTRACT**
+
 This study examines the trends and determinants of child marriage among women aged 20–49 in Bangladesh.
 
 ***Key words: Child Marriage ***
@@ -1772,6 +1789,7 @@ Bu çalışmada, Kuzey Doğu İngiltere'de yaşayan Güney Asyalı topluluklar i
 ***Anahtar kelimeler: Çocuk Yaşta Evlilik, Zorla Evlilik ***
 
 **ABSTRACT**
+
 This article addresses the links between child marriage and forced marriage in the UK, drawing from a research study on South Asian communities in North East England. It looks at definitional issues through an analysis of UK and South Asian policies. It also analyses how these concepts are understood by service providers, survivors of child marriage and young people from South Asian communities. Finally, concepts such as gender, age, familial and community control reflected in normative marriage practices are addressed.
 
 ***Key words: Child Marriage, Forced Marriage ***
@@ -1792,6 +1810,7 @@ Bu çalışmada Etiyopya'nın Amhara Bölgesi'ndeki evlilik mevzuatına yönelik
 ***Anahtar kelimeler: Çocuk Yaşta Evlilik, İletişim ***
 
 **ABSTRACT**
+
 This paper examined the associations of communication exposure and measures of social influence with knowledge of marriage legislation, perceptions that marriage before age 18 was “too early”, and beliefs in daughters’ rights to individual marriage choice among parents/guardians in Amhara Region, Ethiopia.
 
 ***Key words: Child Marriage, Communication ***
@@ -1817,6 +1836,7 @@ Bu çalışmada, çocuk yaşta evliliğin kız çocuklarının sağlıkları üz
 ***Anahtar kelimeler: Çocuk Yaşta Evlilik, Sağlık ***
 
 **ABSTRACT**
+
 This paper focuses on health effect of child marriage on girls. 
 
 ***Key words: Child Marriage, Health ***
@@ -1842,6 +1862,7 @@ Bu çalışmada, çocuk yaşta evliliğin Uganda'da orta öğretime kayıt ve or
 ***Anahtar kelimeler: "Çocuk Yaşta Evlilik, Eğitim, Okula Gitmeyen Çocuklar" ***
 
 **ABSTRACT**
+
 "This contribution relies on four different approaches and data sources to assess and discuss the impact of child marriage on secondary school enrollment and completion in Uganda. The four data sources are: (1) qualitative evidence on differences in community and parental preferences for the education of boys and girls and on the higher likelihood of girls to drop out of school in comparison to boys; (2) reasons declared by parents as to why their children have dropped out of school; (3) reasons declared by secondary school principals as to why students drop out; and (4) econometric estimation of the impact of child marriage on secondary school enrollment and completion. Together, the four approaches provide strong evidence that child marriage reduces secondary school enrollment and completion for girls with substantial implications for agency."
 
 ***Key words: Child Marriage, Education, Out of School Children ***
