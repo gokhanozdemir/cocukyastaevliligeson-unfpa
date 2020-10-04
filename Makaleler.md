@@ -1773,4 +1773,72 @@ This article addresses the links between child marriage and forced marriage in t
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Child Marriage Prevention in Amhara Region, Ethiopia: Association of Communication Exposure and Social Influence with Parents/ Guardians’ Knowledge and Attitudes
+*MKL_69*
 
+**ÖZET**
+
+Bu çalışmada Etiyopya'nın Amhara Bölgesi'ndeki evlilik mevzuatına yönelik bilgiler, 18 yaşından önce evliliğin "çok erken" olduğu düşüncesi ve kız çocuklarının aileleri/koruyucu ailelerinden bağımsız evlilik kararlarını kendilerinin verme hakkı ile birlikte iletişim maruziyeti ve sosyal etki önlemleri arasında ilişkiler incelenmiştir.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, İletişim ***
+
+**ABSTRACT**
+This paper examined the associations of communication exposure and measures of social influence with knowledge of marriage legislation, perceptions that marriage before age 18 was “too early”, and beliefs in daughters’ rights to individual marriage choice among parents/guardians in Amhara Region, Ethiopia.
+
+***Key words: Child Marriage, Communication ***
+
+?> *Kuruluş adı: Tulane University ; 2013, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/258102056_Child_marriage_prevention_in_Amhara_Region_Ethiopia_Association_of_communication_exposure_and_social_influence_with_parentsguardians'_knowledge_and_attitudes)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_69.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Child Marriage Threatens Girls’ Health
+*MKL_70*
+
+**ÖZET**
+
+Bu çalışmada, çocuk yaşta evliliğin kız çocuklarının sağlıkları üzerindeki etkilerine ağırlık verilmektedir. 
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Sağlık ***
+
+**ABSTRACT**
+This paper focuses on health effect of child marriage on girls. 
+
+***Key words: Child Marriage, Health ***
+
+?> *Yayımlayan: Tracy Hampton ; 2010, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/45494262_Child_Marriage_Threatens_Girls'_Health)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_70.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Child Marriage, Education, and Agency in Uganda
+*MKL_71*
+
+**ÖZET**
+
+Bu çalışmada, çocuk yaşta evliliğin Uganda'da orta öğretime kayıt ve orta öğretimi tamamlama durumuna etkisini değerlendirmek ve tartışmak üzere dört farklı yaklaşımdan ve veri kaynağından yararlanılmaktadır. Bu dört veri kaynağı, (1) erkek ve kız çocuklarının eğitimi konusunda toplumun ve ailelerin tercihlerindeki farklılıklara ve kız çocuklarının okulu bırakma ihtimalinin daha yüksek olmasına yönelik niteliksel veriler, (2) ailelerin, çocuklarının okulu bırakmalarına ilişkin gerekçeleri, (3) ortaokul müdürlerinin, çocuklarının okula bırakmalarına ilişkin gerekçeleri ve (4) çocuk yaşta evliliğin ortaöğretim kayıt ve ortaöğretimi tamamlama durumuna etkisinin ekonometrik değerlendirmesi şeklindedir. Bu dört yaklaşım, çocuk yaşta evliliğin kız çocukları için önemli sonuçlarıyla birlikte ortaöğretime kayıt ve ortaöğretimi tamamlama oranlarını düşürdüğüne dair güçlü deliller ortaya koymaktadır.
+
+***Anahtar kelimeler: "Çocuk Yaşta Evlilik, Eğitim, Okula Gitmeyen Çocuklar" ***
+
+**ABSTRACT**
+"This contribution relies on four different approaches and data sources to assess and discuss the impact of child marriage on secondary school enrollment and completion in Uganda. The four data sources are: (1) qualitative evidence on differences in community and parental preferences for the education of boys and girls and on the higher likelihood of girls to drop out of school in comparison to boys; (2) reasons declared by parents as to why their children have dropped out of school; (3) reasons declared by secondary school principals as to why students drop out; and (4) econometric estimation of the impact of child marriage on secondary school enrollment and completion. Together, the four approaches provide strong evidence that child marriage reduces secondary school enrollment and completion for girls with substantial implications for agency."
+
+***Key words: Child Marriage, Education, Out of School Children ***
+
+?> *Yayımlayan: "Quentin Wodon, Minh Cong Nguyen, Clarence Tsimpo" ; 2015, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_71.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
