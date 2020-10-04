@@ -62,6 +62,15 @@
 - [Associations Between Early Marriage and Young Women’s Marital and Reproductive Health Outcomes: Evidence from India- *Population Council International Institute for Population Sciences*](#associations-between-early-marriage-and-young-womens-marital-and-reproductive-health-outcomes-evidence-from-india)
 - [Barriers to Education of Syrian Refugee Girls in Jordan: Gender-Based Threats and Challenges - *California State University Northridge*](#barriers-to-education-of-syrian-refugee-girls-in-jordan-gender-based-threats-and-challenges)
 - [Building The Foundations for Sustainable Development: A Case For Global Investment in The Capabilities of Adolescents - *Peter Sheehan, Kim Sweeny, Bruce Rasmussen, Annababette Wils, Howard S Friedman, Jacqueline Mahon, George C Patton, Susan M Sawyer, Eric Howard, John Symons, Karin Stenberg, Satvika Chalasani, Neelam Maharaj, Nicola Reavley, Hui Shi, Masha Fridman, Alison Welsh, Emeka Nsofor, Laura Laski*](#building-the-foundations-for-sustainable-development-a-case-for-global-investment-in-the-capabilities-of-adolescents)
+- [Child brides or child labor in a worst form? - *İzmir University of Economics Loyola Marymount University*](#child-brides-or-child-labor-in-a-worst-form)
+- [Child Brides, Forced Marriage, and Partner Violence in America - *The American College of Obstetricians and Gynecologists*](#child-brides-forced-marriage-and-partner-violence-in-america)
+- [Child marriage and intimate partner violence: a comparative study of 34 countries - *Health Sciences Center*](#child-marriage-and-intimate-partner-violence-a-comparative-study-of-34-countries)
+- [Child Marriage and Its Associations With Controlling Behaviors and Spousal Violence Against Adolescent and YoungWomen in Pakistan - *Bielefeld University, Emory University, West Virginia University, University of the Punjab*](#child-marriage-and-its-associations-with-controlling-behaviors-and-spousal-violence-against-adolescent-and-youngwomen-in-pakistan)
+- [Child Marriage and Relationship Quality in Ethiopia - *International Center for Research on Women*](#child-marriage-and-its-associations-with-controlling-behaviors-and-spousal-violence-against-adolescent-and-youngwomen-in-pakistan)
+- [Child Marriage as Constitutional Violation - *Nevada Law Journal*](#child-marriage-as-constitutional-violation)
+- [Child Marriage in Bangladesh: Trends and Determinants - *University of Malaya, Islamic University*](#child-marriage-as-constitutional-violation)
+
+
 
 
 
