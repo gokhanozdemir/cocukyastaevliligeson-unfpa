@@ -1872,3 +1872,95 @@ Bu çalışmada, çocuk yaşta evliliğin Uganda'da orta öğretime kayıt ve or
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_71.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## "Child, Early, and Forced Marriages (CEFM) in the Commonwealth: The Role of the Judiciary"
+*MKL_72*
+
+**ÖZET**
+
+Bu çalışmada, Doğu Afrika özelinde İngiliz Milletler Topluluğu'nda çocuk yaşta, erken ve zorla evliliğin etkileri incelenmekte ve yürürlükte bulunan uluslararası, bölgesel ve ulusal yasal normlar ile adli süreçlerden yararlanarak bu konunun en iyi şekilde nasıl ele alınması gerektiğine vurgu yapılmaktadır.
+
+***Anahtar kelimeler: "Çocuk Yaşta Evlilik, Erken Evlilik, Zorla Evlilik, Yargı" ***
+
+**ABSTRACT**
+
+This paper examines the effects of child, early and forced marriages (CEFM) within the Commonwealth, with a specific focus on East Africa, and highlights how to best address the issue using international, regional, and national legal norms and judicial processes currently in place
+
+***Key words: "Child Marriage, Early Marriage, Forced Marriage, Judiciary" ***
+
+?> *Kuruluş adı: Commonwealth Law Bulletin ; 2017, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_72.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Coercion, Consent and the Forced Marriage Debate in the UK
+*MKL_73*
+
+**ÖZET**
+
+Birey olmanın, özellikle de kadın olmanın sosyokültürel yapısının ve Birleşik Krallık'taki Güney Asyalı bazı kadınların önünü tıkayan yapısal eşitsizliklerin incelendiği bu çalışmada evlilik konusunda rıza ve zorlamanın, iki yönlü bir süreç olduğu ve bunların arasında sosyokültürel beklentiler, kontrol, ikna, baskı, tehdit ve zor kullanma gibi unsurların olduğu savunulmaktadır. Bu kısıtlamalarla karşılaşan kadınlar, bu sorunu çözmeye yönelik olarak tasarlanmış mevcut çıkış merkezli (exit-centered) devlet girişimleriyle her zaman tespit edilmesi mümkün olmayan karmaşık ve çelişkili şekillerde kendi kendine kararlar vermektedir.
+
+***Anahtar kelimeler: "Zorlama, Rıza, Zorla Evlilik, Güney Asyalı Kadınlar" ***
+
+**ABSTRACT**
+
+By examining the socio-cultural construction of personhood, especially womanhood, and the intersecting structural inequalities that constrain particular groups of South Asian women in the UK, this article argues that consent and coercion in relation to marriage can be better understood as two ends of a continuum, between which lie degrees of socio-cultural expectation, control, persuasion, pressure, threat and force. Women who face these constraints exercise their agency in complex and contradictory ways that are not always recognised by the existing exit-centred state initiatives designed to tackle this problem.
+
+***Key words: "Coercion, Consent, Forced Marriage, South Asian Women" ***
+
+?> *Kuruluş adı: "University of Leeds Roehampton University" ; 2009, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_73.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## "Determinants of Adolescent Pregnancy in Sub-Saharan Africa: A Systematic Review"
+*MKL_74*
+
+**ÖZET**
+
+Genç yaşta hamilelik, Sahra Altı Afrika'da oldukça yaygındır. Bu incelemenin amacı, uygun bir müdahale programının geliştirilmesi için Sahra Altı Afrika'da genç yaşta hamilelikleri etkileyen faktörleri tespit etmektir.
+
+***Anahtar kelimeler: Ergen Gebelik ***
+
+**ABSTRACT**
+
+Adolescent pregnancy has been persistently high in sub-Saharan Africa. The objective of this review is to identify factors influencing adolescent pregnancies in sub-Saharan Africa in order to design appropriate intervention program.
+
+***Key words: Adolescent Pregnancy ***
+
+?> *Kuruluş adı: Tehran University of Medical Sciences ; 2018, İngilizce*
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_74.pdf ':ignore')
+-->
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/322745465_Determinants_of_adolescent_pregnancy_in_sub-Saharan_Africa_A_systematic_review#:~:text=Health%20service%2Drelated%20factors%20(cost,as%20influencing%20adolescent%20pregnancies%20in)
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## "Determinants of Child and Forced Marriage in Morocco: Stakeholder Perspectives on Health, Policies and Human Rights"
+*MKL_75*
+
+**ÖZET**
+
+Bu araştırmanın amacı, Fas'ta çocuk yaşta ve zorla evliliğe sebep olan faktörler ile ilgili olarak çeşitli dallarda görev yapan meslek uzmanlarının görüşlerini öğrenmektir.
+
+***Anahtar kelimeler: "Çocuk Yaşta ve Zorla Evlilik, Kadın Hakları, Cinsel Sağlık ve Üreme Sağlığı, Şiddet" ***
+
+**ABSTRACT**
+
+The objective of this research study was to explore perspectives of a broad range of professionals on factors that contribute to the occurrence of child and forced marriage in Morocco.
+
+***Key words: Child and Forced Marriage,  Women’s Rights, Sexual and Reproductive Health, Violence ***
+
+?> *Kuruluş adı: "ICRH, AEDF, WHO, Ghent University" ; 2013, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_75.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+
+
