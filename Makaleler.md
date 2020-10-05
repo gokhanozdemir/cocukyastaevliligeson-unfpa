@@ -1962,5 +1962,112 @@ The objective of this research study was to explore perspectives of a broad rang
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Dimensions of Early Marriage
+*MKL_76*
 
+**ÖZET**
 
+Bu analizin amacı, evlilik başlangıçlarına uygun açıklayıcı bir boyutsal çerçevenin çizilmesidir. Burada hedef, evlilikten kısa süre sonra yapılan uygulamalardan yola çıkarak müstakbel çiftlerin ve çocuklarının özelliklerini tahmin etmeye çalışmaktır.
+
+***Anahtar kelimeler: Erken Evlilik ***
+
+**ABSTRACT**
+
+The goal of this analysis is to adumbrate a descriptive dimensional framework appropriate to the beginnings of marriage. Off in the distance is the prospective goal of trying to predict future couple attributes, and attributes of their children, from measures applied shortly after marriage.
+
+***Key words: Early Marriage ***
+
+?> *Yayımlayam: Robert G. Ryder ; 1970, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_76.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Early Marriage Among Women in Developing Countries
+*MKL_77*
+
+**ÖZET**
+
+Bu çalışmada, gelişmekte olan ülkelerde erken evlilik faktörleri ve eğilimlerine ağırlık verilmektedir.
+
+***Anahtar kelimeler: Erken Evlilik, Gelişmekte Olan Ülkeler ***
+
+**ABSTRACT**
+
+This study focuses on factors and trends of early marriages in developing countries.
+
+***Key words:Early Marriage, Developing Countries ***
+
+?> *Kuruluş adı: The Alan Guttmacher Institute ; 1996, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_77.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Early Marriage and Barriers to Contraception among Syrian Refugee Women in Lebanon: A Qualitative Study
+*MKL_78*
+
+**ÖZET**
+
+Suriye krizi sonucunda ülke içinde beş milyon kişi yerinden olurken Lübnan, kişi başına en çok mültecinin ağırlandığı ülke konumuna gelmiştir. Suriyeli mültecilerden Lübnan'a göç edenlerin %24'ü, üreme çağındaki (15-49) kadınlardan oluşmaktadır. Bu bağlamda çalışmanın amacı, sağladığı hizmetleri geliştirmesi gereken Lübnan'daki Suriyeli mülteci kadınların cinsel sağlığı ve üreme sağlığı ihtiyaçlarının daha iyi anlaşılmasına katkı sağlamaktır.
+
+***Anahtar kelimeler: Suriye, Lübnan, Mülteciler, Mülteci Sağlığı, Halk Sağlığı, Çatışma, Üreme Sağlığı, Erken Evlilik ***
+
+**ABSTRACT**
+
+The Syrian conflict has displaced five million individuals outside their country with Lebanon hosting the largest numbers per capita. Around 24% of Syrian refugees fleeing to Lebanon are women of reproductive age (15–49). This paper, in this context, aims to contribute to developing a better understanding of the sexual and reproductive health needs of Syrian refugee women in Lebanon, which is required to improve provided services.
+
+***Key words: Syria, Lebanon, Refugees, Refugee Health, Public Health, Conflict, Reproductive Health, Early Marriage ***
+
+?> *Kuruluş adı: "Université Catholique de Louvain European Commission" ; 2017, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_78.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## "Early Marriage and HIV Risks in Sub-Saharan Africa"
+*MKL_79*
+
+**ÖZET**
+
+Bu çalışmada, kız çocuklarının erken yaşta evlilik sebebiyle HIV ile enfekte olma ve/veya AIDS evresine girme  riskine etkileri ele alınmaktadır. Pek çok HIV risk faktörünün karşılaştırıldığı çalışmada, Kenya ve Zambiya'nın kentsel merkezlerindeki evli genç kadınların, cinsel olarak aktif bekar kadınlara oranla HIV ile enfekte olma oranlarının daha yüksek olduğuna dair çarpıcı bulgular araştırılmaktadır.
+
+***Anahtar kelimeler: Erken Evlilik, HIV ***
+
+**ABSTRACT**
+
+This article examines the effects of girls’ early marriage on their risk of acquiring HIV/AIDS. By comparing several underlying HIV risk factors, it explores the counterintuitive finding that married adolescent girls in urban centers in Kenya and Zambia have higher rates of HIV infection than do sexually active unmarried girls.
+
+***Key words: Early Marriage, HIV ***
+
+?> *Kuruluş adı: University of Chicago ; 2004, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/8206317_Early_marriage_and_HIV_risks_in_Sub-Saharan_Africa)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_79.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## "Early Marriage as a Violation of Human Rights"
+*MKL_80*
+
+**ÖZET**
+
+Bu çalışmada, teorik açıdan hukuki antropoloji ve eleştirel feminist kesişim teorisinden yararlanarak erken evliliğin zararları değerlendirilmektedir. Ayrıca uluslararası hukuk ışığında erken evlilik,  evrensel insan hakları normlarının açık bir şekilde ihlal edilmesi demektir. Toplulukların sosyal ve kültürel özerklik hakkını koruma ve bireylerin insan haklarını koruma altına alma arasındaki gerginliklerin yatıştırılmasına yönelik geçerli bir yöntem benimsenmesi gerekmektedir. Bu çalışmada, Romanya'daki Roman veya "Çingene (Gypsy)" adı verilen topluluklarda erken evlilik sıklığına bir vaka çalışması dahilinde bakılarak ve toplulukları da angaje ederek erken evlilik oranlarını düşürmenin saygın ve kültürel olarak geçerli yolları aranmaktadır. 
+
+***Anahtar kelimeler: "Erken Evlilik, İnsan Hakları" ***
+
+**ABSTRACT**
+
+This article sets out to assess the harms of early marriage by using legal anthropology and criticalf eminist intersectionalt heory as its theoreticall enses. Moreover, in light of international law, early marriage is a clear violation of universal human rights norms. There is an urgent need to develop a viable approach to reconciling the tensions between the preservation ofthe right ofcommunities to social and cultural autonomy on the one hand, and the protection of individual human rights on the other. By using the incidence of early marriage in Romanian Roma, or "Gypsy, " communities as a case study, this article proposes respectful, culturally competent ways to reduce early marriage by engaging communities.
+
+***Key words: "Early Marriage, Human Rights" ***
+
+?> *Kuruluş adı: "The Indonesion Journal of International & Comperative Law" ; 2014, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_80.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
