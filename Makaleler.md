@@ -2396,6 +2396,143 @@ Zorla evlilikler, dünyanın her köşesinden kadınları kendi anavatanlarında
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Forced Marriage as a Harm in Domestic and International Law
+*MKL_95*
 
+**ÖZET**
 
+Bu makale, batılı devletlerin vatandaşlarının karşılaştıkları zorla evliliklere karşı ulusal hukuki ve politik müdahaleler ile başka yerlerde meydana gelen zorla evliliklere karşı mülteci hukukunun müdahalesi arasındaki kopuklukları incelemektedir.   
 
+***Anahtar kelimeler: Zorla evlilik, Mülteci Hukuku, İç Hukuk ve Uluslararası Hukuk  ***
+
+**ABSTRACT**
+
+This article explores the disjuncture between domestic legal and political responses to forced marriages faced by nationals of Western states and the response of refugee law to forced marriages occurring elsewhere.
+
+***Key words: Forced Marriage, Refugee Law, Domestic and International Law ***
+
+?> *Kuruluş adı: UBC, UTS ; 2010, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/228145399_Forced_Marriage_as_a_Harm_in_Domestic_and_International_Law)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_95.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Forced Marriage in Canada: To Criminalize or Not to Criminalize?
+*MKL_96*
+
+**ÖZET**
+
+Bu makale, kaynakları ve izlenen yöntemleri açıklamaktadır ve dört ana amacı vardır. İlk amaç Kanada devletinin dikkatini çeken ve tamamı yasadışı olan çeşitli biçimlerdeki zorla evlilik vakalarının genel bir çerçevesini çizmektir. Bu vakalar uluslararası, federal, eyalet ve bölgesel yargı yetkisi kapsamına girmekte ve çeşitli hukuk alanlarını içermektedir: medeni hukuk, aile hukuku, ceza hukuku, çocuk koruma hukuku, idare hukuku, insan hakları hukuku, göç ve sığınmacı hukuku. 
+
+***Anahtar kelimeler: Zorla Evlilik, Görücü Usulü Evlilik, Kölelik Benzeri Evlilik, Kanun ve Mevzuat ***
+
+**ABSTRACT**
+
+This article explains the sources and methodology pursued, and has four central aims. The first aim is to outline the diverse range of forced marriage cases that have come to the attention of the Canadian state, all of which are illegal. They fall under international, federal, provincial and territorial jurisdictions, involving several areas of law: civil, family, criminal, child protection, administrative, human rights, immigration and refugee asylum.
+
+***Key words: Forced Marriage, Arranged Marriage, Servile Marriage, Laws and Regulations ***
+
+?> *Kuruluş adı: Canadian Journal of Human Rights ; 2017, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_96.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Forced Marriage in the UK: Religious, Cultural, Economic or State Violence?
+*MKL_97*
+
+**ÖZET**
+
+Bu çalışma Birleşik Krallık'taki zorla evliliklere dair nitel bir ampirik çalışmaya dayanmaktadır ve günümüzde zorla evlilik tartışmalarında merkezi konumdaki dört kilit noktayı ele alan çok boyutlu bir bakış sunmaktadır.  
+
+***Anahtar kelimeler: Zorla Evlilik ***
+
+**ABSTRACT**
+
+The paper is based on a qualitative empirical study of forced marriage in the UK and offers a multidimensional view which challenges four key points that are currently central in the forced marriage debate.
+
+***Key words: Forced Marriage ***
+
+?> *Kuruluş adı: Critical Social Policy ; 2009, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_97.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Forced Marriage, Forced Sex: The Perils of Childhood for Girls
+*MKL_98*
+
+**ÖZET**
+
+Erken evlilikler, rızaya dayanmayan evlilikler ve evlilik içi tecavüzlerin kız çocuklarını ve kadınları nasıl etkilediğini araştırmak için yeni bir kuruluşlar arası grup olarak “Kızların ve Kadınların Evlilik Hakları Forumu” oluşturulmuştur. Nepal, Batı Afrika ve Hindistan’dan vaka çalışmalarını karşılaştıran yazarlar, etkili olabilmek için kız çocuklara ayrı olarak zarar veren kültürel uygulamaları ortadan kaldırmamız gerektiğini iddia etmektedirler. 
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Rızaya Dayanmayan Evlilik, Zararlı Uygulamalar ***
+
+**ABSTRACT**
+
+A new inter-agency group, the Forum on the Rights of Girls and Women in Marriage, has been formed to investigate how early marriage, non-consensual marriage, and rape within marriage affect girls and women. Comparing case studies from Nepal, West Africa, and India, the authors argue that, to be effective, we must address cultural practices harming girls separately.
+
+***Key words: "Child Marriage, Non-Consensual Marriage, Harmful Practices" ***
+
+?> *Kuruluş adı: Gender & Development ; 1998, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_98.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Forced Marriage, Slavery, and Plural Legal Systems: An African Example
+*MKL_99*
+
+**ÖZET**
+
+Bu makale zorla evlilikler ve çocuk evliliklerinin uluslararası hukuktaki konumunu izlemekte ve hukuk sistemlerinin paralel olarak var oldukları durumda hukukiliğin nasıl hedef haline geldiğini araştırmaktadır. Tarafların her ikisinin de tam ve özgür rızalarına dayanmayan evliliklerin bir insan hakkı ihlali ve köleliğin bir türü olduğunu beyan eden uluslararası ve Afrika Birliği sözleşmelerine rağmen bu uygulamalar devam etmektedir.  
+
+***Anahtar kelimeler: Zorla Evlilik, Kölelik, İnsan Hakları ***
+
+**ABSTRACT**
+
+This article traces the position of forced and child marriages in international law, and investigates how legality becomes a moveable target when legal systems exist in parallel. Despite international and African Union conventions on slavery and human rights declaring that marriages not based on the full and free consent of both parties are considered a violation of human rights and a form of slavery, these practices persist.
+
+***Key words: Forced Marriage, Slavery, Human Rights ***
+
+?> *Kuruluş adı: Human Rights Quarterly ; 2016, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/303239605_Forced_Marriage_Slavery_and_Plural_Legal_Systems_An_African_Example)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_99.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Forced Marriage: An Analysis of Legislation and Political Measures in Europe
+*MKL_100*
+
+**ÖZET**
+
+Bu makalenin amacı Avrupa’da zorla evlilikler ile ilgili yaygın olan ve orta çıkmakta olan politikaları eleştirel şekilde değerlendirmektir.
+
+***Anahtar kelimeler: Zorla Evlilik, Avrupa  ***
+
+**ABSTRACT**
+
+The aim of this paper is to critically assess prevailing and emerging policies regarding forced marriage in Europe.
+
+***Key words: Forced Marriage, Europe ***
+
+?> *Kuruluş adı: "Ghent University, WHO, HRC" ; 2014, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/271920925_Forced_marriage_an_analysis_of_legislation_and_political_measures_in_Europe)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_100.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
