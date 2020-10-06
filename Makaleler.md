@@ -1404,7 +1404,7 @@ This article interrogates the politics of safety that underpin rehabilitative pr
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
-## "“Child marriage” in Context: Exploring Local Attitudes towards Early Marriage in Rural Tanzania"
+## “Child marriage” in Context: Exploring Local Attitudes towards Early Marriage in Rural Tanzania
 *MKL_52*
 
 **ÖZET** 
@@ -1456,7 +1456,7 @@ This study aims to gather qualitative data about the factors that promote child 
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
-## "Abduction for Forced Marriage – Rights and Remedies in Bangladesh and Pakistan"
+## Abduction for Forced Marriage – Rights and Remedies in Bangladesh and Pakistan
 *MKL_54*
 
 **ÖZET**
@@ -1873,7 +1873,7 @@ Bu çalışmada, çocuk yaşta evliliğin Uganda'da orta öğretime kayıt ve or
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
-## "Child, Early, and Forced Marriages (CEFM) in the Commonwealth: The Role of the Judiciary"
+## Child, Early, and Forced Marriages (CEFM) in the Commonwealth: The Role of the Judiciary
 *MKL_72*
 
 **ÖZET**
@@ -1915,7 +1915,7 @@ By examining the socio-cultural construction of personhood, especially womanhood
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
-## "Determinants of Adolescent Pregnancy in Sub-Saharan Africa: A Systematic Review"
+## Determinants of Adolescent Pregnancy in Sub-Saharan Africa: A Systematic Review
 *MKL_74*
 
 **ÖZET**
@@ -1941,7 +1941,7 @@ Adolescent pregnancy has been persistently high in sub-Saharan Africa. The objec
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
-## "Determinants of Child and Forced Marriage in Morocco: Stakeholder Perspectives on Health, Policies and Human Rights"
+## Determinants of Child and Forced Marriage in Morocco: Stakeholder Perspectives on Health, Policies and Human Rights
 *MKL_75*
 
 **ÖZET**
@@ -2025,7 +2025,7 @@ The Syrian conflict has displaced five million individuals outside their country
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
-## "Early Marriage and HIV Risks in Sub-Saharan Africa"
+## Early Marriage and HIV Risks in Sub-Saharan Africa
 *MKL_79*
 
 **ÖZET**
@@ -2051,7 +2051,7 @@ This article examines the effects of girls’ early marriage on their risk of ac
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
-## "Early Marriage as a Violation of Human Rights"
+## Early Marriage as a Violation of Human Rights
 *MKL_80*
 
 **ÖZET**
@@ -2124,7 +2124,7 @@ Using data from rural Bangladesh, this study explores the hypothesis that women 
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
-## "Early Marriage, Marital Relations Violence"
+## Early Marriage, Marital Relations Violence
 *MKL_83*
 
 **ÖZET**
@@ -2145,7 +2145,7 @@ A considerable proportion of women worldwide are married during childhood. Altho
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
-## "Early Marriage: A Gender-Based Violence and A Violation of Women's Human Rights in Nigeria"
+## Early Marriage: A Gender-Based Violence and A Violation of Women's Human Rights in Nigeria
 *MKL_84*
 
 **ÖZET**
@@ -2192,7 +2192,7 @@ In this study, the empirical research on early marriage is reviewed and restated
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
-## "Early Menarche: A Systematic Review Of Its Effect On Sexual and Reproductive Health In Low and Middle-Income Countries"
+## Early Menarche: A Systematic Review Of Its Effect On Sexual and Reproductive Health In Low and Middle-Income Countries
 *MKL_86*
 
 **ÖZET**
@@ -2213,7 +2213,7 @@ This review is condusted to better understand whether and how early menarche is 
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
-## "Economic Impacts of Child Marriage: A Review of the Literature"
+## Economic Impacts of Child Marriage: A Review of the Literature
 *MKL_87*
 
 **ÖZET**
@@ -2259,3 +2259,56 @@ This study examines the effects of girls' educational attainment and household p
 -->
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Effects of Sex, Culture, and Support Type on Perceptions of Spousal Social Support An Assessment of the “Support Gap” Hypothesis in Early Marriage
+*MKL_89*
+
+**ÖZET**
+
+Bazı yazarlar, kadınların eşlerinden aldıkları desteğin erkeklerin eşlerinden aldıklarından daha az olduğu “destek uçurumunun” modern evliliklerin karakteristik özelliği olduğunu belirtmektedirler. Her ne kadar bu destek uçurumu hipotezi (DUH) evlilik etkileşimlerini ve tatminini açıklamak için giderek daha fazla kullanılıyor olsa da bu hipotezin kapsamlı şekilde değerlendirmesi çok az yapılmıştır. Bilhassa, destek uçurumuna ilişkin mevcut araştırmalar şu hususları sistematik şekilde dikkate almamıştır: (a) farklı sosyal destek türleri, (b) sağlanan veya alınan desteklerin farklılıkları, (c) bildirilen destek arzusu, deneyimi ve tatmini düzeylerindeki farklılıklar veya (d) evlilikte sosyal desteğe ilişkin belirgin kültürel grupların farlılıkları. Söz konusu çalışma arzulanan ve deneyimlenen eş sosyal desteğinin çok boyutlu bir değerlendirmesini sunmaktadır.
+
+***Anahtar kelimeler: Erken Evlilik, Eş Sosyal Desteği ***
+
+**ABSTRACT**
+
+Several writers have suggested that a “support gap” characterizes modern marriages, with women receiving less support from their spouses than men receive from theirs. Although this support gap hypothesis (SGH) is used increasingly to explain marital interaction and satisfaction, there have been few rigorous evaluations of this hypothesis. In particular, existing research on the support gap has not systematically considered (a) different types of social support; (b) differences in provided vs. received support; (c) differences in reported levels of support desire, experience, and satisfaction; or (d) differences in distinct cultural groups with respect to social support in marriage. The present study provided a multidimensional assessment of desired and experienced spousal social support.
+
+***Key words: Early Marriage, Spousal Social Support ***
+
+?> *Kuruluş adı: "University of Southern California, Purdue University" ; 2001, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/230218687_Effects_of_Sex_Culture_and_Support_Type_on_Perceptions_of_Spousal_Social_Support_An_Assessment_of_the_Support_Gap_Hypothesis_in_Early_Marriage)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_89.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Ethnographic Empathy and the Social Context of Rights: “Rescuing” Maasai Girls from Early Marriage
+*MKL_90*
+
+**ÖZET**
+
+Bu makalede, Enkop’taki Maasai’ler arasında erken evlilik uygulamalarıne neden olan altta yatan faktörlerin etnografik bir bağlam içerisinde değerlendirmesi sunulmakta ve nüfus artışı, iklim istikrarsızlığı ve arazi kiralama reformu karşısında günümüz pastoralizminin (göçebe hayvancılık) sıkıntıları ve örgün eğitim konusundaki sorunları vurgulanmaktadır. Esther’in vakasının samimi şekilde resmedilmesiyle, erken evlilik sadece geleneğin veya zararlı ataerkilliğin bir unsuru olarak değil daha ziyade geçim kaynağı güvensizliklerine karşı günümüzdeki adaptasyonun bir biçimi olarak konumlandırılmaktadır. İnsan hakları teorisinin “gelenek”, “kültür”, “mağduriyet” ve “kolektif haklar” gibi hakim kavramlarının erken evliliğe neden olan önemli yapısal faktörleri nasıl bulanıklaştırdıklarını ve etkili politika girişimlerinden dikkatleri nasıl uzaklaştırdıklarını ortaya koymaktadır.       
+
+***Anahtar kelimeler: Erken Evlilik, İnsan Hakları, Eğitim ***
+
+**ABSTRACT**
+
+In this article, an ethnographic contextualization of the underlying factors giving rise to practices of early marriage, among the Maasai in Enkop, highlighting the contemporary predicaments of pastoralism in the face of population growth, climactic instability, and land-tenure reform and the insecurities and challenges around formal education is offered. Through the intimate portrayal of Esther’s case, early marriage is situated not as a relic of tradition and malicious patriarchy but, rather, as a contemporary adaptation to livelihood insecurity. How prevailing concepts of “tradition,” “culture,” “victimhood,” and “collective rights” in human rights theory obscure important structural factors that give rise to early marriage and deflect attention from effective policy initiatives is illustrated. 
+
+***Key words: Early Marriage, Human Rights, Education ***
+
+?> *Kuruluş adı: American Anthropological Association ; 2011, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/51981793_Ethnographic_Empathy_and_the_Social_Context_of_Rights_Rescuing_Maasai_Girls_from_Early_Marriage)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_90.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
