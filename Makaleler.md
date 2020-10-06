@@ -1380,7 +1380,7 @@ The aim of this study is analysis of any effect of psychological well-being on p
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
-## 'Safe spaces' and 'bad' girls: 'child marriage victims' experiences from a shelter in Eastern India
+## 'Safe Spaces' and 'Bad' Girls: 'Child Marriage Victims' Experiences from a Shelter in Eastern India
 *MKL_51*
 
 **ÖZET** 
@@ -1529,7 +1529,7 @@ Despite the pervasiveness of child marriage and its potentially adverse conseque
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
-## Association between child marriage and utilization of maternal health care services in India: Evidence from a nationally representative cross-sectional survey
+## Association Between Child Marriage and Utilization of Maternal Health Care Services in India: Evidence From A Nationally Representative Cross-sectional Survey
 *MKL_57*
 
 **ÖZET**
@@ -1623,7 +1623,7 @@ This study examines investments in countries of low income, lower-middle income,
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
-## Child brides or child labor in a worst form?
+## Child Brides or Child Labor in A Worst Form?
 *MKL_61*
 
 **ÖZET**
@@ -1675,7 +1675,7 @@ This study examines the intersection of child marriage, forced marriage and inti
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
-## Child marriage and intimate partner violence: a comparative study of 34 countries
+## Child Marriage and Intimate Partner Violence: A Comparative Study of 34 Countries
 *MKL_63*
 
 **ÖZET**
@@ -2004,7 +2004,7 @@ This study focuses on factors and trends of early marriages in developing countr
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
-## Early Marriage and Barriers to Contraception among Syrian Refugee Women in Lebanon: A Qualitative Study
+## Early Marriage and Barriers to Contraception Among Syrian Refugee Women in Lebanon: A Qualitative Study
 *MKL_78*
 
 **ÖZET**
