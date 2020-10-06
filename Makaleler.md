@@ -82,6 +82,11 @@
 - [Early Marriage and Barriers to Contraception Among Syrian Refugee Women in Lebanon: A Qualitative Study - *Université Catholique de Louvain European Commission*](#early-marriage-and-barriers-to-contraception-among-syrian-refugee-women-in-lebanon-a-qualitative-study)
 - [Early Marriage and HIV Risks in Sub-Saharan Africa - *University of Chicago*](#early-marriage-and-hiv-risks-in-sub-saharan-africa)
 - [Early Marriage as a Violation of Human Rights - *The Indonesion Journal of International & Comperative Law*](#early-marriage-as-a-violation-of-human-rights)
+- [Early Marriage in the United States - *University of Texas at Austin*](#early-marriage-in-the-united-states)
+- [Early Marriage, Age of Menarche, and Female Schooling Attainment in Banglades - *Harvard University*](#early-marriage-age-of-menarche-and-female-schooling-attainment-in-banglades)
+- [Early Marriage, Marital Relations Violence - *Guttmacher Institute*](#early-marriage-marital-relations-violence)
+- [Early Marriage: A Gender-Based Violence and A Violation of Women's Human Rights in Nigeria - *Canadian Center of Science and Education*](#early-marriage-a-gender-based-violence-and-a-violation-of-women39s-human-rights-in-nigeria)
+- [Early Marriage: A Propositional Formulation - *University of Iowa Washington State University*](#early-marriage-a-propositional-formulation)
 
 
 
