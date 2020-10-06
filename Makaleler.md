@@ -2192,5 +2192,70 @@ In this study, the empirical research on early marriage is reviewed and restated
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## "Early Menarche: A Systematic Review Of Its Effect On Sexual and Reproductive Health In Low and Middle-Income Countries"
+*MKL_86*
 
+**ÖZET**
 
+Bu incelemenin amacı, erken menarşın düşük ve orta gelirli ülkelerde çeşitli olumsuz cinsel ve üreme sağlığı sonuçları ile ilişkilendirilip ilişkilendirilmediğini ve nasıl ilişkilendirildiğini daha iyi anlayabilmektir. 
+
+***Anahtar kelimeler: Erken Menarş, Sağlığa Etkileri ***
+
+**ABSTRACT**
+
+This review is condusted to better understand whether and how early menarche is associated with various negative sexual and reproductive health outcomes in low- and middle-income countries and the implications of such associations.
+
+***Key words: Early Menarche, Health Outcomes ***
+
+?> *Kuruluş adı: Columbia University Mailman School of Public Health ; 2017, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_86.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## "Economic Impacts of Child Marriage: A Review of the Literature"
+*MKL_87*
+
+**ÖZET**
+
+Bu çalışmanın amacı, erken yaşta evliliğin kız çocuklarının, onların çocuklarının ve ailelerinin üzerindeki ekonomik etkileri ile ilgili bilinenleri kayda geçerek diyalog kurulmasına yönelik faydalı bilgiler sağlamaktır.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Ekonomik Etki ***
+
+**ABSTRACT**
+
+In this article, the objective is to provide useful information for such dialogue by documenting what is known about the economic impacts of child marriage on the girls who marry early, their children, and their families.
+
+***Key words: Child Marriage, Economic Impact ***
+
+?> *Kuruluş adı: "American Jewish World Service, International Center for Research on Women, World Bank" ; 2015, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_87.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Effects of Education and Poverty on the Prevalence of Girl Child Marriage in India: A District–Level Analysis
+*MKL_88*
+
+**ÖZET**
+
+Bu çalışmada, Hindistan'da kız çocuklarının eğitime katılımının ve hane yoksulluluğunun çocuk yaşta evliliklere yerel düzeyde etkisi incelenmektedir.
+
+***Anahtar kelimeler: Kız Çocuklarının Evlenmesi, Eğitim, Yoksulluk, Hindistan ***
+
+**ABSTRACT**
+
+This study examines the effects of girls' educational attainment and household poverty on the prevalence of female child marriage at the district–level in India.
+
+***Key words: Girl Child Marriage, Education, Poverty, India ***
+
+?> *Kuruluş adı: Jawaharlal Nehru University ; 2019, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/331229962_Effects_of_education_and_poverty_on_the_prevalence_of_girl_child_marriage_in_India_A_district-level_analysis)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_88.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
