@@ -2071,3 +2071,126 @@ This article sets out to assess the harms of early marriage by using legal anthr
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_80.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Early Marriage in the United States
+*MKL_81*
+
+**ÖZET**
+
+Uzun Vadeli Ulusal Ergen Sağlığı Çalışması'nın verilerden yararlanılan bu çalışmada, ABD'de erken evliliğin yaygınlığı ve geçmişi değerlendirilmektedir.
+
+***Anahtar kelimeler: Erken Evlilik, Yeni Yetişkinlik Dönemi, Gençlik ***
+
+**ABSTRACT**
+
+Using data from the National Longitudinal Study of Adolescent Health, this study evaluates the prevalence and antecedents of early marriage in the United States.
+
+***Key words: Early Marriage, Emergent Adulthood, Youth ***
+
+?> *Kuruluş adı: University of Texas at Austin ; 2008, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/42372752_Early_Marriage_in_the_United_States)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_81.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Early Marriage, Age of Menarche, and Female Schooling Attainment in Banglades 
+*MKL_82*
+
+**ÖZET**
+
+Bu çalışmada, Bangladeş'in kırsal kesimlerinden elde edilen veriler ışığında erken yaşta evlenmeye yönelik sosyal ve mali baskılar nedeniyle kadınların daha az okula gittiği hipotezi araştırılmaktadır.
+
+***Anahtar kelimeler: Erken Evlilik, Okullaşma ***
+
+**ABSTRACT**
+
+Using data from rural Bangladesh, this study explores the hypothesis that women attain less schooling as a result of social and financial pressure to marry young.
+
+***Key words: Early Marriage, Schooling ***
+
+?> *Kuruluş adı: Harvard University ; 2008, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/23547578_Early_Marriage_Age_of_Menarche_and_Female_Schooling_Attainment_in_Bangladesh)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_82.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## "Early Marriage, Marital Relations Violence"
+*MKL_83*
+
+**ÖZET**
+
+Dünya genelinde kadınların dikkate değer bir kısmı, çocukluk çağında evlenmektedir. Erkek evlilik (18 yaşından önce) ile ilgili pek çok çalışma bulunmasına rağmen bunların çok azında sonuçlar bakımından karşılaştırma yapılmış veya farklı ergenlik dönemlerinde evlenmiş kız çocukları arasında bir ilişki kurulmuş veya çok daha erken yaşta evlenen (15 yaşından önce) kız çocuklarına ağırlık verilmiştir.
+
+***Anahtar kelimeler: "Çocuk Yaşta Evlilik, Erken Evlilik" ***
+
+**ABSTRACT**
+
+A considerable proportion of women worldwide are married during childhood. Although many studies have examined early marriage (before age 18), few have compared outcomes or correlates among girls married during different stages of adolescence or have focused on girls married very early (before age 15).
+
+***Key words: "Child Marriage, Early Marriage" ***
+
+?> *Kuruluş adı: Guttmacher Institute ; 2013, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_83.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## "Early Marriage: A Gender-Based Violence and A Violation of Women's Human Rights in Nigeria"
+*MKL_84*
+
+**ÖZET**
+
+Çocuk yaşta evlilik dünyanın her yerinde görülürken bu evliliklerin çoğunda çocuklar daha erginlik yaşına gelmeden veya Nijerya ile diğer bazı ülkelerde kanunen belirlenen yaştan önce evlendirilmektedir. Bugün Afrika, Asya ve Güney Amerika başta olmak üzere dünyanın dört bir yanında bu tür uygulamaların yaygın olduğu görülmektedir. Çocuk yaşta evlilikler, çoğu zaman anne-babaların ayarladığı evlilikler ile ilişkilendirilirken evli eşlerden sadece biri, çoğu zaman da kadınlar, çocuk yaştadır.
+
+***Anahtar kelimeler: "Çocuk Yaşta Evlilik, Erken Evlilik, Cinsiyete Dayalı Şiddet" ***
+
+**ABSTRACT**
+
+"Child marriage customs occur all over the world, whereby children are given into marriage well before they attain puberty in most cases or even the age to get married as defined by several laws in Nigeria and other countries of the world. It is a common thing today to find a prevalence of such practices widespread in several parts of the world particularly in Africa, Asia, and South America. Often times, child marriages are frequently associated with marriages that are conceived and arranged by parents, whereby, only one marriage-partner usually the female is a child."
+
+***Key words: "Child Marriage, Early Marriage, Gender Based Violence" ***
+
+?> *Kuruluş adı: Canadian Center of Science and Education ; 2014, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/269742258_Early_Marriage_A_Gender-Based_Violence_and_A_Violation_of_Women's_Human_Rights_in_Nigeria)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_84.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Early Marriage: A Propositional Formulation
+*MKL_85*
+
+**ÖZET**
+
+Bu çalışmada erken evlilik ile ilgili ampirik bir araştırma incelenmiş ve önerme şeklinde yeniden şekillendirilmiştir. Yapılan öneriler, üç teorik kategoriye ayrılmıştır: Toplumsal sınıf, cinsel katılım ile bekar ve evlik olma durumlarının avantajları. Bu üç öneri, asıl teorik önerilerden yola çıkılarak elde edilmiştir. Erken evliliğin sonuçları incelenmiş ve evlilik sonrası toplumsal konum, boşanma oranı ve olumsuz etki gibi üç önerme ile yeniden ifade edilmiştir. Bu üç önerme de, yukarıda bahsi geçen önermelerden elde edilmiştir. Son olarak aileye yönelik üç teorik önermenin kendine has vakalar olduğu gösterilmiştir.
+
+***Anahtar kelimeler: Erken Evlilik ***
+
+**ABSTRACT**
+
+In this study, the empirical research on early marriage is reviewed and restated in propositional form. propositions obtained are reduced to three theoretical propositions, involving social class, sexual involvement, and profit between single and marital status. Three derived propositions obtained from the original theoretical propositions. Consequences of early marriage are reviewed and stated as three propositions involving class placement following marriage, divorce rate, and negative affect. Three derived propositions are also obtained from these. Finally, the theoretical family propositions are related to theory and shown to be special cases.
+
+***Key words: Early Marriage ***
+
+?> *Kuruluş adı: "University of Iowa Washington State University" ; 1970, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_85.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+
+
