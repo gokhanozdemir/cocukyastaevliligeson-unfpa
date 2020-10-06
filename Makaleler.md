@@ -52,8 +52,8 @@
 - [Türkiye’den Belçika’ya Damat Göçü ve Psikolojik Etkileri - *Bingöl Üniversitesi Sosyal Bilimler Enstitüsü Dergisi*](#türkiyeden-belçikaya-damat-göçü-ve-psikolojik-etkileri)   
 - [The Reasons for Women’s Labour Force Nonarticipation; Empirical Evidence from Bandirma - *Yönetim ve Ekonomi Araştırmaları Dergisi*](#the-reasons-for-womens-labour-force-non-participation-empirical-evidence-from-bandirma)   
 - [Evli Kadin ve Erkeklerde Psikolojik İyi Oluşun Ebeveyn Tutumuna Etkisinin Incelenmesi - *İstanbul Ticaret Üniversitesi Sosyal Bilimler Dergisi*](#evli-kadin-ve-erkeklerde-psikolojik-İyi-oluşun-ebeveyn-tutumuna-etkisinin-incelenmesi)
-- [Safe Spaces and 'Bad' girls: 'child marriage victims' experiences from a shelter in Eastern India - *Anglia Ruskin University*](#_39safe-spaces39-and-39bad39-girls-39child-marriage-victims39-experiences-from-a-shelter-in-eastern-india)
-- [“Child marriage” in Context: Exploring Local Attitudes towards Early Marriage in Rural Tanzania" - *Sexual and Reproductive Health Matters*](#quotchild-marriage-in-context-exploring-local-attitudes-towards-early-marriage-in-rural-tanzaniaquot)
+- [Safe Spaces and 'Bad' girls: 'Child Marriage Victims' Experiences from a Shelter in Eastern India - *Anglia Ruskin University*](#_39safe-spaces39-and-39bad39-girls-39child-marriage-victims39-experiences-from-a-shelter-in-eastern-india)
+- [“Child Marriage” in Context: Exploring Local Attitudes towards Early Marriage in Rural Tanzania" - *Sexual and Reproductive Health Matters*](#quotchild-marriage-in-context-exploring-local-attitudes-towards-early-marriage-in-rural-tanzaniaquot)
 - [A Qualitative Study Exploring Child Marriage Practices Among Syrian Conflict-affected Populations in Lebanon - *American University of Beirut Women’s Refugee Commission*](#a-qualitative-study-exploring-child-marriage-practices-among-syrian-conflict-affected-populations-in-lebanon)
 - ["Abduction for Forced Marriage – Rights and Remedies in Bangladesh and Pakistan" - *INTERIGHTS British Home Office’s Working Group on Forced Marriage*](#quotabduction-for-forced-marriage-rights-and-remedies-in-bangladesh-and-pakistanquot)
 - [Are Female Orphans at Risk for Early Marriage, Early Sexual Debut, and Teen Pregnancy? Evidence from Sub-Saharan Africa - *Ipas University of North Caroline*](#are-female-orphans-at-risk-for-early-marriage-early-sexual-debut-and-teen-pregnancy-evidence-from-sub-saharan-africa)
@@ -62,13 +62,26 @@
 - [Associations Between Early Marriage and Young Women’s Marital and Reproductive Health Outcomes: Evidence from India- *Population Council International Institute for Population Sciences*](#associations-between-early-marriage-and-young-womens-marital-and-reproductive-health-outcomes-evidence-from-india)
 - [Barriers to Education of Syrian Refugee Girls in Jordan: Gender-Based Threats and Challenges - *California State University Northridge*](#barriers-to-education-of-syrian-refugee-girls-in-jordan-gender-based-threats-and-challenges)
 - [Building The Foundations for Sustainable Development: A Case For Global Investment in The Capabilities of Adolescents - *Peter Sheehan, Kim Sweeny, Bruce Rasmussen, Annababette Wils, Howard S Friedman, Jacqueline Mahon, George C Patton, Susan M Sawyer, Eric Howard, John Symons, Karin Stenberg, Satvika Chalasani, Neelam Maharaj, Nicola Reavley, Hui Shi, Masha Fridman, Alison Welsh, Emeka Nsofor, Laura Laski*](#building-the-foundations-for-sustainable-development-a-case-for-global-investment-in-the-capabilities-of-adolescents)
-- [Child brides or child labor in a worst form? - *İzmir University of Economics Loyola Marymount University*](#child-brides-or-child-labor-in-a-worst-form)
+- [Child Brides or Child Labor in a Worst Form? - *İzmir University of Economics Loyola Marymount University*](#child-brides-or-child-labor-in-a-worst-form)
 - [Child Brides, Forced Marriage, and Partner Violence in America - *The American College of Obstetricians and Gynecologists*](#child-brides-forced-marriage-and-partner-violence-in-america)
-- [Child marriage and intimate partner violence: a comparative study of 34 countries - *Health Sciences Center*](#child-marriage-and-intimate-partner-violence-a-comparative-study-of-34-countries)
+- [Child Marriage and Intimate Partner Violence: A Comparative Study of 34 countries - *Health Sciences Center*](#child-marriage-and-intimate-partner-violence-a-comparative-study-of-34-countries)
 - [Child Marriage and Its Associations With Controlling Behaviors and Spousal Violence Against Adolescent and YoungWomen in Pakistan - *Bielefeld University, Emory University, West Virginia University, University of the Punjab*](#child-marriage-and-its-associations-with-controlling-behaviors-and-spousal-violence-against-adolescent-and-youngwomen-in-pakistan)
 - [Child Marriage and Relationship Quality in Ethiopia - *International Center for Research on Women*](#child-marriage-and-its-associations-with-controlling-behaviors-and-spousal-violence-against-adolescent-and-youngwomen-in-pakistan)
 - [Child Marriage as Constitutional Violation - *Nevada Law Journal*](#child-marriage-as-constitutional-violation)
 - [Child Marriage in Bangladesh: Trends and Determinants - *University of Malaya, Islamic University*](#child-marriage-as-constitutional-violation)
+- [Child Marriage or Forced Marriage? South Asian Communities in North East England - *University of Bristol University of Edinburgh*](#child-marriage-or-forced-marriage-south-asian-communities-in-north-east-england)
+- [Child Marriage Prevention in Amhara Region, Ethiopia: Association of Communication Exposure and Social Influence with Parents/ Guardians’ Knowledge and Attitudes - *Tulane University*](#child-marriage-prevention-in-amhara-region-ethiopia-association-of-communication-exposure-and-social-influence-with-parents-guardians-knowledge-and-attitudes)
+- [Child Marriage Threatens Girls’ Health - *Tracy Hampton*](#child-marriage-threatens-girls-health)
+- [Child Marriage, Education, and Agency in Uganda - *Quentin Wodon, Minh Cong Nguyen, Clarence Tsimpo*](#child-marriage-education-and-agency-in-uganda)
+- [Child, Early, and Forced Marriages (CEFM) in the Commonwealth: The Role of the Judiciary - *Commonwealth Law Bulletin*](#child-early-and-forced-marriages-cefm-in-the-commonwealth-the-role-of-the-judiciary)
+- [Coercion, Consent and the Forced Marriage Debate in the UK - *University of Leeds, Roehampton University*](#coercion-consent-and-the-forced-marriage-debate-in-the-uk)
+- [Determinants of Adolescent Pregnancy in Sub-Saharan Africa: A Systematic Review - *Tehran University of Medical Sciences*](#determinants-of-adolescent-pregnancy-in-sub-saharan-africa-a-systematic-review)
+- [Determinants of Child and Forced Marriage in Morocco: Stakeholder Perspectives on Health, Policies and Human Rights - *ICRH, AEDF, WHO, Ghent University*](#determinants-of-child-and-forced-marriage-in-morocco-stakeholder-perspectives-on-health-policies-and-human-rights)
+- [Dimensions of Early Marriage - *Robert G. Ryder*](#dimensions-of-early-marriage)
+- [Early Marriage Among Women in Developing Countries - *The Alan Guttmacher Institute*](#early-marriage-among-women-in-developing-countries)
+- [Early Marriage and Barriers to Contraception Among Syrian Refugee Women in Lebanon: A Qualitative Study - *Université Catholique de Louvain European Commission*](#early-marriage-and-barriers-to-contraception-among-syrian-refugee-women-in-lebanon-a-qualitative-study)
+- [Early Marriage and HIV Risks in Sub-Saharan Africa - *University of Chicago*](#early-marriage-and-hiv-risks-in-sub-saharan-africa)
+- [Early Marriage as a Violation of Human Rights - *The Indonesion Journal of International & Comperative Law*](#early-marriage-as-a-violation-of-human-rights)
 
 
 
@@ -1909,7 +1922,7 @@ By examining the socio-cultural construction of personhood, especially womanhood
 
 ***Key words: "Coercion, Consent, Forced Marriage, South Asian Women" ***
 
-?> *Kuruluş adı: "University of Leeds Roehampton University" ; 2009, İngilizce*
+?> *Kuruluş adı: "University of Leeds, Roehampton University" ; 2009, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_73.pdf ':ignore')
 
