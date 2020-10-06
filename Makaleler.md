@@ -2549,3 +2549,46 @@ The aim of this paper is to critically assess prevailing and emerging policies r
 -->
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Forced Marriage: the Evolution of a New International Criminal Norm
+*MKL_101*
+
+**ÖZET**
+
+Uluslararası ceza hukukunda ilk kez zorla evlilik Sierra Leone Özel Mahkemesinin Temyiz Dairesi tarafından insanlığa karşı müstakil bir suç olarak tanınmıştır. Bu suçu cinsel kölelik gibi diğer suçlardan ayrı tutarak mahkeme, suç teşkil eden eylemin karmaşıklığını ve bütününü ortaya koyan bir tanımlama yaparak kadınlarda ve kız çocuklarında neden olduğu acıların ve mağduriyetin ağırlığını ortaya koymuştur. Bu yeni suç türünün evrimini Özel Mahkemenin içtihadında izleyerek, hem Sierra Leone’de he de onun ötesinde zorla evlendirilen kadınların (bush wives) yaşadığı travmayı yeterince ortaya koyan bir suç türüne evrilme potansiyeli olan zorla evlendirme şeklinde müstakil bir suçun varlığı iddia edilmektedir.
+
+***Anahtar kelimeler: Zorla Evlilik,  Kanunlar ve Mevzuat  ***
+
+**ABSTRACT**
+
+For the first time in international criminal law, forced marriage was recognised by the Appeals Chamber of the Special Court for Sierra Leone as a distinct crime against humanity. Setting it apart from other offences such as sexual slavery, the court acknowledged the gravity of the suffering caused to women and young girls by giving it a definition which captures the complexity and entirety of the criminal conduct. By tracking the evolution of this new offence through the case law of the Special Court, it is argued that there is a unique crime of forced marriage which, should it be allowed to do so, has the potential to progress into a category of offence which adequately captures the trauma experienced by bush wives both in Sierra Leone and beyond.
+
+***Key words: "Forced Marriage, Laws and Regulations" ***
+
+?> *Kuruluş adı: "Aberdeen Student Law Review" ; 2012, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_101.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Forced Marriage: A "New" Crime Against Humanity?
+*MKL_102*
+
+**ÖZET**
+
+Giriş kısmını takiben bu makale beş kısma ayrılmaktadır. İlk kısım Sierra Leone Hakikat ve Uzlaşma Komisyonu ve AFRC Yargılamalarının bulgularını ele almakta ve Sierra Leone iç savaşını ve Sierra Leone Özel Mahkemesinin (SCSL) kurulmasına yol açan olayları anlatmaktadır. İkinci kısımda, cinsel şiddet suçlarına ilişkin SCSL tarafından benimsenen yaklaşımla mukayese edebilmek için Eski Yugoslavya ve Ruanda Uluslararası Ceza Mahkemeleri tarafından verilen bazı kilit kararları incelemektedir. Üçüncü kısım iki alt bölüme ayrılmaktadır. Birinci alt bölüm, zorla evliliği insanlığa karşı yeni bir suç türü olarak kabul etmeyi reddeden AFRC Dava Dairesinin gerekçesini incelemekte ve Dava Dairesinin gerekçelendirmesinin cinsel kölelikle silahlı çatışma esnasında zorla evlilik arasındaki ayrımları saptırdığını iddia ederek AFRC Temyiz Dairesinin “zorla evliliği” ayrı bir suç olarak kabul eden kararını eleştirel olarak incelemektedir. Buradan hareketle ikinci alt bölüm RUF Yargılama Kararlarını ve “zorla evlilik” suçu için AFRC Temyiz Dairesi tarafından ortaya konan muğlak standartların uygulanmasının doğasında bulunan problemleri ele almaktadır. Son olarak, dördüncü ve beşinci kısımlar “zorla evlilik birlikteliğini” kapsayacak şekilde geniş olarak tanımlanmış cinsel kölelik suçunun açık bir tanımının yapılmasını veya alternatif olarak zorla evlilik kanıtlarının cinsel şiddet suçlarının cezalandırılmasında ağırlaştırıcı faktörler arasına dahil edilmesini savunmaktadır.           
+
+***Anahtar kelimeler: "Zorla Evlilik, Kanunlar ve Yönetmelikler"  ***
+
+**ABSTRACT**
+
+Following the introduction, this paper is divided into five parts. The first part discusses the findings of the Sierra Leone Truth and Reconciliation Commission and the AFRC Trial, and it describes the Sierra Leonean civil war and the events leading up to the creation of the Special Court for Sierra Leone (SCSL). The second part explores a few key decisions of the ad hoc tribunals for the Former Yugoslavia and Rwanda to provide a comparison to the approach taken by the SCSL in response to crimes of sexual violence. The third part is divided into two subparts. The first subpart examines the rationale of the AFRC Trial Chamber, which declined to recognize forced marriage as a new crime against humanity, and then critically analyzes the AFRC Appeals Chamber's decision to recognize "forced marriage," arguing that the Chamber's reasoning distorts the distinctions between sexual slavery and forced marriage during armed conflict. Thereafter, the second subpart discusses the RUF Trial Judgment and the problems inherent in its application of the vague standard articulated by the AFRC Appeals Chamber for the crime of "forced marriage." Finally, the fourth and fifth parts argue for a clear definition of the crime of sexual slavery defined broadly to encompass a "forced conjugal association," or alternatively, for the inclusion of evidence of forced marriage as an aggravating factor in sentencing for crimes of sexual violence.
+
+***Key words: "Forced Marriage, Laws and Regulations" ***
+
+?> *Kuruluş adı: "Northwestern University School of Law Northwestern Journal of International Human Rights" ; 2009, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_102.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
