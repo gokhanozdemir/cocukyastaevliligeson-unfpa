@@ -2312,3 +2312,44 @@ In this article, an ethnographic contextualization of the underlying factors giv
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Family Background, School and Early Marriage
+*MKL_91*
+
+**ÖZET**
+
+Bu çalışma aile arka planının evliliklerinin zamanlaması üzerindeki etkisine odaklanmaktadır. 
+
+***Anahtar kelimeler: Erken Evlilik ***
+
+**ABSTRACT**
+
+This study focuses on influence of family background on timing of the marriages.
+
+***Key words: Early Marriage ***
+
+?> *Kuruluş adı: Bowdoin College ; 1979, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_91.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Feminism and the Politics of Childhood - Chapter: ‘Too young to Wed’: Envisioning a ‘Generous Encounter’ between Feminism and the Politics of Childhood
+*MKL_92*
+
+**ÖZET**
+
+Yazardan: Bu bölümde, kız çocuklarının erken yaşta ve zorla evlendirilmeleri konusuna feminist çocukluk dönemi çalışmaları merceğinden bakmaktayım. Geçtiğimiz on yıl boyunca bu konu küresel alanda bir endişe ve öncelik meselesi olarak ortaya çıkmıştır. Küresel Güney’den çocuklar ve çocukluk dönemine ilişki görüntülere eşlik eden tasvir ve söyleme hususi bir ilgi ile bu araştırmaya başladım. Bu analiz için Evlenmek için çok Erken (Too Young to Wed) fotoğraf sergisi bir odak noktası işlevi görmektedir. Sergi ilk kez 2012 yılında New York’ta Birleşmiş Milletler Dünya Kız Çocukları Gününde gösterilmiştir. Bu sergiye, dünya genelinde erken yaşta ve zorla evlendirilmelerini sonlandırmak için küresel olarak başlatılan girişimin bir parçası olarak Birlemiş Milletler Nüfus Fonu sponsor olmuştur. Dünyanın değişik yerlerindeki ziyaretçilerin yanı sıra sanal ortamdaki ziyaretçiler de sergiyi görmüşlerdir. Feminist çocukluk dönemi çalışmaları gözlüğüyle, bu sirkülasyondan kaynaklanan görünürlük ve görünmezlik politikalarının sınırlarını ve bunun sosyal değişim açısından yansımalarını araştırmaktayım. 
+
+***Anahtar kelimeler: Feminizm, Toplumsal Cinsiyet Eşitliği, Çocuk Evliliği, Erken Evlilik ***
+
+**ABSTRACT**
+
+From the Author: ""In this chapter, I use a feminist childhood studies lens through which to view the issue of the early and forced marriage of girls. Over the past decade, this issue has emerged as one of concern and urgency on the global stage.6 I take up this inquiry with a particular interest in the representation and rhetoric that accompanies circulating images of children and childhood from the global South. For this analysis, the photo exhibit Too Young to Wed serves as a focal point. The exhibit debuted at the first United Nations International Day of the Girl in New York in 2012. It was sponsored by the United Nations Population Fund as part of a globally launched initiative to end the early and forced marriage of girls worldwide.8,9 Audiences in places around the world, as well as virtually, have viewed the images. 10 By using a feminist childhood studies lens, I explore the contours of the politics of visibility and invisibility arising from this circulation and the implications this has for social change.
+
+***Key words: "Feminism, Gender Equality, Child Marriage, Early Marriage" ***
+
+?> *Kuruluş adı: UCL Press ; 2018, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_92.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
