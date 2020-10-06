@@ -2333,7 +2333,7 @@ This study focuses on influence of family background on timing of the marriages.
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
-## Feminism and the Politics of Childhood - Chapter: ‘Too young to Wed’: Envisioning a ‘Generous Encounter’ between Feminism and the Politics of Childhood
+## Feminism and the Politics of Childhood - Chapter: ‘Too Young to Wed’: Envisioning a ‘Generous Encounter’ Between Feminism and the Politics of Childhood
 *MKL_92*
 
 **ÖZET**
@@ -2353,3 +2353,49 @@ From the Author: ""In this chapter, I use a feminist childhood studies lens thro
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_92.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Forced Marriage Among Men: An Unrecognized Problem
+*MKL_93*
+
+**ÖZET**
+
+Zorla evlendirmeler genellikle kültür ve toplumsal cinsiyet arasında bir çatışma olarak görülmekte ve az sayıda vakada da olsa erkelerin de mağdur olabildikleri gerçeği politika yapıcıların aktivistlerin dikkatinden kaçmaktadır. Zorla evliliklere genel yaklaşım erkekler açısından da yararlı olmakla birlikte erkekler kamu ilgisinin kapsamı dışında kalmışlardır. Erkeklere özgü sorunlardan birisi, kamuya açık ortamlarda sorunlarını dile getirmeyi erkeklik meselesi olarak görüp buna isteksiz olmalarıdır. Nihayetinde erkekler eğer erkekleri hedefleyen spesifik politikalar görmek istiyorlarsa bu sessizliği kırmak ve toplu olarak organize olup birlikte hareket etmelidirler.
+
+***Anahtar kelimeler: "Çocuk Evliliği, Zorla Evlilik, Erkek Kurbanlar" ***
+
+**ABSTRACT**
+
+Forced marriage is generally viewed as a clash between culture and gender and the fact that men are also victims, in a small number of cases, escapes attention of policy makers and activists. While the overall approach to forced marriage has helped men as well they, however, have remained below the radar of public concern. A problem particular to men is their unwillingness to articulate in public forums their predicament as questions of masculinity are then raised. Ultimately men will have to break the silence, organize and mobilize collectively if they wish to see specific policies that target men.
+
+***Key words: "Child Marriage, Forced Marriage, Men Victims" ***
+
+?> *Kuruluş adı: Critical Social Policy ; 2010, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_93.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Forced Marriage and Asylum: Perceiving the Invisible Harm
+*MKL_94*
+
+**ÖZET**
+
+Zorla evlilikler, dünyanın her köşesinden kadınları kendi anavatanlarından kaçmaya ve sığınmacı koruması talep etmeye itmektedir. Bazıları rızaları olmaksızın birisiyle evlenmeye zorlanmaktadırlar bazıları ise yapmaya zorlandıkları bir evlilikten kurtulmaya çalışmaktadırlar. Yukarıda açıklandığı üzere bu kadınlar kurtulmak istedikleri evlilikleriyle ilgili çeşitli zararlara maruz kalmaktalar veya bunların riskini taşımaktadırlar – tecavüze uğrayabilirler, dövülebilirler, kadın sünnetine maruza kalabilirler, tehdit ve hakaret görebilir veya daha fazlasına maruz kalabilirler. 
+
+***Anahtar kelimeler: "Zorla Evlilik, Sığınma" ***
+
+**ABSTRACT**
+
+"Forced marriage drives women from all corners of the globe to flee their homelands in pursuit of refugee protection. Some are being forced to marry someone against their will; others are trying to escape a marriage they have already been forced to enter. As illustrated above, these women often suffer or risk several harms related to the marriage they seek to escape-they may be raped, beaten, subjected to female genital cutting ("FGC"), threatened, insulted, or more."
+
+***Key words: "Forced Marriage, Asylum" ***
+
+?> *Kuruluş adı: Columbia Human Rights Law Review ; 2010, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_94.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+
+
+
