@@ -2597,3 +2597,76 @@ Following the introduction, this paper is divided into five parts. The first par
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Forced Marriage'in Conflict Situations: Researching and Prosecuting Old Harms and New Crimes
+*MKL_103*
+
+**ÖZET**
+
+Bu makalede çatışma durumlarında zorla evlilik suçu incelenmekte ve savaş hallerinde zorla evlilik olarak atıfta bulunulan uygulamaların, ayrıca yeni bir suç tipi yerine, uluslararası hukukta köleleştirme olarak cezalandırılması gerektiği belirtilmektedir.  Son beş yıl içerisinde literatürde ortaya çıkan cinsiyete dayalı suçların uluslararası yargılanmalarına ilişkin bazı eleştiriler ve özellikle de yargılamalarda ortaya konduğu şekliyle “mağdur olma” durumunun karmaşıklıklarına ilişkin olanlar ele alınmaktadır.           
+
+***Anahtar kelimeler: "Zorla Evlilik, Kanunlar ve Yönetmelikler"  ***
+
+**ABSTRACT**
+
+In this article, the crime of forced marriage in conflict situations are explored and the practices referred to as forced marriage in war ought to be charged as enslavement in international law and not a new separate crime is argued. Throughout some of the critiques of international prosecutions of gender crimes that have emerged in the literature in the past five years are adressed, in particular those concerning the complexities of victimhood as presented in trials.
+
+***Key words: "Forced Marriage, Laws and Regulations" ***
+
+?> *Kuruluş adı: Canadian Journal of Human Rights ; 2012, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_103.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Forced Marriages of Children as a Form of Exploitation of Human Trafficking Victims
+*MKL_104*
+
+**ÖZET**
+
+Bu makalenin ilk kısmı bu tür çocuk sömürüsü kavramının kapsamını, sebeplerini ve çocukların başa çıkmak zorunda kaldıkları sonuçlarını ele almaktadır. İkinci bölüm, çocuk ticaretinin önlenmesine ilişkin uluslararası hukuki çerçeveyi ve çocukların ve onların haklarının uluslararası olarak korunmasını sağlayan belgeleri ortaya koymaktadır.  Ayrıca, çocukların ve onların haklarının korunmasını sağlayan uluslararası mevzuata ve özellikle de ceza hukuku alanındaki ve diğer genel mevzuata işaret etmektedir. Bu makale aynı zamanda zorla evlilik suçunun çocuk mağdurlarına ilişkin toplanan verileri analiz etmektedir.           
+
+***Anahtar kelimeler: "Çocuk Ticareti, Zorla Evlilik"  ***
+
+**ABSTRACT**
+
+The first part of the paper covers the concept, scope and causes of this form of exploitation of children and the consequences that children need to cope with. The second part presents the international legal framework relating to the suppression of trafficking
+in children as well as the documents to guarantee international protection of children and their rights. Furthermore, it points out to the national legislation, principally in the field of criminal law, but also other blanket regulations which ensure the protection of children and their rights. This paper also analyses the collected data on child victims of forced marriage.
+
+***Key words: "Child Trafficking, Forced Marriage" ***
+
+?> *Kuruluş adı: EU and Comperative Law Issues and Challanges ; 2017, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/323764526_FORCED_MARRIAGES_OF_CHILDREN_AS_A_FORM_OF_EXPLOITATION_OF_HUMAN_TRAFFICKING_VICTIMS)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_104.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Girl Child Marriage and Its Effect on Fertility in Pakistan: Findings from Pakistan Demographic and Health Survey, 2006–2007
+*MKL_105*
+
+**ÖZET**
+
+Bu çalışma, sosyal kırılganlıklara atfedilenlerin ötesinde, Pakistan’daki genç kadınlar arasında erken evliliklerle yüksek doğurganlık ve düşük doğurganlık sağlık göstergeleri arasındaki ilişkiyi tespit etmeyi amaçlamaktadır.           
+
+***Anahtar kelimeler: Çocuk evliliği, Kadın, Eşitsizlik, Doğurganlık, Pakistan  ***
+
+**ABSTRACT**
+
+This study aims to determine the association between early marriage and high fertility and poor fertility health indicators among young women in Pakistan beyond those attributed to social vulnerabilities.
+
+***Key words: Child marriage, Women, Inequity, Fertility, Pakistan ***
+
+?> *Kuruluş adı: "Bielefeld University, Emory University, West Virginia University, Century Circle, Aga Khan University, University of California, Boston University" ; 2014, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/236196573_Girl_Child_Marriage_and_Its_Effect_on_Fertility_in_Pakistan_Findings_from_Pakistan_Demographic_and_Health_Survey_2006-2007)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_104.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
