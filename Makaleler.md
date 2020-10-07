@@ -87,6 +87,17 @@
 - [Early Marriage, Marital Relations Violence - *Guttmacher Institute*](#early-marriage-marital-relations-violence)
 - [Early Marriage: A Gender-Based Violence and A Violation of Women's Human Rights in Nigeria - *Canadian Center of Science and Education*](#early-marriage-a-gender-based-violence-and-a-violation-of-women39s-human-rights-in-nigeria)
 - [Early Marriage: A Propositional Formulation - *University of Iowa Washington State University*](#early-marriage-a-propositional-formulation)
+- [Early Menarche: A Systematic Review Of Its Effect On Sexual and Reproductive Health In Low and Middle-Income Countries - *Columbia University Mailman School of Public Health*](#early-menarche-a-systematic-review-of-its-effect-on-sexual-and-reproductive-health-in-low-and-middle-income-countries)
+- [Economic Impacts of Child Marriage: A Review of the Literature - *American Jewish World Service, International Center for Research on Women, World Bank*](#economic-impacts-of-child-marriage-a-review-of-the-literature)
+- [Effects of Education and Poverty on the Prevalence of Girl Child Marriage in India: A District–Level Analysis - *Jawaharlal Nehru University*](#effects-of-education-and-poverty-on-the-prevalence-of-girl-child-marriage-in-india-a-districtlevel-analysis)
+- [Effects of Sex, Culture, and Support Type on Perceptions of Spousal Social Support An Assessment of the “Support Gap” Hypothesis in Early Marriage - *University of Southern California, Purdue University*](#effects-of-sex-culture-and-support-type-on-perceptions-of-spousal-social-support-an-assessment-of-the-support-gap-hypothesis-in-early-marriage)
+- [Ethnographic Empathy and the Social Context of Rights: “Rescuing” Maasai Girls from Early Marriage - *American Anthropological Association*](#ethnographic-empathy-and-the-social-context-of-rights-rescuing-maasai-girls-from-early-marriage)
+- [Family Background, School and Early Marriage - *Bowdoin College*](#family-background-school-and-early-marriage)
+- [Feminism and the Politics of Childhood - Chapter: ‘Too Young to Wed’: Envisioning a ‘Generous Encounter’ Between Feminism and the Politics of Childhood - *UCL Press*](#feminism-and-the-politics-of-childhood-chapter-too-young-to-wed-envisioning-a-generous-encounter-between-feminism-and-the-politics-of-childhood)
+- [Forced Marriage Among Men: An Unrecognized Problem - *Critical Social Policy*](#forced-marriage-among-men-an-unrecognized-problem)
+- [Forced Marriage and Asylum: Perceiving the Invisible Harm - *Columbia Human Rights Law Review*](#forced-marriage-and-asylum-perceiving-the-invisible-harm)
+- [Forced Marriage as a Harm in Domestic and International Law - *UBC, UTS*](#forced-marriage-as-a-harm-in-domestic-and-international-law)
+
 
 
 
