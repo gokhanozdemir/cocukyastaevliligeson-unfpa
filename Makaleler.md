@@ -2838,3 +2838,88 @@ Child marriage has gained increased international prominence over the past decad
 -->
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Intergenerational Education Effects of Early Marriage in Sub-Saharan Africa
+*MKL_113*
+
+**ÖZET**
+
+Bu makale, Sahra-altı Afrika’daki 25-32 ülkede 2000 ve 2010 yıllarında (Demografik ve Sağlık Araştırması) kadınların erken yaşta evlenmiş olup olmamalarının çocuklarının okul başarıları üzerinde etkilerine bakarak erken evliliklerin eğitim eşitsizlikleri üzerindeki etkilerinin evrimini incelemektedir. 
+
+***Anahtar kelimeler: Erken Evlilikler, Eğitim, Topluluk, Güçlenme***
+
+**ABSTRACT**
+
+This paper analyzes the evolution of the effects on educational inequality of early marriage by looking at the impact of whether women had married young on their children’s schooling outcomes for 25–32 countries (Demographic and Health Surveys) in 2000 and 2010 for Sub-Saharan Africa. 
+
+***Key words: Early Marriage, Education, Community, Empowerment***
+
+?> *Kuruluş adı: University of Cambridge, University of Sussex ; 2017, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_113.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## International Law as an Instrument to Combat Child Marriage
+*MKL_114*
+
+**ÖZET**
+
+Bu makalenin amacı, çocuk evliliklerin yasal olup olmadığını uluslararası perspektiften tespit etme konusunda etkisi olan uluslararası anlaşmaları incelemek ve uluslararası anlaşmaların bu uygulamaları azaltmakta etkili bir araç olup olmadıklarını değerlendirmektir. Makale, uluslararası hukukun çocuk yaşta evliliğe karşı kampanyada önemli bir rol oynadığını, konunun ne kadar ciddi olduğuna vurgu yaptığını öne sürmektedir. Uluslararası anlaşmaların meydana gelen çocuk yaşta evliliklerinin sayısında bir azalma sağlayamayacaklarını, hukukun ulusal ve yerel olarak uygulanmasını sağlamak için uygun programların geliştirilmesi gerektiğini belirtmektedir.     
+
+***Anahtar kelimeler: Çocuk Evliliği, Kampanya Yürütme, Uluslararası Hukuk***
+
+**ABSTRACT**
+
+The purpose of this article is to examine the international instruments that have an impact on child marriage in order to determine its legality from an international perspective and to assess whether international treaties are an effective means of reducing the practice. The paper argues that international law plays a significant role in the campaign against child marriage because it emphasises the gravity of the issue. It is conceded that international treaties cannot themselves secure a reduction in the number of child marriages that occur and that appropriate programmes must be developed in order to ensure that the law is implemented nationally and locally.
+
+***Key words: Child Marriage, Campaigning, International Law***
+
+?> *Kuruluş adı: The International Journal of Human Rights ; 2010, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_114.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Interventions Against Forced Marriage: Contesting Hegemonic Narratives and Minority Practices in Europe
+*MKL_115*
+
+**ÖZET**
+
+Bu makalede, batılı ülkelerde rutin olarak Müslümanların homofobi, namus cinayetleri ve kendi toplulukları içerisinde zorla evlendirmeler tasvirleriyle liberal olmayan azınlıklar olarak resmedildikleri iddia edilmektedir. Bu durumun pratik zorluğu, özgürlük karşıtı uygulamalara nerede olursa olsun karşı çıkarken bir inanç toplumunun tamamını şeytanlaştırmamaktır. Aynı zamanda anaakım batı değerleri hakkında kavramsal sorular da yöneltmektedir. Zorla evlilikler bağlamında, liberal prensipler (bireyin evleneceği partnerini kendisinin seçme hakkı ve evlenip evlenememeye karar verme hakkı gibi), çok-kültürlülüğe değer verilmesi (azınlıkların farklı evlilik geleneklerini uygulama haklarını tanıyabilen) gibi sömürgecilik sonrası anlayışlarla çatışıyor görünmektedir. Zorla evliliklerle mücadele eden ve kendisini Müslüman olarak tanımlayan bir kuruluş olan Stichting Platform Islamitische Organisaties Rijnmond'u (SPIOR) kapsayan bir vaka çalışması üzerinden bu sorular incelenmektedir.  
+
+***Anahtar kelimeler: Zorla Evlilik, Müslüman, Oryantalizm, Sömürgecilik Sonrası, Avrupa***
+
+**ABSTRACT**
+
+In this article, it is argued that Muslims in western countries are routinely depicted as non-liberal minorities through representations of homophobia, honour killings and forced marriage within their communities. This presents a practical challenge to face up to non-liberal practices where they do exist, but without demonising an entire faith community. It also raises conceptual questions about mainstream western values. In the context of forced marriage, liberal principles (such as an individual’s right to choose their own marriage partner and to decide whether to marry) appear to clash with postcolonial sensibilities including a valorisation of multiculturalism (which might recognise the rights of minorities to practice different marriage customs). These questions are examined through this case study involving Stichting Platform Islamitische Organisaties Rijnmond (SPIOR), a Muslim-identified organisation that works against forced marriage.  
+
+***Key words: Forced Marriage, Muslim, Orientalism, Postcolonial, Europe***
+
+?> *Kuruluş adı: University of Liverpool ; 2012, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_115.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Interventions to Prevent Child Marriage Among Young People in Low- and Middle-Income Countries: A Systematic Review of the Published and Gray Literature
+*MKL_116*
+
+**ÖZET**
+
+Bu incelemenin amacı düşük ve orta gelirli ülkelerde çocuk yaşta evlilikleri ortadan kaldırmak için yüksek kaliteli müdahaleler ve değerlendirmeleri tespit etmektir. 
+
+***Anahtar kelimeler: Çocuk Evliliği, Ergen, Genç Yetişkin, Düşük Gelirli Ülkeler, Orta Gelirli Ülkeler***
+
+**ABSTRACT**
+
+The objective of this review was to identify high-quality interventions and evaluations to decease child marriage in low- and middle-income
+countries. 
+
+***Key words: Child Marriage, Adolescent, Young  Adult, Low-income Countries; Middle-income Countries***
+
+?> *Kuruluş adı: Johns Hopkins Bloomberg, School of Public HealthLee-Rife Research, WHO ; 2016, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_116.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
