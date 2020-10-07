@@ -1474,7 +1474,7 @@ This study aims to gather qualitative data about the factors that promote child 
 
 ***Key words: Conflict, Displacement, Syrian Refugees, Early Marriage, Child Marriage, Lebanon***
 
-?> *Kuruluş adı: "American University of Beirut Women’s Refugee Commission"; 2017, İngilizce*
+?> *Kuruluş adı: American University of Beirut Women’s Refugee Commission ; 2017, İngilizce*
 
 <!-- 
 
@@ -1500,7 +1500,7 @@ Forced marriage is a means of controlling female sexuality and women’s autonom
 
 ***Key words: Forced Marriage***
 
-?> *Kuruluş adı: ". INTERIGHTS British Home Office’s Working Group on Forced Marriage"; 2001, İngilizce*
+?> *Kuruluş adı: INTERIGHTS British Home Office’s Working Group on Forced Marriage ; 2001, İngilizce*
 
 <!-- 
 
@@ -1526,7 +1526,7 @@ Female orphans are widely cited as being at risk for early marriage, early child
 
 ***Key words: Early Marriage, Teen Pregnancy***
 
-?> *Kuruluş adı: "Ipas University of North Caroline" ; 2009, İngilizce*
+?> *Kuruluş adı: Ipas University of North Caroline ; 2009, İngilizce*
 
 <!-- 
 
@@ -1573,7 +1573,7 @@ In this study, it is aimed to examine the association between child marriage and
 
 ***Key words: Child Marriage, Antenatal Care (ANC), Delivery Care, Postnatal Care (PNC), India***
 
-?> *Kuruluş adı: "Jawaharlal Nehru University, University of Gour Banga"; 2019, İngilizce*
+?> *Kuruluş adı: Jawaharlal Nehru University, University of Gour Banga ; 2019, İngilizce*
 
 <!-- 
 
@@ -1599,7 +1599,7 @@ This paper aims to reveal association between early marriage and marital and rep
 
 ***Key words: Early Marriage, Reproductive Health, Maternal Health ***
 
-?> *Kuruluş adı: "Population Council International Institute for Population Sciences"; 2010, İngilizce*
+?> *Kuruluş adı: Population Council International Institute for Population Sciences ; 2010, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_58.pdf ':ignore')
 
@@ -1618,7 +1618,7 @@ Bu çalışmanın amacı, Suriyeli mülteci kız çocuklarının Ürdün'ün Za'
 
 The purpose of this study was to uncover and describe the barriers to education as experienced by Syrian refugee girls in the Za’atri Syrian Refugee Camp in Jordan.
 
-***Key words: "Child Labor, Child Marriage, Education, Syrian Refugee Girls, Za’atri Camp Jordan" ***
+***Key words: Child Labor, Child Marriage, Education, Syrian Refugee Girls, Za’atri Camp Jordan ***
 
 ?> *Kuruluş adı: California State University Northridge ; 2019, İngilizce*
 
@@ -1646,7 +1646,7 @@ This study examines investments in countries of low income, lower-middle income,
 
 ***Key words: Sustainable Development, Adolescents ***
 
-?> *Yayımlayan :"Peter Sheehan, Kim Sweeny, Bruce Rasmussen, Annababette Wils, Howard S Friedman, Jacqueline Mahon, George C Patton, Susan M Sawyer, Eric Howard, John Symons, Karin Stenberg, Satvika Chalasani, Neelam Maharaj, Nicola Reavley, Hui Shi, Masha Fridman, Alison Welsh, Emeka Nsofor, Laura Laski" ; 2017, İngilizce*
+?> *Yayımlayan : Peter Sheehan, Kim Sweeny, Bruce Rasmussen, Annababette Wils, Howard S Friedman, Jacqueline Mahon, George C Patton, Susan M Sawyer, Eric Howard, John Symons, Karin Stenberg, Satvika Chalasani, Neelam Maharaj, Nicola Reavley, Hui Shi, Masha Fridman, Alison Welsh, Emeka Nsofor, Laura Laski ; 2017, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_60.pdf ':ignore')
 
@@ -1667,7 +1667,7 @@ This article argues that the early and/or forced marriage of girls under 18 shou
 
 ***Key words: Child Marriage, Child Labor ***
 
-?> *Kuruluş adı: "İzmir University of Economics Loyola Marymount University" ; 2019, İngilizce*
+?> *Kuruluş adı: İzmir University of Economics Loyola Marymount University ; 2019, İngilizce*
 
 <!-- 
 
@@ -1740,7 +1740,7 @@ This study aims to determine the associations between child marriage and control
 
 ***Key words: Child Marriage, Women, Violence, Spouse, Partner, Pakistan ***
 
-?> *Kuruluş adı: "Bielefeld University, Emory University, West Virginia University, University of the Punjab" ; 2014, İngilizce*
+?> *Kuruluş adı: Bielefeld University, Emory University, West Virginia University, University of the Punjab ; 2014, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_64.pdf ':ignore')
 
@@ -1823,7 +1823,7 @@ This article addresses the links between child marriage and forced marriage in t
 
 ***Key words: Child Marriage, Forced Marriage ***
 
-?> *Kuruluş adı: "University of Bristol University of Edinburgh" ; 2009, İngilizce*
+?> *Kuruluş adı: University of Bristol University of Edinburgh ; 2009, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_68.pdf ':ignore')
 
@@ -1896,7 +1896,7 @@ Bu çalışmada, çocuk yaşta evliliğin Uganda'da orta öğretime kayıt ve or
 
 ***Key words: Child Marriage, Education, Out of School Children ***
 
-?> *Yayımlayan: "Quentin Wodon, Minh Cong Nguyen, Clarence Tsimpo" ; 2015, İngilizce*
+?> *Yayımlayan: Quentin Wodon, Minh Cong Nguyen, Clarence Tsimpo ; 2015, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_71.pdf ':ignore')
 
@@ -1938,7 +1938,7 @@ By examining the socio-cultural construction of personhood, especially womanhood
 
 ***Key words: "Coercion, Consent, Forced Marriage, South Asian Women" ***
 
-?> *Kuruluş adı: "University of Leeds, Roehampton University" ; 2009, İngilizce*
+?> *Kuruluş adı: University of Leeds, Roehampton University ; 2009, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_73.pdf ':ignore')
 
@@ -1985,7 +1985,7 @@ The objective of this research study was to explore perspectives of a broad rang
 
 ***Key words: Child and Forced Marriage,  Women’s Rights, Sexual and Reproductive Health, Violence ***
 
-?> *Kuruluş adı: "ICRH, AEDF, WHO, Ghent University" ; 2013, İngilizce*
+?> *Kuruluş adı: ICRH, AEDF, WHO, Ghent University ; 2013, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_75.pdf ':ignore')
 
@@ -2048,7 +2048,7 @@ The Syrian conflict has displaced five million individuals outside their country
 
 ***Key words: Syria, Lebanon, Refugees, Refugee Health, Public Health, Conflict, Reproductive Health, Early Marriage ***
 
-?> *Kuruluş adı: "Université Catholique de Louvain European Commission" ; 2017, İngilizce*
+?> *Kuruluş adı: Université Catholique de Louvain European Commission ; 2017, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_78.pdf ':ignore')
 
@@ -2095,7 +2095,7 @@ This article sets out to assess the harms of early marriage by using legal anthr
 
 ***Key words: "Early Marriage, Human Rights" ***
 
-?> *Kuruluş adı: "The Indonesion Journal of International & Comperative Law" ; 2014, İngilizce*
+?> *Kuruluş adı: The Indonesion Journal of International & Comperative Law ; 2014, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_80.pdf ':ignore')
 
@@ -2215,7 +2215,7 @@ In this study, the empirical research on early marriage is reviewed and restated
 
 ***Key words: Early Marriage ***
 
-?> *Kuruluş adı: "University of Iowa Washington State University" ; 1970, İngilizce*
+?> *Kuruluş adı: University of Iowa Washington State University ; 1970, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_85.pdf ':ignore')
 
@@ -2257,7 +2257,7 @@ In this article, the objective is to provide useful information for such dialogu
 
 ***Key words: Child Marriage, Economic Impact ***
 
-?> *Kuruluş adı: "American Jewish World Service, International Center for Research on Women, World Bank" ; 2015, İngilizce*
+?> *Kuruluş adı: American Jewish World Service, International Center for Research on Women, World Bank ; 2015, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_87.pdf ':ignore')
 
@@ -2304,7 +2304,7 @@ Several writers have suggested that a “support gap” characterizes modern mar
 
 ***Key words: Early Marriage, Spousal Social Support ***
 
-?> *Kuruluş adı: "University of Southern California, Purdue University" ; 2001, İngilizce*
+?> *Kuruluş adı: University of Southern California, Purdue University ; 2001, İngilizce*
 
 [Materyal Erişim Linki](https://www.researchgate.net/publication/230218687_Effects_of_Sex_Culture_and_Support_Type_on_Perceptions_of_Spousal_Social_Support_An_Assessment_of_the_Support_Gap_Hypothesis_in_Early_Marriage)
 
@@ -2373,7 +2373,7 @@ Yazardan: Bu bölümde, kız çocuklarının erken yaşta ve zorla evlendirilmel
 
 **ABSTRACT**
 
-From the Author: ""In this chapter, I use a feminist childhood studies lens through which to view the issue of the early and forced marriage of girls. Over the past decade, this issue has emerged as one of concern and urgency on the global stage.6 I take up this inquiry with a particular interest in the representation and rhetoric that accompanies circulating images of children and childhood from the global South. For this analysis, the photo exhibit Too Young to Wed serves as a focal point. The exhibit debuted at the first United Nations International Day of the Girl in New York in 2012. It was sponsored by the United Nations Population Fund as part of a globally launched initiative to end the early and forced marriage of girls worldwide.8,9 Audiences in places around the world, as well as virtually, have viewed the images. 10 By using a feminist childhood studies lens, I explore the contours of the politics of visibility and invisibility arising from this circulation and the implications this has for social change.
+From the Author: In this chapter, I use a feminist childhood studies lens through which to view the issue of the early and forced marriage of girls. Over the past decade, this issue has emerged as one of concern and urgency on the global stage.6 I take up this inquiry with a particular interest in the representation and rhetoric that accompanies circulating images of children and childhood from the global South. For this analysis, the photo exhibit Too Young to Wed serves as a focal point. The exhibit debuted at the first United Nations International Day of the Girl in New York in 2012. It was sponsored by the United Nations Population Fund as part of a globally launched initiative to end the early and forced marriage of girls worldwide.8,9 Audiences in places around the world, as well as virtually, have viewed the images. 10 By using a feminist childhood studies lens, I explore the contours of the politics of visibility and invisibility arising from this circulation and the implications this has for social change.
 
 ***Key words: "Feminism, Gender Equality, Child Marriage, Early Marriage" ***
 
@@ -2415,7 +2415,7 @@ Zorla evlilikler, dünyanın her köşesinden kadınları kendi anavatanlarında
 
 **ABSTRACT**
 
-"Forced marriage drives women from all corners of the globe to flee their homelands in pursuit of refugee protection. Some are being forced to marry someone against their will; others are trying to escape a marriage they have already been forced to enter. As illustrated above, these women often suffer or risk several harms related to the marriage they seek to escape-they may be raped, beaten, subjected to female genital cutting ("FGC"), threatened, insulted, or more."
+Forced marriage drives women from all corners of the globe to flee their homelands in pursuit of refugee protection. Some are being forced to marry someone against their will; others are trying to escape a marriage they have already been forced to enter. As illustrated above, these women often suffer or risk several harms related to the marriage they seek to escape-they may be raped, beaten, subjected to female genital cutting ("FGC"), threatened, insulted, or more.
 
 ***Key words: "Forced Marriage, Asylum" ***
 
@@ -2555,7 +2555,7 @@ The aim of this paper is to critically assess prevailing and emerging policies r
 
 ***Key words: Forced Marriage, Europe ***
 
-?> *Kuruluş adı: "Ghent University, WHO, HRC" ; 2014, İngilizce*
+?> *Kuruluş adı: Ghent University, WHO, HRC ; 2014, İngilizce*
 
 [Materyal Erişim Linki](https://www.researchgate.net/publication/271920925_Forced_marriage_an_analysis_of_legislation_and_political_measures_in_Europe)
 
@@ -2581,7 +2581,7 @@ For the first time in international criminal law, forced marriage was recognised
 
 ***Key words: "Forced Marriage, Laws and Regulations" ***
 
-?> *Kuruluş adı: "Aberdeen Student Law Review" ; 2012, İngilizce*
+?> *Kuruluş adı: Aberdeen Student Law Review ; 2012, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_101.pdf ':ignore')
 
@@ -2602,7 +2602,7 @@ Following the introduction, this paper is divided into five parts. The first par
 
 ***Key words: "Forced Marriage, Laws and Regulations" ***
 
-?> *Kuruluş adı: "Northwestern University School of Law Northwestern Journal of International Human Rights" ; 2009, İngilizce*
+?> *Kuruluş adı: Northwestern University School of Law Northwestern Journal of International Human Rights ; 2009, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_102.pdf ':ignore')
 
@@ -2671,7 +2671,7 @@ This study aims to determine the association between early marriage and high fer
 
 ***Key words: Child marriage, Women, Inequity, Fertility, Pakistan ***
 
-?> *Kuruluş adı: "Bielefeld University, Emory University, West Virginia University, Century Circle, Aga Khan University, University of California, Boston University" ; 2014, İngilizce*
+?> *Kuruluş adı: Bielefeld University, Emory University, West Virginia University, Century Circle, Aga Khan University, University of California, Boston University ; 2014, İngilizce*
 
 [Materyal Erişim Linki](https://www.researchgate.net/publication/236196573_Girl_Child_Marriage_and_Its_Effect_on_Fertility_in_Pakistan_Findings_from_Pakistan_Demographic_and_Health_Survey_2006-2007)
 
@@ -2697,7 +2697,7 @@ This paper quantitatively examines the intergenerational effects of girl child m
 
 ***Key words: Sub-Saharan Africa, Child Marriage, Early Childhood Development, Stunting ***
 
-?> *Kuruluş adı: "Harvard T. H. Chan School of Public Health, Harvard Medical School" ; 2017, İngilizce*
+?> *Kuruluş adı: Harvard T. H. Chan School of Public Health, Harvard Medical School ; 2017, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_106.pdf ':ignore')
 
@@ -2786,7 +2786,7 @@ This article investigates the household determinants of teen marriage in Ethiopi
 
 ***Key words: Child Marriage ***
 
-?> *Kuruluş adı: "University of Pennsylvania, Pontificia Universidad Católica de Chile" ; 2019, İngilizce*
+?> *Kuruluş adı: University of Pennsylvania, Pontificia Universidad Católica de Chile ; 2019, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_110.pdf ':ignore')
 
