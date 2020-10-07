@@ -2791,3 +2791,50 @@ This article investigates the household determinants of teen marriage in Ethiopi
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_110.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## How do Jordanian and Syrian Youth Living in Jordan Envision Their Sexual and Reproductive Health Needs? A Concept Mapping Study Protocol
+*MKL_111*
+
+**ÖZET**
+
+Bu protokol, kavram haritalandırması olarak adlandırılan katılımcı bir araştırma yöntemi kullanarak nitel bir çalışmanın tasarımının ana hatlarını açıklamaktadır. Bu yöntem, katılımcıların kendi cinsel sağlık ve üreme sağlığı ihtiyaçlarını nasıl gördüklerine ilişkin kavramsal bir çerçeve geliştirmelerini sağlar.   
+
+***Anahtar kelimeler: Suriyeli Gençler, Ürdünlü Gençler, Cinsel Sağlık, Üreme Sağlığı***
+
+**ABSTRACT**
+
+This protocol outlines the design of a qualitative study using a participatory research methodology called concept mapping. This methodology enables participants to develop a conceptual framework for how they envision their sexual and reproductive health needs.
+
+***Key words: Syrian Youth, Jordanian Youth, Sexual Health, Reproductive Health***
+
+?> *Kuruluş adı: Harvard T.H. Chan School of Public Health, University of Jordan, Jordanian Hashemite Foundation for Human Development (JOHUD) ; 2019, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_111.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Informed Powerlessness: Child Marriage Interventions and Third World Girlhood Discourses
+*MKL_112*
+
+**ÖZET**
+
+Geçtiğimiz on yıllarda çocuk yaşta evlilik meselesinin uluslararası anlamda önemi artmıştır. Bu konu üzerinde çalışan kuruluşlar,kız çocuklarının güçlenmesini bu sorunla mücadelenin en iyi stratejisi olarak teşvik etmektedirler. Sömürgecilik sonrası feminist teoriden hareketle bu makale Üçüncü Dünyada kız çocuğu olmak, öznelik, direniş ve sesin nasıl kavramsallaştırıldığını analiz etmektedir ve bu söylemlerin, uluslararası kalkınmada daha geniş ölçekte, “kız çocuklarına yönelme (turn to the girl)” ve “onları özne haline getirme (turn to agency)” bağlamındaki yerini tespit etmektedir. Kız çocukları aileleri ve toplumları tarafından tehdit edilen bir grup olarak yorumlanmakta, bir meta olarak görülüp, baskılanmaktadır.  Makale, çocuk yaşta evlilik ile ilgili karar verme sürecinin karmaşıklığının ve daha geniş anlamda yapısal faktörlerin göz ardı edildiğini iddia etmektedir. Dolayısıyla da kız çocukları değişimin öznesi kılmak için onlara yönelik “güçlenme için bilgi sağlama” müdahalelerinin onları daha ziyade “bilgi sahibi olmuş güçsüz bir grup” olmaya terk ettiğini öne sürmektedir.  
+
+***Anahtar kelimeler: Çocuk Evliliği, Üçüncü Dünyada Kız Çocuğu Olmak, Sömürgecilik Sonrası Feminizm***
+
+**ABSTRACT**
+
+Child marriage has gained increased international prominence over the past decades. Organisations working with the issue have promoted empowering girls as the best strategy to address it. Informed by postcolonial feminist theory, this article will locate these discourses in broader ‘turn to the girl’ and ‘turn to agency’ in international development, analysing how Third World girlhood, agency, resistance and voice are conceptualised. Girls are constructed as threatened by their families and communities, with agency exercised through resistance and materialised by their voice. It is argued that it ignores the complexity of decision-making processes and broader structural factors related to child marriage, so that interventions providing ‘empowerment-as-information’ for girls to be agents of change instead leave them in a state of informed powerlessness.
+
+***Key words: Child Marriage, Third World Girlhood, Postcolonial Feminist Theory***
+
+?> *Kuruluş adı: University of Birmingham ; 2019, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/333849188_Informed_powerlessness_child_marriage_interventions_and_Third_World_girlhood_discourses)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_112.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
