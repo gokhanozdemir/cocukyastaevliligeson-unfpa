@@ -2666,7 +2666,29 @@ This study aims to determine the association between early marriage and high fer
 
 <!-- 
 
-[Dokümanı İncele](downloads\HUNEE\MKL\MKL_104.pdf ':ignore')
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_105.pdf ':ignore')
 -->
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Girl Child Marriage as a Risk Factor for Early Childhood Development and Stunting
+*MKL_106*
+
+**ÖZET**
+
+Bu makale kız çocukların evlendirilmesinin nesiller arası etkilerini veya 18 yaşından önce evlenmiş olan kadınların doğurduğu çocukların gelişimsel ve sağlık sonuçlarını nitel olarak incelemektedir. Genel amaç, kız çocuklarının evlendirilmesinin Sahra-altı Afrika’da çocukların sağlık ve refahını etkileme mekanizmasını anlamak ve bu mekanizmaların göreceli boyutu ve etkilerini kavramaktır.   
+
+***Anahtar kelimeler: Sahra Altı Afrika, Çocuk Evliliği, Erken Çocukluk Gelişimi, Gelişimin engellenmesi  ***
+
+**ABSTRACT**
+
+This paper quantitatively examines the intergenerational effects of girl child marriage, or the developmental and health outcomes of children born to women who marry before age 18. The overall objective is to understand the mechanisms through which girl child marriage affects the health and well-being of children in sub-Saharan Africa, as well as the relative magnitude and impact of these mechanisms.
+
+***Key words: Sub-Saharan Africa, Child Marriage, Early Childhood Development, Stunting ***
+
+?> *Kuruluş adı: "Harvard T. H. Chan School of Public Health, Harvard Medical School" ; 2017, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_106.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
