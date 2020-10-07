@@ -1591,13 +1591,13 @@ In this study, it is aimed to examine the association between child marriage and
 
 Bu çalışmanın amacı, Hindistan'da bir vaka çalışması üzerinden erken evlilik ile anne ve üreme sağlığı sorunları arasındaki ilişkiyi ortaya çıkarmaktır. 
 
-***Anahtar kelimeler: Erken Evlilik, Üreme Sağlığı, Anne Sağlığı ***
+***Anahtar kelimeler: Erken Evlilik, Üreme Sağlığı, Anne Sağlığı***
 
 **ABSTRACT** 
 
 This paper aims to reveal association between early marriage and marital and reproductive health problems through a case study in India. 
 
-***Key words: Early Marriage, Reproductive Health, Maternal Health ***
+***Key words: Early Marriage, Reproductive Health, Maternal Health***
 
 ?> *Kuruluş adı: Population Council International Institute for Population Sciences ; 2010, İngilizce*
 
@@ -1612,13 +1612,13 @@ This paper aims to reveal association between early marriage and marital and rep
 
 Bu çalışmanın amacı, Suriyeli mülteci kız çocuklarının Ürdün'ün Za'atri Suriyeli Mülteci Kampı'nda yaşadıkları ışığında eğitimin önündeki engellerin ortaya çıkarılması ve tanımlanmasıdır.
 
-***Anahtar kelimeler: Çocuk İşçiliği, Çocuk Yaşta Evlilik, Eğitim,  Suriyeli Mülteci Kız Çocuklar, Ürdün Za'atri Kampı ***
+***Anahtar kelimeler: Çocuk İşçiliği, Çocuk Yaşta Evlilik, Eğitim,  Suriyeli Mülteci Kız Çocuklar, Ürdün Za'atri Kampı***
 
 **ABSTRACT** 
 
 The purpose of this study was to uncover and describe the barriers to education as experienced by Syrian refugee girls in the Za’atri Syrian Refugee Camp in Jordan.
 
-***Key words: Child Labor, Child Marriage, Education, Syrian Refugee Girls, Za’atri Camp Jordan ***
+***Key words: Child Labor, Child Marriage, Education, Syrian Refugee Girls, Za’atri Camp Jordan***
 
 ?> *Kuruluş adı: California State University Northridge ; 2019, İngilizce*
 
@@ -1638,13 +1638,13 @@ The purpose of this study was to uncover and describe the barriers to education 
 
 Bu çalışmada, mevcut bilgiler ışığında yatırımların getirisi ile ilgili tahminlerde bulunmak üzere dünya genelinde gençlerin çoğunun bulunduğu düşük gelirli, orta-düşük gelirli ve üst-orta gelirli ülkelere yapılan yatırımlar incelenmektedir.
 
-***Anahtar kelimeler: Sürdürülebilir Kalkınma, Ergenler ***
+***Anahtar kelimeler: Sürdürülebilir Kalkınma, Ergenler***
 
 **ABSTRACT**
 
 This study examines investments in countries of low income, lower-middle income, and upper-middle income covering the majority of these adolescents globally to derive estimates of investment returns given existing knowledge.
 
-***Key words: Sustainable Development, Adolescents ***
+***Key words: Sustainable Development, Adolescents***
 
 ?> *Yayımlayan : Peter Sheehan, Kim Sweeny, Bruce Rasmussen, Annababette Wils, Howard S Friedman, Jacqueline Mahon, George C Patton, Susan M Sawyer, Eric Howard, John Symons, Karin Stenberg, Satvika Chalasani, Neelam Maharaj, Nicola Reavley, Hui Shi, Masha Fridman, Alison Welsh, Emeka Nsofor, Laura Laski ; 2017, İngilizce*
 
@@ -1659,13 +1659,13 @@ This study examines investments in countries of low income, lower-middle income,
 
 Bu çalışmada, 18 yaş altı kız çocukların erken ve/veya zorla evlendirilmesinin, bir tür sömürücü çocuk işçiliği olarak algılanması gerektiği savunulmaktadır. Çalışmada, çocuk gelinlerin sıklıkla karşılaştığı iş türleri ve koşulları tanımlanırken aynı zamanda bu sorunu ele alma konusunda uluslararası kanunların güçlü ve zayıf noktaları irdelenmektedir. Ayrıca, çocuk gelin sorununun, Uluslararası Çalışma Örgütü (ILO) tarafından çocuk işçiliğinin en kötü biçimlerinden biri olarak tanımlanması gerektiği savunulmaktadır. Son olarak yasal mekanizma olarak ILO'nun 182 sayılı Sözleşmesi (Çocuk İşçiliğinin En Kötü Biçimleri Sözleşmesi olarak da bilinmektedir) tavsiye edilmektedir.
 
-***Anahtar kelimeler: Çocuk Yaşta Evlilik, Çocuk İşçiliği ***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Çocuk İşçiliği***
 
 **ABSTRACT**
 
 This article argues that the early and/or forced marriage of girls under 18 should be understood, in part, as an exploitive form of child labor. It describes the types and conditions of labor that are commonly experienced by child brides and it examinse the strengths and weaknesses of current international laws to adequately address the issue. It also argues that the problem of child brides should be addressed by the International Labour Organization (ILO) as one of the worst forms of child labor. Finally, it suggests the ILO Convention No. 182 (known as the Worst Forms of Child Labour Convention) as a legal mechanism.
 
-***Key words: Child Marriage, Child Labor ***
+***Key words: Child Marriage, Child Labor***
 
 ?> *Kuruluş adı: İzmir University of Economics Loyola Marymount University ; 2019, İngilizce*
 
@@ -1685,13 +1685,13 @@ This article argues that the early and/or forced marriage of girls under 18 shou
 
 Bu çalışmada, Amerika Birleşik Devletleri'ndeki çocuk yaşta evlilik, zorla evlilik ve partner şiddetinin kesişim noktaları incelenmektedir.
 
-***Anahtar kelimeler: Çocuk Yaşta Evlilik, Zorla Evlilik, Partner Şiddeti ***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Zorla Evlilik, Partner Şiddeti***
 
 **ABSTRACT**
 
 This study examines the intersection of child marriage, forced marriage and intimate partner violence in the United States.
 
-***Key words: Child Marriage, Forced Marriage, Partner Violence ***
+***Key words: Child Marriage, Forced Marriage, Partner Violence***
 
 ?> *Kuruluş adı: The American College of Obstetricians and Gynecologists ; 2016, İngilizce*
 
@@ -1711,13 +1711,13 @@ This study examines the intersection of child marriage, forced marriage and inti
 
 Bu çalışmada, çocuk yaşta evlenen genç kadınların (20-24 yaş arası), yetişkinlik çağında evlenen kadınlara kıyasla eşleri tarafından fiziksel ve/veya cinsel şiddete maruz kalma riskinin daha fazla olduğu hipotezini sınamak üzere bu çalışmada 34 ülkenin standart demografik ve sağlık verilerinden yararlanılmıştır.
 
-***Anahtar kelimeler: Partner Şiddeti, Çocuk Yaşta Evlilik ***
+***Anahtar kelimeler: Partner Şiddeti, Çocuk Yaşta Evlilik***
 
 **ABSTRACT**
 
 This study uses standardized data from demographic and health surveys in 34 countries to test the hypothesis that young women (age 20–24) who married as children are at increased risk of past year physical and/or sexual IPV as compared with those women who married as adults.
 
-***Key words: Intimate Partner Violence, Child Marriage ***
+***Key words: Intimate Partner Violence, Child Marriage***
 
 ?> *Kuruluş adı: Health Sciences Center ; 2016, İngilizce*
 
@@ -1732,13 +1732,13 @@ This study uses standardized data from demographic and health surveys in 34 coun
 
 Bu çalışmanın amacı, Pakistan'da sosyal kırılganlıklara atfedilenlerin ötesinde ergenlere ve genç kadınlara karşı eşlerinin uyguladığı kontrol edici davranışlar ve eş şiddeti ile çocuk yaşta evlilik arasındaki ilişkileri tespit etmektir.
 
-***Anahtar kelimeler: Çocuk Yaşta Evlilik, Kadınlar, Şiddet, Eş, Partner, Pakistan ***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Kadınlar, Şiddet, Eş, Partner, Pakistan***
 
 **ABSTRACT**
 
 This study aims to determine the associations between child marriage and controlling behaviors (CB) and spousal violence by husbands against adolescent and young women in Pakistan beyond those attributed to social vulnerabilities.
 
-***Key words: Child Marriage, Women, Violence, Spouse, Partner, Pakistan ***
+***Key words: Child Marriage, Women, Violence, Spouse, Partner, Pakistan***
 
 ?> *Kuruluş adı: Bielefeld University, Emory University, West Virginia University, University of the Punjab ; 2014, İngilizce*
 
@@ -1753,13 +1753,13 @@ This study aims to determine the associations between child marriage and control
 
 Çocuk yaşta evlilik, Afrika'da oldukça yaygın olup kız çocuklarının neredeyse %40'ı, 18 yaşından önce evlenmektedir. Çocuk yaşta evlilik, eş şiddeti de dahil olmak üzere pek çok olumsuz sonuç ile ilişkilendirilse de iletişim düzeyi, güven, eşitlik, yakınlık, çatışma, evlilikten memnuniyet veya mutluluk bakımından bu evliliklerin niteliği ile ilgili çok az şey bilinmektedir. Bu çalışmada, hem niceliksel hem niteliksel verilerden yararlanarak Etiyopya'da ilişkilerin niteliğine dair birden fazla alanı etkileyen ilk evliliğin tam olarak kaç yaşında yapıldığı incelenmektedir. 
 
-***Anahtar kelimeler: Çocuk Yaşta Evlilik, İlişki Niteliği ***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, İlişki Niteliği***
 
 **ABSTRACT**
 
 Child marriage is prevalent in Africa, with almost 40% of girls being married before age 18. Although child marriage is linked to a range of adverse outcomes, including intimate partner violence, little is known about the quality of these marriages in terms of the levels of communication, trust, equality, intimacy, conflict, marital satisfaction or happiness. This paper examines how exact age at first marriage influenced multiple domains of relationship quality in Ethiopia using both quantitative and qualitative data. 
 
-***Key words: Child Marriage, Relationship Quality ***
+***Key words: Child Marriage, Relationship Quality***
 
 ?> *Kuruluş adı: International Center for Research on Women ; 2019, İngilizce*
 
@@ -1774,13 +1774,13 @@ Child marriage is prevalent in Africa, with almost 40% of girls being married be
 
 Bu çalışmada aydınlatılmış onam verme ehliyeti olmayan çocukların, anayasal haklarının korunması adına kesinlikle evlenmelerine izin verilmemesi gerektiği savunulmaktadır. Yaşı biraz daha büyük çocuklar, evlilik konusunda bilinçli bir seçim yapabilecek olgunluğa sahip olsa da bu çalışmada, devletlerin on sekiz yaş üstü kişiler ile evliliğe kısıtlama getirebileceği dile getirilmektedir.
 
-***Anahtar kelimeler: Çocuk Yaşta Evlilik, Aydınlatılmış Onam ***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Aydınlatılmış Onam***
 
 **ABSTRACT**
 
 This Article argues that in order to protect their constitutional rights, childrens who are incapable of giving informed consent should never be allowed to marry. While some older minors may be mature enough to make an informed choice about marriage, the Article concludes that states may restrict marriage to those over eighteen years of age.
 
-***Key words: "Child Marriage, Informed Consent" ***
+***Key words: "Child Marriage, Informed Consent"***
 
 ?> *Kuruluş adı: Nevada Law Journal ; 2018, İngilizce*
 
@@ -1795,13 +1795,13 @@ This Article argues that in order to protect their constitutional rights, childr
 
 Bu çalışmada, Bangladeş'te 20-49 yaş arası kadınlar arasında çocuk yaşta evliliğe ilişkin eğilimler ve belirleyici unsurlar incelenmektedir.
 
-***Anahtar kelimeler: Çocuk Yaşta Evlilik ***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik***
 
 **ABSTRACT**
 
 This study examines the trends and determinants of child marriage among women aged 20–49 in Bangladesh.
 
-***Key words: Child Marriage ***
+***Key words: Child Marriage***
 
 ?> *Kuruluş adı: University of Malaya, Islamic University ; 2014, İngilizce*
 
@@ -1815,13 +1815,13 @@ This study examines the trends and determinants of child marriage among women ag
 **ÖZET**
 Bu çalışmada, Kuzey Doğu İngiltere'de yaşayan Güney Asyalı topluluklar ile ilgili bir araştırmadan yararlanarak Birleşik Krallık'taki çocuk yaşta evlilik ve zorla evlilik arasındaki ilişkiler ele alınmaktadır. Ayrıca, Birleşik Krallık ve Güney Asya ülkelerinin politikaları analiz edilerek tanımsal konulara değinilmektedir. Bunun dışında bu kavramların hizmet sağlayıcıları, erken yaşta evlilik mağdurları ve Güney Asya topluluklarına mensup gençler tarafından nasıl algılandığı analiz edilmektedir. Son olarak, ideal evlilik pratiklerine yansımış toplumsal cinsiyet, yaş, aile ve topluluk denetimi gibi kavramlar el alınmaktadır.  
 
-***Anahtar kelimeler: Çocuk Yaşta Evlilik, Zorla Evlilik ***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Zorla Evlilik***
 
 **ABSTRACT**
 
 This article addresses the links between child marriage and forced marriage in the UK, drawing from a research study on South Asian communities in North East England. It looks at definitional issues through an analysis of UK and South Asian policies. It also analyses how these concepts are understood by service providers, survivors of child marriage and young people from South Asian communities. Finally, concepts such as gender, age, familial and community control reflected in normative marriage practices are addressed.
 
-***Key words: Child Marriage, Forced Marriage ***
+***Key words: Child Marriage, Forced Marriage***
 
 ?> *Kuruluş adı: University of Bristol University of Edinburgh ; 2009, İngilizce*
 
@@ -1836,13 +1836,13 @@ This article addresses the links between child marriage and forced marriage in t
 
 Bu çalışmada Etiyopya'nın Amhara Bölgesi'ndeki evlilik mevzuatına yönelik bilgiler, 18 yaşından önce evliliğin "çok erken" olduğu düşüncesi ve kız çocuklarının aileleri/koruyucu ailelerinden bağımsız evlilik kararlarını kendilerinin verme hakkı ile birlikte iletişim maruziyeti ve sosyal etki önlemleri arasında ilişkiler incelenmiştir.
 
-***Anahtar kelimeler: Çocuk Yaşta Evlilik, İletişim ***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, İletişim***
 
 **ABSTRACT**
 
 This paper examined the associations of communication exposure and measures of social influence with knowledge of marriage legislation, perceptions that marriage before age 18 was “too early”, and beliefs in daughters’ rights to individual marriage choice among parents/guardians in Amhara Region, Ethiopia.
 
-***Key words: Child Marriage, Communication ***
+***Key words: Child Marriage, Communication***
 
 ?> *Kuruluş adı: Tulane University ; 2013, İngilizce*
 
@@ -1862,13 +1862,13 @@ This paper examined the associations of communication exposure and measures of s
 
 Bu çalışmada, çocuk yaşta evliliğin kız çocuklarının sağlıkları üzerindeki etkilerine ağırlık verilmektedir. 
 
-***Anahtar kelimeler: Çocuk Yaşta Evlilik, Sağlık ***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Sağlık***
 
 **ABSTRACT**
 
 This paper focuses on health effect of child marriage on girls. 
 
-***Key words: Child Marriage, Health ***
+***Key words: Child Marriage, Health***
 
 ?> *Yayımlayan: Tracy Hampton ; 2010, İngilizce*
 
@@ -1888,13 +1888,13 @@ This paper focuses on health effect of child marriage on girls.
 
 Bu çalışmada, çocuk yaşta evliliğin Uganda'da orta öğretime kayıt ve orta öğretimi tamamlama durumuna etkisini değerlendirmek ve tartışmak üzere dört farklı yaklaşımdan ve veri kaynağından yararlanılmaktadır. Bu dört veri kaynağı, (1) erkek ve kız çocuklarının eğitimi konusunda toplumun ve ailelerin tercihlerindeki farklılıklara ve kız çocuklarının okulu bırakma ihtimalinin daha yüksek olmasına yönelik niteliksel veriler, (2) ailelerin, çocuklarının okulu bırakmalarına ilişkin gerekçeleri, (3) ortaokul müdürlerinin, çocuklarının okula bırakmalarına ilişkin gerekçeleri ve (4) çocuk yaşta evliliğin ortaöğretim kayıt ve ortaöğretimi tamamlama durumuna etkisinin ekonometrik değerlendirmesi şeklindedir. Bu dört yaklaşım, çocuk yaşta evliliğin kız çocukları için önemli sonuçlarıyla birlikte ortaöğretime kayıt ve ortaöğretimi tamamlama oranlarını düşürdüğüne dair güçlü deliller ortaya koymaktadır.
 
-***Anahtar kelimeler: "Çocuk Yaşta Evlilik, Eğitim, Okula Gitmeyen Çocuklar" ***
+***Anahtar kelimeler: "Çocuk Yaşta Evlilik, Eğitim, Okula Gitmeyen Çocuklar"***
 
 **ABSTRACT**
 
 "This contribution relies on four different approaches and data sources to assess and discuss the impact of child marriage on secondary school enrollment and completion in Uganda. The four data sources are: (1) qualitative evidence on differences in community and parental preferences for the education of boys and girls and on the higher likelihood of girls to drop out of school in comparison to boys; (2) reasons declared by parents as to why their children have dropped out of school; (3) reasons declared by secondary school principals as to why students drop out; and (4) econometric estimation of the impact of child marriage on secondary school enrollment and completion. Together, the four approaches provide strong evidence that child marriage reduces secondary school enrollment and completion for girls with substantial implications for agency."
 
-***Key words: Child Marriage, Education, Out of School Children ***
+***Key words: Child Marriage, Education, Out of School Children***
 
 ?> *Yayımlayan: Quentin Wodon, Minh Cong Nguyen, Clarence Tsimpo ; 2015, İngilizce*
 
@@ -1909,13 +1909,13 @@ Bu çalışmada, çocuk yaşta evliliğin Uganda'da orta öğretime kayıt ve or
 
 Bu çalışmada, Doğu Afrika özelinde İngiliz Milletler Topluluğu'nda çocuk yaşta, erken ve zorla evliliğin etkileri incelenmekte ve yürürlükte bulunan uluslararası, bölgesel ve ulusal yasal normlar ile adli süreçlerden yararlanarak bu konunun en iyi şekilde nasıl ele alınması gerektiğine vurgu yapılmaktadır.
 
-***Anahtar kelimeler: "Çocuk Yaşta Evlilik, Erken Evlilik, Zorla Evlilik, Yargı" ***
+***Anahtar kelimeler: "Çocuk Yaşta Evlilik, Erken Evlilik, Zorla Evlilik, Yargı"***
 
 **ABSTRACT**
 
 This paper examines the effects of child, early and forced marriages (CEFM) within the Commonwealth, with a specific focus on East Africa, and highlights how to best address the issue using international, regional, and national legal norms and judicial processes currently in place
 
-***Key words: "Child Marriage, Early Marriage, Forced Marriage, Judiciary" ***
+***Key words: "Child Marriage, Early Marriage, Forced Marriage, Judiciary"***
 
 ?> *Kuruluş adı: Commonwealth Law Bulletin ; 2017, İngilizce*
 
@@ -1930,13 +1930,13 @@ This paper examines the effects of child, early and forced marriages (CEFM) with
 
 Birey olmanın, özellikle de kadın olmanın sosyokültürel yapısının ve Birleşik Krallık'taki Güney Asyalı bazı kadınların önünü tıkayan yapısal eşitsizliklerin incelendiği bu çalışmada evlilik konusunda rıza ve zorlamanın, iki yönlü bir süreç olduğu ve bunların arasında sosyokültürel beklentiler, kontrol, ikna, baskı, tehdit ve zor kullanma gibi unsurların olduğu savunulmaktadır. Bu kısıtlamalarla karşılaşan kadınlar, bu sorunu çözmeye yönelik olarak tasarlanmış mevcut çıkış merkezli (exit-centered) devlet girişimleriyle her zaman tespit edilmesi mümkün olmayan karmaşık ve çelişkili şekillerde kendi kendine kararlar vermektedir.
 
-***Anahtar kelimeler: "Zorlama, Rıza, Zorla Evlilik, Güney Asyalı Kadınlar" ***
+***Anahtar kelimeler: "Zorlama, Rıza, Zorla Evlilik, Güney Asyalı Kadınlar"***
 
 **ABSTRACT**
 
 By examining the socio-cultural construction of personhood, especially womanhood, and the intersecting structural inequalities that constrain particular groups of South Asian women in the UK, this article argues that consent and coercion in relation to marriage can be better understood as two ends of a continuum, between which lie degrees of socio-cultural expectation, control, persuasion, pressure, threat and force. Women who face these constraints exercise their agency in complex and contradictory ways that are not always recognised by the existing exit-centred state initiatives designed to tackle this problem.
 
-***Key words: "Coercion, Consent, Forced Marriage, South Asian Women" ***
+***Key words: "Coercion, Consent, Forced Marriage, South Asian Women"***
 
 ?> *Kuruluş adı: University of Leeds, Roehampton University ; 2009, İngilizce*
 
@@ -1951,13 +1951,13 @@ By examining the socio-cultural construction of personhood, especially womanhood
 
 Genç yaşta hamilelik, Sahra Altı Afrika'da oldukça yaygındır. Bu incelemenin amacı, uygun bir müdahale programının geliştirilmesi için Sahra Altı Afrika'da genç yaşta hamilelikleri etkileyen faktörleri tespit etmektir.
 
-***Anahtar kelimeler: Ergen Gebelik ***
+***Anahtar kelimeler: Ergen Gebelik***
 
 **ABSTRACT**
 
 Adolescent pregnancy has been persistently high in sub-Saharan Africa. The objective of this review is to identify factors influencing adolescent pregnancies in sub-Saharan Africa in order to design appropriate intervention program.
 
-***Key words: Adolescent Pregnancy ***
+***Key words: Adolescent Pregnancy***
 
 ?> *Kuruluş adı: Tehran University of Medical Sciences ; 2018, İngilizce*
 
@@ -1977,13 +1977,13 @@ Adolescent pregnancy has been persistently high in sub-Saharan Africa. The objec
 
 Bu araştırmanın amacı, Fas'ta çocuk yaşta ve zorla evliliğe sebep olan faktörler ile ilgili olarak çeşitli dallarda görev yapan meslek uzmanlarının görüşlerini öğrenmektir.
 
-***Anahtar kelimeler: "Çocuk Yaşta ve Zorla Evlilik, Kadın Hakları, Cinsel Sağlık ve Üreme Sağlığı, Şiddet" ***
+***Anahtar kelimeler: "Çocuk Yaşta ve Zorla Evlilik, Kadın Hakları, Cinsel Sağlık ve Üreme Sağlığı, Şiddet"***
 
 **ABSTRACT**
 
 The objective of this research study was to explore perspectives of a broad range of professionals on factors that contribute to the occurrence of child and forced marriage in Morocco.
 
-***Key words: Child and Forced Marriage,  Women’s Rights, Sexual and Reproductive Health, Violence ***
+***Key words: Child and Forced Marriage,  Women’s Rights, Sexual and Reproductive Health, Violence***
 
 ?> *Kuruluş adı: ICRH, AEDF, WHO, Ghent University ; 2013, İngilizce*
 
@@ -1998,13 +1998,13 @@ The objective of this research study was to explore perspectives of a broad rang
 
 Bu analizin amacı, evlilik başlangıçlarına uygun açıklayıcı bir boyutsal çerçevenin çizilmesidir. Burada hedef, evlilikten kısa süre sonra yapılan uygulamalardan yola çıkarak müstakbel çiftlerin ve çocuklarının özelliklerini tahmin etmeye çalışmaktır.
 
-***Anahtar kelimeler: Erken Evlilik ***
+***Anahtar kelimeler: Erken Evlilik***
 
 **ABSTRACT**
 
 The goal of this analysis is to adumbrate a descriptive dimensional framework appropriate to the beginnings of marriage. Off in the distance is the prospective goal of trying to predict future couple attributes, and attributes of their children, from measures applied shortly after marriage.
 
-***Key words: Early Marriage ***
+***Key words: Early Marriage***
 
 ?> *Yayımlayam: Robert G. Ryder ; 1970, İngilizce*
 
@@ -2019,13 +2019,13 @@ The goal of this analysis is to adumbrate a descriptive dimensional framework ap
 
 Bu çalışmada, gelişmekte olan ülkelerde erken evlilik faktörleri ve eğilimlerine ağırlık verilmektedir.
 
-***Anahtar kelimeler: Erken Evlilik, Gelişmekte Olan Ülkeler ***
+***Anahtar kelimeler: Erken Evlilik, Gelişmekte Olan Ülkele***
 
 **ABSTRACT**
 
 This study focuses on factors and trends of early marriages in developing countries.
 
-***Key words:Early Marriage, Developing Countries ***
+***Key words:Early Marriage, Developing Countries***
 
 ?> *Kuruluş adı: The Alan Guttmacher Institute ; 1996, İngilizce*
 
@@ -2040,13 +2040,13 @@ This study focuses on factors and trends of early marriages in developing countr
 
 Suriye krizi sonucunda ülke içinde beş milyon kişi yerinden olurken Lübnan, kişi başına en çok mültecinin ağırlandığı ülke konumuna gelmiştir. Suriyeli mültecilerden Lübnan'a göç edenlerin %24'ü, üreme çağındaki (15-49) kadınlardan oluşmaktadır. Bu bağlamda çalışmanın amacı, sağladığı hizmetleri geliştirmesi gereken Lübnan'daki Suriyeli mülteci kadınların cinsel sağlığı ve üreme sağlığı ihtiyaçlarının daha iyi anlaşılmasına katkı sağlamaktır.
 
-***Anahtar kelimeler: Suriye, Lübnan, Mülteciler, Mülteci Sağlığı, Halk Sağlığı, Çatışma, Üreme Sağlığı, Erken Evlilik ***
+***Anahtar kelimeler: Suriye, Lübnan, Mülteciler, Mülteci Sağlığı, Halk Sağlığı, Çatışma, Üreme Sağlığı, Erken Evlilik***
 
 **ABSTRACT**
 
 The Syrian conflict has displaced five million individuals outside their country with Lebanon hosting the largest numbers per capita. Around 24% of Syrian refugees fleeing to Lebanon are women of reproductive age (15–49). This paper, in this context, aims to contribute to developing a better understanding of the sexual and reproductive health needs of Syrian refugee women in Lebanon, which is required to improve provided services.
 
-***Key words: Syria, Lebanon, Refugees, Refugee Health, Public Health, Conflict, Reproductive Health, Early Marriage ***
+***Key words: Syria, Lebanon, Refugees, Refugee Health, Public Health, Conflict, Reproductive Health, Early Marriage***
 
 ?> *Kuruluş adı: Université Catholique de Louvain European Commission ; 2017, İngilizce*
 
@@ -2061,13 +2061,13 @@ The Syrian conflict has displaced five million individuals outside their country
 
 Bu çalışmada, kız çocuklarının erken yaşta evlilik sebebiyle HIV ile enfekte olma ve/veya AIDS evresine girme  riskine etkileri ele alınmaktadır. Pek çok HIV risk faktörünün karşılaştırıldığı çalışmada, Kenya ve Zambiya'nın kentsel merkezlerindeki evli genç kadınların, cinsel olarak aktif bekar kadınlara oranla HIV ile enfekte olma oranlarının daha yüksek olduğuna dair çarpıcı bulgular araştırılmaktadır.
 
-***Anahtar kelimeler: Erken Evlilik, HIV ***
+***Anahtar kelimeler: Erken Evlilik, HIV***
 
 **ABSTRACT**
 
 This article examines the effects of girls’ early marriage on their risk of acquiring HIV/AIDS. By comparing several underlying HIV risk factors, it explores the counterintuitive finding that married adolescent girls in urban centers in Kenya and Zambia have higher rates of HIV infection than do sexually active unmarried girls.
 
-***Key words: Early Marriage, HIV ***
+***Key words: Early Marriage, HIV***
 
 ?> *Kuruluş adı: University of Chicago ; 2004, İngilizce*
 
@@ -2087,13 +2087,13 @@ This article examines the effects of girls’ early marriage on their risk of ac
 
 Bu çalışmada, teorik açıdan hukuki antropoloji ve eleştirel feminist kesişim teorisinden yararlanarak erken evliliğin zararları değerlendirilmektedir. Ayrıca uluslararası hukuk ışığında erken evlilik,  evrensel insan hakları normlarının açık bir şekilde ihlal edilmesi demektir. Toplulukların sosyal ve kültürel özerklik hakkını koruma ve bireylerin insan haklarını koruma altına alma arasındaki gerginliklerin yatıştırılmasına yönelik geçerli bir yöntem benimsenmesi gerekmektedir. Bu çalışmada, Romanya'daki Roman veya "Çingene (Gypsy)" adı verilen topluluklarda erken evlilik sıklığına bir vaka çalışması dahilinde bakılarak ve toplulukları da angaje ederek erken evlilik oranlarını düşürmenin saygın ve kültürel olarak geçerli yolları aranmaktadır. 
 
-***Anahtar kelimeler: "Erken Evlilik, İnsan Hakları" ***
+***Anahtar kelimeler: "Erken Evlilik, İnsan Hakları"***
 
 **ABSTRACT**
 
 This article sets out to assess the harms of early marriage by using legal anthropology and criticalf eminist intersectionalt heory as its theoreticall enses. Moreover, in light of international law, early marriage is a clear violation of universal human rights norms. There is an urgent need to develop a viable approach to reconciling the tensions between the preservation ofthe right ofcommunities to social and cultural autonomy on the one hand, and the protection of individual human rights on the other. By using the incidence of early marriage in Romanian Roma, or "Gypsy, " communities as a case study, this article proposes respectful, culturally competent ways to reduce early marriage by engaging communities.
 
-***Key words: "Early Marriage, Human Rights" ***
+***Key words: "Early Marriage, Human Rights"***
 
 ?> *Kuruluş adı: The Indonesion Journal of International & Comperative Law ; 2014, İngilizce*
 
@@ -2108,13 +2108,13 @@ This article sets out to assess the harms of early marriage by using legal anthr
 
 Uzun Vadeli Ulusal Ergen Sağlığı Çalışması'nın verilerden yararlanılan bu çalışmada, ABD'de erken evliliğin yaygınlığı ve geçmişi değerlendirilmektedir.
 
-***Anahtar kelimeler: Erken Evlilik, Yeni Yetişkinlik Dönemi, Gençlik ***
+***Anahtar kelimeler: Erken Evlilik, Yeni Yetişkinlik Dönemi, Gençlik***
 
 **ABSTRACT**
 
 Using data from the National Longitudinal Study of Adolescent Health, this study evaluates the prevalence and antecedents of early marriage in the United States.
 
-***Key words: Early Marriage, Emergent Adulthood, Youth ***
+***Key words: Early Marriage, Emergent Adulthood, Youth***
 
 ?> *Kuruluş adı: University of Texas at Austin ; 2008, İngilizce*
 
@@ -2134,13 +2134,13 @@ Using data from the National Longitudinal Study of Adolescent Health, this study
 
 Bu çalışmada, Bangladeş'in kırsal kesimlerinden elde edilen veriler ışığında erken yaşta evlenmeye yönelik sosyal ve mali baskılar nedeniyle kadınların daha az okula gittiği hipotezi araştırılmaktadır.
 
-***Anahtar kelimeler: Erken Evlilik, Okullaşma ***
+***Anahtar kelimeler: Erken Evlilik, Okullaşma***
 
 **ABSTRACT**
 
 Using data from rural Bangladesh, this study explores the hypothesis that women attain less schooling as a result of social and financial pressure to marry young.
 
-***Key words: Early Marriage, Schooling ***
+***Key words: Early Marriage, Schooling***
 
 ?> *Kuruluş adı: Harvard University ; 2008, İngilizce*
 
@@ -2160,13 +2160,13 @@ Using data from rural Bangladesh, this study explores the hypothesis that women 
 
 Dünya genelinde kadınların dikkate değer bir kısmı, çocukluk çağında evlenmektedir. Erkek evlilik (18 yaşından önce) ile ilgili pek çok çalışma bulunmasına rağmen bunların çok azında sonuçlar bakımından karşılaştırma yapılmış veya farklı ergenlik dönemlerinde evlenmiş kız çocukları arasında bir ilişki kurulmuş veya çok daha erken yaşta evlenen (15 yaşından önce) kız çocuklarına ağırlık verilmiştir.
 
-***Anahtar kelimeler: "Çocuk Yaşta Evlilik, Erken Evlilik" ***
+***Anahtar kelimeler: "Çocuk Yaşta Evlilik, Erken Evlilik"***
 
 **ABSTRACT**
 
 A considerable proportion of women worldwide are married during childhood. Although many studies have examined early marriage (before age 18), few have compared outcomes or correlates among girls married during different stages of adolescence or have focused on girls married very early (before age 15).
 
-***Key words: "Child Marriage, Early Marriage" ***
+***Key words: "Child Marriage, Early Marriage"***
 
 ?> *Kuruluş adı: Guttmacher Institute ; 2013, İngilizce*
 
@@ -2181,13 +2181,13 @@ A considerable proportion of women worldwide are married during childhood. Altho
 
 Çocuk yaşta evlilik dünyanın her yerinde görülürken bu evliliklerin çoğunda çocuklar daha erginlik yaşına gelmeden veya Nijerya ile diğer bazı ülkelerde kanunen belirlenen yaştan önce evlendirilmektedir. Bugün Afrika, Asya ve Güney Amerika başta olmak üzere dünyanın dört bir yanında bu tür uygulamaların yaygın olduğu görülmektedir. Çocuk yaşta evlilikler, çoğu zaman anne-babaların ayarladığı evlilikler ile ilişkilendirilirken evli eşlerden sadece biri, çoğu zaman da kadınlar, çocuk yaştadır.
 
-***Anahtar kelimeler: "Çocuk Yaşta Evlilik, Erken Evlilik, Cinsiyete Dayalı Şiddet" ***
+***Anahtar kelimeler: "Çocuk Yaşta Evlilik, Erken Evlilik, Cinsiyete Dayalı Şiddet"***
 
 **ABSTRACT**
 
 "Child marriage customs occur all over the world, whereby children are given into marriage well before they attain puberty in most cases or even the age to get married as defined by several laws in Nigeria and other countries of the world. It is a common thing today to find a prevalence of such practices widespread in several parts of the world particularly in Africa, Asia, and South America. Often times, child marriages are frequently associated with marriages that are conceived and arranged by parents, whereby, only one marriage-partner usually the female is a child."
 
-***Key words: "Child Marriage, Early Marriage, Gender Based Violence" ***
+***Key words: "Child Marriage, Early Marriage, Gender Based Violence"***
 
 ?> *Kuruluş adı: Canadian Center of Science and Education ; 2014, İngilizce*
 
@@ -2207,13 +2207,13 @@ A considerable proportion of women worldwide are married during childhood. Altho
 
 Bu çalışmada erken evlilik ile ilgili ampirik bir araştırma incelenmiş ve önerme şeklinde yeniden şekillendirilmiştir. Yapılan öneriler, üç teorik kategoriye ayrılmıştır: Toplumsal sınıf, cinsel katılım ile bekar ve evlik olma durumlarının avantajları. Bu üç öneri, asıl teorik önerilerden yola çıkılarak elde edilmiştir. Erken evliliğin sonuçları incelenmiş ve evlilik sonrası toplumsal konum, boşanma oranı ve olumsuz etki gibi üç önerme ile yeniden ifade edilmiştir. Bu üç önerme de, yukarıda bahsi geçen önermelerden elde edilmiştir. Son olarak aileye yönelik üç teorik önermenin kendine has vakalar olduğu gösterilmiştir.
 
-***Anahtar kelimeler: Erken Evlilik ***
+***Anahtar kelimeler: Erken Evlilik***
 
 **ABSTRACT**
 
 In this study, the empirical research on early marriage is reviewed and restated in propositional form. propositions obtained are reduced to three theoretical propositions, involving social class, sexual involvement, and profit between single and marital status. Three derived propositions obtained from the original theoretical propositions. Consequences of early marriage are reviewed and stated as three propositions involving class placement following marriage, divorce rate, and negative affect. Three derived propositions are also obtained from these. Finally, the theoretical family propositions are related to theory and shown to be special cases.
 
-***Key words: Early Marriage ***
+***Key words: Early Marriage***
 
 ?> *Kuruluş adı: University of Iowa Washington State University ; 1970, İngilizce*
 
@@ -2228,13 +2228,13 @@ In this study, the empirical research on early marriage is reviewed and restated
 
 Bu incelemenin amacı, erken menarşın düşük ve orta gelirli ülkelerde çeşitli olumsuz cinsel ve üreme sağlığı sonuçları ile ilişkilendirilip ilişkilendirilmediğini ve nasıl ilişkilendirildiğini daha iyi anlayabilmektir. 
 
-***Anahtar kelimeler: Erken Menarş, Sağlığa Etkileri ***
+***Anahtar kelimeler: Erken Menarş, Sağlığa Etkileri***
 
 **ABSTRACT**
 
 This review is condusted to better understand whether and how early menarche is associated with various negative sexual and reproductive health outcomes in low- and middle-income countries and the implications of such associations.
 
-***Key words: Early Menarche, Health Outcomes ***
+***Key words: Early Menarche, Health Outcomes***
 
 ?> *Kuruluş adı: Columbia University Mailman School of Public Health ; 2017, İngilizce*
 
@@ -2249,13 +2249,13 @@ This review is condusted to better understand whether and how early menarche is 
 
 Bu çalışmanın amacı, erken yaşta evliliğin kız çocuklarının, onların çocuklarının ve ailelerinin üzerindeki ekonomik etkileri ile ilgili bilinenleri kayda geçerek diyalog kurulmasına yönelik faydalı bilgiler sağlamaktır.
 
-***Anahtar kelimeler: Çocuk Yaşta Evlilik, Ekonomik Etki ***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Ekonomik Etki***
 
 **ABSTRACT**
 
 In this article, the objective is to provide useful information for such dialogue by documenting what is known about the economic impacts of child marriage on the girls who marry early, their children, and their families.
 
-***Key words: Child Marriage, Economic Impact ***
+***Key words: Child Marriage, Economic Impact***
 
 ?> *Kuruluş adı: American Jewish World Service, International Center for Research on Women, World Bank ; 2015, İngilizce*
 
@@ -2270,13 +2270,13 @@ In this article, the objective is to provide useful information for such dialogu
 
 Bu çalışmada, Hindistan'da kız çocuklarının eğitime katılımının ve hane yoksulluluğunun çocuk yaşta evliliklere yerel düzeyde etkisi incelenmektedir.
 
-***Anahtar kelimeler: Kız Çocuklarının Evlenmesi, Eğitim, Yoksulluk, Hindistan ***
+***Anahtar kelimeler: Kız Çocuklarının Evlenmesi, Eğitim, Yoksulluk, Hindistan***
 
 **ABSTRACT**
 
 This study examines the effects of girls' educational attainment and household poverty on the prevalence of female child marriage at the district–level in India.
 
-***Key words: Girl Child Marriage, Education, Poverty, India ***
+***Key words: Girl Child Marriage, Education, Poverty, India***
 
 ?> *Kuruluş adı: Jawaharlal Nehru University ; 2019, İngilizce*
 
@@ -2296,13 +2296,13 @@ This study examines the effects of girls' educational attainment and household p
 
 Bazı yazarlar, kadınların eşlerinden aldıkları desteğin erkeklerin eşlerinden aldıklarından daha az olduğu “destek uçurumunun” modern evliliklerin karakteristik özelliği olduğunu belirtmektedirler. Her ne kadar bu destek uçurumu hipotezi (DUH) evlilik etkileşimlerini ve tatminini açıklamak için giderek daha fazla kullanılıyor olsa da bu hipotezin kapsamlı şekilde değerlendirmesi çok az yapılmıştır. Bilhassa, destek uçurumuna ilişkin mevcut araştırmalar şu hususları sistematik şekilde dikkate almamıştır: (a) farklı sosyal destek türleri, (b) sağlanan veya alınan desteklerin farklılıkları, (c) bildirilen destek arzusu, deneyimi ve tatmini düzeylerindeki farklılıklar veya (d) evlilikte sosyal desteğe ilişkin belirgin kültürel grupların farlılıkları. Söz konusu çalışma arzulanan ve deneyimlenen eş sosyal desteğinin çok boyutlu bir değerlendirmesini sunmaktadır.
 
-***Anahtar kelimeler: Erken Evlilik, Eş Sosyal Desteği ***
+***Anahtar kelimeler: Erken Evlilik, Eş Sosyal Desteği***
 
 **ABSTRACT**
 
 Several writers have suggested that a “support gap” characterizes modern marriages, with women receiving less support from their spouses than men receive from theirs. Although this support gap hypothesis (SGH) is used increasingly to explain marital interaction and satisfaction, there have been few rigorous evaluations of this hypothesis. In particular, existing research on the support gap has not systematically considered (a) different types of social support; (b) differences in provided vs. received support; (c) differences in reported levels of support desire, experience, and satisfaction; or (d) differences in distinct cultural groups with respect to social support in marriage. The present study provided a multidimensional assessment of desired and experienced spousal social support.
 
-***Key words: Early Marriage, Spousal Social Support ***
+***Key words: Early Marriage, Spousal Social Support***
 
 ?> *Kuruluş adı: University of Southern California, Purdue University ; 2001, İngilizce*
 
@@ -2322,13 +2322,13 @@ Several writers have suggested that a “support gap” characterizes modern mar
 
 Bu makalede, Enkop’taki Maasai’ler arasında erken evlilik uygulamalarıne neden olan altta yatan faktörlerin etnografik bir bağlam içerisinde değerlendirmesi sunulmakta ve nüfus artışı, iklim istikrarsızlığı ve arazi kiralama reformu karşısında günümüz pastoralizminin (göçebe hayvancılık) sıkıntıları ve örgün eğitim konusundaki sorunları vurgulanmaktadır. Esther’in vakasının samimi şekilde resmedilmesiyle, erken evlilik sadece geleneğin veya zararlı ataerkilliğin bir unsuru olarak değil daha ziyade geçim kaynağı güvensizliklerine karşı günümüzdeki adaptasyonun bir biçimi olarak konumlandırılmaktadır. İnsan hakları teorisinin “gelenek”, “kültür”, “mağduriyet” ve “kolektif haklar” gibi hakim kavramlarının erken evliliğe neden olan önemli yapısal faktörleri nasıl bulanıklaştırdıklarını ve etkili politika girişimlerinden dikkatleri nasıl uzaklaştırdıklarını ortaya koymaktadır.       
 
-***Anahtar kelimeler: Erken Evlilik, İnsan Hakları, Eğitim ***
+***Anahtar kelimeler: Erken Evlilik, İnsan Hakları, Eğitim***
 
 **ABSTRACT**
 
 In this article, an ethnographic contextualization of the underlying factors giving rise to practices of early marriage, among the Maasai in Enkop, highlighting the contemporary predicaments of pastoralism in the face of population growth, climactic instability, and land-tenure reform and the insecurities and challenges around formal education is offered. Through the intimate portrayal of Esther’s case, early marriage is situated not as a relic of tradition and malicious patriarchy but, rather, as a contemporary adaptation to livelihood insecurity. How prevailing concepts of “tradition,” “culture,” “victimhood,” and “collective rights” in human rights theory obscure important structural factors that give rise to early marriage and deflect attention from effective policy initiatives is illustrated. 
 
-***Key words: Early Marriage, Human Rights, Education ***
+***Key words: Early Marriage, Human Rights, Education***
 
 ?> *Kuruluş adı: American Anthropological Association ; 2011, İngilizce*
 
@@ -2348,13 +2348,13 @@ In this article, an ethnographic contextualization of the underlying factors giv
 
 Bu çalışma aile arka planının evliliklerinin zamanlaması üzerindeki etkisine odaklanmaktadır. 
 
-***Anahtar kelimeler: Erken Evlilik ***
+***Anahtar kelimeler: Erken Evlilik***
 
 **ABSTRACT**
 
 This study focuses on influence of family background on timing of the marriages.
 
-***Key words: Early Marriage ***
+***Key words: Early Marriage***
 
 ?> *Kuruluş adı: Bowdoin College ; 1979, İngilizce*
 
@@ -2369,13 +2369,13 @@ This study focuses on influence of family background on timing of the marriages.
 
 Yazardan: Bu bölümde, kız çocuklarının erken yaşta ve zorla evlendirilmeleri konusuna feminist çocukluk dönemi çalışmaları merceğinden bakmaktayım. Geçtiğimiz on yıl boyunca bu konu küresel alanda bir endişe ve öncelik meselesi olarak ortaya çıkmıştır. Küresel Güney’den çocuklar ve çocukluk dönemine ilişki görüntülere eşlik eden tasvir ve söyleme hususi bir ilgi ile bu araştırmaya başladım. Bu analiz için Evlenmek için çok Erken (Too Young to Wed) fotoğraf sergisi bir odak noktası işlevi görmektedir. Sergi ilk kez 2012 yılında New York’ta Birleşmiş Milletler Dünya Kız Çocukları Gününde gösterilmiştir. Bu sergiye, dünya genelinde erken yaşta ve zorla evlendirilmelerini sonlandırmak için küresel olarak başlatılan girişimin bir parçası olarak Birlemiş Milletler Nüfus Fonu sponsor olmuştur. Dünyanın değişik yerlerindeki ziyaretçilerin yanı sıra sanal ortamdaki ziyaretçiler de sergiyi görmüşlerdir. Feminist çocukluk dönemi çalışmaları gözlüğüyle, bu sirkülasyondan kaynaklanan görünürlük ve görünmezlik politikalarının sınırlarını ve bunun sosyal değişim açısından yansımalarını araştırmaktayım. 
 
-***Anahtar kelimeler: Feminizm, Toplumsal Cinsiyet Eşitliği, Çocuk Evliliği, Erken Evlilik ***
+***Anahtar kelimeler: Feminizm, Toplumsal Cinsiyet Eşitliği, Çocuk Evliliği, Erken Evlilik***
 
 **ABSTRACT**
 
 From the Author: In this chapter, I use a feminist childhood studies lens through which to view the issue of the early and forced marriage of girls. Over the past decade, this issue has emerged as one of concern and urgency on the global stage.6 I take up this inquiry with a particular interest in the representation and rhetoric that accompanies circulating images of children and childhood from the global South. For this analysis, the photo exhibit Too Young to Wed serves as a focal point. The exhibit debuted at the first United Nations International Day of the Girl in New York in 2012. It was sponsored by the United Nations Population Fund as part of a globally launched initiative to end the early and forced marriage of girls worldwide.8,9 Audiences in places around the world, as well as virtually, have viewed the images. 10 By using a feminist childhood studies lens, I explore the contours of the politics of visibility and invisibility arising from this circulation and the implications this has for social change.
 
-***Key words: "Feminism, Gender Equality, Child Marriage, Early Marriage" ***
+***Key words: "Feminism, Gender Equality, Child Marriage, Early Marriage"***
 
 ?> *Kuruluş adı: UCL Press ; 2018, İngilizce*
 
@@ -2390,13 +2390,13 @@ From the Author: In this chapter, I use a feminist childhood studies lens throug
 
 Zorla evlendirmeler genellikle kültür ve toplumsal cinsiyet arasında bir çatışma olarak görülmekte ve az sayıda vakada da olsa erkelerin de mağdur olabildikleri gerçeği politika yapıcıların aktivistlerin dikkatinden kaçmaktadır. Zorla evliliklere genel yaklaşım erkekler açısından da yararlı olmakla birlikte erkekler kamu ilgisinin kapsamı dışında kalmışlardır. Erkeklere özgü sorunlardan birisi, kamuya açık ortamlarda sorunlarını dile getirmeyi erkeklik meselesi olarak görüp buna isteksiz olmalarıdır. Nihayetinde erkekler eğer erkekleri hedefleyen spesifik politikalar görmek istiyorlarsa bu sessizliği kırmak ve toplu olarak organize olup birlikte hareket etmelidirler.
 
-***Anahtar kelimeler: "Çocuk Evliliği, Zorla Evlilik, Erkek Kurbanlar" ***
+***Anahtar kelimeler: "Çocuk Evliliği, Zorla Evlilik, Erkek Kurbanlar"***
 
 **ABSTRACT**
 
 Forced marriage is generally viewed as a clash between culture and gender and the fact that men are also victims, in a small number of cases, escapes attention of policy makers and activists. While the overall approach to forced marriage has helped men as well they, however, have remained below the radar of public concern. A problem particular to men is their unwillingness to articulate in public forums their predicament as questions of masculinity are then raised. Ultimately men will have to break the silence, organize and mobilize collectively if they wish to see specific policies that target men.
 
-***Key words: "Child Marriage, Forced Marriage, Men Victims" ***
+***Key words: "Child Marriage, Forced Marriage, Men Victims"***
 
 ?> *Kuruluş adı: Critical Social Policy ; 2010, İngilizce*
 
@@ -2411,13 +2411,13 @@ Forced marriage is generally viewed as a clash between culture and gender and th
 
 Zorla evlilikler, dünyanın her köşesinden kadınları kendi anavatanlarından kaçmaya ve sığınmacı koruması talep etmeye itmektedir. Bazıları rızaları olmaksızın birisiyle evlenmeye zorlanmaktadırlar bazıları ise yapmaya zorlandıkları bir evlilikten kurtulmaya çalışmaktadırlar. Yukarıda açıklandığı üzere bu kadınlar kurtulmak istedikleri evlilikleriyle ilgili çeşitli zararlara maruz kalmaktalar veya bunların riskini taşımaktadırlar – tecavüze uğrayabilirler, dövülebilirler, kadın sünnetine maruza kalabilirler, tehdit ve hakaret görebilir veya daha fazlasına maruz kalabilirler. 
 
-***Anahtar kelimeler: "Zorla Evlilik, Sığınma" ***
+***Anahtar kelimeler: "Zorla Evlilik, Sığınma"***
 
 **ABSTRACT**
 
 Forced marriage drives women from all corners of the globe to flee their homelands in pursuit of refugee protection. Some are being forced to marry someone against their will; others are trying to escape a marriage they have already been forced to enter. As illustrated above, these women often suffer or risk several harms related to the marriage they seek to escape-they may be raped, beaten, subjected to female genital cutting ("FGC"), threatened, insulted, or more.
 
-***Key words: "Forced Marriage, Asylum" ***
+***Key words: "Forced Marriage, Asylum"***
 
 ?> *Kuruluş adı: Columbia Human Rights Law Review ; 2010, İngilizce*
 
@@ -2432,13 +2432,13 @@ Forced marriage drives women from all corners of the globe to flee their homelan
 
 Bu makale, batılı devletlerin vatandaşlarının karşılaştıkları zorla evliliklere karşı ulusal hukuki ve politik müdahaleler ile başka yerlerde meydana gelen zorla evliliklere karşı mülteci hukukunun müdahalesi arasındaki kopuklukları incelemektedir.   
 
-***Anahtar kelimeler: Zorla evlilik, Mülteci Hukuku, İç Hukuk ve Uluslararası Hukuk  ***
+***Anahtar kelimeler: Zorla evlilik, Mülteci Hukuku, İç Hukuk ve Uluslararası Hukuk***
 
 **ABSTRACT**
 
 This article explores the disjuncture between domestic legal and political responses to forced marriages faced by nationals of Western states and the response of refugee law to forced marriages occurring elsewhere.
 
-***Key words: Forced Marriage, Refugee Law, Domestic and International Law ***
+***Key words: Forced Marriage, Refugee Law, Domestic and International Law***
 
 ?> *Kuruluş adı: UBC, UTS ; 2010, İngilizce*
 
@@ -2458,13 +2458,13 @@ This article explores the disjuncture between domestic legal and political respo
 
 Bu makale, kaynakları ve izlenen yöntemleri açıklamaktadır ve dört ana amacı vardır. İlk amaç Kanada devletinin dikkatini çeken ve tamamı yasadışı olan çeşitli biçimlerdeki zorla evlilik vakalarının genel bir çerçevesini çizmektir. Bu vakalar uluslararası, federal, eyalet ve bölgesel yargı yetkisi kapsamına girmekte ve çeşitli hukuk alanlarını içermektedir: medeni hukuk, aile hukuku, ceza hukuku, çocuk koruma hukuku, idare hukuku, insan hakları hukuku, göç ve sığınmacı hukuku. 
 
-***Anahtar kelimeler: Zorla Evlilik, Görücü Usulü Evlilik, Kölelik Benzeri Evlilik, Kanun ve Mevzuat ***
+***Anahtar kelimeler: Zorla Evlilik, Görücü Usulü Evlilik, Kölelik Benzeri Evlilik, Kanun ve Mevzuat***
 
 **ABSTRACT**
 
 This article explains the sources and methodology pursued, and has four central aims. The first aim is to outline the diverse range of forced marriage cases that have come to the attention of the Canadian state, all of which are illegal. They fall under international, federal, provincial and territorial jurisdictions, involving several areas of law: civil, family, criminal, child protection, administrative, human rights, immigration and refugee asylum.
 
-***Key words: Forced Marriage, Arranged Marriage, Servile Marriage, Laws and Regulations ***
+***Key words: Forced Marriage, Arranged Marriage, Servile Marriage, Laws and Regulations***
 
 ?> *Kuruluş adı: Canadian Journal of Human Rights ; 2017, İngilizce*
 
@@ -2479,13 +2479,13 @@ This article explains the sources and methodology pursued, and has four central 
 
 Bu çalışma Birleşik Krallık'taki zorla evliliklere dair nitel bir ampirik çalışmaya dayanmaktadır ve günümüzde zorla evlilik tartışmalarında merkezi konumdaki dört kilit noktayı ele alan çok boyutlu bir bakış sunmaktadır.  
 
-***Anahtar kelimeler: Zorla Evlilik ***
+***Anahtar kelimeler: Zorla Evlilik***
 
 **ABSTRACT**
 
 The paper is based on a qualitative empirical study of forced marriage in the UK and offers a multidimensional view which challenges four key points that are currently central in the forced marriage debate.
 
-***Key words: Forced Marriage ***
+***Key words: Forced Marriage***
 
 ?> *Kuruluş adı: Critical Social Policy ; 2009, İngilizce*
 
@@ -2500,13 +2500,13 @@ The paper is based on a qualitative empirical study of forced marriage in the UK
 
 Erken evlilikler, rızaya dayanmayan evlilikler ve evlilik içi tecavüzlerin kız çocuklarını ve kadınları nasıl etkilediğini araştırmak için yeni bir kuruluşlar arası grup olarak “Kızların ve Kadınların Evlilik Hakları Forumu” oluşturulmuştur. Nepal, Batı Afrika ve Hindistan’dan vaka çalışmalarını karşılaştıran yazarlar, etkili olabilmek için kız çocuklara ayrı olarak zarar veren kültürel uygulamaları ortadan kaldırmamız gerektiğini iddia etmektedirler. 
 
-***Anahtar kelimeler: Çocuk Yaşta Evlilik, Rızaya Dayanmayan Evlilik, Zararlı Uygulamalar ***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Rızaya Dayanmayan Evlilik, Zararlı Uygulamalar***
 
 **ABSTRACT**
 
 A new inter-agency group, the Forum on the Rights of Girls and Women in Marriage, has been formed to investigate how early marriage, non-consensual marriage, and rape within marriage affect girls and women. Comparing case studies from Nepal, West Africa, and India, the authors argue that, to be effective, we must address cultural practices harming girls separately.
 
-***Key words: "Child Marriage, Non-Consensual Marriage, Harmful Practices" ***
+***Key words: "Child Marriage, Non-Consensual Marriage, Harmful Practices"***
 
 ?> *Kuruluş adı: Gender & Development ; 1998, İngilizce*
 
@@ -2521,13 +2521,13 @@ A new inter-agency group, the Forum on the Rights of Girls and Women in Marriage
 
 Bu makale zorla evlilikler ve çocuk evliliklerinin uluslararası hukuktaki konumunu izlemekte ve hukuk sistemlerinin paralel olarak var oldukları durumda hukukiliğin nasıl hedef haline geldiğini araştırmaktadır. Tarafların her ikisinin de tam ve özgür rızalarına dayanmayan evliliklerin bir insan hakkı ihlali ve köleliğin bir türü olduğunu beyan eden uluslararası ve Afrika Birliği sözleşmelerine rağmen bu uygulamalar devam etmektedir.  
 
-***Anahtar kelimeler: Zorla Evlilik, Kölelik, İnsan Hakları ***
+***Anahtar kelimeler: Zorla Evlilik, Kölelik, İnsan Hakları***
 
 **ABSTRACT**
 
 This article traces the position of forced and child marriages in international law, and investigates how legality becomes a moveable target when legal systems exist in parallel. Despite international and African Union conventions on slavery and human rights declaring that marriages not based on the full and free consent of both parties are considered a violation of human rights and a form of slavery, these practices persist.
 
-***Key words: Forced Marriage, Slavery, Human Rights ***
+***Key words: Forced Marriage, Slavery, Human Rights***
 
 ?> *Kuruluş adı: Human Rights Quarterly ; 2016, İngilizce*
 
@@ -2547,13 +2547,13 @@ This article traces the position of forced and child marriages in international 
 
 Bu makalenin amacı Avrupa’da zorla evlilikler ile ilgili yaygın olan ve orta çıkmakta olan politikaları eleştirel şekilde değerlendirmektir.
 
-***Anahtar kelimeler: Zorla Evlilik, Avrupa  ***
+***Anahtar kelimeler: Zorla Evlilik, Avrupa***
 
 **ABSTRACT**
 
 The aim of this paper is to critically assess prevailing and emerging policies regarding forced marriage in Europe.
 
-***Key words: Forced Marriage, Europe ***
+***Key words: Forced Marriage, Europe***
 
 ?> *Kuruluş adı: Ghent University, WHO, HRC ; 2014, İngilizce*
 
@@ -2573,13 +2573,13 @@ The aim of this paper is to critically assess prevailing and emerging policies r
 
 Uluslararası ceza hukukunda ilk kez zorla evlilik Sierra Leone Özel Mahkemesinin Temyiz Dairesi tarafından insanlığa karşı müstakil bir suç olarak tanınmıştır. Bu suçu cinsel kölelik gibi diğer suçlardan ayrı tutarak mahkeme, suç teşkil eden eylemin karmaşıklığını ve bütününü ortaya koyan bir tanımlama yaparak kadınlarda ve kız çocuklarında neden olduğu acıların ve mağduriyetin ağırlığını ortaya koymuştur. Bu yeni suç türünün evrimini Özel Mahkemenin içtihadında izleyerek, hem Sierra Leone’de he de onun ötesinde zorla evlendirilen kadınların (bush wives) yaşadığı travmayı yeterince ortaya koyan bir suç türüne evrilme potansiyeli olan zorla evlendirme şeklinde müstakil bir suçun varlığı iddia edilmektedir.
 
-***Anahtar kelimeler: Zorla Evlilik,  Kanunlar ve Mevzuat  ***
+***Anahtar kelimeler: Zorla Evlilik,  Kanunlar ve Mevzuat***
 
 **ABSTRACT**
 
 For the first time in international criminal law, forced marriage was recognised by the Appeals Chamber of the Special Court for Sierra Leone as a distinct crime against humanity. Setting it apart from other offences such as sexual slavery, the court acknowledged the gravity of the suffering caused to women and young girls by giving it a definition which captures the complexity and entirety of the criminal conduct. By tracking the evolution of this new offence through the case law of the Special Court, it is argued that there is a unique crime of forced marriage which, should it be allowed to do so, has the potential to progress into a category of offence which adequately captures the trauma experienced by bush wives both in Sierra Leone and beyond.
 
-***Key words: "Forced Marriage, Laws and Regulations" ***
+***Key words: "Forced Marriage, Laws and Regulations"***
 
 ?> *Kuruluş adı: Aberdeen Student Law Review ; 2012, İngilizce*
 
@@ -2594,13 +2594,13 @@ For the first time in international criminal law, forced marriage was recognised
 
 Giriş kısmını takiben bu makale beş kısma ayrılmaktadır. İlk kısım Sierra Leone Hakikat ve Uzlaşma Komisyonu ve AFRC Yargılamalarının bulgularını ele almakta ve Sierra Leone iç savaşını ve Sierra Leone Özel Mahkemesinin (SCSL) kurulmasına yol açan olayları anlatmaktadır. İkinci kısımda, cinsel şiddet suçlarına ilişkin SCSL tarafından benimsenen yaklaşımla mukayese edebilmek için Eski Yugoslavya ve Ruanda Uluslararası Ceza Mahkemeleri tarafından verilen bazı kilit kararları incelemektedir. Üçüncü kısım iki alt bölüme ayrılmaktadır. Birinci alt bölüm, zorla evliliği insanlığa karşı yeni bir suç türü olarak kabul etmeyi reddeden AFRC Dava Dairesinin gerekçesini incelemekte ve Dava Dairesinin gerekçelendirmesinin cinsel kölelikle silahlı çatışma esnasında zorla evlilik arasındaki ayrımları saptırdığını iddia ederek AFRC Temyiz Dairesinin “zorla evliliği” ayrı bir suç olarak kabul eden kararını eleştirel olarak incelemektedir. Buradan hareketle ikinci alt bölüm RUF Yargılama Kararlarını ve “zorla evlilik” suçu için AFRC Temyiz Dairesi tarafından ortaya konan muğlak standartların uygulanmasının doğasında bulunan problemleri ele almaktadır. Son olarak, dördüncü ve beşinci kısımlar “zorla evlilik birlikteliğini” kapsayacak şekilde geniş olarak tanımlanmış cinsel kölelik suçunun açık bir tanımının yapılmasını veya alternatif olarak zorla evlilik kanıtlarının cinsel şiddet suçlarının cezalandırılmasında ağırlaştırıcı faktörler arasına dahil edilmesini savunmaktadır.           
 
-***Anahtar kelimeler: "Zorla Evlilik, Kanunlar ve Yönetmelikler"  ***
+***Anahtar kelimeler: "Zorla Evlilik, Kanunlar ve Yönetmelikler"***
 
 **ABSTRACT**
 
 Following the introduction, this paper is divided into five parts. The first part discusses the findings of the Sierra Leone Truth and Reconciliation Commission and the AFRC Trial, and it describes the Sierra Leonean civil war and the events leading up to the creation of the Special Court for Sierra Leone (SCSL). The second part explores a few key decisions of the ad hoc tribunals for the Former Yugoslavia and Rwanda to provide a comparison to the approach taken by the SCSL in response to crimes of sexual violence. The third part is divided into two subparts. The first subpart examines the rationale of the AFRC Trial Chamber, which declined to recognize forced marriage as a new crime against humanity, and then critically analyzes the AFRC Appeals Chamber's decision to recognize "forced marriage," arguing that the Chamber's reasoning distorts the distinctions between sexual slavery and forced marriage during armed conflict. Thereafter, the second subpart discusses the RUF Trial Judgment and the problems inherent in its application of the vague standard articulated by the AFRC Appeals Chamber for the crime of "forced marriage." Finally, the fourth and fifth parts argue for a clear definition of the crime of sexual slavery defined broadly to encompass a "forced conjugal association," or alternatively, for the inclusion of evidence of forced marriage as an aggravating factor in sentencing for crimes of sexual violence.
 
-***Key words: "Forced Marriage, Laws and Regulations" ***
+***Key words: "Forced Marriage, Laws and Regulations"***
 
 ?> *Kuruluş adı: Northwestern University School of Law Northwestern Journal of International Human Rights ; 2009, İngilizce*
 
@@ -2615,13 +2615,13 @@ Following the introduction, this paper is divided into five parts. The first par
 
 Bu makalede çatışma durumlarında zorla evlilik suçu incelenmekte ve savaş hallerinde zorla evlilik olarak atıfta bulunulan uygulamaların, ayrıca yeni bir suç tipi yerine, uluslararası hukukta köleleştirme olarak cezalandırılması gerektiği belirtilmektedir.  Son beş yıl içerisinde literatürde ortaya çıkan cinsiyete dayalı suçların uluslararası yargılanmalarına ilişkin bazı eleştiriler ve özellikle de yargılamalarda ortaya konduğu şekliyle “mağdur olma” durumunun karmaşıklıklarına ilişkin olanlar ele alınmaktadır.           
 
-***Anahtar kelimeler: "Zorla Evlilik, Kanunlar ve Yönetmelikler"  ***
+***Anahtar kelimeler: "Zorla Evlilik, Kanunlar ve Yönetmelikler"***
 
 **ABSTRACT**
 
 In this article, the crime of forced marriage in conflict situations are explored and the practices referred to as forced marriage in war ought to be charged as enslavement in international law and not a new separate crime is argued. Throughout some of the critiques of international prosecutions of gender crimes that have emerged in the literature in the past five years are adressed, in particular those concerning the complexities of victimhood as presented in trials.
 
-***Key words: "Forced Marriage, Laws and Regulations" ***
+***Key words: "Forced Marriage, Laws and Regulations"***
 
 ?> *Kuruluş adı: Canadian Journal of Human Rights ; 2012, İngilizce*
 
@@ -2636,14 +2636,14 @@ In this article, the crime of forced marriage in conflict situations are explore
 
 Bu makalenin ilk kısmı bu tür çocuk sömürüsü kavramının kapsamını, sebeplerini ve çocukların başa çıkmak zorunda kaldıkları sonuçlarını ele almaktadır. İkinci bölüm, çocuk ticaretinin önlenmesine ilişkin uluslararası hukuki çerçeveyi ve çocukların ve onların haklarının uluslararası olarak korunmasını sağlayan belgeleri ortaya koymaktadır.  Ayrıca, çocukların ve onların haklarının korunmasını sağlayan uluslararası mevzuata ve özellikle de ceza hukuku alanındaki ve diğer genel mevzuata işaret etmektedir. Bu makale aynı zamanda zorla evlilik suçunun çocuk mağdurlarına ilişkin toplanan verileri analiz etmektedir.           
 
-***Anahtar kelimeler: "Çocuk Ticareti, Zorla Evlilik"  ***
+***Anahtar kelimeler: "Çocuk Ticareti, Zorla Evlilik"***
 
 **ABSTRACT**
 
 The first part of the paper covers the concept, scope and causes of this form of exploitation of children and the consequences that children need to cope with. The second part presents the international legal framework relating to the suppression of trafficking
 in children as well as the documents to guarantee international protection of children and their rights. Furthermore, it points out to the national legislation, principally in the field of criminal law, but also other blanket regulations which ensure the protection of children and their rights. This paper also analyses the collected data on child victims of forced marriage.
 
-***Key words: "Child Trafficking, Forced Marriage" ***
+***Key words: "Child Trafficking, Forced Marriage"***
 
 ?> *Kuruluş adı: EU and Comperative Law Issues and Challanges ; 2017, İngilizce*
 
@@ -2663,13 +2663,13 @@ in children as well as the documents to guarantee international protection of ch
 
 Bu çalışma, sosyal kırılganlıklara atfedilenlerin ötesinde, Pakistan’daki genç kadınlar arasında erken evliliklerle yüksek doğurganlık ve düşük doğurganlık sağlık göstergeleri arasındaki ilişkiyi tespit etmeyi amaçlamaktadır.           
 
-***Anahtar kelimeler: Çocuk evliliği, Kadın, Eşitsizlik, Doğurganlık, Pakistan  ***
+***Anahtar kelimeler: Çocuk evliliği, Kadın, Eşitsizlik, Doğurganlık, Pakistan***
 
 **ABSTRACT**
 
 This study aims to determine the association between early marriage and high fertility and poor fertility health indicators among young women in Pakistan beyond those attributed to social vulnerabilities.
 
-***Key words: Child marriage, Women, Inequity, Fertility, Pakistan ***
+***Key words: Child marriage, Women, Inequity, Fertility, Pakistan***
 
 ?> *Kuruluş adı: Bielefeld University, Emory University, West Virginia University, Century Circle, Aga Khan University, University of California, Boston University ; 2014, İngilizce*
 
@@ -2689,13 +2689,13 @@ This study aims to determine the association between early marriage and high fer
 
 Bu makale kız çocukların evlendirilmesinin nesiller arası etkilerini veya 18 yaşından önce evlenmiş olan kadınların doğurduğu çocukların gelişimsel ve sağlık sonuçlarını nitel olarak incelemektedir. Genel amaç, kız çocuklarının evlendirilmesinin Sahra-altı Afrika’da çocukların sağlık ve refahını etkileme mekanizmasını anlamak ve bu mekanizmaların göreceli boyutu ve etkilerini kavramaktır.   
 
-***Anahtar kelimeler: Sahra Altı Afrika, Çocuk Evliliği, Erken Çocukluk Gelişimi, Gelişimin engellenmesi  ***
+***Anahtar kelimeler: Sahra Altı Afrika, Çocuk Evliliği, Erken Çocukluk Gelişimi, Gelişimin engellenmesi***
 
 **ABSTRACT**
 
 This paper quantitatively examines the intergenerational effects of girl child marriage, or the developmental and health outcomes of children born to women who marry before age 18. The overall objective is to understand the mechanisms through which girl child marriage affects the health and well-being of children in sub-Saharan Africa, as well as the relative magnitude and impact of these mechanisms.
 
-***Key words: Sub-Saharan Africa, Child Marriage, Early Childhood Development, Stunting ***
+***Key words: Sub-Saharan Africa, Child Marriage, Early Childhood Development, Stunting***
 
 ?> *Kuruluş adı: Harvard T. H. Chan School of Public Health, Harvard Medical School ; 2017, İngilizce*
 
@@ -2710,13 +2710,13 @@ This paper quantitatively examines the intergenerational effects of girl child m
 
 Bu makale kız çocuklarının erken evliliği kavramının ve bağlamının detaylarını, erken evliliğin sebeplerini ve sonuçlarını ve kız çocuğu evliliklerine karşı günümüzdeki baskıları ve önlemleri ele almaktadır. Kız çocukların evlendirilmesini geciktirmek için toplum üyelerine yardımcı olacak müdahale programlarına ilişkin çağrışımlar önerilmektedir. Erken yaşta evlilikler ve doğumlar genç anneler için daha az eğitim ve gelecekte daha düşük gelir ile ilişkilendirildiğinden bu tür müdahaleler arasında kız çocuklarını okulda tutacak toplumsal programlara da yer verilmelidir.      
 
-***Anahtar kelimeler: "Çocuk Evliliği, Toplum Müdahalesi"  ***
+***Anahtar kelimeler: "Çocuk Evliliği, Toplum Müdahalesi"***
 
 **ABSTRACT**
 
 This paper provides details of concept and context of girl child or early marriage; causes, and consequences of early marriage, contemporary pressures and actions that have been taken on girl child marriage. Implications for intervention programmes to aid community members delay marriage of girls are suggested. Among such interventions is that since early marriage and childbearing are associated with less education and lower future income for young mothers, community programmes that keep girls in school should be provided
 
-***Key words: "Child Marriage, Community Intervention" ***
+***Key words: "Child Marriage, Community Intervention"***
 
 ?> *Kuruluş adı: "Journal of Law, Policy and Globalization" ; 2015, İngilizce*
 
@@ -2731,13 +2731,13 @@ This paper provides details of concept and context of girl child or early marria
 
 Bu çalışma, 31 Sahra-altı Afrika ülkesindeki 18 yaşından önce evlilik trendlerini incelemektedir.           
 
-***Anahtar kelimeler: Çocuk Yaşta Evlilik   ***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik***
 
 **ABSTRACT**
 
 This study analyzes the trends of marriage before age 18 in 31 Sub-Saharan Africa countries.
 
-***Key words: Child Marriage  ***
+***Key words: Child Marriage***
 
 ?> *Kuruluş adı: Population and Development Review ; 2017, İngilizce*
 
@@ -2757,13 +2757,13 @@ This study analyzes the trends of marriage before age 18 in 31 Sub-Saharan Afric
 
 Bu çalışma Afrika’daki çocuk yaşta evliliklerin sağlık sonuçlarını incelemektedir. 
 
-***Anahtar kelimeler: Çocuk Evliliği, Sağlık Sonuçları, Afrika  ***
+***Anahtar kelimeler: Çocuk Evliliği, Sağlık Sonuçları, Afrika***
 
 **ABSTRACT**
 
 This paper examines health consequences of child marriages in Africa.
 
-***Key words: Child Marriage, Health Consequences, Africa ***
+***Key words: Child Marriage, Health Consequences, Africa***
 
 ?> *Kuruluş adı: Brigham and Women’s Hospital ; 2006, İngilizce*
 
@@ -2778,13 +2778,13 @@ This paper examines health consequences of child marriages in Africa.
 
 Bu makale, 8-19 yaş aralığındaki bir grup çocuğun 15 yıllık bir dönemde izlendiği Young Lives (Genç Hayatlar) çalışmasından elde edilen verileri kullanarak Etiyopya, Hindistan, Peru ve Vietnam’daki genç evliliklerinin (teen marriage) hane halkı belirleyicilerini araştırmaktadır.   
 
-***Anahtar kelimeler: Çocuk Yaşta Evlilik  ***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik***
 
 **ABSTRACT**
 
 This article investigates the household determinants of teen marriage in Ethiopia, India, Peru, and Vietnam using data from the international Young Lives study tracking a cohort of children from the ages of 8–19 over a 15-year period.
 
-***Key words: Child Marriage ***
+***Key words: Child Marriage***
 
 ?> *Kuruluş adı: University of Pennsylvania, Pontificia Universidad Católica de Chile ; 2019, İngilizce*
 
