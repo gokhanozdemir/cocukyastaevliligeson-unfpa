@@ -2692,3 +2692,91 @@ This paper quantitatively examines the intergenerational effects of girl child m
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Girl Child Marriage: Implications for Community Intervention Programmes
+*MKL_107*
+
+**ÖZET**
+
+Bu makale kız çocuklarının erken evliliği kavramının ve bağlamının detaylarını, erken evliliğin sebeplerini ve sonuçlarını ve kız çocuğu evliliklerine karşı günümüzdeki baskıları ve önlemleri ele almaktadır. Kız çocukların evlendirilmesini geciktirmek için toplum üyelerine yardımcı olacak müdahale programlarına ilişkin çağrışımlar önerilmektedir. Erken yaşta evlilikler ve doğumlar genç anneler için daha az eğitim ve gelecekte daha düşük gelir ile ilişkilendirildiğinden bu tür müdahaleler arasında kız çocuklarını okulda tutacak toplumsal programlara da yer verilmelidir.      
+
+***Anahtar kelimeler: "Çocuk Evliliği, Toplum Müdahalesi"  ***
+
+**ABSTRACT**
+
+This paper provides details of concept and context of girl child or early marriage; causes, and consequences of early marriage, contemporary pressures and actions that have been taken on girl child marriage. Implications for intervention programmes to aid community members delay marriage of girls are suggested. Among such interventions is that since early marriage and childbearing are associated with less education and lower future income for young mothers, community programmes that keep girls in school should be provided
+
+***Key words: "Child Marriage, Community Intervention" ***
+
+?> *Kuruluş adı: "Journal of Law, Policy and Globalization" ; 2015, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_107.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Has Child Marriage Declined in sub-Saharan Africa? An Analysis of Trends in 31 Countries
+*MKL_108*
+
+**ÖZET**
+
+Bu çalışma, 31 Sahra-altı Afrika ülkesindeki 18 yaşından önce evlilik trendlerini incelemektedir.           
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik   ***
+
+**ABSTRACT**
+
+This study analyzes the trends of marriage before age 18 in 31 Sub-Saharan Africa countries.
+
+***Key words: Child Marriage  ***
+
+?> *Kuruluş adı: Population and Development Review ; 2017, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/313457568_Has_Child_Marriage_Declined_in_sub-Saharan_Africa_An_Analysis_of_Trends_in_31_Countries_Has_Child_Marriage_Declined_in_sub-Saharan_Africa)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_108.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Health Consequences of Child Marriage in Africa
+*MKL_109*
+
+**ÖZET**
+
+Bu çalışma Afrika’daki çocuk yaşta evliliklerin sağlık sonuçlarını incelemektedir. 
+
+***Anahtar kelimeler: Çocuk Evliliği, Sağlık Sonuçları, Afrika  ***
+
+**ABSTRACT**
+
+This paper examines health consequences of child marriages in Africa.
+
+***Key words: Child Marriage, Health Consequences, Africa ***
+
+?> *Kuruluş adı: Brigham and Women’s Hospital ; 2006, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_109.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Household Determinants of Teen Marriage: Sister Effects Across Four Low- andMiddle-Income Countries
+*MKL_110*
+
+**ÖZET**
+
+Bu makale, 8-19 yaş aralığındaki bir grup çocuğun 15 yıllık bir dönemde izlendiği Young Lives (Genç Hayatlar) çalışmasından elde edilen verileri kullanarak Etiyopya, Hindistan, Peru ve Vietnam’daki genç evliliklerinin (teen marriage) hane halkı belirleyicilerini araştırmaktadır.   
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik  ***
+
+**ABSTRACT**
+
+This article investigates the household determinants of teen marriage in Ethiopia, India, Peru, and Vietnam using data from the international Young Lives study tracking a cohort of children from the ages of 8–19 over a 15-year period.
+
+***Key words: Child Marriage ***
+
+?> *Kuruluş adı: "University of Pennsylvania, Pontificia Universidad Católica de Chile" ; 2019, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_110.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
