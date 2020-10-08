@@ -2923,3 +2923,93 @@ countries.
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_116.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Making Sense of Child, Early and Forced Marriage Among Syrian Refugee Girls: A Mixed Methods Study in Lebanon
+*MKL_117*
+
+**ÖZET**
+
+Bu çalışma Lübnan’daki Suriyeli mülteciler arasında çocuk yaşta evliliğine sebep olan ve altta yatan faktörleri araştırmakta ve bu sorunu ortadan kaldırmak için toplum temelli stratejilere ışık tutmayı amaçlamaktadır. 
+
+***Anahtar kelimeler: Çocuk Evliliği, Suriyeli Mülteciler, Lübnan***
+
+**ABSTRACT**
+
+This study explores the underlying factors contributing to child marriage among Syrian refugees in Lebanon with the goal of informing community-based strategies to address the issue.
+
+***Key words: Child Marriage, Syrians Refugees, Lebanon***
+
+?> *Kuruluş adı: "Queen’s University, ABAAD Resource Center for Gender Equality, University of Leipzig, Beth Israel Deaconess Milton, Brigham and Women’s Hospital, York University" ; 2018, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_117.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Marital Satisfaction Among Girls with Early Marriage in Iran: Emotional Intelligence and Religious Orientation
+*MKL_118*
+
+**ÖZET**
+
+Bu çalışma İran’daki erken evlilik yapan kadınlar arasında evlilik tatmini, duygusal zeka ve dinsel yönelimi araştırmaktadır. “Duygusal zeka ölçeği”, “dinsel yönelim ölçeği” ve “evlilik tatmin ölçeği” kullanılarak erken evlilik yapmış 194 kadından veri seti toplanmıştır. 
+
+***Anahtar kelimeler: Erken Evlilik, Duygusal Zeka***
+
+**ABSTRACT**
+
+This study investigates marital satisfaction, emotional intelligence, and religious orientation among women with early marriage in Iran. The ‘emotional intelligence scale’, ‘religious orientation scale’ and ‘marital satisfaction scale’ were used and a rare set of data from 194 women with early marriage were collected.
+
+***Key words: Early Marriage, Emotional Intelligence***
+
+?> *Kuruluş adı: International Journal of Adolescence and Youth ; 2019, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_118.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Marriage and Childbirth as Factors in Dropping Out from School: An Analysis of DHS Data from Sub-Saharan Africa
+*MKL_119*
+
+**ÖZET**
+
+Bu çalışma, okulu bırakma olasılığı, okula kayıtlı ilen hamilelik olasılığı, okula kayıtlı ilen hamile kaldığı için okulu bırakma olasılığını etkileyen altta yatan nedensel faktörlerin bazılarını çok-değişkenli bir çerçevede incelemektedir. 
+
+***Anahtar kelimeler: Okulu Bırakma, Okula Giden Kız Çocukların Hamileliği, Erken Evlilik, Erken Yaşta Çocuk Doğurma***
+
+**ABSTRACT**
+
+This study explored in a multivariate framework some of the underlying causal factors affecting the likelihood of leaving school, of pregnancy while enrolled, and of leaving school for those who became pregnant while still enrolled.
+
+***Key words: School Exit, Dropout, Schoolgirl Pregnancy, Early marriage, Early Childbearing***
+
+?> *Kuruluş adı: Population Council ; 2008, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/5572805_Marriage_and_childbirth_as_factors_in_dropping_out_from_school_An_analysis_of_DHS_data_from_sub-Saharan_Africa)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_119.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Marriageable Age: Political Debates on Early Marriage in Twentieth-Century Indonesia
+*MKL_120*
+
+**ÖZET**
+
+Bu makalenin amacı, yirminci yüzyıl Endonezya’sında evlilik yaşının özellikle de kız çocukları açısından nasıl politik bir mesele haline geldiğini göstermek ve yıllar içerisinde bu tartışmanın değişen yoğunluğu, odağı ve katılımcılarını araştırmaktır.
+
+***Anahtar kelimeler: Erken Evlilik, Evlilik Yaşı***
+
+**ABSTRACT**
+
+The purpose of this article is to show how the age of marriage, especially for girls, became a political issue in twentieth century 
+Indonesia, and to investigate the changing intensity, focus, and participation in the debate over the
+
+***Key words: Early Marriage, Marriage Age***
+
+?> *Kuruluş adı: Southeast Asia Program, Publications at Cornell University ; 1997, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_120.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
