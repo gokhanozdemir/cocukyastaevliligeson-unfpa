@@ -3097,3 +3097,25 @@ The decade-long civil war in Sierra Leone gained international notoriety for the
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_124.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Peer to Peer Sexual Harassment in Early Adolescence: A Developmental Perspective
+*MKL_125*
+
+**ÖZET**
+
+Bu çalışmanın amacı, erken ergenlik döneminde cinsel tacizi incelemektedir. Mevcut veriler akranlar arasında cinsel tacizin liselerde yaygın olduğunu ve hem mağdurlar hem de failler için psiko-sosyal problemlerle ilişkilendirilmektedir.  
+
+***Anahtar kelimeler: Cinsel Taciz, Ergenlik***
+
+**ABSTRACT**
+
+The goal of this study is to examine sexual harassment in early adolescence. Available data indicate that peer to peer sexual harassment is prevalent in high school and is associated with psychosocial problems for both victims and perpetrators.
+
+***Key words: Sexual Harassment, Adolescent***
+
+?> *Kuruluş adı: York University, Queen's University ; 2002, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_125.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
