@@ -3004,12 +3004,54 @@ Bu makalenin amacı, yirminci yüzyıl Endonezya’sında evlilik yaşının öz
 **ABSTRACT**
 
 The purpose of this article is to show how the age of marriage, especially for girls, became a political issue in twentieth century 
-Indonesia, and to investigate the changing intensity, focus, and participation in the debate over the
+Indonesia, and to investigate the changing intensity, focus, and participation in the debate over the issue.
 
 ***Key words: Early Marriage, Marriage Age***
 
 ?> *Kuruluş adı: Southeast Asia Program, Publications at Cornell University ; 1997, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_120.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Minimum Marriage Age Laws and the Prevalence Of Child Marriage and Adolescent Birth: Evidence from Sub-Saharan Africa
+*MKL_121*
+
+**ÖZET**
+
+Bu çalışma, çocuk evliliğini yasaklayan ulusal yasalar ve çocuk evliliği ve ergen doğumların görülme sıklığı arasındaki ilişkiyi anlamaya katkı yapmayı amaçlamaktadır. 
+
+***Anahtar kelimeler: Çocuk Evliliği, Ergen Doğumu***
+
+**ABSTRACT**
+
+This study aims to contributeunderstanding the relationship of national laws that prohibit child marriage with the prevalence of child marriage and adolescent birth.
+
+***Key words: Child Marriage, Adolescent Birth***
+
+?> *Yayımlayan: Belinda Maswikwa, Linda Richter, Jay Kaufman and Arijit Nandi ; 2015, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_121.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Modernising the Other: Assessing The Ideological Underpinnings of the Policy Discourse on Forced Marriage in the UK
+*MKL_122*
+
+**ÖZET**
+
+Bu makale, İşçi Partisi hükümetinin zorla evliliği göçmenler tarafından ülkeye sokulan bir kültürel problem olarak kavramsallaştırmasını eleştirmektedir. Azınlık topluluklarının gelenekleri ve değerlerinin anaakım İngiliz toplumunun sözde liberalizmi ile çatışmasının, azınlık toplulukları içerisinde çözümler bulmaktan ziyade mağdurun var olma hakkına ve göçmenlik kontrollerinin sıkılaştırılmasına odaklanan politika girişimlerine yol açtığını iddia etmektedir. Sorunun “toplumsal cinsiyet” içeren doğası ve hem anaakım topluluklarda hem de azınlık topluluklarında kadınlara yönelik şiddetin diğer biçimleri ile olan bağlantıları büyük ölçüde göz ardı edilmiştir.
+
+***Anahtar kelimeler: Zorla Evlilik, Birleşik Krallık***
+
+**ABSTRACT**
+
+This article critiques the Labour government’s conceptualisation of forced marriage (FM) as a cultural problem imported by immigrants. It is argued that contrasting the traditions and values of minority communities with the purported liberalism of mainstream British society, has given rise to policy initiatives focusing on victims’ right to exit and the tightening of immigration controls, rather than the possibility of finding solutions within minority communities. The gendered nature of the problem, and its connections to other forms of violence against women in both mainstream society and minority communities, has been largely ignored.
+
+***Key words: Forced Marriage, UK***
+
+?> *Yayımlayan: Aisha Gill, Trishima Mitra-Kahn ; 2012, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_122.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
