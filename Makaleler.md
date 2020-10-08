@@ -3144,3 +3144,30 @@ Child marriage is a substantial barrier to social and economic development in In
 -->
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Preventing Gender-Based Violence Victimization in Adolescent Girls in Lower-Income Countries: Systematic Review of Reviews
+*MKL_127*
+
+**ÖZET**
+
+Diğer çalışmaların sistematik bir şekilde incelenmesi şeklindeki bu çalışma, düşük ve orta gelirli ülkelerdeki 10-24 yaşları arasındaki ergen kadınlara  ve genç kadınlara yönelik şiddetin (VAWG) önlenmesine yönelik müdahalelerin etkilerine ilişkin kanıtları sentezlemektedir.    
+
+***Anahtar kelimeler: Ergenlik, Düşük ve Orta Gelirli Ülkeler, Kadınlara ve Kız Çocuklarına Karşı Şiddet***
+
+**ABSTRACT**
+
+This systematic review of reviews synthesizes evidence on the impact of interventions to prevent violence against adolescent girls and young women 10-24 years (VAWG) in low- and middle-income countries (LMICs).
+
+***Key words: Adolescence, Low- and Middle-Income Countries, Violence against Women and Girls***
+
+?> *Kuruluş adı: Emory University ; 2017, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/319638490_Preventing_gender-based_violence_victimization_in_adolescent_girls_in_lower-income_countries_Systematic_review_of_reviews)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_127.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
