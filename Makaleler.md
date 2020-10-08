@@ -3119,3 +3119,28 @@ The goal of this study is to examine sexual harassment in early adolescence. Ava
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Prevalence of Child Marriage and Its Effect on Fertility and Fertility-Control Outcomes of Young Women in India: a Cross-Sectional, Observational Study
+*MKL_126*
+
+**ÖZET**
+
+Çocuk yaşta evlilikler, Hindistan’da sosyal ve ekonomik kalkınmanın önünde önemli bir engel ve kadınların sağlığı için temel endişelerden birisidir. Bu çalışmada Hindistan’daki genç yetişkin kadınlar arasında çocuk yaşta evliliklerin –yani 18 yaşından önce evliliklerin- yaygınlığı ve çocuk evlilikleri ile kadınların doğurganlığı ve doğum kontrol sonuçları arasındaki ilişkiler değerlendirilmektedir.   
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Doğurganlık, Hindistan***
+
+**ABSTRACT**
+
+Child marriage is a substantial barrier to social and economic development in India, and a primary concern for women’s health. In this study, it is assessed the prevalence of child marriage—ie, before 18 years of age—in young adult women in India, and the associations between child marriage and women’s fertility and fertility-control outcomes.
+
+***Key words: Child Marriage, Fertility, India***
+
+?> *Kuruluş adı: US National Institutes of Health and Indian Council of Medical Research ; 2009, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/24193756_Prevalence_of_child_marriage_and_its_effect_on_fertility_and_fertility-control_outcomes_of_young_women_in_India_A_cross-sectional_observational_study)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_126.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
