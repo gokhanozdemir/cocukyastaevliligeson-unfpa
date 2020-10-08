@@ -3055,3 +3055,45 @@ This article critiques the Labour government’s conceptualisation of forced mar
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_122.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## On the Impact of Early Marriage on Schooling Outcomes in Sub-Saharan Africa and South West Asia
+*MKL_123*
+
+**ÖZET**
+
+Bu makale, Sahra-altı Afrika ve Güney Batı Asya’daki 36 ülkede evlilik yaşının kadınların okullaşma sonuçları üzerindeki etkilerini incelemektedir. 
+
+***Anahtar kelimeler: Erken Evlilik, Eğitim***
+
+**ABSTRACT**
+
+This paper examines the effect of age of marriage on women’s schooling outcomes for 36 countries from Sub-Saharan Africa and South West Asia. 
+
+***Key words: Early Marriage, Education***
+
+?> *Kuruluş adı: University of Sussex ; 2015, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_123.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Other Inhumane Acts’: Forced Marriage, Girl Soldiers and the Special Court for Sierra Leone
+*MKL_124*
+
+**ÖZET**
+
+On yıldan uzun süren Sierra Leone iç savaşı, çocuk askerlerin yaygın şekilde kullanılması ve kız askerlerin cinsel istismarı ve zorla evlendirilmesi ile uluslararası bir kötü şöhrete kavuşmuştur. Uluslararası hukuk tarihinde ilk kez “zorla evlilik”  Sierra Leone’deki çatışma sonrası “Özel Mahkeme”de “insanlığa karşı suç” olarak yargılanmıştır. Bu durum kız çocuklarının insan haklarının gelişiminde önemli bir adımı temsil etmekte ve toplumsal cinsiyete dayalı suçların uluslararası ceza yargısında yargılanmasında giderek artan bir trendi izlemektedir. Bu iddianamenin önemine rağmen uluslararası hukuk kız çocuklarının barış ve savaş zamanlarında yaşadıkları çok derin eşitsizlikler ve mağduriyetlerin çaresi değildir. Bu makale, sıklıkla çocuk ve kadın söylemleri altında “görünmez” kalan kız çocuklarına hususi olarak odaklanılması çağrısı yapmaktadır. Ayrıca, Sierra Leone Hakikat ve Uzlaşma Komisyonunun tavsiyelerinden hareketle, bu makale insanlığa karşı toplumsal cinsiyete dayalı suçların cezai olarak soruşturulmasının yanı sıra ele alınması gereken sosyal ekonomik eşitsizliklere de işaret etmeye çalışmaktadır. 
+
+***Anahtar kelimeler: Çocuk Askerler, Zorla Evlilik, Cinsiyet Hakları, Kız Çocuklar, Çatışma Sonrası Adalet***
+
+**ABSTRACT**
+
+The decade-long civil war in Sierra Leone gained international notoriety for the widespread use of child soldiers, and the sexual abuse and ‘forced’ marriage of girl soldiers. For the first time in international legal history, ‘forced marriage’ is being prosecuted as a ‘crime against humanity’ in Sierra Leone’s post-conflict ‘Special Court’. This represents an important step in advancing the human rights of girls, and follows a growing trend in international criminal prosecution of gender offences. Notwithstanding the significance of this indictment, international law is no panacea for the deeper inequalities and vulnerabilities that girls experience in peacetime and in wartime. This article advocates a specific focus on girls, who are often ‘disappeared’ under discourses of children and women. Moreover, using recommendations from Sierra Leone’s Truth and Reconciliation Commission, this article attempts to point to social and economic inequalities that must be addressed alongside criminal prosecution of gendered crimes against humanity.
+
+***Key words: Child Soldiers, Forced Marriage, Gender Rights, Girls, Post-Conflict Justice***
+
+?> *Kuruluş adı: The Australian National University ; 2006, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_124.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
