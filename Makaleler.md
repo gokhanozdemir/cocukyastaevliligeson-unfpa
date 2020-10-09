@@ -3171,3 +3171,71 @@ This systematic review of reviews synthesizes evidence on the impact of interven
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Prevention Of Violence Against Women And Girls: What Does The Evidence Say?
+*MKL_128*
+
+**ÖZET**
+
+Bu çalışma, kadınlara ve kız çocuklarına yönelik şiddetin yaygınlığını ve vaka sayısını azaltmaya yönelik müdahaleler için kanıtları incelemektedir. İncelenen çalışmalar çok çeşitli müdahale modellerini ve birçok şiddet türünü kapsamaktadır – ör. yakın partner şiddeti, partner dışındaki kişilerin cinsel tacizi, kadın sünneti ve çocuk evliliği. 
+
+***Anahtar kelimeler: Kadınlara ve Kız Çocuklarına Karşı Şiddet***
+
+**ABSTRACT**
+
+This study reviews evidence for interventions to reduce the prevalence and incidence of violence against women and girls. Reviewed studies cover a broad range of intervention models, and many forms of violence—ie, intimate partner violence, non-partner sexual assault, female genital mutilation, and child marriage.
+
+***Key words: Violence against Women and Girls***
+
+?> *Kuruluş adı: "Global Women’s Institute, George Washington University, The World Bank Group, London School of Hygiene & Tropical Medicine ; 2015, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/268743170_Prevention_of_Violence_against_Women_and_Girls_What_Does_the_Evidence_Say)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_128.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Recognition Of And Intervention In Forced Marriage As A Form Of Violence And Abuse
+*MKL_129*
+
+**ÖZET**
+
+Bu makale, zorla evliliği şiddetin bir türü olarak tanımanın önemine vurgu yapmakta ve zorla evlilikleri önlemek için Avrupa’da gelişmekte olan müdahalelere dikkati çekmektedir. Çalışma, bütün çocuk evliliklerini zorla evlilik olarak birleştirmenin zorluklarını vurgulamakta ve dünyanın farklı yerlerindeki farklı çocukluk bağlamlarını ele almaktadır. Birleşik Krallık zorla evliliklerle mücadele konusunda en geniş politika müdahalelelerine ve uygulama çeşitliliğine sahip devlet olarak bilinmektedir ve bu nedenle bu çalışmada vaka çalışması olarak kullanılmıştır ancak diğer ülkelere de atıflarda bulunarak daha kapsamlı bir ilgililik sağlanmıştır.   
+
+***Anahtar kelimeler: Zorla Evlilik, Çocuk İstismarı, Toplumda Cinsiyete Dayalı Şiddet***
+
+**ABSTRACT**
+
+This paper highlights the importance of recognising forced marriage as a form of violence and draws attention to the interventions that are developing in Europe as a response to forced marriage. The paper highlights the difficulties of conflating all child marriages as forced marriage and discusses the different contexts of childhood in different parts of the globe. The UK is reputed to have the widest range of policy interventions and practice guidance to tackle forced marriage and is therefore used as a case study in this
+paper, but reference is also made to other countries thus ensuring a wider relevance
+
+***Key words: Forced Marriage, Child Abuse, Gender Based Violence***
+
+?> *Kuruluş adı: Trauma, Violence & Abuse ; 2012, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_129.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Research Priorities On Ending Child Marriage And Supporting Married Girls
+*MKL_130*
+
+**ÖZET**
+
+Bu yorumlama çalışması, Dünya Sağlık Örgütü tarafından çocuk yaşta evlilikleri sonlandırmak ve evli kız çocukları desteklemek konusunda araştırma önceliklerini müzakere etmek için düzenlenen Uzmanlar Grubu Toplantısının çıktılarını özetlemektedir. Araştırma boşluklarını ve beş kilit alanda tavsiye edilen araştırma önceliklerini ortaya koymaktadır: (i) çocuk evliliklerinin yaygınlığı ve trendler (ii) çocuk evliliklerinin nedenleri (iii) çocuk evliliklerinin sonuçları (iv) çocuk evliliklerini önleme çabaları ve (iv) evli kız çocuklarını destekleme çabaları. 
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik***
+
+**ABSTRACT**
+
+This commentary summarizes the outcomes of an Expert Group Meeting organized by World Health Organization to discuss research priorities on Ending Child Marriage and Supporting Married Girls. It presents research gaps and recommends priorities for research in five key areas; (i) prevalence and trends of child marriage; (ii) causes of child marriage (iii) consequences of child marriage; (iv) efforts to prevent child marriage; (v) efforts to support married girls.
+
+***Key words: Child Marriage***
+
+?> *Kuruluş adı: "WHO, University of California, Girls Not Brides ; 2015, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_130.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
