@@ -3234,8 +3234,72 @@ This commentary summarizes the outcomes of an Expert Group Meeting organized by 
 
 ***Key words: Child Marriage***
 
-?> *Kuruluş adı: "WHO, University of California, Girls Not Brides ; 2015, İngilizce*
+?> *Kuruluş adı: WHO, University of California, Girls Not Brides ; 2015, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_130.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Responding To Vulnerability? Forced Marriage And The Law
+*MKL_131*
+
+**ÖZET**
+
+Bu makale, Avustralya’nın 2013 yılında kabul edilen zorla evliliklere hukuki müdahalesinin zorla evlendirilmiş veya zorla evlilik riski altında bulunan kişilerin kırılganlıklarını nasıl anladığı ve ortadan kaldırmaya çalıştığını değerlendirmektedir. Makale, insan ticareti ve köleliğe İngiliz Milletler Topluluğu yaklaşımının bir parçası olarak ceza hukukunun cebri olarak seferber edilmesi çerçevesine oturtulan hukuki müdahalenin, tam ve özgür rızaları olmaksızın evlenmeye zorlanan kişilerin durumlarını bu kişilerin pek çok kırılganlıklarını kısmen tanıyan bir biçimde kavramsallaştırdığını iddia etmektedir.     
+
+***Anahtar kelimeler: Zorla Evlilik, Aile Şiddeti, Çocuk Evliliği***
+
+**ABSTRACT**
+
+This article examines how the Australian legal response to forced marriage, introduced in 2013, understands and seeks to remedy the vulnerabilities of those in or at risk of a forced marriage. The article argues that the legal response, framed in terms of the coercive mobilisation of criminal justice as part of the Commonwealth approach to trafficking and slavery, conceptualises the situation of those who are forced to marry without full and free consent in ways that only partially recognise their many vulnerabilities.
+
+***Key words: Forced Marriage, Family Violence, Child Marriage***
+
+?> *Kuruluş adı: UNSW Law Journal ; 2018, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_131.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Restraining Forced Marriage
+*MKL_132*
+
+**ÖZET**
+
+Bu makale, zorla evlilikler önlemek ve zararlarını düzeltmek için sivil koruma tedbirlerinin uygulanabilirliğinin detaylı bir değerlendirmesini yapan ilk çalışmadır. Her ne kadar koruma tedbirleri birçok ülkede zorla evlilikleri önlemek ve zararlarını düzeltmek için bir araç olmayı vaat etse de tabi olunan hukuki standartların nüansları, uzman rehberliğine sahip olmayanlar için bu hukuki yolun pratikte işe yararlılığını azaltmaktadır.     
+
+***Anahtar kelimeler: Zorla Evlilikler, Hukuki Standartlar***
+
+**ABSTRACT**
+
+This Article is the first to undertake a detailed evaluation of the viability of civil protection orders to prevent and redress forced marriage. Although protection orders show promise as a tool to prevent and redress forced marriage in many states, the nuances of the governing legal standards reduce the practical utility of the remedy for those who lack expert guidance.
+
+***Key words: Forced Marriage, Legal Standards***
+
+?> *Kuruluş adı: Nevada Law Journal ; 2018, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_132.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Risk Factors Associated With The Practice Of Child Marriage Among Roma Girls In Serbia
+*MKL_133*
+
+**ÖZET**
+
+Çocuk yaşta evliliklerinin genel yaygınlığının görece düşük ancak marjinal etnik alt gruplar arasında görece yüksek olduğu Avrupa ülkelerinde çocuk evlilikleri konusunda görece daha az çalışma yapılmıştır. Bu çalışmanın amacı, Sırbistan’daki Roman yerleşimlerinde yaşayan kadınlar arasında ve genel nüfus arasında çocuk evliliği uygulamaları ile ilişkilendirilen risk faktörlerini değerlendirmek ve çocuk evlilikler ile okula kaydolma kararları arasındaki ilişkileri araştırmaktadır.   
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik***
+
+**ABSTRACT**
+
+Relatively little research on the issue of child marriage has been conducted in European countries where the overall prevalence of child marriage is relatively low, but relatively high among marginalized ethnic subgroups. The purpose of this study is to assess the risk factors associated with the practice of child marriage among females living in Roma settlements in Serbia and among the general population and to explore the inter-relationship between child marriage and school enrollment decisions.
+
+***Key words: Child Marriage***
+
+?> *Kuruluş adı: Tulane University, UNICEF ; 2016, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_133.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
