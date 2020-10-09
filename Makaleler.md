@@ -3186,7 +3186,7 @@ This study reviews evidence for interventions to reduce the prevalence and incid
 
 ***Key words: Violence against Women and Girls***
 
-?> *Kuruluş adı: "Global Women’s Institute, George Washington University, The World Bank Group, London School of Hygiene & Tropical Medicine ; 2015, İngilizce*
+?> *Kuruluş adı: Global Women’s Institute, George Washington University, The World Bank Group, London School of Hygiene & Tropical Medicine ; 2015, İngilizce*
 
 [Materyal Erişim Linki](https://www.researchgate.net/publication/268743170_Prevention_of_Violence_against_Women_and_Girls_What_Does_the_Evidence_Say)
 
@@ -3303,3 +3303,54 @@ Relatively little research on the issue of child marriage has been conducted in 
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Self-Rated Health And Teenage Pregnancies In Roma Women: Increasing Height Is Associated With Better Health Outcomes
+*MKL_134*
+
+**ÖZET**
+
+Bu makale Sırbistan’daki geleneksel Roman kadınlar arasında erken evlilik çocukluk ortamının göstergelerinden olan ilk doğum yapma yaşı ve boy arasındaki ilişkiyi ve anne sağlığı sonuçları arasındaki ilişkileri incelemektedir. 
+
+***Anahtar kelimeler: Erken Evlilik, Anne Sağlığı, Genç Gebelikleri***
+
+**ABSTRACT**
+
+This paper reports on the association between early marriage, age at first reproduction and height, as an indicator of childhood environment, and maternal health outcomes among traditional Roma women in Serbia.
+
+***Key words: Early Marriage, Maternal Health, Teenage Pregnancies***
+
+?> *Kuruluş adı: Serbian Academy of Sciences and Arts ; 2015, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/325692003_SELF-RATED_HEALTH_AND_TEENAGE_PREGNANCIES_IN_ROMA_WOMEN_INCREASING_HEIGHT_IS_ASSOCIATED_WITH_BETTER_HEALTH_OUTCOMES)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_134.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Shattering the Silence Surrounding Forced and Early Marriage in the United States
+*MKL_135*
+
+**ÖZET**
+
+Bu makale zorla ve erken evlilik geleneklerinin mahiyetini, katalizörlerini ve sonuçlarını incelemekte, uygulanabilir ulusal, yabancı ve uluslararası kanunların ve hukuki çarelerin etkililiğini değerlendirmekte, küçüklerin evliliğe anlamlı biçimde rıza verebilme kapasitelerini ölçmekte, zararlı evlilik uygulamalarını engellemekte, medeni kanun mu yoksa ceza kanununun mu daha etkili olduğu konusunda yarışan teorileri analiz etmekte ve toplumsal değişimi teşvik etmekte, toplum önderliğinde kalkınma çabalarının rolünü araştırmaktadır. 
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Zararlı Evlilik Uygulamaları, Kanunlar ve Yönetmelikler***
+
+**ABSTRACT**
+
+This Article examines the nature, catalysts, and consequences of forced and early marriage customs; evaluates the efficacy of applicable domestic, foreign, and international laws and remedies; gauges the capacity of minors to meaningfully consent to marriage; analyzes competing theories about whether harmful marriage practices are best addressed through civil or criminal laws; and explores the role of community-led development efforts to spur social change.
+
+***Key words: Early Marriage, Maternal Health, Teenage Pregnancies***
+
+?> *Kuruluş adı: Child Marriage, Harmful Marriage Practice, Laws and Regulations ; 2012, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/256033386_Shattering_the_Silence_Surrounding_Forced_and_Early_Marriage_in_the_United_States)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_135.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
