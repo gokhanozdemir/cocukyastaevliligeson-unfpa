@@ -3543,3 +3543,116 @@ Adoption is not recognized in the constitution of the Islamic Republic of Iran, 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_145.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## The Socio-Cultural Context of Child Marriage in a Bangladeshi Village
+*MKL_146*
+
+**ÖZET**
+
+Bu makale, bir Bangladeş köyünde gerçekleşen çocuk yaşta evliliklerin nedenlerine odaklanmaktadır. Araştırma metodolojisi olarak katılımcılar gözlemlenmiş, metodolojiyi desteklemek için anketler, tartışmalar ve mülakatlar geliştirilmiş ve vaka çalışmaları oluşturulmuştur. Çalışma Bangladeş'teki bir köyde gerçekleştirilmiş ve kırsal bölgelerde yaşayan Bangladeşlilerin neden kızlarını erken yaşta evlendirdiklerini, bundan kâr edeceklerini düşünüp düşünmediklerini ve edeceklerse bunun nasıl olacağını incelemiştir.  Alışveriş kuramına yönelik fayda maliyet analizi, kuramsal çerçeveyi oluşturmaktadır. Çalışma bulgularına göre çocuk yaşta evlilik, sürece dahil olan bireyler, yerel topluluk ve genel topluma yönelik büyük maliyetlere rağmen, Bangladeş halkının kâr etme amacının bir sonucu olarak gerçekleşmektedir.
+
+***Anahtar kelimeler: Çocuk Evliliği, Yoksulluk, Güvenlik***
+
+**ABSTRACT**
+
+This article focuses on the reasons for child marriage in a Bangladeshi village. The methodology of this research was participant observation, supplemented by questionnaires, discussions, interviews and the construction of case studies. The study was conducted in a village in Bangladesh, and looked at why the rural people of Bangladesh marry off their daughters at an early age, whether they think that they will profit from it, and how. Cost-benefit analysis in exchange theory provides the theoretical framework. This study finds that child marriage occurs as a result of the profit-making motive of the people of Bangladesh, despite the huge costs to the individuals involved, the local community and society as a whole.
+
+***Key words: Child Marriage, Poverty, Security***
+
+?> *Kuruluş adı: Rajshahi University ; 2004, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_146.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## UK Initiatives on Forced Marriage: Regulation, Dialogue and Exit
+*MKL_147*
+
+**ÖZET**
+
+Feminizm ve çok kültürlülüğe ilişkin literatür, kültürel çeşitliliğin tanınması ile kadın eşitliğinin sağlanması arasında olası çatışmalar tespit etmiştir. Bu ikilemin ele alınması noktasında çağdaş devletlerin uygulamalarında üç genel yaklaşım ortaya çıkmaktadır: düzenleme, topluluklar ile çalışma ve çıkış. Zorla evliliğe ilişkin mevcut girişimlerde bu yaklaşımların hepsi açıkça görülse de Birleşik Krallık'ta ağırlıklı olarak bireylerin zorla evlilik durumundan veya tehdidinden çıkarılmasını sağlamaya odaklanılmıştır. Söz konusu girişimleri değerlendirme noktasında bu makale, çıkış yönteminin sınırlarını ve tercih edilen çözüm olarak göçün düzenlenmesine yönelmenin tehlikelerini vurgulamaktadır.
+
+***Anahtar kelimeler: Zorla Evlilik***
+
+**ABSTRACT**
+
+The literature on feminism and multiculturalism has identified potential conflicts between the recognition of cultural diversity and securing women’s equality. Three broad approaches to this dilemma have emerged in the practices of contemporary states: regulation, working with the communities, and exit. Each of these is apparent in current initiatives regarding forced marriage, but the overwhelming emphasis in the UK has been on enabling individuals to exit from the threat or reality of a forced marriage. In assessing these initiatives, this paper highlights the limitations of exit and the danger of moving towards immigration regulation as the preferred solution.
+
+
+***Key words: Forced Marriage***
+
+?> *Kuruluş adı: London School of Economics ; 2004, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_147.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Untangling Sex, Marriage, and Other Criminalities in Forced Marriage
+*MKL_148*
+
+**ÖZET**
+
+Son birkaç on yılda, özellikle uluslararası cezai mahkemelerin yükselişiyle birlikte cinsel ve toplumsal cinsiyete dayalı suçlar giderek daha çok suç olarak kabul edilmiş ve bu konuda uluslararası toplumun farkındalığı artmıştır.  Cinsel kölelik, esaret veya tecavüz gibi suçlar, uluslararası hukuk kapsamında başarılı bir şekilde kovuşturulmuştur. Ancak cinsel ve toplumsal cinsiyete dayalı suçların yasaklanması giderek daha çok kabul görse de, 2008 yılında Sierra Leone Özel Mahkemesi'nin (SCSL) zorla evliliği uluslararası bir suç olarak kabul edene kadar zorla evliliğin ciddiyeti göz ardı edilmeye devam etmiştir. Fakat SCSL'nin kararından bu yana başka hiçbir ceza mahkemesi, zorla evlilik suçunu işleme nedeniyle faillere başarılı bir şekilde yaptırım veya kovuşturma uygulamamıştır. Uganda ve Kamboçya gibi diğer devletlerde zorla evliliğe ilişkin çok sayıda ihbar olduğu düşünülürse, bu durum bilhassa rahatsız edicidir.
+
+***Anahtar kelimeler: Zorla Evlilik, Cinsel Suçlar, Cinsel Saldırılar***
+
+**ABSTRACT**
+
+Over the past few decades, particularly with the rise of international criminal tribunals, there has been increased criminalization and greater awareness in gender and sex-based crimes among the international community. Crimes such as sexual slavery, enslavement, or rape have been successfully prosecuted under international law. Yet despite the increased recognition in the prohibition of sex and gender-based crimes, forced marriage remained marginalized until 2008, when the Special Court of Sierra Leone formally recognized forced marriage as an international crime. However, since the SCSL's ruling, no other criminal tribunal to date has successfully enforced and prosecuted perpetrators for committing forced marriage. This is particularly troubling considering the widespread reports of forced marriage in other States, such as Uganda and Cambodia.
+
+***Key words: Forced Marriage, Sex Crimes, Sex Offenses***
+
+?> *Kuruluş adı: Goettingen Journal of International Law ; 2014, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_148.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## What is Forced Marriage? Towards a Definition of Forced Marriage as a Crime Against Humanity
+*MKL_149*
+
+**ÖZET**
+
+Bu Makale, Temyiz Mahkemesi'nin "uluslararası ceza hukuku içtihadını zenginleştirme" olarak ifade edilen ancak amacıyla çelişkili olan kararları eleştirmektedir. Makale, zorla evlilik suçunu tanıma ihtiyacı olduğunu, fakat mevcut içtihadı zenginleştirmek için bunun yalnızca evlilik statüsünün verilmesiyle ve söz konusu statünün mağdur üzerindeki süregelen etkileriyle sınırlı kalması gerektiğini öne sürmektedir. Evliliklerde gerçekleşen diğer suçlar, zorla evlilik kovuşturması kapsamında toplanmamalıdır; bunlar, ayrıca tanınması gereken ayrı suçlardır.
+
+***Anahtar kelimeler: Zorla Evlilik, Hukuk Sistemi***
+
+**ABSTRACT**
+
+This Article critiques those decisions against the Appeals Chamber's stated aim of enriching the jurisprudence of international criminal law. This Article argues that there is a need to recognize a crime of forced marriage, but in order to enrich current jurisprudence, it should be limited to only the conferral of the status of marriage and the ongoing effects of that status on the victim. Other crimes that occur within the marriages should not be collapsed into the prosecution of forced marriage; they are separate offenses that need separate recognition.
+
+***Key words: Forced Marriage, Jurisprudence***
+
+?> *Kuruluş adı: Columbia Journal of Gender and Law ; 2010, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_149.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## When the Mother is a Child: The Impact of Child Marriage on the Health and Human Rights of Girls
+*MKL_150*
+
+**ÖZET**
+
+Bu makale, çocuk yaşta evliliğe ilişkin anne ve çocuk sağlığı kaygılarına odaklanmaktadır. 
+
+
+***Anahtar kelimeler: Çocuk Evliliği***
+
+**ABSTRACT**
+
+This paper focuses on maternal and child health concerns abour child marriage. 
+
+
+***Key words: Child Marriage***
+
+?> *Kuruluş adı: Columbia Journal of Gender and Law ; 2010, İngilizce*
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/47370128_When_the_mother_is_a_child_The_impact_of_child_marriage_on_the_health_and_human_rights_of_girls)
+
+<!-- 
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_150.pdf ':ignore')
+-->
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
