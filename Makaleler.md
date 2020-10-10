@@ -3354,3 +3354,110 @@ This Article examines the nature, catalysts, and consequences of forced and earl
 -->
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Students and Brides: A Qualitative Analysis of the Relationship between Girls’ Education and Early Marriage in Ethiopia and India
+*MKL_136*
+
+**ÖZET**
+
+Erken evlilik (<18 yaş) kız çocuklar arasında eğitimin kesintiye uğraması ile ilişkilendirilmektedir. Kız çocukların nasıl dayanıklılık inşa ettiklerini nitel olarak değerlendiren çok az araştırma vardır. Bu çalışma Oromia, Etiyopya ve Hindistan’ın Jharkhnad eyaletindeki kız çocukları arasında bu konuyu ve erken evlilikleri önleme programına katılan karar alıcıları incelemektedir.  
+
+***Anahtar kelimeler: Erken Evlilik***
+
+**ABSTRACT**
+
+Early marriage (< 18 years) is associated with education cessation among girls. Little research has qualitatively assessed how girls build resiliency in affected contexts. This study examines these issues in Oromia, Ethiopia and Jharkhand, India among girls and their decision-makers exposed to early marriage prevention programs.
+
+***Key words: Early Marriage***
+
+?> *Kuruluş adı: BMC Public Health ; 2019, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_136.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Substance Use and Early Marriage
+*MKL_137*
+
+**ÖZET**
+
+Daha önceki çalışmalar madde kullanımı ile ergen evlilikleri arasında ilişkiye işaret etmektedir. Bu çalışmada bu ilişkinin sebebi olabilecek iki farklı süreç açıklanmış ve birbiri ile tutarlı veya tutarsız olabilecek ilişkilendirme örüntüleri hipotez haline getirilmiştir.
+
+***Anahtar kelimeler: Ergenlik, Erken Evlilik, Erken Yaşta Evlilik Dışı Ebeveynlik, Dürtüsellik, Heyecan Arama, Madde Kullanımı***
+
+**ABSTRACT**
+
+Prior work indicates that substance use is related to adolescent marriage. In this study, two different processes that may account for this relationship are described and  patterns of association that would be consistent or inconsistent with each are hypothesized.
+
+***Key words: Adolescence, Early Marriage, Early Unwed Parenthood, Impulsivity, Sensation Seeking, Substance Use***
+
+?> *Yayımlayan: Steven C. Martino, Rebecca L. Collins, Phyllis L. Ellickson ; 2004, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_137.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## The ""Lost Girls"" of Sudan: Forced Marriage as a Vehicle for Asylum
+*MKL_138*
+
+**ÖZET**
+
+Bu çalışmada, Gao v. Gonzales davasında İkinci Bölge Temyiz Mahkemesinin yakın zamanda verdiği bir kararın, Kakuma Mülteci Kampındaki bazı Sudanlı kız çocukların Birleşik Devletlere iltica hakkı kazanmalarının önünü açabileceği belirtilmektedir. Gao mahkemesi, başvuru sahibinin evlilik amaçlı olarak satılan ve Çin’de zorla evliliklere izin verilen feodal bir toplulukta yaşayan kadınlardan oluşan belli bir sosyal gruba aidiyeti nedeniyle zulüm görmekten haklı korku duyduğuna karar vermiştir.  
+
+***Anahtar kelimeler: Çocuk Evliliği, Kadın Hakları, Mülteciler***
+
+**ABSTRACT**
+
+This note proposes that a recent holding by the Court of Appeals for the Second Circuit in Gao v. Gonzales might help pave the way for some Sudanese girls at Kakuma Refugee Camp to gain asylum in the United States. The Gao court held that the petitioner had established a fear of persecution on account of her membership in a particular social group consisting of women who have been sold into marriage and live in a feudal community in China where forced marriage is condoned.
+
+***Key words: Child Marriage, Women Rights, Refugees***
+
+?> *Kuruluş adı: Women's Rights Law Reporter ; 2008, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_138.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## The Changing Demography of America's Families
+*MKL_139*
+
+**ÖZET**
+
+Çeşitli kaynaklardan verileri kullanarak bu çalışma Amerikan ailelerinin kompozisyonu, ekonomik istikrarı ve çeşitliliğinde yakın zamanda meydana gelen dramatik değişiklikleri açıklamayı amaçlamaktadır.
+
+***Anahtar kelimeler: Ailelerin Demografisi, Aile Değişikliği, Ailenin Ekonomik Durumu, Aile Trendleri***
+
+**ABSTRACT**
+
+Using data from a variety of sources, this study aims to describe recent dramatic changes in the composition, economic stability, and diversity of American families.
+
+***Key words: Demography of Families, Family Change, Family Economic Status, Family Trends***
+
+?> *Kuruluş adı: Western Washington University ; 2000, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_139.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## The Child in a Child: Child Marriage and Lost Identity in Southern Africa
+*MKL_140*
+
+**ÖZET**
+
+Bu makale, çocuğun tanımının belirsiz olması probleminin özellikle de evlilikler konusunda insan hakları ihlallerine etkisini ele almaktadır. Çoğulcu bir perspektifi kullanarak örfi hukuk, ulusal kanunlar ve uluslararası sözleşmeler arasındaki açıklığa köprü olmayı amaçlamakta ve çocuk evliliklerinin devam etmesinin arkasındaki ekonomik ve sosyo-ekonomik faktörlere dikkat edilmesi çağrısında bulunmaktadır.  
+
+***Anahtar kelimeler: Çocuk Evliliği, İnsan Hakları, Evlilik Yaşı***
+
+**ABSTRACT**
+
+This paper addresses that the problem of unclear definition of a child especially on the issue of marriage contributes to violations of human rights.  Using a pluralist perspective, it seeks to bridge the gap between customary law, national laws, and international treaties, and requires sensitivity to the economic and socio-cultural factors behind the persistence of child marriage.
+
+***Key words: Child Marriage, Human Rights, Marriage Age***
+
+?> *Kuruluş adı: University of Cape Town ; 2019, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_140.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+
