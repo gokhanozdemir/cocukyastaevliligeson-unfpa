@@ -3656,3 +3656,45 @@ This paper focuses on maternal and child health concerns abour child marriage.
 -->
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## WHO Guidelines on Preventing Early Pregnancy and Poor Reproductive Outcomes Among Adolescents in Developing Countries
+*MKL_151*
+
+**ÖZET**
+
+Dünya Sağlık Örgütü kısa bir süre önce altı konuyu ele alan kanıt temelli kılavuz ilkeler geliştirmiştir. Bu altı konu şunlardır: erken yaşta evliliğin önlenmesi; cinsellik eğitimi yoluyla erken gebeliğin önlenmesi; eğitim fırsatlarının yanı sıra ekonomik ve sosyal destek programlarının artırılması; doğum kontrol kullanımının artırılması; zorla gerçekleşen cinsel ilişkinin azaltılması; güvenli olmayan kürtajın önlenmesi; ve doğum öncesi, doğum ve doğum sonrası bakımın artırılması.  Bu konuların her birinde, Dünya Sağlık Örgütü'nün gelecekteki araştırmalara ilişkin olarak tavsiye ettiği yönergeler bulunmaktadır. Özet bölümü, bu önemli konudaki eylemleri bir sonraki aşamaya taşımak için bir fırsat penceresi sunan küresel ve bölgesel girişimlere ait kısa bir inceleme ile son bulmaktadır.
+
+***Anahtar kelimeler: Dünya Sağlık Örgütü, Hamilelikten Korunma, Erken Gebelik, Çocuk Evliliği***
+
+**ABSTRACT**
+
+This Article critiques those decisions against the Appeals Chamber's stated aim of enriching the jurisprudence of international criminal law. This Article argues that there is a need to recognize a crime of forced marriage, but in order to enrich current jurisprudence, it should be limited to only the conferral of the status of marriage and the ongoing effects of that status on the victim. Other crimes that occur within the marriages should not be collapsed into the prosecution of forced marriage; they are separate offenses that need separate recognition.
+
+***Key words: World Health Organization, Pregnancy Prevention, Early Pregnancy, Child Marriage***
+
+?> *Kuruluş adı: WHO ; 2013, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_151.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Without Consent: Forced Marriage in Australia
+*MKL_152*
+
+**ÖZET**
+
+Bu makale, Avustralya'nın artan zorla evlilik sorununa verdiği yanıtı incelemektedir. Zorla evliliğe karşı toplum ve devlet tarafından verilen yanıtlar ışığında, zorla evliliğin tanımlanmasına yönelik zorlukları ve bu uygulamanın esaret ve kölelik gibi diğer sömürücü faaliyetlerle ne derece örtüştüğü değerlendirilmektedir.
+
+***Anahtar kelimeler: Zorla Evlilik, Rıza***
+
+**ABSTRACT**
+
+This article explores Australia' response to the emerging issue offorced marriage. In light of community and government responses to forced marriage, we review the challenges involved in defining forced marriage and the degree to which the practice overlaps with other forms of exploitative conduct such as servitude and slavery
+
+***Key words: Forced Marriage, Consent***
+
+?> *Kuruluş adı: Melbourne University Law Review ; 2013, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_152.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
