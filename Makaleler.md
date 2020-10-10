@@ -3460,4 +3460,86 @@ This paper addresses that the problem of unclear definition of a child especiall
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## The Concept and Measurement of Violence - Chapter: Conceptualizing Violence and Gender
+*MKL_141*
 
+**ÖZET**
+
+Bu makale, toplumsal cinsiyete dayalı şiddet açısından tutarlı ve uygun bir ölçüm çerçevesi üretmenin yollarını keşfetmektedir.
+
+***Anahtar kelimeler: Cinsiyete Dayalı Şiddet***
+
+**ABSTRACT**
+
+This article discovers the pathways of producing a coherent and consistent measurement framework in terms of gender based violence.
+
+***Key words: Gender Based Violence***
+
+?> *Kuruluş adı: Bristol University Press ; 2017, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_141.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## The Concept and Measurement of Violence - Chapter: Different Forms of Violence
+*MKL_142*
+
+**ÖZET**
+
+Kadına ve erkeğe karşı şiddetin farklı biçimleri vardır. Bu şiddet biçimlerinin farklılıklarının ölçümlenmesi açısından bazı sonuçlar söz konusudur. Bu bölüm, bu farklılıkları dikkate alacak ölçümleme çerçevesi için gerekli nüansları ele almaktadır. Yine de bu farklılıkları aşırı vurgulamamaya özen göstermektedir. 
+
+***Anahtar kelimeler: Cinsiyete Dayalı Şiddet, Şiddet***
+
+**ABSTRACT**
+
+There are different forms of violence against women and men. These differences in forms potentially have implications for their measurement. This chapter addresses the nuances required for the measurement framework to take these differences into account, although it is important not to overstate the differences.
+
+***Key words: Gender Based Violence, Violence***
+
+?> *Kuruluş adı: Bristol University Press ; 2017, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_142.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## The Forced Marriage Debate and the British State
+*MKL_143*
+
+**ÖZET**
+
+Son yıllarda İngiliz hükümeti zorla evlilikleri ve “namus cinayetlerini ” önlemek için giderek daha fazla müdahalelerde bulunmaktadır. Ancak Güney Asyalı kadınların kötü durumlarına ilişkin yakın zamanda ortaya çıkan endişeler, özellikle de Müslümanlara karşı çok daha derin bir ırkçılık yapısıyla ve Güney Asya ataerkilliği ile olan çatışmayla çelişmektedir. Yakın zamanlarda zorla evliliklere ilişkin getirilen yasa teklifi gibi girişimlerin kadınları güçlendirme amacı taşımadığı ancak devletin kolonyal kökenleri olan Güney Asyalı toplulukları düzene sokma yaklaşımından kaynaklandığı iddia edilmektedir. Güney Asyalı kadınların taban örgütlerine destek verilmemesi ve şiddet görme riski altındaki kadınların sınır dışı edilmeye devam edilmesi devletin ev içi şiddet ve diğer baskı türlerinin mağdurlarını destekleme konusundaki çelişkili tavrını ortaya koymaktadır. 
+
+***Anahtar kelimeler: Zorla Evlilik, Aile İçi Şiddet, ‘Namus Cinayeti’, Güney Asyalı Kadınlar***
+
+**ABSTRACT**
+
+In recent years, the British government has increasingly sought to intervene to prevent forced marriages and ‘honour killings’. But its new-found concern for the plight of South Asian women belies a deeper structure of racism, particularly against Muslims, and collusion with South Asian patriarchy. It is argued that initiatives such as the recent proposal for legislation on forced marriages are not empowering to women but are driven by the state’s need to police South Asian communities, an approach that has colonial roots. The lack of support given to grassroots South Asian women’s organisations and the continuing deportation of women at risk of violence reveal the partial nature of the state’s commitment to supporting victims of domestic violence and other forms of oppression.
+
+***Key words: Forced Marriage, Domestic  Violence, ‘Honour Killings’, South Asian Women***
+
+?> *Yayımlayan: Amrit Wilson ; 2007, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_143.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## The Rights of Children against Forced Marriage At The International Level
+*MKL_145*
+
+**ÖZET**
+
+İran İslam Cumhuriyetinin anayasasında evlat edinme tanınmamıştır. Bu hukuki müessese Şii olmayan İranlıların medeni haline ilişkin 1312 sayılı kanunun sadece tek bir maddesinde yer almaktadır ve Şii olmayan İranlılar ile diğer İranlılar arasındaki benzerlikleri ve farklıları açıklamaktadır. Bu araştırmada devletlerin evlat edinmeye ilişkin hukuki kuralları ve düzenlemeleri bağlamında Fransız ve İngiliz evlat edinme kanunları ele alınmaktadır. İngiliz ve Fransız kanunlarının aksine, evlat edinilen çocuk ve ebeveynleri kararı kabul etmekte ve denetim tesis edilmemektedir. Her iki tarafta da bazıları bunu evlat edinme olarak değerlendirmektedir. Ancak diğerleri Denetimli Evlat Edinme Hakkında Kanuna rağmen bunun ayrı statüsü olan bağımsız bir müessese oluğunu iddia etmektedirler. Fransa, İngiltere ve İran'da çocukların desteklenmesine yönelik çabalara ilişkin olarak kabul edilen yeni kanunların incelenmesi.
+
+***Anahtar kelimeler: Çocuk Evliliği, Evlat Edinme, Uluslararası Hukuk***
+
+**ABSTRACT**
+
+Adoption is not recognized in the constitution of the Islamic Republic of Iran, This legal establishment, only a single article to follow non-Shiite Iranian personal status Act 1312, have been identified in non-Shi'a Iranians and for Iranians to oversee the similarities and distinctions like an explanation is. In this research effort, subject to adoption of legal rules and regulations of the state, French and British adoption law is discussed. Unlike the British and French law, the rights of the adopted child and the parents accept the verdict close supervision is not create. On both sides, some have regarded it as adoption. But others argued that, despite the similarity of the Law on the Supervision Adoption, an independent entity with a special status. Looking at the adoption of the law of France, England, and Iran's efforts to support the children new bill to be considered.
+
+***Key words: Child Marriage, Adoption, International Law***
+
+?> *Kuruluş adı: Journal of Law, Policy and Globalization ; 2014, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_145.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
