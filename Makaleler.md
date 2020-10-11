@@ -3689,12 +3689,96 @@ Bu makale, Avustralya'nın artan zorla evlilik sorununa verdiği yanıtı incele
 
 **ABSTRACT**
 
-This article explores Australia' response to the emerging issue offorced marriage. In light of community and government responses to forced marriage, we review the challenges involved in defining forced marriage and the degree to which the practice overlaps with other forms of exploitative conduct such as servitude and slavery
+This article explores Australia' response to the emerging issue offorced marriage. In light of community and government responses to forced marriage, we review the challenges involved in defining forced marriage and the degree to which the practice overlaps with other forms of exploitative conduct such as servitude and slavery.
 
 ***Key words: Forced Marriage, Consent***
 
 ?> *Kuruluş adı: Melbourne University Law Review ; 2013, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_152.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Without Consent: Forced Marriage in Australia
+*MKL_153*
+
+**ÖZET**
+
+Bu makale, Avustralya'nın artan zorla evlilik sorununa verdiği yanıtı incelemektedir. Zorla evliliğe karşı toplum ve devlet tarafından verilen yanıtlar ışığında, zorla evliliğin tanımlanmasına yönelik zorluklar ve bu uygulamanın esaret ve kölelik gibi diğer sömürücü faaliyetlerle ne derece örtüştüğü değerlendirilmektedir. 
+
+***Anahtar kelimeler: Zorla Evlilik, Avustralya***
+
+**ABSTRACT**
+
+This article explores Australia’s response to the emerging issue of forced marriage. In light of community and government responses to forced marriage,  the challenges involved in defining forced marriage and the degree to which the practice overlaps with other forms of exploitative conduct such as servitude and slavery are reviewed. 
+
+***Key words: Forced Marriage, Australia***
+
+?> *Kuruluş adı: Monash University, University of Technology Sydney ; 2013, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_153.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Women’s Perspectives on Marriage and Rights in Morocco: Risk Factors for Forced and Early Marriage in the Marrakech Region
+*MKL_154*
+
+**ÖZET**
+
+Bu çalışma, Fas'ta çocuk yaşta evlilik ve zorla evliliğin gerçekleşmesine katkıda bulunan etmenlerle bağlantılı olarak kadınların deneyimlerini ve bakış açılarını incelemektedir. Katılımcı bir yaklaşımdan faydalanarak, geniş tanımıyla Marakeş bölgesindeki kentsel ve kırsal yerlerde yaşayan kadınlar ile odak grup görüşmeleri ve ayrıntılı mülakatlar gerçekleştirilmiştir.
+
+***Anahtar kelimeler: Çocuk Evliliği, Zorla Evlilik, Kadın Algısı***
+
+**ABSTRACT**
+
+The present study explored women’s experiences and perspectives in relation to factors that contribute to the occurrence of child and forced marriage in Morocco. Using a participatory approach, focus-group discussions and in-depth interviews were held with women in both urban and rural settings in the greater Marrakech region.
+
+***Key words: Child Marriage, Forced Marriage, Female Perception***
+
+?> *Kuruluş adı: Culture, Health & Sexuality ; 2015, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_154.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Young Women’s Experience of Adolescent Marriage and Motherhood in Jordan
+*MKL_155*
+
+**ÖZET**
+
+Bu çalışma, Ürdünlü genç kadınların evlilik ve annelik deneyimlerini incelemektedir.
+
+***Anahtar kelimeler: Ergenlik, Ergen Anneler, Erkan Annelik, Ürdün***
+
+**ABSTRACT**
+
+This study explores the experiences of marriage and motherhood among Jordanian young women.
+
+***Key words: Adolescents, Adolescent Mothers, Early Motherhood, Jordan***
+
+?> *Kuruluş adı: The Hashemite University, Amman University, The University of Jordan ; 2019, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_155.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Child Marriage And Its Impact On Maternal And Child Health In Pakistan
+*MKL_156*
+
+**ÖZET**
+
+Bu çalışma Pakistan'daki çocuk yaşta evlilik ve anne sağlık hizmetleri kullanımı arasındaki ilişkiyi belirlemeyi; çocuk yaşta evlilik ile iyi ve kötü doğurganlık sağlık belirtileri arasındaki ilişkiyi belirlemeyi; Pakistan'daki çocuk yaşta evlilik ile 5 yaş altı çocuk hastalığı ve ölümü arasındaki ilişkiyi belirlemeyi; Pakistan'daki çocuk yaşta evlilik ile kocaların ergen ve genç kadınlara karşı kontrol edici davranışları ve partner/eş şiddeti arasındaki ilişkiyi belirlemeyi; ve gelecekteki müdahaleleri tasarlamak için kültürel etmenler başta olmak üzere içgörü kazanmak amacıyla kendileri çocukken evlenen kadınların çocuk yaşta evlilik uygulamasına ilişkin bilgilerini ve tavrını açıklamayı hedeflemektedir.
+
+***Anahtar kelimeler: Çocuk Evliliği, Anne Sağlığı, Çocuk Sağlığı, Pakistan***
+
+**ABSTRACT**
+
+This study aims to determine the association between child marriage and maternal healthcare services utilization in Pakistan, to determine the association between child marriage and high fertility and poor fertility health indicators, to determine the association between child marriage and morbidity and mortality of children under 5 years of age in Pakistan, to determine the association between child marriage and controlling behaviors and spousal violence by husbands against adolescent and young women in Pakistan, and to describe women’s knowledge and attitude towards child marriage practice who themselves were married as children to gain insight, especially cultural factors for designing future interventions.
+
+***Key words: Child Marriage, Maternal Health, Child Health, Pakistan***
+
+?> *Kuruluş adı: Bielefeld University ; 2015, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_156.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
