@@ -3782,3 +3782,88 @@ This study aims to determine the association between child marriage and maternal
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_156.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## 17. ve 18. Yüzyılda İstanbul ve Anadolu’da Çocuk Evlilikleri ve Erişkinlik Olgusu Üzerine Bir Değerlendirme
+*MKL_157*
+
+**ÖZET**
+
+Bu makale 17. ve 18. yüzyılda İstanbul ve Anadolu’da çocuk evliliklerini, 17. ve 18. yüzyıla ait fetva mecmuaları ile aynı dönemin İstanbul’una ve birkaç Anadolu kentine ait mahkeme kayıtları üzerinden anlamaya çalışmaktadır.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Osmanlı***
+
+**ABSTRACT**
+
+This article tries to understand child marriages in Istanbul and Anatolia in the 17th and 18th centuries through the fatwa magazines of the 17th and 18th centuries and the court records belonging to Istanbul and several Anatolian cities of the same period.
+
+***Key words: Child Marriage, Ottoman***
+
+?> *Kuruluş adı: Kadın/Woman 2000-Journal for Women’s Studies ; 2012, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_157.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## A Community-Based Survey on Syrian Refugee Women’s Health and Its Predictors in Şanlıurfa, Turkey
+*MKL_158*
+
+**ÖZET**
+
+Gelecekteki müdahalelere ışık tutmak isteyen bu çalışmanın amacı, mülteci kampları dışında yaşayan üreme çağındaki kadın Suriyeli mültecilere ilişkin sosyodemografik özellikleri, üreme davranışlarını, zihinsel semptomları, yetersiz beslenmeyi ve bildirilen cinsel yolla bulaşan enfeksiyon semptomlarını belirlemektir.  
+
+***Anahtar kelimeler: Ruh Sağlığı, Beslenme, Mülteciler, Üreme Sağlığı, Suriyeli, Kadınlar***
+
+**ABSTRACT**
+
+The purpose of this study, to provide guidance for future interventions, was to determine the sociodemographic characteristics, reproductive behavior, mental symptoms, malnutrition, and reported prevalence of sexually transmitted infection (STI) symptoms in reproductive-aged female Syrian refugees living outside of the refugee camps.
+
+***Key words: Mental Health, Nutrition, Refugees, Reproductive Health, Syrian, Women***
+
+?> *Kuruluş adı: Harran University, UNFPA ; 2018, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_158.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## A Social Dominance Theory Perspective on Attitudes Toward Girl Child Marriages in Turkey: The Legitimizing Role of Ambivalent Sexism
+*MKL_159*
+
+**ÖZET**
+
+Bu çalışma, Türkiye'de kız çocuklarının evlendirilmesine yönelik tutumları sosyal baskınlık kuramı perspektifinde incelemeyi amaçlamaktadır. 
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Cinsiyetçilik, Toplumsal Cinsiyet Eşitliği, Baskınlık, Türkiye***
+
+**ABSTRACT**
+
+The aim of this study is to examine attitudes toward girl child marriages in Turkey within the perspective of social dominance theory.
+
+***Key words: Child Marriage, Sexism, Gender Equality, Dominance, Turkey***
+
+?> *Kuruluş adı: Ankara University ; 2017, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_159.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Altered Social Trajectories and Risks of Violence Among Young Syrian Women Seeking Refuge in Turkey: A Qualitative Study
+*MKL_160*
+
+**ÖZET**
+
+Bu çalışma, Türkiye'deki Suriyeli ergen kız çocuklarına ve genç kadınlara karşı toplumsal cinsiyete dayalı şiddet risklerini araştırmakta ve bu risklerin yerlerinden edilmeleri dolayısıyla nasıl şekillendiğini incelemektedir.
+
+***Anahtar kelimeler: Mülteci, Toplumsal Cinsiyete Dayalı Şiddet, Suriye, Türkiye, Ergen***
+
+**ABSTRACT**
+
+This study explores risks of gender-based violence against Syrian adolescent girls and young women in Turkey and examined how these risks were shaped by their displacement.
+
+***Key words: Refugee, Gender-Based Violence, Syria, Turkey, Adolescent***
+
+?> *Kuruluş adı: London School of Hygiene and Tropical Medicine, Women and Health Alliance International (WAHA), University of New South Wales, Institut d’études politiques de Paris, University of California, Gobee Group, Relief Society for Syrian Refugees, Beth Israel Deaconess Medical Center, Harvard Medical School ; 2019, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_160.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
