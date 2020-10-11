@@ -3404,7 +3404,7 @@ Prior work indicates that substance use is related to adolescent marriage. In th
 
 Bu çalışmada, Gao v. Gonzales davasında İkinci Bölge Temyiz Mahkemesinin yakın zamanda verdiği bir kararın, Kakuma Mülteci Kampındaki bazı Sudanlı kız çocukların Birleşik Devletlere iltica hakkı kazanmalarının önünü açabileceği belirtilmektedir. Gao mahkemesi, başvuru sahibinin evlilik amaçlı olarak satılan ve Çin’de zorla evliliklere izin verilen feodal bir toplulukta yaşayan kadınlardan oluşan belli bir sosyal gruba aidiyeti nedeniyle zulüm görmekten haklı korku duyduğuna karar vermiştir.  
 
-***Anahtar kelimeler: Çocuk Evliliği, Kadın Hakları, Mülteciler***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Kadın Hakları, Mülteciler***
 
 **ABSTRACT**
 
@@ -3446,7 +3446,7 @@ Using data from a variety of sources, this study aims to describe recent dramati
 
 Bu makale, çocuğun tanımının belirsiz olması probleminin özellikle de evlilikler konusunda insan hakları ihlallerine etkisini ele almaktadır. Çoğulcu bir perspektifi kullanarak örfi hukuk, ulusal kanunlar ve uluslararası sözleşmeler arasındaki açıklığa köprü olmayı amaçlamakta ve çocuk evliliklerinin devam etmesinin arkasındaki ekonomik ve sosyo-ekonomik faktörlere dikkat edilmesi çağrısında bulunmaktadır.  
 
-***Anahtar kelimeler: Çocuk Evliliği, İnsan Hakları, Evlilik Yaşı***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, İnsan Hakları, Evlilik Yaşı***
 
 **ABSTRACT**
 
@@ -3530,7 +3530,7 @@ In recent years, the British government has increasingly sought to intervene to 
 
 İran İslam Cumhuriyetinin anayasasında evlat edinme tanınmamıştır. Bu hukuki müessese Şii olmayan İranlıların medeni haline ilişkin 1312 sayılı kanunun sadece tek bir maddesinde yer almaktadır ve Şii olmayan İranlılar ile diğer İranlılar arasındaki benzerlikleri ve farklıları açıklamaktadır. Bu araştırmada devletlerin evlat edinmeye ilişkin hukuki kuralları ve düzenlemeleri bağlamında Fransız ve İngiliz evlat edinme kanunları ele alınmaktadır. İngiliz ve Fransız kanunlarının aksine, evlat edinilen çocuk ve ebeveynleri kararı kabul etmekte ve denetim tesis edilmemektedir. Her iki tarafta da bazıları bunu evlat edinme olarak değerlendirmektedir. Ancak diğerleri Denetimli Evlat Edinme Hakkında Kanuna rağmen bunun ayrı statüsü olan bağımsız bir müessese oluğunu iddia etmektedirler. Fransa, İngiltere ve İran'da çocukların desteklenmesine yönelik çabalara ilişkin olarak kabul edilen yeni kanunların incelenmesi.
 
-***Anahtar kelimeler: Çocuk Evliliği, Evlat Edinme, Uluslararası Hukuk***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Evlat Edinme, Uluslararası Hukuk***
 
 **ABSTRACT**
 
@@ -3551,7 +3551,7 @@ Adoption is not recognized in the constitution of the Islamic Republic of Iran, 
 
 Bu makale, bir Bangladeş köyünde gerçekleşen çocuk yaşta evliliklerin nedenlerine odaklanmaktadır. Araştırma metodolojisi olarak katılımcılar gözlemlenmiş, metodolojiyi desteklemek için anketler, tartışmalar ve mülakatlar geliştirilmiş ve vaka çalışmaları oluşturulmuştur. Çalışma Bangladeş'teki bir köyde gerçekleştirilmiş ve kırsal bölgelerde yaşayan Bangladeşlilerin neden kızlarını erken yaşta evlendirdiklerini, bundan kâr edeceklerini düşünüp düşünmediklerini ve edeceklerse bunun nasıl olacağını incelemiştir.  Alışveriş kuramına yönelik fayda maliyet analizi, kuramsal çerçeveyi oluşturmaktadır. Çalışma bulgularına göre çocuk yaşta evlilik, sürece dahil olan bireyler, yerel topluluk ve genel topluma yönelik büyük maliyetlere rağmen, Bangladeş halkının kâr etme amacının bir sonucu olarak gerçekleşmektedir.
 
-***Anahtar kelimeler: Çocuk Evliliği, Yoksulluk, Güvenlik***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Yoksulluk, Güvenlik***
 
 **ABSTRACT**
 
@@ -3637,7 +3637,7 @@ This Article critiques those decisions against the Appeals Chamber's stated aim 
 Bu makale, çocuk yaşta evliliğe ilişkin anne ve çocuk sağlığı kaygılarına odaklanmaktadır. 
 
 
-***Anahtar kelimeler: Çocuk Evliliği***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik***
 
 **ABSTRACT**
 
@@ -3664,7 +3664,7 @@ This paper focuses on maternal and child health concerns abour child marriage.
 
 Dünya Sağlık Örgütü kısa bir süre önce altı konuyu ele alan kanıt temelli kılavuz ilkeler geliştirmiştir. Bu altı konu şunlardır: erken yaşta evliliğin önlenmesi; cinsellik eğitimi yoluyla erken gebeliğin önlenmesi; eğitim fırsatlarının yanı sıra ekonomik ve sosyal destek programlarının artırılması; doğum kontrol kullanımının artırılması; zorla gerçekleşen cinsel ilişkinin azaltılması; güvenli olmayan kürtajın önlenmesi; ve doğum öncesi, doğum ve doğum sonrası bakımın artırılması.  Bu konuların her birinde, Dünya Sağlık Örgütü'nün gelecekteki araştırmalara ilişkin olarak tavsiye ettiği yönergeler bulunmaktadır. Özet bölümü, bu önemli konudaki eylemleri bir sonraki aşamaya taşımak için bir fırsat penceresi sunan küresel ve bölgesel girişimlere ait kısa bir inceleme ile son bulmaktadır.
 
-***Anahtar kelimeler: Dünya Sağlık Örgütü, Hamilelikten Korunma, Erken Gebelik, Çocuk Evliliği***
+***Anahtar kelimeler: Dünya Sağlık Örgütü, Hamilelikten Korunma, Erken Gebelik, Çocuk Yaşta Evlilik***
 
 **ABSTRACT**
 
@@ -3727,7 +3727,7 @@ This article explores Australia’s response to the emerging issue of forced mar
 
 Bu çalışma, Fas'ta çocuk yaşta evlilik ve zorla evliliğin gerçekleşmesine katkıda bulunan etmenlerle bağlantılı olarak kadınların deneyimlerini ve bakış açılarını incelemektedir. Katılımcı bir yaklaşımdan faydalanarak, geniş tanımıyla Marakeş bölgesindeki kentsel ve kırsal yerlerde yaşayan kadınlar ile odak grup görüşmeleri ve ayrıntılı mülakatlar gerçekleştirilmiştir.
 
-***Anahtar kelimeler: Çocuk Evliliği, Zorla Evlilik, Kadın Algısı***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Zorla Evlilik, Kadın Algısı***
 
 **ABSTRACT**
 
@@ -3769,7 +3769,7 @@ This study explores the experiences of marriage and motherhood among Jordanian y
 
 Bu çalışma Pakistan'daki çocuk yaşta evlilik ve anne sağlık hizmetleri kullanımı arasındaki ilişkiyi belirlemeyi; çocuk yaşta evlilik ile iyi ve kötü doğurganlık sağlık belirtileri arasındaki ilişkiyi belirlemeyi; Pakistan'daki çocuk yaşta evlilik ile 5 yaş altı çocuk hastalığı ve ölümü arasındaki ilişkiyi belirlemeyi; Pakistan'daki çocuk yaşta evlilik ile kocaların ergen ve genç kadınlara karşı kontrol edici davranışları ve partner/eş şiddeti arasındaki ilişkiyi belirlemeyi; ve gelecekteki müdahaleleri tasarlamak için kültürel etmenler başta olmak üzere içgörü kazanmak amacıyla kendileri çocukken evlenen kadınların çocuk yaşta evlilik uygulamasına ilişkin bilgilerini ve tavrını açıklamayı hedeflemektedir.
 
-***Anahtar kelimeler: Çocuk Evliliği, Anne Sağlığı, Çocuk Sağlığı, Pakistan***
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Anne Sağlığı, Çocuk Sağlığı, Pakistan***
 
 **ABSTRACT**
 
@@ -3867,3 +3867,107 @@ This study explores risks of gender-based violence against Syrian adolescent gir
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Bone And Flesh, Seed And Soil: Patriliny by Father’s Brother’s Daughter Marriage
+*MKL_161*
+
+**ÖZET**
+
+Bu makale, ataerkil soy sisteminin ataerkil ideoloji ile maskelenen, asimetrik olarak ayrılmış (çift) bir soy yapısına sahip olduğunu ve ataerkil soyun amca kızı evliliği ile oluşturulduğunu öne sürmektedir.  Bu makale, Türkiye'nin doğusunda ve güneydoğusunda amca kızı evliliği yapan Sünni Kürt topluluklardan örnek vererek kadınların ata-yanal paralel kuzen evliliğindeki yapısal açıdan kritik konumunu göstermeyi amaçlamaktadır. Odaktaki bu değişim, eş olarak amca kızlarının tercih edilmesi uygulamasının sürdüğünü de açığa çıkaracaktır.
+
+***Anahtar kelimeler: Akraba Evliliği, Ataerkillik***
+
+**ABSTRACT**
+
+This essay proposes that a patrilineal descent system has an asymmetrically separated (dual) descent structure masked by a patriarchal ideology, and that patrilineal descent is constructed by father’s brother’s daughter (FBD) marriage. This article attempts to illustrate the structurally critical position of women in patrilateral parallel cousin marriage with examples from Sunni Kurdish people in eastern and southeastern Turkey who practice FBD marriage. The shift of focus will also reveal the continuing preference of the father’s brother’s daughter as a marital partner.
+
+***Key words: Father’s Brother’s Daughter Marriage, Pathriarchy***
+
+?> *Kuruluş adı: Hacettepe University ; 2006, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_161.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Childhood Trauma, Type of Marriage and Self-Esteem as Correlates of Domestic Violence in Married Women in Turkey
+*MKL_162*
+
+**ÖZET**
+
+Bu çalışmanın amacı, Türkiye'deki evli kadınların maruz kaldığı ev içi şiddetin bağıntıları olarak çocukluk çağı travma, evlilik türü ve öz saygı seviyesini belirlemektir.
+
+***Anahtar kelimeler: Görücü Usulü Evlenme, Çocukluk Çağı Travmaları Ölçeği (CTQ), Ev İçi Şiddet, Öz Saygı***
+
+**ABSTRACT**
+
+The aim of this study is to determine childhood trauma, the type of marriage, and level of self-esteem as correlates of domestic violence in married women in Turkey.
+
+***Key words: Arranged Marriage, Childhood Trauma Questionnaire (CTQ), Domestic Violence, Self-Esteem***
+
+?> *Kuruluş adı: İstanbul University, İnönü University, Kocaeli University, Celal Bayar University, Adnan Menderes University, Trakya University ; 2010, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_162.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Collective Action, Civil Society, and Public Policy in Turkey
+*MKL_163*
+
+**ÖZET**
+
+Politika değişim mekanizmalarının anlaşılması, kamu politikası ve kolektif eylem üzerine çalışan bilim insanlarının karşılaştığı temel sorulardan biri olmuştur. Ancak politika bilimi, politika süreçlerinin sivil toplum temelli açıklamalarını çoğunlukla göz ardı etmektedir. Bu boşluğu irdelemek adına bu çalışma, Savunuculuk Koalisyon Çerçevesi (Advocacy Coalition Framework) ile bağlantılı kolektif eylem perspektiflerini bir araya getirmekte ve çocuk evliliklerine ilişkin bir yasa taslağını geri göndermek için Türkiye'deki kadın hakları kuruluşlarının seferber edildiği başarılı bir örneği analiz etmektedir.
+
+***Anahtar kelimeler: Karşılaştırmalı Kamu Politikası, Sivil Toplum, Siyasal Ağlar, Türkiye, Çocuk Yaşta Evlilik***
+
+**ABSTRACT**
+
+Understanding policy change mechanisms has been a key question for scholars of public policy and collective action. However, policy scholarship mostly ignores civil society-based explanations of policy processes. In order to address this gap, this study combines the Advocacy Coalition Framework with networked collective action perspectives and analyzes a successful case of mobilization of women’s rights organizations in Turkey to reverse a bill on child marriage.
+
+***Key words: Comparative Public Policy, Civil Society, Political Networks, Turkey, Child Marriage***
+
+?> *Kuruluş adı: Koç University ; 2019, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_163.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Determinants Of Adolescent Pregnancy In An Urban Area In Turkey: A Population-Based Case-Control Study
+*MKL_164*
+
+**ÖZET**
+
+Bu çalışmanın amacı, sosyoekonomik durumun Türkiye'nin kentsel bir bölgesindeki evli kadınlarda 19 yaşında veya daha erken ilk doğum için ne derece bir risk faktörü olduğunu belirlemektir.
+
+***Anahtar kelimeler: Erken Yaşta Evlilik, Ergen Gebelik***
+
+**ABSTRACT**
+
+The aim of this study was to determine the degree to which socioeconomic status is a risk factor for first birth at age 19 or younger in married women in an urban area of Turkey.
+
+***Key words: Early Marriage, Adolescent Pregnancy***
+
+?> *Kuruluş adı: Pamukkale University ; 2006, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_164.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Early Marriage: Trends in Turkey, 1978-2008
+*MKL_165*
+
+**ÖZET**
+
+Bu makale, 1978 Türkiye Doğurganlık Anketi ve 2008 Türkiye Demografi ve Sağlık Anketi'nden alınan veriler temelinde, 1978 yılından 2008'e kadar olan 30 yıllık bir dönemde Türkiye'deki erken evlilik trendlerini ve erken evlilikle ilişkili etmenleri analiz etmektedir.
+
+***Anahtar kelimeler: Erken Yaşta Evlilik, Türkiye, Çocuk Yaşta Evlilik***
+
+**ABSTRACT**
+
+This article analyses trends in early marriage in Turkey over a period of 30 years from 1978 to 2008, and factors associated with early marriage, based on data from the 1978 Turkish Fertility Survey and 2008 Turkey Demographic and Health Survey.
+
+***Key words: Early Marriage, Turkey, Child Marriage***
+
+?> *Kuruluş adı: Hacettepe University ; 2014, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_165.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
