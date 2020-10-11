@@ -3971,3 +3971,45 @@ This article analyses trends in early marriage in Turkey over a period of 30 yea
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_165.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Early-Married and Sexually Abused Girls Differ in Their Psychiatric Outcomes
+*MKL_166*
+
+**ÖZET**
+
+Bu çalışmanın amacı, Türkiye'deki erken evlenen kız çocuklarını ve adli değerlendirme amacıyla sevk edilen cinsel istismar mağduru kız çocuklarını sosyodemografik özellikleri, ruhsal bozukluk oranları ve ruhsal semptomlarının şiddeti açısından kıyaslamaktır.
+
+***Anahtar kelimeler: Çocuk ve Ergen, Cinsel İstismar, Erken Yaşta Evlilik, Psikiyatrik Hastalık***
+
+**ABSTRACT**
+
+The purpose of this study is to compare early-married girls and sexually abused girls who were referred for forensic evaluation in Turkey in terms of their sociodemographic characteristics, mental disorder rates,and mental symptom severity.
+
+***Key words: Child and Adolescent, Sexual Abuse, Early Marriage, Psychiatric Disorder***
+
+?> *Kuruluş adı: İnönü University, İstanbul Arel University, Dicle University ; 2014, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_166.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Küçük Yaşta Evlenmenin Müeyyidesi
+*MKL_167*
+
+**ÖZET**
+
+Bu makale, evlenme yaşını tamamlamadan evlenenlerin durumu kanunda açıkça düzenlenmediği için doktrinde ortaya çıkan görüş ayrılıklarını incelemektedir.
+
+***Anahtar kelimeler: Evlenme Yaşı, Evlenme Ehliyeti, Evlenmenin Butlanı Ayırt Etme Gücünün Yokluğu, Kanuna Aykırılık***
+
+**ABSTRACT**
+
+This article examines the differences of opinion that arise in the doctrine because the situation of those who marry before the age of legal marriage is not clearly regulated by law.
+
+***Key words: Marriage Age, Capacity of Marriage, Annulment of Marriage, Lack of Ability to Distinguish, Illegality***
+
+?> *Kuruluş adı: Gazi Üniversitesi Hukuk Fakültesi Dergisi ; 2011, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_167.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
