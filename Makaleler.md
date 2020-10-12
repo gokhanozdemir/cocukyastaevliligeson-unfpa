@@ -4008,8 +4008,76 @@ This article examines the differences of opinion that arise in the doctrine beca
 
 ***Key words: Marriage Age, Capacity of Marriage, Annulment of Marriage, Lack of Ability to Distinguish, Illegality***
 
-?> *Kuruluş adı: Gazi Üniversitesi Hukuk Fakültesi Dergisi ; 2011, İngilizce*
+?> *Kuruluş adı: Gazi Üniversitesi Hukuk Fakültesi Dergisi ; 2011, Türkçe*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_167.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Mental Assessment of Girls Consulting for Early Marriage and Identifying Risk Factors
+*MKL_168*
+
+**ÖZET**
+
+Bu çalışmanın amacı, evlenmelerine karşı herhangi bir engelin olup olmadığını belirten bir rapor almak üzere sevk edilen 16-17 yaş arasındaki kız çocuklarında sosyodemografik özellikleri ve ruhsal bozukluk tanılarını analiz etmektir.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Ruh Sağlığı, Risk Etkeni, Çocuk ve Ergen Psikiyatrisi***
+
+**ABSTRACT**
+
+The aim of this study is to analyze socio demographic characteristics and mental disorder diagnoses for girls between 16 and 17 years old who had been referred for a report stating whether any obstacles existed to their marriage.
+
+***Key words: Child Marriage, Mental Health, Risk Factor, Child and Adoloscent***
+
+?> *Kuruluş adı: Anatolian Journal of Psychiatry ; 2017, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_168.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Negative Reactions to the Sexually Abused Victims, Withdrawing the Complaint and Outcomes of the Litigation: The First Data From Turkey
+*MKL_169*
+
+**ÖZET**
+
+Bu çalışmada, cinsel istismar mağdurlarının yaşadığı psikososyal sorunların belirlenmesi amaçlanmıştır.
+
+***Anahtar kelimeler: Çocuk Cinsel İstismarı, Erken Yaşta Evlilik, Toplumsal Tepkiler, Dava***
+
+**ABSTRACT**
+
+In this study, it is intended to determine the psychosocial problems of victims of sexual abuse.
+
+***Key words: Child Marriage, Mental Health, Risk Factor, Child and Adoloscent***
+
+?> *Kuruluş adı: Yıldırım Beyazıt University, Karadeniz Technical University ; 2018, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_169.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Opinions on Early-Age Marriage and Marriage Customs among Kurdish-Speaking Women in Southeast Turkey
+*MKL_170*
+
+**ÖZET**
+
+Bu çalışma, Türkiye'de çoğunlukla Kürt kökenli vatandaşların yaşadığı bir il olan Diyarbakır'da kadınların erken evlilik ve kültüre özgü evlilik adetleri konusunda görüşlerini ve deneyimlerini incelemektedir.
+
+***Anahtar kelimeler: Görücü Usulü Evlilik, Berdel, Kuzen Evliliği, Erken Yaşta Evlilik, Namus***
+
+**ABSTRACT**
+
+This study explores women’s opinions and experiences of early marriage and culture-specific marriage customs in the province of Diyarbakir, a region of Turkey populated mostly by people of Kurdish ethnicity.
+
+***Key words: Arranged Marriage, Berdel, Cousin Marriage, Early Marriage, Family Honour***
+
+?> *Kuruluş adı: Dicle University, Karolinska Institute ; 2008, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_170.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+
+
+
+
