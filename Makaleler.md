@@ -4140,6 +4140,89 @@ This study presents youth suicide rates, as these relate with gender and male ve
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## The Effect of Compulsory Schooling Laws on Teenage Marriage and Births in Turkey
+*MKL_174*
+
+**ÖZET**
+
+Bu makale, 2008 Türkiye Demografi ve Sağlık Anketi'nden faydalanarak Türkiye'de zorunlu eğitimin 5 yıldan 8 yıla çıkarılmasının ergen kadınların evlilik ve doğurganlık davranışları üzerindeki etkisini tahmin etmektedir.
+
+***Anahtar kelimeler: Erken Yaşta Evlilik, Evlilikte Yaş, Doğurganlık, Eğitim, Zorunlu Eğitim***
+
+**ABSTRACT**
+
+This paper estimates the impact of the extension of compulsory schooling in Turkey from 5 to 8 years on the marriage and fertility behavior of teenage women in Turkey using the 2008 Turkish Demographic and Health Survey.
+
+***Key words: Early Marriage, Age at Marriage, Fertility, Education, Compulsory Schooling***
+
+?> *Kuruluş adı: Middle East Technical University, IZA, Hacettepe University ; 2011, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_174.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## The Factors Associated with Adolescent Marriages and Outcomes of Adolescent Pregnancies in Mardin Turkey
+*MKL_175*
+
+**ÖZET**
+
+Bu çalışma, Mardin'de yaşayan üç farklı gruptaki ergen evlilik sıklıklarını belirlemeyi, evlilikle ilişkili etmenleri ve erken yaşta evliliğin etkilerini tespit etmeyi amaçlamaktadır.
+
+***Anahtar kelimeler: Erken Yaşta Evlilik, Ergen Gebelik***
+
+**ABSTRACT**
+
+This study aims to determine the adolescent marriage frequencies three different groups living in Mardin and to identify the factors associated with marriage, as well as to determine the effect of early marriage.
+
+***Key words: Early Marriage, Adolescent Pregnancy***
+
+?> *Kuruluş adı: Dicle University ; 2008, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_175.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Three-Generation Marriage Patterns: New Insights from the ‘Dissimilation’ Perspective
+*MKL_176*
+
+**ÖZET**
+
+Bu makale, göçte evlilik değişimini daha iyi anlamak amacıyla Avrupa'daki Türk göçmen aileler ile Türkiye'deki durağan ailelerde görücü usulü ve çift tarafından başlatılan evlilik sıklığını haritalandırmaktadır. Bu makale, evlilik kohortlarında ve aile nesilleri arasındaki değişikliklere odaklanarak ‘ayrışım perspektifini’ uygulamaktadır. 
+
+***Anahtar kelimeler: Görücü Usulü Evlilik, Göç, Ayrışım, Aktarım, Türkiye***
+
+**ABSTRACT**
+
+For a better understanding of marital change in migration, this paper maps the prevalence of arranged marriages versus couple-initiated marriages among Turkish migrant families in Europe and stayer families in Turkey. The paper applies the ‘dissimilation perspective’ with a focus on change across marriage cohorts and between family generation.
+
+***Key words: Arranged Marriage, Migration, Dissimilation, Transmission, Turkey***
+
+?> *Kuruluş adı: Chemnitz University of Technology ; 2015, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_176.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Trends, Characteristics, and Outcomes of Adolescent Pregnancy in Eastern Turkey
+*MKL_177*
+
+**ÖZET**
+
+Bu çalışma, Türkiye'nin Van ilindeki ergen doğum oranını belirlemeyi ve bağlantılı sonuçlar ile karakteristik özellikleri tespit etmeyi amaçlamaktadır.  
+
+***Anahtar kelimeler: Ergen Gebeliği, Erken Yaşta Doğum, Genç Anne, Gençlerde Gebelik, Türkiye***
+
+**ABSTRACT**
+
+This study aims to determine the proportion of adolescent births in Van, Turkey, and to identify characteristics and related outcomes. 
+
+***Key words: Adolescent Pregnancy, Early Childbearing, Teenage Mother, Teenage Pregnancy, Turkey***
+
+?> *Kuruluş adı: University of Yüzüncü Yıl, University of Pamukkale ; 2010, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_177.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
 
 
 
