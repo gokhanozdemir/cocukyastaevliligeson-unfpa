@@ -4077,6 +4077,68 @@ This study explores women’s opinions and experiences of early marriage and cul
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Own-Choice Marriage and Fertility in Turkey
+*MKL_171*
+
+**ÖZET**
+
+Bu çalışma, Türkiye'ye ilişkin toplanmış Demografik ve Sağlık Anketi verilerini kullanarak Goode'un kuramlaştırdığı bağlantıyı değerlendirmekte ve dört evlilik türünde (kendi tercihiyle ve görücü usulü evlilik ve kuzen ile evliliğe karşı akraba olmayan eş) doğan çocuk sayısını, doğum kontrol yöntemlerinin kullanımını ve doğum sayısı artışını karşılaştırmaktadır.
+
+***Anahtar kelimeler: Evlilik Türleri, Doğurganlık***
+
+**ABSTRACT**
+
+This study evaluates Goode’s theorized connection using pooled Demographic and Health Survey data from Turkey, comparing children ever born, use of contraception, and parity progression across four types of marriage: own-choice and arranged marriage and marriage to a cousin versus an unrelated spouse.
+
+***Key words: Marriage Types, Fertility***
+
+?> *Kuruluş adı: Weber Kansas State University, The University of Texas at Austin ; 2016, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_171.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Predictors of Marital Adjustment among Child Brides
+*MKL_172*
+
+**ÖZET**
+
+Araştırmacıların hedefi, Türkiye'de çocuk gelinler arasındaki evlilik uyumuna dair öngöstegeleri incelemektir.
+
+***Anahtar kelimeler: Uyum, Erken Yaşta Evlilik, Evlilik Uyumu, Kadınlar***
+
+**ABSTRACT**
+
+The researchers' aim is to examine the predictors of marital adjustment among child brides in Turkey.
+
+***Key words: Adaptation, Early Marriage, Marital Adjustment, Women***
+
+?> *Kuruluş adı: Bitlis Government Hospital, Oslo Metropolitan University ; 2018, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_172.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Suicide Rates among Turkish and American Youth: A Cross-Cultural Comparison
+*MKL_173*
+
+**ÖZET**
+
+Bu çalışma, toplumsal cinsiyetle bağıntılı genç intihar oranlarını ve ABD'ye kıyasla Türkiye'deki erkekler ve kadınlar arasındaki intihar farklarını sunmaktadır. Ayrıca tartışma bölümünde, kültürel etmenler, evlilik özelinde kadınların Türk toplumundaki statüsü, namus kavramı, kırsal bölgelerden kente göç ve eğitim faktörleri bağlamında bulguları açıklamaya çalışmaktadır.
+
+***Anahtar kelimeler: Ergenler, Çocuklar, İntihar, Türkiye, ABD***
+
+**ABSTRACT**
+
+This study presents youth suicide rates, as these relate with gender and male versus female suicide differences in Turkey compared with the US. Furthermore, in the discussion section it attempts to explain the findings in the context of cultural factors, status of women in Turkish society as it pertains to marriage, the concept of family honor, rural to urban migration, and educational factors.
+
+***Key words: Adolescents, Children, Suicide, Turkey, US***
+
+?> *Kuruluş adı: Numune Training and Research Hospital, İstanbul University, University of Michigan ; 2012, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_173.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
 
 
 
