@@ -4287,3 +4287,67 @@ In this research social, cultural, and economic problems that include child brid
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Çoklu Rol Sahibi Kadınlarda Erken Yaşta Evlilik, Sosyo Demografik Özellikler ve Psikolojik Sağlık İlişkisi
+*MKL_181*
+
+**ÖZET**
+
+Bu araştırmada, erken yaşta evlenen ve çoklu rol sahibi kadınların sosyo-demografik özellikleri ve psikolojik sağlık durumları ortaya konulmaya çalışılmştır. 
+
+***Anahtar kelimeler: Erken Yaşta Evlilik***
+
+**ABSTRACT**
+
+In this study, women with multiple roles (mother, wife, labor etc.) compared -under two categorizations “early married” and “married at 25 and older”- according to their socio-demographic characteristics and psychological health.
+
+***Key words: Early Marriage***
+
+?> *Kuruluş adı: Sakarya Üniversitesi ; 2019, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_181.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+
+## A Social Dominance Theory Perspective on Attitudes Toward Girl Child Marriages in Turkey: The Legitimizing Role of Ambivalent Sexism
+*MKL_182*
+
+**ÖZET**
+
+Bu çalışma, Türkiye'de kız çocuklarının evlendirilmesine yönelik tutumları sosyal baskınlık kuramı perspektifinde incelemeyi amaçlamaktadır. Sosyal baskınlık yönelimi ve kız çocuk evliliğine ilişkin tavırlar arasındaki ilişki araştırılmaktadır. Aynı zamanda değişken cinsiyetçiliğin (hem düşmanca hem pozitif) bu bağlantı özelindeki aracı rolü incelenmektedir.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik***
+
+**ABSTRACT**
+
+The aim of this study is to examine attitudes toward girl child marriages in Turkey within the perspective of social dominance theory. The relationship between social dominance orientation and attitudes toward girl child marriages is investigated. It is also examined the mediating role of ambivalent sexism (both hostile and benevolent) in this association.
+
+***Key words: Child Marriage***
+
+?> *Kuruluş adı: Ankara University ; 2017, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_182.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Child Marriages in Turkey with Different Aspects
+*MKL_183*
+
+**ÖZET**
+
+Bu çalışma, çocuk yaşta evlilik kavramına ilişkin tartışmalara katkıda bulunmak amacıyla yürütülmektedir ve bütüncül bir yaklaşımla bu bağlamdaki hukuki konuları, tıbbi, ekonomik, sosyal ve politik boyutları incelemektedir. Çocuk yaşta evlilik sorununu çözmek adına, çocukluk çağında toplumsal cinsiyet eşitliğini sağlamak, toplumsal cinsiyet rolleri temelinde koşullandırmaya son vermek ve eğitim seviyesi ile hukuki yaptırımı artırmak gibi bazı öneriler sunulmuştur.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Toplumsal Cinsiyet Rolleri, Toplumsal Cinsiyet Eşitsizlikleri***
+
+**ABSTRACT**
+
+This study has been carried to contribute to the debate on the concept of child marriage and legal issues, medical, economic, social and political dimensions in this context are examined with an integrated approach. Several suggestions are offered to solve the problem of child marriages such as ensuring gender equality in childhood, abandoning conditioning on gender roles, and increasing education level and the law enforcement.
+
+***Key words: Child Marriage, Gender Roles, Gender Inequality***
+
+?> *Kuruluş adı: University of Bingöl International Journal of Human Sciences ; 2016, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_183.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
