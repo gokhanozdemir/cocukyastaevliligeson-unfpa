@@ -4351,3 +4351,171 @@ This study has been carried to contribute to the debate on the concept of child 
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Çocuk Gelinler Sorununa Toplumsal Duyarlılık Geliştirme
+*MKL_184*
+
+**ÖZET**
+
+Bu çalışma, dünyada veTürkiye'de önemli bir kadın sağlığı sorunu olan çocuk yaşta evlilikler konusunda üniversite öğrencilerini bilgilendirerek farkındalıklarını artırmak, sosyal sorumluluk bilinci geliştirmelerine katkıda bulunmak amacıyla gerçekleştirilmiştir.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Sosya Sorumluluk***
+
+**ABSTRACT**
+
+The aim of the study was to raise awareness among university students through informing about child brides, which is an important women's health issue in the world and in our country and to contribute to the development of their social responsibility awareness.
+
+***Key words: Child Marriage, Social Responsibility***
+
+?> *Kuruluş adı: International Journal of Human Sciences ; 2016, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_184.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Çocuk Gelinler Sorununa Toplumsal Duyarlılık Geliştirme
+*MKL_185*
+
+**ÖZET**
+
+Bu çalışmanın amacı, evlenmek amacıyla evden kaçan kız ergenlerin; kaçma nedenleri, aile dinamikleri, ebeveyn ilişkileri, destek kaynakları ve benlik algılarını anlamaktır.
+
+***Anahtar kelimeler: Kız Ergenler, Aile İlişkileri, Sosyal Destek***
+
+**ABSTRACT**
+
+The purpose of this study was to understand the reasons of the runaway behavior to get married for adolescent girls and their family dynamics, sources of social support, family relationships, selfperception.
+
+***Key words: Female Adolescents, Social Support, Family Relations***
+
+?> *Kuruluş adı: Türk Psikolojik Danışma ve Rehberlik Dergisi ; 2014, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_185.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Legal Violence against Syrian Female Refugees in Turkey
+*MKL_186*
+
+**ÖZET**
+
+Bu makalenin amacı, Türkiye'deki Suriyeli kadın mültecilere ilişkin düşmanca hukuki bağlamın zararlı etkilerini incelemektir. Bu analiz, göç mevzuatını yasal şiddet sistemi olarak kuramsallaştıran düşüncelere dayanmaktadır. 
+
+***Anahtar kelimeler: Suriyeli Mülteci Kadınlar, Geçici Koruma, Şiddet***
+
+**ABSTRACT**
+
+The object of this article is to explore the damaging effects of a hostile legal context on female Syrian refugees in Turkey. This analysis is based on scholarship that theorises immigration legislation as a system of legal violence.
+
+***Key words: Syrians Refugee Women, Temporary Protection, Violence***
+
+?> *Kuruluş adı: İstanbul University ; 2016, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_186.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Sosyolojik Perspektiften Çocuk Gelinlerin Yaşadıkları Travmalar (Doğu ve Güneydoğu Anadolu Özelinde Anne-Çocuk İlişkisi ve İletişimi Bağlamında Bir Alan Araştırması)
+*MKL_187*
+
+**ÖZET**
+
+Bu çalışma, günümüzde özellikle Doğu ve Güneydoğu Anadolu Bölgesi'nde hala yaygın şeklide görülen çocuk yaşta evliliklerin yol açtığı sorunların Elazığ ve Diyarbakır örnekleri üzerinden bilimsel olarak incelenmesini amaçlamaktadır.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Travma***
+
+**ABSTRACT**
+
+In this study, the problems caused by these kind of marriages, which are still widespread especially in Eastern and Southeastern Anatolia, are examined in depth through a scientific plane. This research, which is based on current necessity, were carried out with in-depth  / interview method on 50 willing subjects from Elazığ and Diyarbakır provinces who were reached by the screening method. As a result of the research, important findings that can be attributed to scientific values have been reached.
+
+***Key words: Child Marriage, Trauma***
+
+?> *Kuruluş adı: The Journal of Social Science ; 2017, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_187.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Suriyeli Mülteci Kadınların Kuma Dramı: Kilis İli Örneği
+*MKL_188*
+
+**ÖZET**
+
+Bu çalışma, Türkiye'ye zorunlu göçle gelmiş ve Kilis ilinde ikamet etmekte olan Suriyeli mülteci kadınların çok eşli evlilik deneyimlerini ortaya koymayı amaçlamaktadır.
+
+***Anahtar kelimeler: Suriyeli Mülteciler, Zorunlu Göç, Çok Eşli Evlilik***
+
+**ABSTRACT**
+
+This study aims to reveal the polygamous marriage experiences of Syrian refugee women who came to Turrkey because of forced migration and residing in Kilis province.
+
+***Key words: Syrian Refugees, Forced Migration, Polygamy***
+
+?> *Kuruluş adı: OPUS - International Journal of Society Researches ; 2018, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_188.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Toplumsal Açıdan Çocuk Yaşta Evlilikler Gerçeği: Hemşire ve Ebenin Sorumluluğu
+*MKL_189*
+
+**ÖZET**
+
+Bu çalışma, sağlık bakım hizmeti sunan hemşire ve ebenin çocuk yasta evliliklerin önlenmesindeki rolünü ortaya koymayı amaçlamaktadır.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik***
+
+**ABSTRACT**
+
+This study aims to reveal the polygamous marriage experiences of Syrian refugee women who came to Turrkey because of forced migration and residing in Kilis province.
+
+***Key words: Child Marriage***
+
+?> *Kuruluş adı: T.C. Bezmialem Vakıf Üniversitesi Sığınmacılar ve Göçmenlerle Dayanışma Derneği ; 2014, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_189.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Türkiye Üzerine Yapılmış Evlilik ve Akrabalık Araştırmalarının Bir Değerlendirilmesi
+*MKL_190*
+
+**ÖZET**
+
+Bu çalışmada, içevlilik ve dışevlilik kavramları açıklanmış ve Türkiye'deki evlilik örüntüsü bu kavramlar çerçevesinde incelenmiştir.
+
+***Anahtar kelimeler: Akrabalık Sistemleri, Soyiçi Evlilik, Soydışı Evlilik, Türkiye'de Evlilik Örüntüsü***
+
+**ABSTRACT**
+
+In this study, after having explained the concepts of exogamy, the marriage pattem in Turkeyhas been anaysed in accordange with these concepts. 
+
+***Key words: Kinship Systems, Marriage Patterns in Turkey, Inbred Family***
+
+?> *Kuruluş adı: Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi ; 2001, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_190.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Türkiye'nin Suriyeli Çocuk Gelinleri: Sosyolojik Bir Değerlendirme
+*MKL_191*
+
+**ÖZET**
+
+Bu çalışma, sığınmacı olarak Türkiye'ye gelen ve erken yaşta evlenen kız çocuklarının yaşamış oldukları ve yaşamaları muhtemel olan problemleri ve bu evliliklere dair istatistikleri sosyolojik bir bakış açısı ile ortaya koymayı amaçlıyor. 
+
+***Anahtar kelimeler: Çocuk Yaşte Evlilik, Erken Yaşt Evlilik, Göç***
+
+**ABSTRACT**
+
+In this study, researchers try to put forward the existing and possible problems of the women, who came to our country as asylumseeker and who got married in early ages, and will try to put forward the statistics of these early marriages by a sociological perspective.
+
+***Key words: Child Marriage, Early Marriage, Immigration***
+
+?> *Kuruluş adı: Kırıkkale Üniversitesi ; Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_191.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
