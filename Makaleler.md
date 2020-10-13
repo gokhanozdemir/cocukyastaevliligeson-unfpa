@@ -4558,7 +4558,12 @@ female age at marriage over the previous 20 years across four South Asian nation
 
 ?> *Kuruluş adı: University of California, Boston University, Vancouver Island Health Authority ; 2014, İngilizce*
 
+<!-- 
+
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_193.pdf ':ignore')
+-->
+
+[Materyal Erişim Linki](https://www.researchgate.net/publication/265473621_Cross-Sectional_Time_Series_Analysis_of_Associations_between_Education_and_Girl_Child_Marriage_in_Bangladesh_India_Nepal_and_Pakistan_1991-2011)
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
