@@ -4519,3 +4519,130 @@ In this study, researchers try to put forward the existing and possible problems
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Association between Child Marriage and Reproductive Health Outcomes: A-Multi Country Study of Sub-Saharan Africa
+*MKL_192*
+
+**ÖZET**
+
+Bu çalışma, dört Afrika ülkesinde çocuk yaşta evlilik ve sağlık sonuçları arasındaki ilişkiyi ortaya çıkarmayı amaçlamaktadır. 
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Üreme Sağlığı***
+
+**ABSTRACT**
+
+This study aims to reveal the association between child marriage and health outcomes in four Africa countries. 
+
+***Key words: Child Marriage, Reproductive Health***
+
+?> *Kuruluş adı: Tulane University ; 2012, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_192.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Cross-Sectional Time Series Analysis of Associations between Education and Girl Child Marriage in Bangladesh, India, Nepal and Pakistan, 1991-2011
+*MKL_193*
+
+**ÖZET**
+
+Kız çocuklarına yönelik eğitimin, küresel olarak kızların çocuk yaşta evlenme (18 yaşın altında evlilik) oranını azaltmaya yönelik en iyi yöntem olduğuna inanılmaktadır. Fakat kız çocuk evliliklerinin çoğunluğunun gerçekleştiği Güney Asya'da, kız çocukların eğitiminde kaydedilen ciddi gelişmeler, çocuk yaşta evliliklerde eş değer bir azalma ile sonuçlanmamıştır. Bu çalışma, kız çocuklarında yüksek oranda (%20) çocuk yaşta evlilik görülen dört Güney Asya ülkesi olan Bangladeş, Hindistan, Nepal ve Pakistan'da, son 20 yıl özelinde eğitim seviyeleri ile evlilikte kadın yaşı arasındaki bağlantıyı incelemektedir.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Eğitim Seviyesi***
+
+**ABSTRACT**
+
+Girl education is believed to be the best means of reducing girl child marriage (marriage, 18 years) globally. However, in South Asia, where the majority of girl child marriages occur, substantial improvements in girl education have not corresponded to equivalent reductions in child marriage. This study examines the levels of education associated with
+female age at marriage over the previous 20 years across four South Asian nations with high rates (.20%) of girl childmarriage- Bangladesh, India, Nepal and Pakistan.
+
+***Key words: Child Marriage, Education Level***
+
+?> *Kuruluş adı: University of California, Boston University, Vancouver Island Health Authority ; 2014, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_193.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Decline in Child Marriage and Changes in Its Effect on Reproductive Outcomes in Bangladesh
+*MKL_194*
+
+**ÖZET**
+
+Bu makale, 2007 Bangladeş Demografi ve Sağlık Anketi verilerinden faydalanarak, çocuk yaşta evliliklerde görülen düşüşü ve bu düşüşün Bangladeşli kadınların üreme sonuçları üzerindeki etkilerini incelemektedir.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Üreme Sonuçları***
+
+**ABSTRACT**
+
+This paper explores the decline in child marriage and changes in its effect on reproductive outcomes of Bangladeshi women, using the 2007 Bangladesh Demographic and Health Survey data.
+
+***Key words: Child Marriage, Reproductive Outcomes***
+
+?> *Kuruluş adı: Islamic University ; 2012, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_194.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Girl Child Marriage and Its Effect on Fertility in Pakistan: Findings from Pakistan Demographic and Health Survey, 2006–2007
+*MKL_195*
+
+**ÖZET**
+
+Bu çalışma, Pakistan'daki genç kadınlarda, sosyal kırılganlıkla ilişkili olanlar dışındaki yüksek doğurganlık ve düşük doğurganlık sağlığı göstergeleri ile erken evlilik arasındaki bağlantıyı belirlemeyi amaçlamaktadır.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Doğurganlık***
+
+**ABSTRACT**
+
+This study aims to determine the association between early marriage and high fertility and poor fertility health indicators among young women in Pakistan beyond those attributed to social vulnerabilities.
+
+***Key words: Child Marriage, Fertility***
+
+?> *Kuruluş adı: Bielefeld University, Emory University, West Virginia University, Aga Khan University, University of California, Boston University ; 2014, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_195.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Prevalence of Child Marriage and Its Effect on Fertility and Fertility-Control Outcomes of Young Women in India: A Cross-Sectional, Observational Study
+*MKL_196*
+
+**ÖZET**
+
+Bu çalışmada, Hindistan'daki genç yetişkin kadınlar arasında çocuk yaşta (yani 18 yaş öncesinde) evliliklerin sıklığı değerlendirilmiş ve çocuk yaşta evlilik ile kadın doğurganlığı ve doğurganlık kontrolü sonuçları arasındaki bağlantı incelenmiştir.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Doğurganlık***
+
+**ABSTRACT**
+
+In this study, it is assessed the prevalence of child marriage—ie, before 18 years of age—in young adult women in India, and the associations between child marriage and women’s fertility and fertility-control outcomes.
+
+***Key words: Child Marriage, Fertility***
+
+?> *Kuruluş adı: Boston University, Population Council, Indian Council for Medical Research, Harvard School of Public Health ; 2009, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_196.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## The Effect of Maternal Child Marriage on Morbidity and Mortality of Children under 5 in India: Cross Sectional Study of a Nationally Representative Sample
+*MKL_197*
+
+**ÖZET**
+
+Bu çalışma, Hindistan'da çocuk yaşta kadın evliliği (18 yaş öncesi evlilik) ile bebekler ve 5 yaşın altındaki çocuklarda hastalık ve ölüm arasındaki bağlantıları değerlendirmeyi amaçlamaktadır.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Çocuk Ölümü ve Hastalığı***
+
+**ABSTRACT**
+
+This study aims to assess associations between maternal child marriage (marriage before age 18) and morbidity and mortality of infants and children under 5 in India.
+
+***Key words: Child Marriage, Child Mortality and Morbidity***
+
+?> *Kuruluş adı: Boston University, Population Council, Indian Council for Medical Research, Harvard School of Public Health ; 2010, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_197.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
