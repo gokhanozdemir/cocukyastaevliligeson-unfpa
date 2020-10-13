@@ -4646,3 +4646,66 @@ This study aims to assess associations between maternal child marriage (marriage
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## The Nexus between Child Marriage and Women Empowerment with Physical Violence in Two Culturally Distinct States of India
+*MKL_198*
+
+**ÖZET**
+
+Bu çalışmada, ulusal açıdan temsili anket verileri kullanılarak, Hindistan'ın kültürel açıdan farklı iki eyaletinde (Bihar ve Tamil Nadu) genç kadınlarda çocuk yaşta evlilik ve bu kadınların güçlenme seviyesi ile fiziksel eş şiddeti arasındaki ilişki araştırılmıştır.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Fiziksel Eş Şiddeti, Güçlenme***
+
+**ABSTRACT**
+
+In this study, it is investigated the relationship between child marriage among young women and their level of empowerment with spousal physical violence in two culturally distinct states of India (Bihar and Tamil Nadu) using nationally representative survey data.
+
+***Key words: Child Marriage, Spousal Physical Violence, Empowerment***
+
+?> *Kuruluş adı: Tata Institute of Social Sciences, International Institute for Population Sciences ; 2015, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_198.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## UK Initiatives on Forced Marriage: Regulation, Dialogue and Exit
+*MKL_199*
+
+**ÖZET**
+
+Feminizm ve çok kültürlülüğe ilişkin literatür, kültürel çeşitliliğin tanınması ile kadın eşitliğinin sağlanması arasında olası çatışmalar tespit etmiştir. Bu ikilemin ele alınması noktasında çağdaş devletlerin uygulamalarında üç genel yaklaşım ortaya çıkmaktadır: düzenleme, topluluklar ile çalışma ve çıkış. Zorla evliliğe ilişkin mevcut girişimlerde bu yaklaşımların hepsi açıkça görülse de Birleşik Krallık'ta ağırlıklı olarak bireylerin zorla evlilik durumundan veya tehdidinden çıkarılmasını sağlamaya odaklanılmıştır. Söz konusu girişimleri değerlendirme noktasında bu makale, çıkış yönteminin sınırlarını ve tercih edilen çözüm olarak göçün düzenlenmesine yönelmenin tehlikelerini vurgulamaktadır.
+
+***Anahtar kelimeler: Zorla Evlilik, Kültürel Çeşitlilik, Kadın Eşitliği***
+
+**ABSTRACT**
+
+The literature on feminism and multiculturalism has identified potential conflicts between the recognition of cultural diversity and securing women’s equality. Three broad approaches to this dilemma have emerged in the practices of contemporary states: regulation, working with the communities, and exit. Each of these is apparent in current initiatives regarding forced marriage, but the overwhelming emphasis in the UK has been on enabling individuals to exit from the threat or reality of a forced marriage. In assessing these initiatives, this paper highlights the limitations of exit and the danger of moving towards immigration regulation as the preferred solution.
+
+***Key words: Forced Marriage, Cultural Diversity, Women's Equality***
+
+?> *Kuruluş adı: London School of Economics ; 2004, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_199.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Understanding Generational Differences in Early Fertility: Proximate and Social Determinants
+*MKL_200*
+
+**ÖZET**
+
+Bu çalışma, erken yaşta doğum riskleri açısından nesilsel statü farklarını; gözlemlenen farklılıkların, cinselliğe başlama zamanı ile doğum kontrol yöntemi kullanımı gibi başlangıç sonrası doğrudan (proximate) belirleyicileri ne derece yansıttığını; ve birey, aile ve mahalle düzeyindeki sosyal etmenlerin etkisini araştırmaktadır.
+
+***Anahtar kelimeler: Erken Doğurganlık***
+
+**ABSTRACT**
+
+This study investigates the differences by generational status in the risk of early childbearing, to what extent observed differences reflected timing of sexual onset versus postonset proximate determinants like contraceptive use, and the influence of individual, family, and neighborhood level social factors.
+
+***Key words: Early Fertility***
+
+?> *Kuruluş adı: University of California Irvine ; 2018, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_200.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
