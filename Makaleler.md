@@ -4224,5 +4224,66 @@ This study aims to determine the proportion of adolescent births in Van, Turkey,
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Türkiye'nin Suriyeli Çocuk Gelinleri: Sosyolojik Bir Değerlendirme
+*MKL_178*
 
+**ÖZET**
+
+Bu çalışma,  erken yaşta evlenen sığınmacı kadınların yaşamış oldukları ve yaşamaları muhtemel olan problemleri ve bu evliliklere dair istatistikleri sosyolojik bir bakış açısı ile ortaya koymayı amaçlamaktadır. 
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Erken Evlilik, Toplumsal Cinsiyet***
+
+**ABSTRACT**
+
+This study aims to reveal not only problems experienced by refugee women who married at an early age but the the statistics on these marriages from a sociological perspective, as well.
+
+***Key words: Child Marriage, Early marriage, Gender***
+
+?> *Kuruluş adı: Kırıkkale University ; 2017, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_178.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Sosyo-Kültürel ve Ekonomik Faktörler Çerçevesinde Erken Evlilikler: Ankara Pursaklar Örneği
+*MKL_179*
+
+**ÖZET**
+
+Bu çalışma, hem bireysel hem de sosyal açıdan olumsuz sonuçları olan erken evliliklerin genç kadınlar üzerindeki sosyo-kültürel ve ekonomik etkilerini ortaya koymayı amaçlamaktadır.
+
+***Anahtar kelimeler: Erken Evlilik***
+
+**ABSTRACT**
+
+This study aims to reveal the socio-cultural and economic effects of early marriages, which have negative consequences both individually and socially, on young women.
+
+***Key words: Early Marriage***
+
+?> *Kuruluş adı: Gazi University Institute of Social Sciences - Sociology Department ; 2013, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_179.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Çocuk Gelinler (Siverek Örneği)
+*MKL_180*
+
+**ÖZET**
+
+Bu araştırmada çocuk gelinlerin içinde bulunduğu sosyal, kültürel ve ekonomik problemler betimsel olarak analiz edilmiştir. Bu amaçla Urfa’nın Siverek İlçesi’nde 15 çocuk gelin ile derinlemesine mülakat yapılmıştır. Elde edilen nitel veriler ve gözlemler durum tespitine yönelik betimsel olarak analiz edilmiştir.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Toplumsal Cinsiyet***
+
+**ABSTRACT**
+
+In this research social, cultural, and economic problems that include child brides are analyzed descriptively. To this aim, 15 child brides who live in the district Siverek of Urfa are interviewed in detail. Qualitative data and observations that are obtained are analyzed descriptively.
+
+***Key words: Child Marriage, Gender***
+
+?> *Kuruluş adı: Erciyes Üniversitesi Sosyal Bilimler Dergisi ; 2018, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_180.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
 
