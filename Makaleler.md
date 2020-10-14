@@ -4819,3 +4819,65 @@ In this study, child marriage is researched with the aspects of general health a
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Çocuk Gelinlerin Erken Evlilik Süreçleri ve Erken Evliliklerin Önlenmesine İlişkin Görüş ve Düşüncelerinin İncelenmesi
+*MKL_206*
+
+**ÖZET**
+
+Bu çalışma, çocuk gelinlerin erken evlilik süreçleri ve erken evliliklerin önlenmesine ilişkin görüş ve düşüncelerinin incelenerek, erken evliliğe ilişkin nedenlerin, sakıncaların ve sonuçların tespit edilmesini amaçlamaktadır.
+
+***Anahtar kelimeler: Erken Yaşta Evlilik, Çocuk Yaşta Evlilik***
+
+**ABSTRACT**
+
+This study aims to determine inconveniences and results of early marriages,  reasons behind them, while examining early marriage phase of child brides and opinions and ideas about preventing them.
+
+***Key words: Early Marriage, Child Marriage***
+
+?> *Kuruluş adı: Manisa Celal Bayar Üniversitesi ; 2018, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_206.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Çocuk Yaşta Evliliklerin İhmal ve İstismar Kapsamında Değerlendirilmesi: 2016 Yılı Ağrı Örneği
+*MKL_207*
+
+**ÖZET**
+
+Bu araştırma, çocuk yaşta evliliklerin yol açtığı hak ihlallerini ve yol açtığı durumları ihmal ve istismar kavramları üzerinden açıklanmaya çalışmaktadır.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Çocuk İstismarı, Çocuk Hakları***
+
+**ABSTRACT**
+
+This study aims to explain child marriages' effect on children and violation of rights with applying the concepts of child abuse and neglect. 
+
+***Key words: Child Marriage, Child Abuse, Children's Rights***
+
+?> *Kuruluş adı: Mimar Sinan Güzel Sanatlar Üniversitesi ; 2018, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_207.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Çocuk Yaşta ve Yetişkin Yaşta Evlenen Kadınların Evliliğe ve Aile Kurumuna Yaklaşımları 
+*MKL_208*
+
+**ÖZET**
+
+Bu çalışmada, çocuk yaşta ve yetişkin yaşta evlenen kadınların evlilik deneyimlerinin ve evliliğe yaklaşımlarının karşılaştırılması amaçlanmıştır.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Kadın Çalışmaları, Aile***
+
+**ABSTRACT**
+
+This study aims to compare marriage experiences and approaches to the marriage of women who married  at child age and adult age. 
+
+***Key words: Child Marriage, Woman Studies, Family***
+
+?> *Kuruluş adı: Bolu Abant İzzet Baysal Üniversitesi ; 2018, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_208.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
