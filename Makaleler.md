@@ -4714,3 +4714,108 @@ This study investigates the differences by generational status in the risk of ea
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## BİR ÇOCUK İSTİSMARI FORMU OLARAK ÇOCUK EVLİLİKLERİ: KÜLTÜRE SIĞINMANIN SINIRLARI
+*MKL_201*
+
+**ÖZET**
+
+Bu metin Türkiye’deki akademik ve toplumsal tartışmalarda çocuk evliliklerini açıklama için kültür kavramının kullanılma şekillerini inceler ve mevcut tartışmaları Kültürel Antropoloji’nin evrenselcilik ya da kültürel görecelilik ikiliğine eleştirisi ekseninde değerlendirir. Metnin son kısmında da Türkiye’de çocuk evliliklerini “kültür” ile açıklamanın kimler için, hangi koşullarda, ne şekilde ve hangi etkiye neden olacak şekilde yapıldığını sorgular.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Kültürel Antropoloji, Kültürel Görecelilik***
+
+**ABSTRACT**
+
+This text examine the academic and other discussions within the framework of universalism vs. cultural relativism debate for understanding for whom, under which circumstances, how and with what effects the “culture” notion is used for explaining child marriages.
+
+***Key words: Child Marriages, Cultural Anthropology, Cultural Relativism***
+
+?> *Kuruluş adı: Sosyoloji Araştırmaları Dergisi  ; 2020, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_201.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## TÜRKİYE’DE ERKEN VE ZORLA EVLİLİKLER, ÇOCUK GELİNLER
+*MKL_202*
+
+**ÖZET**
+
+Erken ve zorla evlilik nedenleri incelendiğinde cinsiyet eşitsizliği, yoksulluk, geleneksel / dini inanışlar, eğitimsizlik ve mevzuattaki eksiklikler dikkati çekmektedir. Erken ve zorla evlilik, kızları yoksulluk, hastalık, eğitimsizlik ve güçsüzlük döngüsü içine hapsetmektedir. Erken evlenen kızların daha çok şiddete, istismar ve zorla cinsel ilişkiye maruz kaldıkları, cinsel sağlık ve üreme sağlığına yönelik sorunları olduğu ve düşük eğitim düzeylerine sahip olduğu bilinmektedir. 
+
+***Anahtar kelimeler: Erken Evlilik, Çocuk Gelin, Adolesan Sağlığı***
+
+**ABSTRACT**
+
+The causes of early and forced marriage are gender in equality, poverty, negative traditional or religious norms, illiteracy and weak enforcement of law. Early and forced marriage contributes to driving girls into a cycle of poverty, illhealth, illiteracy and powerlessness. Girls married early are more likely to experience violence, abuse and forced sexualrelations, reduced levels of sexual and reproductive health, and lower levels of education.
+
+***Key words: Early Marriage, Child Bride, Adolescent Health***
+
+?> *Kuruluş adı: GENÇLİK VE KÜLTÜREL MİRASIMIZ / ULUSLARARASI KONGRE  ; 2014, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_202.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Acarlar Beldesinde Okul Terkleri ve Devamsızlık Sorunu
+*MKL_203*
+
+**ÖZET**
+
+Bu araştırma, Acarlar Beldesinde okul terkleri ve devamsızlık sorunlarına yönetici, öğretmen, öğrenci ve velilerin nasıl yaklaştıklarını belirlemek amacıyla yapılmıştır. Katılımcıların gözüyle devamsızlığın öğrenciye etkileri, devamsızlığın nedenleri, devamsızlık durumunda yapılanlar ve katılımcıların önerileri saptanmıştır.
+
+***Anahtar kelimeler: Erken Yaşta Evlilik, Okul Terki***
+
+**ABSTRACT**
+
+This study was conducted with the purpose of determining how administrators, teachers, students and parents approach towards dropout and truancy in Acarlar District. In addition, the effects of truancy on students, the reasons of truancy, what would be done in case of truancy and suggestions of applicants were detected.
+
+***Key words: Early Marriage, Dropout***
+
+?> *Kuruluş adı: Aydın Adnan Menderes University  ; 2014, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_203.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Adölesan Annelerin Sosyo-Demografik Özellikleri ve Doğum Sonuçlarının Değerlendirilmesi
+*MKL_204*
+
+**ÖZET**
+
+Bu çalışma, adölesan annelerin sosyodemografik özelliklerini ortaya koymayı ve doğum sonuçlarının değerlendirilmesini amaçlamaktadır.
+
+***Anahtar kelimeler: Erken Yaşta Evlilik, Okul TerkiAdölesan Gebelik, Doum, Ebelik***
+
+**ABSTRACT**
+
+This study aims to assess the sociodemographic characteristics and birth outcomes of adolescent mothers.
+
+***Key words: Adolescent, Pregnancy, Childbirth, Midwifery***
+
+?> *Kuruluş adı: Aydın Adnan Menderes University  ; 2018, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_204.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Çocuk Gelin Olarak Evlilik Yapmış Kadınların Ruh Sağlığının Araştırılması
+*MKL_205*
+
+**ÖZET**
+
+Bu çalışmada, erken yaşta evlilikler genel sağlık ve ruh sağlığı sonuçları yönünden incelenmektedir.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Ruh Sağlığı***
+
+**ABSTRACT**
+
+In this study, child marriage is researched with the aspects of general health and mental health consequences.
+
+***Key words: Child Marriage, Mental Health***
+
+?> *Kuruluş adı: Hasan Kalyoncu Üniversitesi ; 2018, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_205.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
