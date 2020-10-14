@@ -5049,3 +5049,87 @@ In this study, the perception of Şanlıurfa community towards early marriages a
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_215.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Kadın Yoksulluğu Üzerine Sosyolojik Bir Araştırma: Elazığ Örneği
+*MKL_216*
+
+**ÖZET**
+
+Bu tez kadın yoksulluğunu konu almakta ve kadınların hangi sebeplerden ötürü yoksul olduklarının, yoksulluktan nasıl etkilendiklerinin, yoksulluğu nasıl yaşadıklarının, sosyo-ekonomik ve kültürel seviyelerinin ne olduğunun, ne tür bir mağduriyetin içerisinde olduklarının araştırılmasını kapsamaktadır.
+
+***Anahtar kelimeler: Kadın Yoksulluğu, Toplumsal Cinsiyet***
+
+**ABSTRACT**
+
+This study covers the subject of women poverty and it examines for which reasons women are in poverty, how women are affected from poverty, how they experience poverty, socio-economic and cultural background of those women and aggrievement they experience. 
+
+***Key words: Women Poverty, Gender***
+
+?> *Kuruluş adı: Fırat Üniversitesi ; 2010, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_216.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Sosyo-Kültürel Faktörler Bağlamında Erken Evlilikler 
+*MKL_217*
+
+**ÖZET**
+
+Bu araştırmada Ankara, Adana ve Mersin illerinde yaşayan ve erken yaşta evlendirilen kadın ve erkeklerin erken evliliği gerçekleştirmelerinin sosyo-kültürel nedenleri, evliliklerin karar vericilerinin kim ya da kimler olduğu, evliliklerde yaşanan sorunlar ve bu sorunlarla baş etme yolları ile kadınlık-erkeklik algılarının anlaşılması amaçlanmaktadır.
+
+***Anahtar kelimeler: Erken Yaşta Evlilik, Çocuk Yaşta Evlilik***
+
+**ABSTRACT**
+
+In this research, it is aimed to understand the socio-cultural reasons of early marriage of women and men living in Ankara, Adana and Mersin, socio-cultural reasons of early marriage, who are the decision makers of marriage, problems in marriage and how to cope with these problems and understanding of perceptions of femininity-masculinity.
+
+***Key words: Early Marriage, Child Marriage***
+
+?> *Kuruluş adı: Hacettepe Üniversitesi ; 2018, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_217.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Sosyo-Kültürel ve Ekonomik Faktörler Çerçevesinde Erken Evlilikler: Ankara Pursaklar Örneği
+*MKL_218*
+
+**ÖZET**
+
+Bu çalışmada hem bireysel, hem toplumsal açıdan olumsuz sonuçlar doğuran erken evliliklerin kadınlar üzerindeki sosyo-kültürel ve ekonomik etkilerini ortaya çıkarmak amaçlanmıştır.
+
+***Anahtar kelimeler: Erken Yaşta Evlilik***
+
+**ABSTRACT**
+
+This study aims to reveals socio-cultural and economic impacts of early marriage on women, which have negative consequences both on individual and social level. 
+
+***Key words: Early Marriage***
+
+?> *Kuruluş adı: Gazi Üniversitesi ; 2013, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_218.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Sosyo-Kültürel ve Ekonomik Faktörler Çerçevesinde Erken Evlilikler: Bingöl İli Örneği
+*MKL_219*
+
+**ÖZET**
+
+Bu çalışmada, Bingöl ili merkez ilçesinde erken yaşta evlendirilmiş olan 20 kadınla yapılan bire bir görüşmeler yoluyla, erken yaşta evliliklerin sosyo-kültürel ve ekonomik etkilerinin ortaya konulması ve böylece erken yaşta evliliklerin azalması yönünde literatüre katkı sağlanması amaçlanmaktadır.
+
+***Anahtar kelimeler: Erken Yaşta, Evlilik, Çocuk Yaşta Evlilik***
+
+**ABSTRACT**
+
+This study aims to reveals the socio-cultural and economic impacts of early marriages and thus contribute to the literature in terms of providing a decrease in early marriages through one-on-one interviews with 20 women who were married at an early age in the central district of Bingol province.
+
+***Key words: Early Marriage, Child Marriage***
+
+?> *Kuruluş adı: Bingöl Üniversitesi ; 2018, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_219.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
