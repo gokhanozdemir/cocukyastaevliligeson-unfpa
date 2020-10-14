@@ -4881,3 +4881,88 @@ This study aims to compare marriage experiences and approaches to the marriage o
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_208.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Cumhuriyet Dönemi Türk Tiyatrosunda Toplumsal Cinsiyet
+*MKL_209*
+
+**ÖZET**
+
+Bu çalışmada Cumhuriyet döneminin 1960 ile 1980 yılları arasını kapsayan süreç içinde yazılmış olan Turgut Özakman’ın Kanaviçe (1960), Adalet Ağaoğlu’nun Evcilik Oyunu(1964) ve Çatıdaki Çatlak(1966), Cahit Atay’ın Ana Hanım Kız Hanım (1964), Hidayet Sayın’ın Pembe Kadın (1965), Orhan Asena’nın Fadik Kız (1966) Güngör Dilmen Kalyoncu’nun Kurban (1967), Nezihe Meriç’in Sular Aydınlanıyordu (1969) Vasıf Öngören’in Asiye Nasıl Kurtulur (1969), Gülten Akın’ın Babil’de Bir Kadın (1960-1970), Ülker Köksal’ın Sacide (1972) ve Nezihe Araz’ın Bozkır Güzellemesi (1975) adlarındaki on iki tiyatro eseri toplumsal cinsiyet bağlamında tematik olarak ele alınmaktadır.
+
+***Anahtar kelimeler: Toplumsal Cinsiyet, Cinsiyet Rolleri, Cinsiyetçilik, Cinsiyet Eşitsizliği, Kadın, Cumhuriyet Dönemi Türk Tiyatrosu***
+
+**ABSTRACT**
+
+This study thematically analyses Turgut Özakman’s Kanaviçe (1960), Adalet Ağaoğlu’s Evcilik Oyunu (1964) and Çatıdaki Çatlak (1966), Cahit Atay’s Ana Hanım Kız Hanım (1964), Hidayet Sayın’s Pembe Kadın (1965), Orhan Asena’s Fadik Kız (1966) Güngör Dilmen Kalyoncu’s Kurban (1967), Nezihe Meriç’s Sular Aydınlanıyordu (1969) Vasıf Ongoren’s Asiye Nasıl Kurtulur (1969), Gulten Akın’s Babil’de Bir Kadın (1960-1970), Ülker Köksal’s Sacide (1972) and Nezihe Araz’s Bozkir Guzellemesi(1975) called twelve theatre plays, which were written between the years of 1960s and 1980s in the Republic Period in terms of gender.
+
+***Key words: Gender, Gender Roles, Sexism, Gender Inequality, Women, Turkish Theatre of Republic Era***
+
+?> *Kuruluş adı: Hacettepe Üniversitesi ; 2018, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_209.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Cumhuriyet Dönemi Türk Tiyatrosunda Toplumsal Cinsiyet
+*MKL_209*
+
+**ÖZET**
+
+Bu çalışmada Cumhuriyet döneminin 1960 ile 1980 yılları arasını kapsayan süreç içinde yazılmış olan Turgut Özakman’ın Kanaviçe (1960), Adalet Ağaoğlu’nun Evcilik Oyunu(1964) ve Çatıdaki Çatlak(1966), Cahit Atay’ın Ana Hanım Kız Hanım (1964), Hidayet Sayın’ın Pembe Kadın (1965), Orhan Asena’nın Fadik Kız (1966) Güngör Dilmen Kalyoncu’nun Kurban (1967), Nezihe Meriç’in Sular Aydınlanıyordu (1969) Vasıf Öngören’in Asiye Nasıl Kurtulur (1969), Gülten Akın’ın Babil’de Bir Kadın (1960-1970), Ülker Köksal’ın Sacide (1972) ve Nezihe Araz’ın Bozkır Güzellemesi (1975) adlarındaki on iki tiyatro eseri toplumsal cinsiyet bağlamında tematik olarak ele alınmaktadır.
+
+***Anahtar kelimeler: Toplumsal Cinsiyet, Cinsiyet Rolleri, Cinsiyetçilik, Cinsiyet Eşitsizliği, Kadın, Cumhuriyet Dönemi Türk Tiyatrosu***
+
+**ABSTRACT**
+
+This study thematically analyses Turgut Özakman’s Kanaviçe (1960), Adalet Ağaoğlu’s Evcilik Oyunu (1964) and Çatıdaki Çatlak (1966), Cahit Atay’s Ana Hanım Kız Hanım (1964), Hidayet Sayın’s Pembe Kadın (1965), Orhan Asena’s Fadik Kız (1966) Güngör Dilmen Kalyoncu’s Kurban (1967), Nezihe Meriç’s Sular Aydınlanıyordu (1969) Vasıf Ongoren’s Asiye Nasıl Kurtulur (1969), Gulten Akın’s Babil’de Bir Kadın (1960-1970), Ülker Köksal’s Sacide (1972) and Nezihe Araz’s Bozkir Guzellemesi(1975) called twelve theatre plays, which were written between the years of 1960s and 1980s in the Republic Period in terms of gender.
+
+***Key words: Gender, Gender Roles, Sexism, Gender Inequality, Women, Turkish Theatre of Republic Era***
+
+?> *Kuruluş adı: Hacettepe Üniversitesi ; 2018, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_209.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Erken Evlilik: Türkiye'de Van İli Örneği / Early Marriage: The Case of Van Province in Turkey
+*MKL_210*
+
+**ÖZET**
+
+Bu çalışmanın konusu olan erken evlilik; çocuk istismarının aile içinde, mahremiyet hapishanesinde gerçekleşme biçimlerinden birdir. Bu istismar ancak kadınlık repertuarı içinden ifade bulabilmektedir. Bu çalışmada kader, kısmet, nasip, günah, ayıp üzerinden işleyen bu dilden yola çıkarak, çocuk gelin olmanın ne demek olduğu ataerkilliğin meşru çocuk istismarı diyebileceğimiz erken evliliği nasıl kurumsallaştırdığı kadınların yaşam denyimleri üzerinden feminist bir yaklaşımla anlaşılmaya çalışılmıştır.
+
+***Anahtar kelimeler: Feminizm, Erken Yaşta Evlilik, Cinsellik, Annelik ve Çocuk Bakımı***
+
+**ABSTRACT**
+
+The early marriage which is the subject of this study is a form of actualisation of child abuse within the family, in the prison of privacy. This abuse may only be expressed within the repertoire of femaleness. Regarding this language, which is functionalized with destiny, fortune, luck, sin, immoral, the comprehension of what it means to be child-bride, how the patriarchy institutionalize the early marriage which we may call as legitimate child abuse was tried.
+
+***Key words: Feminism, Early Marriage, Sexuality, Motherhood and Childcare***
+
+?> *Kuruluş adı: Middle East Technical University ; 2011, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_210.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Ergen Gebelerin Sosyodemografik Özellikleri ve Kendilik Algıları
+*MKL_211*
+
+**ÖZET**
+
+Bu tez çalışmasında, gebe ergenlerin sosyodemografik özelliklerinin gebe olmayan ergenlerle karşılaştırılması ve erken evlilik ve gebeliğe yol açan etmenlerin irdelenmesi amaçlanmıştır. Ayrıca, ergen gebelerin aile, arkadaş çevresi ve toplum içinde kendilerini nasıl algıladıkları ölçülmüş ve gebe olmayan adölesanlar ile karşılaştırılmıştır.
+
+***Anahtar kelimeler: Ergen Gebelik, Erken Yaşta Evlilik***
+
+**ABSTRACT**
+
+In this thesis study; it is aimed to compare the sociodemographic characteristics of pregnant adolescents with adolescents who were not pregnant and to scrutinize the causative factors that led to early marriage and pregnancy. Moreover, the self perception of adolescent pregnants have been measured amongst their family, friend environment and community and comparison has been done with non pregnant adolescents.
+
+***Key words: Adolescent Pregnancy, Early Marriage***
+
+?> *Kuruluş adı: Gazi Üniversitesi ; 2015, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_211.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
