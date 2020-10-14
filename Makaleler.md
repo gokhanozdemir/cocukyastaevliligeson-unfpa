@@ -4966,3 +4966,86 @@ In this thesis study; it is aimed to compare the sociodemographic characteristic
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Erken Evlenen Kadınların Psikolojik Belirtileri ve Evlilik Uyumlarını Etkileyen Faktörler
+*MKL_212*
+
+**ÖZET**
+
+Bu araştırma, on sekiz yaşından önce ve on sekiz yaşından sonra evlenen kadınların; eşlerinden algıladıkları kabul-red ile psikolojik belirtiler ve evlilik uyumları arasındaki ilişkilerin, duygu düzenleme güçlüklerinin rolü üzerinden test edilmesini amaçlamaktadır. Yanı sıra kadınların kayınvalidelerinden algıladıkları kabul-reddin evlilik uyumu ve psikolojik belirtileri üzerindeki düzenleyici rolü incelenmekte ve evlilik süresi, evlenme türü gibi sosyodemografik değişkenlerin araştırma değişkenleriyle ilişkisi ele alınırken, iki grup arasındaki farklar da sorgulanmaktadır.
+
+***Anahtar kelimeler: Çocuk Yaşta Evlilik, Psikolojik Belirtiler, Evlilik Uyumu***
+
+**ABSTRACT**
+
+This study aims to test the correlation between the perceived rejection-acceptance of the women married before 18 and after 18 by their husbands, psychological symptoms and their marital adjustment through the role of the difficulty in emotion regulation. It also examines the regulatory role of the perceived rejection-acceptance of women by their mother-in-law on their marital adjustment and psychological symptoms, evaluates the relation between the research variables and the socio-demographical variables such as duration of marriage and type of marriage; which consequently questions the difference between two groups. 
+
+***Key words: Child Marriage, Psychological Symptoms, Marital Adjustment***
+
+?> *Kuruluş adı: Ankara Üniversitesi ; 2018, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_212.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Feminist Sosyal Hizmet Yaklaşımı Bağlamında Ataerkil İdeoloji ve Erken Evlilikler
+*MKL_213*
+
+**ÖZET**
+
+Bu araştırma, Niğde İli özelinde üç farklı merkezde (Niğde Aile Toplum Sağlığı Merkezi, Dündarlı Kasabası, Güllüce Köyü) gerçekleştirilen görüşme, gözlem ve öz düşünümsel sürecin sonucunda, erken evlenen kadınların deneyimlerinden ve yaşamsal pratiklerinden yola çıkarak erken evlilik olgusunu feminist sosyal hizmet bakış açısıyla ele alınmaktadır.
+
+***Anahtar kelimeler: Erken Evlilikler, Feminist Sosyal Hizmet, Ataerkil Yapı, Ataerkil Toplumsal Düzen***
+
+**ABSTRACT**
+
+This research is based on understanding the facts of early marriage in the district of Niğde, withfeminist social workperspective, benefiting from the life experiences early married women in following the interviews, observations and self-reflexive processes performed in three different centres (Niğde Family Public Health Centre, Dündarlı Town, Güllüce Village).
+
+***Key words: Early Marriages, Feminist Social Work, Patriarchal Structure, Patriarchal Social Order***
+
+?> *Kuruluş adı: Hacettepe Üniversitesi ; 2015, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_213.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Cinsiyete Dayalı Şiddet: Kalkınma ve Topluma Etkileri, Mevcut Girişimler, Kamerun Uzak Kuzey Bölgesindeki Kadın ve Genç Kızlar Odağı
+*MKL_214*
+
+**ÖZET**
+
+Bu çalışma, GBV'nin kültür, din veya gelenek şemsiyesi altında deneyimlendiği ve bu tür şiddete karşı mücadele etmek için bir dizi girişimin oluşturulduğu ancak tüm bu çabalara rağmen hala geçerli olduğu Kamerun'un uzak kuzey bölgesine odaklanmaktadır.
+
+***Anahtar kelimeler: Cinsityete Dayalı Şiddet, Kadına Yönelik Şiddet, Kalkınma***
+
+**ABSTRACT**
+
+This study focuses on the far north region of Cameroon where GBV is experienced under the umbrella of culture, religion or tradition and a number of initiatives have been created to fight against these types of violence but still prevails despite all these efforts.
+
+***Key words: Gender-based Violence, Violence against Women, Development***
+
+?> *Kuruluş adı: Hacettepe University ; 2018, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_214.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Güneydoğu Anadolu Bölgesi'nde Kız Çocuklarının Erken Yaşta Evlilikleri ve Din Algısı: Şanlıurfa Örneği
+*MKL_215*
+
+**ÖZET**
+
+Bu çalışmada, Şanlıurfa halkının erken yaşta evliliklere tutumu ve dini algının bu tutumdaki rolü araştırılmaktadır.
+
+***Anahtar kelimeler: Erken Yaşta Evlilik, Din Algısı***
+
+**ABSTRACT**
+
+In this study, the perception of Şanlıurfa community towards early marriages and the role of religion perception in that context is investigated.
+
+***Key words: Early Marriage, Perception of Religion***
+
+?> *Kuruluş adı: Harran Üniversitesi ; 2018, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_215.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
