@@ -59,3 +59,21 @@ estimated in previous years.
 **Materyal Ulaşılabilir Değil
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## World Marriage Patterns 2000
+*IST_04*
+
+**ÖZET** 
+
+Grafik, yıllara göre tüm dünyadaki evlilik örüntülerini göstermektedir.  Evlilik örüntüleri gösterilirken üç gösterge kullanılmıştır: İlk evlilikteki ortalama yaş olarak da bilinen tekli ortalama evlilik yaşı (SMAM); 15-19, 20-24 ve 40-49 yaşlarındaki en az bir kere evlenmiş insanların oranları; kadın ve erkeklerin ilk evlilikteki ortalama yaşları arasındaki fark.
+
+**SUMMARY**  
+
+Chart demonstrates marriage patterns all around the world by year. Patterns of marriage are shown using three indicators: the singulate mean age 
+at marriage (SMAM), also known as the average age at first marriage; the proportions of ever-married persons aged 15-19, 20-24 and 40-49; and the difference in the average age at first marriage between men and women.
+
+?> *Kuruluş adı: UN Population Division; 2000, İngilizce Tema: Evlilik, Evlilik Yaşı*
+
+[Dokümanı İncele](downloads\IST\IST_04.xls ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)

@@ -81,3 +81,39 @@ Nevşehir Yerel Eşitlik Stratejik Planı Nevşehir Valiliği [Dokümanı İncel
 [Dokümanı İncele](downloads\EYP\EYP_04.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Kadının Güçlenmesi Strateji Belgesi ve Eylem Planı 2018-2023
+*EYP_05*
+
+**ÖZET**  
+
+Bu eylem planı, Aile ve Sosyal Politikalar Bakanlığı (ASPB) koordinatörlüğünde kamu kurum ve kuruluşlarının, yerel yönetimlerin, üniversitelerin,
+sivil toplum kuruluşlarının, meslek kuruluşlarının, özel sektörün ve ilgili diğer kuruluşların kadınların güçlenmesine yönelik yapacakları çalışmaları içeren bir doküman olarak hazırlanmıştır. Strateji Belgesi ve Eylem Planı’nda beş temel politika eksenine –eğitim, sağlık, ekonomi, karar alma mekanizmalarına katılım, medya- ilişkin mevcut durum, temel amaç, hedefler, stratejiler ve faaliyetler düzenlenmiştir.
+
+**SUMMARY**  
+
+This action plan has been prepared under the coordination of Ministry of Family, Labor and Social Services (MoFLSS) and includes all works and activities of public institutions and organizations, local administrations, universities, non-governmental organizations, occupational organizations, private sector and other relevant institutions to empower women. The Strategy Document and Action Plan presents current situation, main aim, objectives, strategies and activities related to five main policy pillars; namely education, health, economy, participation in decision-making mechanisms and media.
+
+?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı; 2018, Türkçe Tema: Kadınların Güçlenmesi*
+
+[Dokümanı İncele](downloads\EYP\EYP_05.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Toplumsal Cinsiyet Eşitliği Ulusal Eylem Planı 2008-2013
+*EYP_06*
+
+**ÖZET**  
+
+Toplumsal Cinsiyet Eşitliği Ulusal Eylem Planı eğitim, ekonomi, yoksulluk, yetki ve karar alma sürecine katılım, sağlık, medya, çevre ve kurumsal mekanizmalar konularını kapsamaktadır. Bu alanların her biri için mevcut durumu toplumsal cinsiyet eşitliği açısından tanımlayan, toplumsal cinsiyet eşitliğine ulaşılmasının önündeki engelleri analiz eden ayrıca amaçlar, hedefler ve somut uygulama stratejilerine yer veren kapsamlı politika dokümanları hazırlanmıştır.
+
+**SUMMARY**  
+
+The National Action Plan for Gender Equality covers education, economy, poverty, power and participation in decision making, health, media, environment and institutional mechanisms. For each of these areas, comprehensive policy documents have been prepared that define the current situation in terms of gender equality, analyze the obstacles to achieve gender equality, and also include goals, objectives and concrete implementation strategies.
+
+?> *Kuruluş adı:Başbakanlık Kadının Statüsü Genel Müdürlüğü; 2008, Türkçe Tema: Toplumsal Cinsiyet Eşitliği*
+
+[Dokümanı İncele](downloads\EYP\EYP_06.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+

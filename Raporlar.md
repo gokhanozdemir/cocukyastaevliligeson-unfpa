@@ -987,3 +987,106 @@ This policy brief explores trends in child marriage and the benefits of delaying
 [Dokümanı İncele](downloads\RPR\RPR_57.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Aile Yapısı Araştırması 2006
+*RPR_58*
+
+**ÖZET** 
+
+Rapor, Türkiye'deki ailelerin yapısına, yaşam koşullarına ve eğilimlerine dair bilgi almak amacıyla yapılan araştırmaya dayanmaktadır. Araştırmada, aile bireylerinden, aile içi şiddet, yaşlılığa ilişkin düşünceler, Türkiye'deki yaşlıların durumu ve Avrupa Birliği'ne üyeliğin aile yaşamı üzerindeki etkisi gibi çeşitli alanlarda toplumsal cinsiyet perspektifiyle bilgi alınmıştır. 
+
+**SUMMARY**  
+
+This report is based on a study conducted to collect information about the structures, living conditions and trends of the families in Turkey. The study has acquired information from a gender perspective about various topics such as the opinions of family members regarding domestic violence and old-age, the status of the elderly in Turkey, the impact of EU membership on family life.     
+
+?> *Kuruluş adı: Türkiye İstatistik Kurumu; 2006, Türkçe Tema: Aile Yapısı, Aile İçi Şiddet, Toplumsal Cinsiyet, Yaşlılık*
+
+[Dokümanı İncele](downloads\RPR\RPR_58.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Türkiye Aile Yapısı Araştırması 
+*RPR_59*
+
+**ÖZET** 
+
+Her beş yılda bir tekrarlanan ve Resmi İstatistik Programı'nda yer alan Türkiye Aile Yapısı Araştırması’nın (TAYA) amacı; Türkiye’deki aile yapısını, bireylerin aile ortamındaki yaşam biçimlerini ve aile hayatına ilişkin değer yargılarını tespit etmektir. Bu araştırmayla Türkiye’de ailelerin güncel durumu ortaya çıkarılarak hanehalkı özellikleri, evlilik, aile içi ilişkiler, akrabalık ilişkileri, çocuk, yaşlı ve diğer toplumsal konulardaki değerler ile aile sorunları hakkında bilgilerin toplanması, bunların çeşitli değişkenler açısından analiz edilmesi ve zaman içindeki değişimlerinin belirlenebilmesine imkân sağlayacak verilerin elde edilmesi hedeflenmiştir.
+
+**SUMMARY**  
+
+The main objective of Research on Family Structure in Turkey (TAYA) that is repeated in every five years and included in the Official Statistical Program is to determine the family structure in Turkey, the life styles of individuals in family environment and their standard of judgement regarding family life. This study also aims at revealing the status of families in Turkey and hence collecting information on certain values such as the characteristics of household members, marriage, family relation, relationships with relatives, child, the elderly and other social issues as well as family problems; analyzing these values in terms of different variabilities; and obtaining data that will enable the determination of its changes over time.  
+
+?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı; 2006, Türkçe Tema: Aile Yapısı, Hanehalkı Özellikleri, Evlilik, Çocuk, Yaşlı*
+
+[Dokümanı İncele](downloads\RPR\RPR_59.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Türkiye Aile Yapısı Araştırması
+*RPR_60*
+
+**ÖZET** 
+
+Her beş yılda bir tekrarlanan ve Resmi İstatistik Programı'nda yer alan Türkiye Aile Yapısı Araştırması’nın (TAYA) amacı; Türkiye’deki aile yapısını, bireylerin aile ortamındaki yaşam biçimlerini ve aile hayatına ilişkin değer yargılarını tespit etmektir. Bu araştırmayla Türkiye’de ailelerin güncel durumu ortaya çıkarılarak hanehalkı özellikleri, evlilik, aile içi ilişkiler, akrabalık ilişkileri, çocuk, yaşlı ve diğer toplumsal konulardaki değerler ile aile sorunları hakkında bilgilerin toplanması, bunların çeşitli değişkenler açısından analiz edilmesi ve zaman içindeki değişimlerinin belirlenebilmesine imkân sağlayacak verilerin elde edilmesi hedeflenmiştir.
+
+**SUMMARY**  
+
+The main objective of Research on Family Structure in Turkey (TAYA) that is repeated in every five years and included in the Official Statistical Program is to determine the family structure in Turkey, the life styles of individuals in family environment and their standard of judgement regarding family life. This study also aims at revealing the status of families in Turkey and hence collecting information on certain values such as the characteristics of household members, marriage, family relation, relationships with relatives, child, the elderly and other social issues as well as family problems; analyzing these values in terms of different variabilities; and obtaining data that will enable the determination of its changes over time.  
+
+?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı; 2011, Türkçe Tema: Aile Yapısı, Hanehalkı Özellikleri, Evlilik, Çocuk, Yaşlı*
+
+[Dokümanı İncele](downloads\RPR\RPR_60.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Türkiye Aile Yapısı Araştırması Tespitler, Öneriler
+*RPR_61*
+
+**ÖZET** 
+
+Aile ve Sosyal Araştırmalar Genel Müdürlüğü (ASAGEM) tarafından yürütülen Türkiye Aile Yapısı Araştırması (TAYA) 2006 ve 2011 verilerinin kullanıldığı TAYA Tespitler ve Öneriler çalışmasının temel amacı, Türkiye’deki aile yapısındaki değişimini çeşitli boyutlarıyla inceleyip değişime aracılık eden faktörleri tartışmaktır. Çalışma “Aile Yapısının Değişimi”, “Komşuluk/Akrabalık İlişkileri”, “Yaşlılık”, “Evlilik”, “Doğurganlık”, “Boşanma”, “Ebeveyn Çocuk İlişkisi”, “Toplumsal Cinsiyet Rolleri” ve “Ailede Sosyal Faaliyetler” ile başlıklarında Türkiye’de aile yapısını derinlemesine analiz eden toplam dokuz makaleden oluşmaktadır.
+
+**SUMMARY**  
+
+The main objective of TAYA Findings and Recommendations that is conducted by the Directorate General for Family and Social Research (ASAGEM) using 2006 and 2011 data of The Research on Family Structure in Turkey (TAYA) is to analyze the change in the family structures in Turkey with all different aspects and discuss the driving factors for change. 
+This study consists of nine articles that analyze the family structures in Turkey in depth, namely “Change of Family Structure”, “Neighborhood/Kinship Relations”, “Old Age”, “Marriage”, “Fertility”, “Divorce”, “Parent-Child Relations”, “Gender Roles and Social Activities in Family”.
+
+?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı; 2014, Türkçe Tema: Aile Yapısının Değişimi, Komşuluk/Akrabalık İlişkileri, Yaşlılık, Evlilik, Doğurganlık, Boşanma, Ebeveyn Çocuk İlişkisi, Toplumsal Cinsiyet Rolleri ve Ailede Sosyal Faaliyetler*
+
+[Dokümanı İncele](downloads\RPR\RPR_61.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Türkiye'de Aile Yapısı Araştırması
+*RPR_62*
+
+**ÖZET** 
+
+Bu araştırma, Türkiye’de aile yapısının profilini çizmek üzere gerçekleştirilmiştir. Gelir düzeyi, konut durumu, eğitim düzeyi gibi etkenlerle ailenin içinde bulunduğu maddi şartlar, aile-içi ilişkiler, aile hayatına ilişkin değerler ve davranışların tespiti ile 2011 yılındaki aile yapısı ana hatları ile betimlenmeye çalışılmıştır.
+
+**SUMMARY**  
+
+This study was conducted to draw a profile of the family structure in Turkey. It is tried to describe the family structure in 2011 in general terms by determining the financial conditions of the families including certain factors such as income level, housing status, education level; as well as their values and behaviors related to family life.
+
+?> *Kuruluş adı: Aile ve Sosyal Politikalar Bakanlığı; 2011, Türkçe Tema: Aile ve Sosyal Politikalar Bakanlığı*
+
+[Dokümanı İncele](downloads\RPR\RPR_62.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Türkiye - UNICEF Ülke İşbirliği Programı 2016-2020, Yıllık Raporu 2018
+*RPR_63*
+
+**ÖZET** 
+
+Bu raporda, Türkiye-UNICEF 2016 - 2020 Ülke Programı kapsamında 2018 yılında çeşitli sektörlerde gerçekleştirilen faaliyetler ve yaşanan gelişmeler aktarılmıştır.
+
+**SUMMARY**  
+
+This report represents various activities and developments in different sectors in 2018 within the scope of Turkey-UNICEF 2016-2020 Country Program. 
+
+?> *Kuruluş adı: UNICEF; 2018, Türkçe Tema: Çocuk, Mülteci*
+
+[Dokümanı İncele](downloads\RPR\RPR_63.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
