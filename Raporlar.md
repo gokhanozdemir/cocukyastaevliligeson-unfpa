@@ -868,3 +868,122 @@ This edition of Progress for Children contains data on these and other child-spe
 [Dokümanı İncele](downloads\RPR\RPR_50.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Survey on the Health Status, Services, Utilization and Determinants of Health - Syrian Refugee Population in Turkey
+*RPR_51*
+
+**ÖZET** 
+
+Bu yayın, Türkiye'deki Suriyeli mülteci popülasyonunun sağlık durumu, hizmet kullanımı ve sağlığı belirleyen etkenler hakkındaki bir anketin sonuçlarını sunmaktadır.  Anketin genel amacı, kamp dışında yaşayan Suriyeli mültecilerin sağlık durumlarını tespit etmek ve daha iyi anlamaktır.
+
+**SUMMARY**  
+
+This publication reports the results of a survey on the health status, services utilization and determinants of health of the Syrian refugee population in Turkey. The general goal of the survey is to determine and better understand the health status of Syrian refugees living outside camps.
+
+?> *Kuruluş adı: WHO; 2019, İngilizce Tema: Mülteci, Sağlık Durumu*
+
+[Dokümanı İncele](downloads\RPR\RPR_51.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Tadhafur Program for Safe Age of Marriage: Child Marriage Survey
+*RPR_52*
+
+**ÖZET** 
+
+Bu anket, altı ilde yaşayan 30 topluluğa mensup bireylerin çocuk yaşta evlilik konusundaki bilgi, tutum ve uygulamalarını (KAP: knowledge, attitude, practice) ölçmeyi amaçlamaktadır. Söz konusu iller, San'a Başkent Yönetimi, Hudeyde, Zaman, Hacca, İb ve Aden illeridir.  Anket, savaşın hedef topluluklardaki çocuk yaşta evlilik olgusu üzerinde bıraktığı etkiyi ölçmeyi amaçlamaktadır.
+
+**SUMMARY**  
+
+This survey intends to measure the knowledge, attitudes and practices (KAP) of child marriage among members of 30 communities targeted by this survey in six governorates. That governorates are; Sana'a Capital Secretariat, Hodeidah, Dhamar, Hajjah, Ibb and Aden. The survey seeks to measure the impact the war left on child marriage phenomenon among the target communities.
+
+?> *Kuruluş adı: Youth Leaderships Development Foundation, UNICEF; 2017, İngilizce Tema: Çocuk Yaşta Evlilik*
+
+[Dokümanı İncele](downloads\RPR\RPR_52.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## The World's Women 2010 Trends and Statistics
+*RPR_53*
+
+**ÖZET** 
+
+Dünya Kadınlar 2010: Trendler ve İstatistikler (World’s Women 2010: Trends and Statistics), mevcut duruma ve zaman içindeki değişikliklere dikkat çekerek dünyada kadın ve erkeklerin statülerine ilişkin istatistikler ve analizler sunmaktadır. Temel olarak analizler, uluslararası ve ulusal istatistik kurumlarından alınan istatistiklere dayanmaktadır. Raporda nüfus ve aileler, sağlık, eğitim, istihdam, güç ve karar verme, kadına karşı şiddet, çevre ve yoksulluk gibi bazı geniş politika alanları ele alınmaktadır.
+
+**SUMMARY**  
+
+The World’s Women 2010: Trends and Statistics presents statistics and analysis on the status of women and men in the world, highlighting the current situation and changes over time. Analyses are based mainly on statistics from international and national statistical agencies. The report covers several broad policy areas – population and families, health, education, work, power and decision-making, violence against women, environment and poverty.
+
+?> *Kuruluş adı: UN; 2010, İngilizce Tema: Toplumsal Cinsiyet Eşitliği, Kadına Karşı Şiddet*
+
+[Dokümanı İncele](downloads\RPR\RPR_53.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Working for an Equal Future: Policy on Gender Equality and the Empowerment of Girls and Women
+*RPR_54*
+
+**ÖZET** 
+
+Bu politika, kız ve erkek çocukları arasında eşitliği teşvik etmek için hükümetler ve diğer ortaklarla gerçekleştirilen UNICEF iş birliği programının temelini oluşturmakta; beklenen temel performans standartlarını tanımlamakta; ve zaman içinde sonuç elde etmemizi sağlayacak kurumsal mekanizmaları belirlemektedir.
+
+**SUMMARY**  
+
+This policy establishes the basis for UNICEF programme cooperation with Governments and other partners to promote equality between girls and boys; defines the core standards of performance that are expected; and sets out the organizational mechanisms that will help bring about results over time.
+
+?> *Kuruluş adı: UN; 2010, İngilizce Tema: Toplumsal Cinsiyet Eşitliği, Kadına Karşı Şiddet*
+
+[Dokümanı İncele](downloads\RPR\RPR_54.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Child Marriage in Humanitarian Settings
+*RPR_55*
+
+**ÖZET** 
+
+Çatışma, felaket ve yerinden edilme durumu, milyonlarca hayatı paramparça etmektedir. Kız çocukları bu durumdan özellikle zarar görmekte ve pek çok şiddet türüne maruz kalmaktadır. İnsani kriz durumlarında çocuk yaşta evlilikler endişe verici bir hızla artmaktadır. Bu bilgilendirme notu, bu konuda sahip olduğumuz bilgileri ve yapılması gerekenleri özetlemektedir.
+
+**SUMMARY**  
+
+Millions of lives are being torn apart by conflict, disasters and displacement. Girls are hit particularly hard and face many forms of violence. Child marriage has been rising at an alarming rate in humanitarian settings. This brief summarises what we know about this issue and what needs to be done.
+
+?> *Kuruluş adı: Girls Not Brides; 2018, İngilizce Tema: Çocuk Yaşta Evlilik*
+
+[Dokümanı İncele](downloads\RPR\RPR_55.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Child Marriage in Turkey (Overview)
+*RPR_56*
+
+**ÖZET** 
+
+Çocuk veya erken yaşta evlilik, en azından biri 18 yaşın altında olan iki kişinin resmi veya gayri resmi olarak birleşmesidir. Çocuk olmaları nedeniyle çocuk eşlerin özgür ve tam rıza verme ehliyeti olmadığı kabul edilmektedir; yani çocuk yaşta evlilikler, insan hakları ve çocuk hakları ihlali olarak düşünülmelidir. Çocuk yaşta evlilikler, Türkiye'nin tüm bölgelerinde gerçekleşmektedir ve başka etmenlerin yanı sıra çocuklara yönelik ataerkil tavırlarla ilişkilidir.
+
+**SUMMARY**  
+
+Child or early marriage is the union, whether or not official, of two persons, at least one of whom is under 18 years of age.1 By virtue of being children, child spouses are considered to be incapable of giving free and full consent, meaning that child marriages should be considered a violation of human rights and the rights of the child. In Turkey, child marriage occurs in all regions of the country, and is linked to patriarchal attitudes towards girls, among other factors.
+
+?> *Kuruluş adı: UNFPA; 2014, İngilizce Tema: Çocuk Yaşta Evlilik*
+
+[Dokümanı İncele](downloads\RPR\RPR_56.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Who Speaks for Me? Ending Child Marriage
+*RPR_57*
+
+**ÖZET** 
+
+Bu politika bilgilendirme notu, çocuk yaşta evlilik trendlerini ve evliliği ertelemenin faydalarını incelemektedir. Gelişmekte olan ülkelerde çocuk yaşta evliliği sonlandırmaya yönelik umut vadeden yaklaşımları incelemekte, politika ve savunuculuk çalışmalarını ilerletmek amacıyla tavsiyelerde bulunmaktadır.
+
+**SUMMARY**  
+
+This policy brief explores trends in child marriage and the benefits of delaying marriage. It examines promising approaches in developing countries to end child marriage and provides recommendations to advance policy and advocacy efforts.
+
+?> *Kuruluş adı: Population Reference Bureau; 2011, İngilizce Tema: Çocuk Yaşta Evlilik, Erken Yaşta Evlilik*
+
+[Dokümanı İncele](downloads\RPR\RPR_57.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
