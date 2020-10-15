@@ -3523,6 +3523,27 @@ In recent years, the British government has increasingly sought to intervene to 
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
+## Türk Sinemasında 2010 Sonrası Filmlerde Çocuk Gelin Temsili
+*MKL_144*
+
+**ÖZET**
+
+Bu çalışma, çocuk yaşta evliliklerin sinemadaki temsilini dört filmin  (Lal Gece, 2012; Halam Geldi, 2013; Mustang, 2014; Yarım, 2015) analiz edilmesi üzerinden ortaya koymayı amaçlamaktadır.
+
+***Anahtar kelimeler: Türk Sineması, Çocuk Yaşta Evlilik, Feminizm***
+
+**ABSTRACT**
+
+This study aims to present how child marriages are represented in cinema through analysis of four films (Lal Gece, 2012; Halam Geldi, 2013; Mustang, 2014; Yarım, 2015).
+
+***Key words: Turkish Cinema, Child Marriage, Feminism***
+
+?> *Kuruluş adı: Anadolu Üniversitesi ; 2017, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_144.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
 ## The Rights of Children against Forced Marriage At The International Level
 *MKL_145*
 
@@ -5131,5 +5152,47 @@ This study aims to reveals the socio-cultural and economic impacts of early marr
 ?> *Kuruluş adı: Bingöl Üniversitesi ; 2018, Türkçe*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_219.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Toplumsal Cinsiyet Bağlamında Kadın; Cinsiyet Ayrımcılığının Kadın Ağzı Türkülerde İşlenişi
+*MKL_220*
+
+**ÖZET**
+
+Bu çalışmada, toplumsal cinsiyet bağlamında kadına karşı ayrımcılığın ve Anadolu’daki erkek egemen yapının kadın ağzı türkülere nasıl yansıdığı incelenmiştir.
+
+***Anahtar kelimeler: Toplumsal Cinsiyet, Cinsiyet Ayrımcılığı***
+
+**ABSTRACT**
+
+In this study, how the discrimination against women in the context of gender and the male-dominated structure in Anatolia influence “woman-talk” folk songs have been analysed.
+
+***Key words: Gender, Gender Discrimination***
+
+?> *Kuruluş adı: Haliç Üniversitesi ; 2014, Türkçe*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_220.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## The Forced Marriage Debate and the British State
+*MKL_221*
+
+**ÖZET**
+
+Bu makale, İngiltere'de yaşayan Asyalı kadınlar bağlamında İngiliz devletinin zorla evlendirmeyi önlemedeki rolünü tartışmaktadır.
+
+***Anahtar kelimeler: Zorla Evlilik, Aile İçi Şiddet, ‘Namus Cinayeti’, Güney Asyalı Kadınlar***
+
+**ABSTRACT**
+
+This article argues the role of British state in preventing forced marriage in the context of Asian women living in Britain.
+
+***Key words: Forced Marriage, Domestic  Violence, ‘Honour Killings’, South Asian Women***
+
+?> *Yayımlayan: Amrit Wilson ; 2007, İngilizce*
+
+[Dokümanı İncele](downloads\HUNEE\MKL\MKL_221.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
