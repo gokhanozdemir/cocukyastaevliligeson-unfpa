@@ -800,3 +800,71 @@ Ending Child Marriage: A Guide for Global Policy Action appeals to key policy ma
 [Dokümanı İncele](downloads\RPR\RPR_46.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Getting the Evidence: Asia Child Marriage Initiative
+*RPR_47*
+
+**ÖZET** 
+
+Bu araştırma, Plan International'ın Because I Am a Girl (Çünkü Ben Bir Kızım) kampanyasının himayesiyle gerçekleştirilen çok ülkeli bir girişim olan Asya Çocuk Yaşta Evlilik Girişimi'nin (ACMI) bir parçası olarak gerçekleştirilmiştir. 2010'da faaliyete geçen Asya Çocuk Yaşta Evlilik Girişimi, farklı düzeylerdeki müdahaleler sayesinde çocuk yaşta evlilikleri önlemeyi ve bu evliliklerin çocuklar, aileler ve topluluklar üzerindeki olumsuz sonuçlarını hafifletmeyi amaçlamaktadır.
+
+**SUMMARY**  
+
+The research was undertaken as part of the Asia Child Marriage Initiative (ACMI), a multi-country venture which falls under the aegis of Plan International’s Because I Am a Girl campaign. The Asia Child Marriage Initiative, which began in 2010, aims to prevent child marriage and mitigate its negative consequences on children, families and communities through interventions at multiple levels.
+
+?> *Kuruluş adı: Asia Child Marriage Initiative, Plan International, Coram International; 2015, İngilizce Tema: Çocuk Yaşta Evlilik*
+
+[Dokümanı İncele](downloads\RPR\RPR_47.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## National Survey on the Drivers and Consequences of Child Marriage in Tanzania
+*RPR_48*
+
+**ÖZET** 
+
+Küresel anlamda çocuk yaşta evliliklere ve bu evliliklerin genç kızlar üzerindeki etkilerine giderek daha çok dikkat edilmektedir. Bu çalışma, Tanzanya'daki çocuk yaşta evliliklere neden olan unsurlar ve bu evliliklerin sonuçları hakkında bilgi paylaşmanın ve kanıt sunmanın yanı sıra önemli paydaşların algıları hakkında bilgi toplamaktadır.
+
+**SUMMARY**  
+
+Globally, there is increasing attention on child marriages and its effects on young girls. This study shares knowledge and provides evidence on the drivers and consequences of child marriage in Tanzania and gathers information on key stakeholder perceptions.
+
+?> *Kuruluş adı: Tanzania - Ministry of Health, Community Development, Gender, Elderly and Children; 2017, İngilizce Tema: Çocuk Yaşta Evlilik, Cinsel Sağlık ve Üreme Sağlığı*
+
+[Dokümanı İncele](downloads\RPR\RPR_48.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## New Insights on Preventing Child Marriage
+*RPR_49*
+
+**ÖZET** 
+
+Bu rapor, çocuk yaşta evlilikleri önlemek için çalışan veya bu konuda bir program planlayan politika yapıcılara ve kalkınma uygulayıcılarına yöneliktir. Risk ve koruma faktörlerine ilişkin yeni içgörüler, program tasarlayanların çocuk yaşta evlilikleri önlemek için müdahale noktaları bulmasına yardımcı olacaktır.
+
+**SUMMARY**  
+
+This report is for policy-makers and development practitioners working on or planning a future program to prevent child marriage. New insights on risk and protective factors will help program designers find points of intervention to prevent child marriage.
+
+?> *Kuruluş adı: International Center for Research on Women; 2007, İngilizce Tema: Çocuk Yaşta Evlilik*
+
+[Dokümanı İncele](downloads\RPR\RPR_49.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Progress for Children: A World Fit for Children Statistical Review
+*RPR_50*
+
+**ÖZET** 
+
+Çocuklar İçin İlerleme'nin (Progress for Children) bu sayısı, Mayıs 2002'deki Birleşmiş Milletler Genel Kurulu, Çocuklar Özel Oturumu'nda dünya liderleri tarafından belirlenen ve oturumun çıktı belgesi olan Çocuklara Uygun Bir Dünya'da (A World Fit for Children) ifade edilen, çocuklara özel hedefler ve yukarıda bahsedilen hedefler hakkında veriler içermektedir. 
+
+**SUMMARY**  
+
+This edition of Progress for Children contains data on these and other child-specific targets that were set by world leaders at the United Nations General Assembly Special Session on Children in May 2002 and were articulated in its outcome document, A World Fit for Children.
+
+?> *Kuruluş adı: UNICEF; 2007, İngilizce Tema: Çocuk Koruması, Çocuk Yaşta Evlilik, Çocuk İşçiliği, Kadın Sünneti, HIV, Üreme Sağlığı*
+
+[Dokümanı İncele](downloads\RPR\RPR_50.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
