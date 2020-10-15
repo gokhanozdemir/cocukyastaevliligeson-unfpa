@@ -731,3 +731,72 @@ The material is the 2018 report of the Global Program launched by UNICEF and UNF
 [Dokümanı İncele](downloads\RPR\RPR_42.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## 2018 Annual Report: UNFPA-UNICEF Global Programme to Accelerate Action To End Child Marriage
+*RPR_43*
+
+**ÖZET** 
+
+Bu hedefe ulaşma noktasında kaydedilen ilerlemeyi izlemekten sorumlu kuruluş olan UNICEF, çocuk yaşta evlilik konusunda düzenli olarak küresel tahminler oluşturmaktan sorumludur.  Bu tahminler temel olarak, ulusal ölçekte temsili olan hane anketleri ve az sayıdaki ülkede nüfus sayımı verileri kullanılarak hazırlanmaktadır. Bu tahminler, belirli ülkelerde yeni verilere dayanılarak hazırlandıkları için önceki yayınlarında verilen tahminlerin yerine geçmektedir. Yakın zamanda çocuk yaşta evliliklerde bir düşüş gözlemlenen Hindistan ve Etiyopya ile önceden verileri UNICEF'in küresel veri tabanlarında yer almayan Çin, söz konusu ülkeler arasındadır.
+
+**SUMMARY**  
+
+As the designated custodian agency for monitoring progress towards reaching this target, UNICEF is responsible for generating periodic global estimates of child marriage. These estimates are produced primarily from nationally representative household surveys, and for a minority of countries, from census data. The estimates in this document supersede those in previous publications, as they rely on new data for a number of countries. These include India and Ethiopia, which have recently seen a decline in the prevalence of child marriage, and China, for which data were previously not available in UNICEF’s global databases.
+
+
+?> *Kuruluş adı: UNICEF; 2018, İngilizce Tema: Çocuk Yaşta Evlilik*
+
+[Dokümanı İncele](downloads\RPR\RPR_43.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Child Marriage, Fertility, and Family Planning in Niger
+*RPR_44*
+
+**ÖZET** 
+
+Uluslararası Erkek ve Toplumsal Cinsiyet Eşitliği Anketi'nden (IMAGES) ilham alınarak hazırlanan ve Nijer'de gerçekleştirilen bu karma yöntemli çalışma, evli ergen kız çocukları ve eşlerinin cinsel sağlık ve üreme sağlığı ve hakları konusundaki motivasyonları, tutumları ve davranışları hakkında  son derece önemli içgörüler sunmaktadır.  Promundo-US bu çalışmayı  Kaliforniya Üniversitesi, Berkley ve Sağlık ve Kalkınma için Girişim Stratejileri'nin  (Venture Strategies for Health and Development) bir projesi olan OASIS Girişimi (The Oasis Initiative) ve Kaliforniya Üniversitesi, San Diego'daki Toplumsal Cinsiyet ve Sağlık Merkezi (Center on Gender Equity and Health) ile birlikte hazırlamıştır.
+
+**SUMMARY**  
+
+This mixed-methods study in Niger – inspired by the International Men and Gender Equality Survey (IMAGES) – offers critical insight into the motivations, attitudes, and behaviors of married adolescent girls and their husbands related to sexual and reproductive health and rights. Promundo-US produced this study in collaboration with The OASIS Initiative, a project of University of California at Berkeley and Venture Strategies for Health and Development, and the Center on Gender Equity and Health at the University of California, San Diego.
+
+?> *Kuruluş adı: Promunda-US, University of California at Berkley; 2018, İngilizce Tema: Çocuk Yaşta Evlilik, Cinsel Sağlık ve Üreme Sağlığı, Aile Planlaması*
+
+[Dokümanı İncele](downloads\RPR\RPR_44.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Early Marriage: A Harmful Traditional Practice
+*RPR_45*
+
+**ÖZET** 
+
+Çalışmanın amacı, çocuk yaşta evliliğin yaygınlığını tahmin etmek amacıyla hane anketlerinden elde edilen mevcut ampirik kanıtları sunmak ve çocuk yaşta evlilik ve birlikte yaşamayla bağlantılı etmenleri tespit edip anlamaktır. Ampirik kanıtların ve analizin sunumu, önceden sunulmuş göstergeler etrafında yapılandırılmıştır.
+
+**SUMMARY**  
+
+The objective of this study is to present available empirical evidence obtained through household surveys in order to estimate the prevalence of child marriage and to identify and understand the factors associated with child marriage and cohabitation. The presentation of the empirical evidence and analysis is structured around the indicators presented previously.
+
+?> *Kuruluş adı: UNICEF; 2005, İngilizce Tema: Çocuk Yaşta Evlilik, Erken Yaşta Evlilik*
+
+[Dokümanı İncele](downloads\RPR\RPR_45.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Ending child marriage: A Guide for Global Policy Action
+*RPR_46*
+
+**ÖZET** 
+
+Çocuk Yaşta Evliliğin Sonlandırılması: Küresel Politika Eylemlerine Yönelik Kılavuz, çocuk yaşta evliliğe zorlanmış milyonlarca kız çocuğunun ve genç kadının yaşam standartlarını iyileştirmek için önemli politika yapıcılara hitap etmektedir. Küresel olarak, kırsal bölgelerdeki savunmasız ve ötekileştirilmiş kız çocukları ve kadınlar, erken ve zorla evlilik, zorla cinsel ilişki ve erken gebeliğin yol açtığı sağlık riskler ve sosyal ve ekonomik maliyetler ile yüzleşmeye devam etmektedir. Çocuk gelinler HIV enfeksiyonuna karşı giderek daha savunmasız olduğu için küresel politika eylemleri artık daha büyük bir aciliyet kazanmıştır. 
+
+**SUMMARY**  
+
+Ending Child Marriage: A Guide for Global Policy Action appeals to key policy makers to improve the quality of life of millions of girls and young women forced into child marriages. Globally, vulnerable and marginalized rural girls and women continue to bear the health risks and social and economic costs of early and forced marriage, non-consensual sex and early pregnancies. There is now greater urgency for global policy action because child brides are increasingly more vulnerable to HIV infection
+
+?> *Kuruluş adı: IPPF, UNFPA, The Global Coalition on Women and AIDS; 2007, İngilizce Tema: Çocuk Yaşta Evlilik, Erken Gebelik, HIV, Cinsel Sağlık ve Üreme Sağlığı*
+
+[Dokümanı İncele](downloads\RPR\RPR_46.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
