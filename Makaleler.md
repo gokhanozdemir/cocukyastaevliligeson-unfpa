@@ -97,6 +97,31 @@
 - [Forced Marriage Among Men: An Unrecognized Problem - *Critical Social Policy*](#forced-marriage-among-men-an-unrecognized-problem)
 - [Forced Marriage and Asylum: Perceiving the Invisible Harm - *Columbia Human Rights Law Review*](#forced-marriage-and-asylum-perceiving-the-invisible-harm)
 - [Forced Marriage as a Harm in Domestic and International Law - *UBC, UTS*](#forced-marriage-as-a-harm-in-domestic-and-international-law)
+- [Forced Marriage in Canada: To Criminalize or Not to Criminalize? - *Canadian Journal of Human Rights*](#forced-marriage-in-canada-to-criminalize-or-not-to-criminalize)
+- [Forced Marriage in the UK: Religious, Cultural, Economic or State Violence? - *Critical Social Policy*](#forced-marriage-in-the-uk-religious-cultural-economic-or-state-violence)
+- [Forced Marriage, Forced Sex: The Perils of Childhood for Girls - *Gender & Development*](#forced-marriage-forced-sex-the-perils-of-childhood-for-girls)
+- [Forced Marriage, Slavery, and Plural Legal Systems: An African Example - *Human Rights Quarterly*](#forced-marriage-slavery-and-plural-legal-systems-an-african-example)
+- [Forced Marriage: An Analysis of Legislation and Political Measures in Europe - *Ghent University, WHO, HRC*](#forced-marriage-an-analysis-of-legislation-and-political-measures-in-europe)
+- [Forced Marriage: the Evolution of a New International Criminal Norm - *Aberdeen Student Law Review*](#forced-marriage-the-evolution-of-a-new-international-criminal-norm)
+- [Forced Marriage: A "New" Crime Against Humanity? - *Northwestern University School of Law Northwestern Journal of International Human Rights*](#forced-marriage-a-quotnewquot-crime-against-humanity)
+- [Forced Marriage'in Conflict Situations: Researching and Prosecuting Old Harms and New Crimes - *Canadian Journal of Human Rights*](#forced-marriage39in-conflict-situations-researching-and-prosecuting-old-harms-and-new-crimes)
+- [Forced Marriages of Children as a Form of Exploitation of Human Trafficking Victims - *EU and Comperative Law Issues and Challanges*](#forced-marriages-of-children-as-a-form-of-exploitation-of-human-trafficking-victims)
+- [Girl Child Marriage and Its Effect on Fertility in Pakistan: Findings from Pakistan Demographic and Health Survey, 2006–2007 - *Bielefeld University, Emory University, West Virginia University, Century Circle, Aga Khan University, University of California, Boston University*](#girl-child-marriage-and-its-effect-on-fertility-in-pakistan-findings-from-pakistan-demographic-and-health-survey-20062007)
+- [Girl Child Marriage as a Risk Factor for Early Childhood Development and Stunting - *Harvard T. H. Chan School of Public Health, Harvard Medical School*](#girl-child-marriage-as-a-risk-factor-for-early-childhood-development-and-stunting)
+- [Girl Child Marriage: Implications for Community Intervention Programmes - *Journal of Law, Policy and Globalization*](#girl-child-marriage-implications-for-community-intervention-programmes)
+- [Has Child Marriage Declined in sub-Saharan Africa? An Analysis of Trends in 31 Countries - *Population and Development Review*](#has-child-marriage-declined-in-sub-saharan-africa-an-analysis-of-trends-in-31-countries)
+- [Health Consequences of Child Marriage in Africa - *Brigham and Women’s Hospital*](#health-consequences-of-child-marriage-in-africa)
+- [Household Determinants of Teen Marriage: Sister Effects Across Four Low- andMiddle-Income Countries - *University of Pennsylvania, Pontificia Universidad Católica de Chile*](#household-determinants-of-teen-marriage-sister-effects-across-four-low-andmiddle-income-countries)
+- [How do Jordanian and Syrian Youth Living in Jordan Envision Their Sexual and Reproductive Health Needs? A Concept Mapping Study Protocol - *Harvard T.H. Chan School of Public Health, University of Jordan, Jordanian Hashemite Foundation for Human Development*](#how-do-jordanian-and-syrian-youth-living-in-jordan-envision-their-sexual-and-reproductive-health-needs-a-concept-mapping-study-protocol)
+- [Informed Powerlessness: Child Marriage Interventions and Third World Girlhood Discourses - *University of Birmingham*](#informed-powerlessness-child-marriage-interventions-and-third-world-girlhood-discourses)
+- [Intergenerational Education Effects of Early Marriage in Sub-Saharan Africa - *University of Cambridge, University of Sussex*](#intergenerational-education-effects-of-early-marriage-in-sub-saharan-africa)
+- [International Law as an Instrument to Combat Child Marriage - *The International Journal of Human Rights*](#international-law-as-an-instrument-to-combat-child-marriage)
+- [Interventions Against Forced Marriage: Contesting Hegemonic Narratives and Minority Practices in Europe - *University of Liverpool*](#interventions-against-forced-marriage-contesting-hegemonic-narratives-and-minority-practices-in-europe)
+- [Interventions to Prevent Child Marriage Among Young People in Low- and Middle-Income Countries: A Systematic Review of the Published and Gray Literature - *Johns Hopkins Bloomberg, School of Public HealthLee-Rife Research, WHO*](#interventions-to-prevent-child-marriage-among-young-people-in-low-and-middle-income-countries-a-systematic-review-of-the-published-and-gray-literature)
+- [Making Sense of Child, Early and Forced Marriage Among Syrian Refugee Girls: A Mixed Methods Study in Lebanon - *Queen’s University, ABAAD Resource Center for Gender Equality, University of Leipzig, Beth Israel Deaconess Milton, Brigham and Women’s Hospital, York University*](#making-sense-of-child-early-and-forced-marriage-among-syrian-refugee-girls-a-mixed-methods-study-in-lebanon)
+- [Marital Satisfaction Among Girls with Early Marriage in Iran: Emotional Intelligence and Religious Orientation - *International Journal of Adolescence and Youth*](#marital-satisfaction-among-girls-with-early-marriage-in-iran-emotional-intelligence-and-religious-orientation)
+- [Marriage and Childbirth as Factors in Dropping Out from School: An Analysis of DHS Data from Sub-Saharan Africa - *Population Council*](#marriage-and-childbirth-as-factors-in-dropping-out-from-school-an-analysis-of-dhs-data-from-sub-saharan-africa)
+- [Marriageable Age: Political Debates on Early Marriage in Twentieth-Century Indonesia - *Southeast Asia Program, Publications at Cornell University*](#marriageable-age-political-debates-on-early-marriage-in-twentieth-century-indonesia)
 
 
 
@@ -5196,3 +5221,4 @@ This article argues the role of British state in preventing forced marriage in t
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_221.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
