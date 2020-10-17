@@ -205,6 +205,23 @@
 - [BİR ÇOCUK İSTİSMARI FORMU OLARAK ÇOCUK EVLİLİKLERİ: KÜLTÜRE SIĞINMANIN SINIRLARI- *Sosyoloji Araştırmaları Dergisi*](#bİr-Çocuk-İstİsmari-formu-olarak-Çocuk-evlİlİklerİ-kÜltÜre-siĞinmanin-sinirlari)
 - [TÜRKİYE’DE ERKEN VE ZORLA EVLİLİKLER, ÇOCUK GELİNLER - *GENÇLİK VE KÜLTÜREL MİRASIMIZ / ULUSLARARASI KONGRE*](#tÜrkİyede-erken-ve-zorla-evlİlİkler-Çocuk-gelİnler)
 - [Acarlar Beldesinde Okul Terkleri ve Devamsızlık Sorunu - *Aydın Adnan Menderes University*](#acarlar-beldesinde-okul-terkleri-ve-devamsızlık-sorunu)
+- [Çocuk Gelin Olarak Evlilik Yapmış Kadınların Ruh Sağlığının Araştırılması - *Hasan Kalyoncu Üniversitesi*](#Çocuk-gelin-olarak-evlilik-yapmış-kadınların-ruh-sağlığının-araştırılması)
+- [Çocuk Gelinlerin Erken Evlilik Süreçleri ve Erken Evliliklerin Önlenmesine İlişkin Görüş ve Düşüncelerinin İncelenmesi - *Manisa Celal Bayar Üniversitesi*](#Çocuk-gelinlerin-erken-evlilik-süreçleri-ve-erken-evliliklerin-Önlenmesine-İlişkin-görüş-ve-düşüncelerinin-İncelenmesi)
+- [Çocuk Yaşta Evliliklerin İhmal ve İstismar Kapsamında Değerlendirilmesi: 2016 Yılı Ağrı Örneği - *Mimar Sinan Güzel Sanatlar Üniversitesi*](#Çocuk-yaşta-evliliklerin-İhmal-ve-İstismar-kapsamında-değerlendirilmesi-2016-yılı-ağrı-Örneği)
+- [Çocuk Yaşta ve Yetişkin Yaşta Evlenen Kadınların Evliliğe ve Aile Kurumuna Yaklaşımları - *Bolu Abant İzzet Baysal Üniversitesi*](#Çocuk-yaşta-ve-yetişkin-yaşta-evlenen-kadınların-evliliğe-ve-aile-kurumuna-yaklaşımları)
+- [Cumhuriyet Dönemi Türk Tiyatrosunda Toplumsal Cinsiyet - *Hacettepe Üniversitesi*](#cumhuriyet-dönemi-türk-tiyatrosunda-toplumsal-cinsiyet)
+- [Erken Evlilik: Türkiye'de Van İli Örneği / Early Marriage: The Case of Van Province in Turkey - *Middle East Technical University*](#erken-evlilik-türkiye39de-van-İli-Örneği-early-marriage-the-case-of-van-province-in-turkey)
+- [Ergen Gebelerin Sosyodemografik Özellikleri ve Kendilik Algıları - *Gazi Üniversitesi*](#ergen-gebelerin-sosyodemografik-Özellikleri-ve-kendilik-algıları)
+- [Erken Evlenen Kadınların Psikolojik Belirtileri ve Evlilik Uyumlarını Etkileyen Faktörler - *Ankara Üniversitesi*](#erken-evlenen-kadınların-psikolojik-belirtileri-ve-evlilik-uyumlarını-etkileyen-faktörler)
+- [Feminist Sosyal Hizmet Yaklaşımı Bağlamında Ataerkil İdeoloji ve Erken Evlilikler - *Hacettepe Üniversitesi*](#feminist-sosyal-hizmet-yaklaşımı-bağlamında-ataerkil-İdeoloji-ve-erken-evlilikler)
+- [Cinsiyete Dayalı Şiddet: Kalkınma ve Topluma Etkileri, Mevcut Girişimler, Kamerun Uzak Kuzey Bölgesindeki Kadın ve Genç Kızlar Odağı - *Hacettepe University*](#cinsiyete-dayalı-Şiddet-kalkınma-ve-topluma-etkileri-mevcut-girişimler-kamerun-uzak-kuzey-bölgesindeki-kadın-ve-genç-kızlar-odağı)
+- [Güneydoğu Anadolu Bölgesi'nde Kız Çocuklarının Erken Yaşta Evlilikleri ve Din Algısı: Şanlıurfa Örneği - *Harran Üniversitesi*](#güneydoğu-anadolu-bölgesi39nde-kız-Çocuklarının-erken-yaşta-evlilikleri-ve-din-algısı-Şanlıurfa-Örneği)
+- [Kadın Yoksulluğu Üzerine Sosyolojik Bir Araştırma: Elazığ Örneği - *Fırat Üniversitesi*](#kadın-yoksulluğu-Üzerine-sosyolojik-bir-araştırma-elazığ-Örneği)
+- [Sosyo-Kültürel Faktörler Bağlamında Erken Evlilikler - *Hacettepe Üniversitesi*](#sosyo-kültürel-faktörler-bağlamında-erken-evlilikler)
+- [Sosyo-Kültürel ve Ekonomik Faktörler Çerçevesinde Erken Evlilikler: Ankara Pursaklar Örneği - *Gazi Üniversitesi*](#sosyo-kültürel-ve-ekonomik-faktörler-Çerçevesinde-erken-evlilikler-ankara-pursaklar-Örneği-1)
+- [Sosyo-Kültürel ve Ekonomik Faktörler Çerçevesinde Erken Evlilikler: Bingöl İli Örneği - *Bingöl Üniversitesi*](#sosyo-kültürel-ve-ekonomik-faktörler-Çerçevesinde-erken-evlilikler-bingöl-İli-Örneği)
+- [Toplumsal Cinsiyet Bağlamında Kadın; Cinsiyet Ayrımcılığının Kadın Ağzı Türkülerde İşlenişi - *Haliç Üniversitesi*](#toplumsal-cinsiyet-bağlamında-kadın-cinsiyet-ayrımcılığının-kadın-ağzı-türkülerde-İşlenişi)
+- [The Forced Marriage Debate and the British State - *Amrit Wilson*](#the-forced-marriage-debate-and-the-british-state-1)
 
 
 
@@ -5008,27 +5025,6 @@ This study aims to compare marriage experiences and approaches to the marriage o
 ?> *Kuruluş adı: Bolu Abant İzzet Baysal Üniversitesi ; 2018, Türkçe*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_208.pdf ':ignore')
-
-[Materyal Listesine Geri Dön](#materyal-listesi)
-
-## Cumhuriyet Dönemi Türk Tiyatrosunda Toplumsal Cinsiyet
-*MKL_209*
-
-**ÖZET**
-
-Bu çalışmada Cumhuriyet döneminin 1960 ile 1980 yılları arasını kapsayan süreç içinde yazılmış olan Turgut Özakman’ın Kanaviçe (1960), Adalet Ağaoğlu’nun Evcilik Oyunu(1964) ve Çatıdaki Çatlak(1966), Cahit Atay’ın Ana Hanım Kız Hanım (1964), Hidayet Sayın’ın Pembe Kadın (1965), Orhan Asena’nın Fadik Kız (1966) Güngör Dilmen Kalyoncu’nun Kurban (1967), Nezihe Meriç’in Sular Aydınlanıyordu (1969) Vasıf Öngören’in Asiye Nasıl Kurtulur (1969), Gülten Akın’ın Babil’de Bir Kadın (1960-1970), Ülker Köksal’ın Sacide (1972) ve Nezihe Araz’ın Bozkır Güzellemesi (1975) adlarındaki on iki tiyatro eseri toplumsal cinsiyet bağlamında tematik olarak ele alınmaktadır.
-
-***Anahtar kelimeler: Toplumsal Cinsiyet, Cinsiyet Rolleri, Cinsiyetçilik, Cinsiyet Eşitsizliği, Kadın, Cumhuriyet Dönemi Türk Tiyatrosu***
-
-**ABSTRACT**
-
-This study thematically analyses Turgut Özakman’s Kanaviçe (1960), Adalet Ağaoğlu’s Evcilik Oyunu (1964) and Çatıdaki Çatlak (1966), Cahit Atay’s Ana Hanım Kız Hanım (1964), Hidayet Sayın’s Pembe Kadın (1965), Orhan Asena’s Fadik Kız (1966) Güngör Dilmen Kalyoncu’s Kurban (1967), Nezihe Meriç’s Sular Aydınlanıyordu (1969) Vasıf Ongoren’s Asiye Nasıl Kurtulur (1969), Gulten Akın’s Babil’de Bir Kadın (1960-1970), Ülker Köksal’s Sacide (1972) and Nezihe Araz’s Bozkir Guzellemesi(1975) called twelve theatre plays, which were written between the years of 1960s and 1980s in the Republic Period in terms of gender.
-
-***Key words: Gender, Gender Roles, Sexism, Gender Inequality, Women, Turkish Theatre of Republic Era***
-
-?> *Kuruluş adı: Hacettepe Üniversitesi ; 2018, Türkçe*
-
-[Dokümanı İncele](downloads\HUNEE\MKL\MKL_209.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 
