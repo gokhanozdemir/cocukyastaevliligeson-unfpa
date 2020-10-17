@@ -6,6 +6,8 @@
 - [Erken Yaşta, Çocuk Yaşta Evlilikin Önlenmesi, Müdahale Planı - *Samsun Valiliği*](#erken-yaşta-Çocuk-yaşta-evlilikin-Önlenmesi-müdahale-planı)
 - [Nevşehir Yerel Eşitlik Stratejik Planı (2013-2014) - *Nevşehir Valiliği*](#nevşehir-yerel-eşitlik-stratejik-planı-2013-2014)
 - [Çocuk Koruma Hizmetlerinde Koordinasyon Strateji Belgesi - *Adalet Bakanlığı, ASPB, Hakim ve Savcılar Yüksek Kurulu, Adalaet Akademisi, UNICEF*](#Çocuk-koruma-hizmetlerinde-koordinasyon-strateji-belgesi)
+- [Kadının Güçlenmesi Strateji Belgesi ve Eylem Planı 2018-2023 - *Aile ve Sosyal Politikalar Bakanlığı*](#kadının-güçlenmesi-strateji-belgesi-ve-eylem-planı-2018-2023)
+- [Toplumsal Cinsiyet Eşitliği Ulusal Eylem Planı 2008-2013 - *Başbakanlık Kadının Statüsü Genel Müdürlüğü*](#toplumsal-cinsiyet-eşitliği-ulusal-eylem-planı-2008-2013)
 
 
 
@@ -111,7 +113,7 @@ Toplumsal Cinsiyet Eşitliği Ulusal Eylem Planı eğitim, ekonomi, yoksulluk, y
 
 The National Action Plan for Gender Equality covers education, economy, poverty, power and participation in decision making, health, media, environment and institutional mechanisms. For each of these areas, comprehensive policy documents have been prepared that define the current situation in terms of gender equality, analyze the obstacles to achieve gender equality, and also include goals, objectives and concrete implementation strategies.
 
-?> *Kuruluş adı:Başbakanlık Kadının Statüsü Genel Müdürlüğü; 2008, Türkçe Tema: Toplumsal Cinsiyet Eşitliği*
+?> *Kuruluş adı: Başbakanlık Kadının Statüsü Genel Müdürlüğü; 2008, Türkçe Tema: Toplumsal Cinsiyet Eşitliği*
 
 [Dokümanı İncele](downloads\EYP\EYP_06.pdf ':ignore')
 

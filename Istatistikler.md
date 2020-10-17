@@ -7,6 +7,7 @@
 - [2019 Dünya Nüfus Günü: Haber Bülteni İstatistikleri - *Türkiye İstatistik Kurumu*](#_2019-dünya-nüfus-günü-haber-bülteni-İstatistikleri)
 
 - [Child Marriage: Latest Trends and Future Prospects - Çocuk Yaşta Evlilik: Son Trendler ve Gelecek Beklentileri - *UNICEF*](#child-marriage-latest-trends-and-future-prospects-Çocuk-yaşta-evlilik-son-trendler-ve-gelecek-beklentileri)
+- [World Marriage Patterns 2000 - *UN Population Division*](#world-marriage-patterns-2000)
 
 ## Erken Yaşlardaki Evlilikler ve Gebelikler
 *IST_01*
