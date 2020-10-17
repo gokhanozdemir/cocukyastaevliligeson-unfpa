@@ -44,6 +44,28 @@
 - [Lessons Learned from National Government-led Efforts to Reduce Adolescent Pregnancy in Chile, England and Ethiopia - *UNFPA, WHO, Universities*](#lessons-learned-from-national-government-led-efforts-to-reduce-adolescent-pregnancy-in-chile-england-and-ethiopia)
 - [2017 Annual Report: UNFPA-UNICEF Global Programme to Accelerate Action To End Child Marriage - *UNFPA, UNICEF*](#_2017-annual-report-unfpa-unicef-global-programme-to-accelerate-action-to-end-child-marriage)
 - [2018 Annual Report: UNFPA-UNICEF Global Programme to Accelerate Action To End Child Marriage - *UNFPA, UNICEF*](#_2018-annual-report-unfpa-unicef-global-programme-to-accelerate-action-to-end-child-marriage)
+- [2018 Annual Report: UNFPA-UNICEF Global Programme to Accelerate Action To End Child Marriage - *UNICEF*](#_2018-annual-report-unfpa-unicef-global-programme-to-accelerate-action-to-end-child-marriage-1)
+- [Child Marriage, Fertility, and Family Planning in Niger - *Promunda-US, University of California at Berkley*](#child-marriage-fertility-and-family-planning-in-niger)
+- [Early Marriage: A Harmful Traditional Practice - *UNICEF*](#early-marriage-a-harmful-traditional-practice)
+- [Ending child marriage: A Guide for Global Policy Action - *IPPF, UNFPA, The Global Coalition on Women and AIDS*](#ending-child-marriage-a-guide-for-global-policy-action)
+- [Getting the Evidence: Asia Child Marriage Initiative - *Asia Child Marriage Initiative, Plan International, Coram International*](#getting-the-evidence-asia-child-marriage-initiative)
+- [National Survey on the Drivers and Consequences of Child Marriage in Tanzania - *Tanzania - Ministry of Health, Community Development, Gender, Elderly and Children*](#national-survey-on-the-drivers-and-consequences-of-child-marriage-in-tanzania)
+- [New Insights on Preventing Child Marriage - *International Center for Research on Women*](#new-insights-on-preventing-child-marriage)
+- [Progress for Children: A World Fit for Children Statistical Review - *UNICEF*](#progress-for-children-a-world-fit-for-children-statistical-review)
+- [Survey on the Health Status, Services, Utilization and Determinants of Health - Syrian Refugee Population in Turkey - *WHO*](#survey-on-the-health-status-services-utilization-and-determinants-of-health-syrian-refugee-population-in-turkey)
+- [Tadhafur Program for Safe Age of Marriage: Child Marriage Survey - *Youth Leaderships Development Foundation, UNICEF*](#tadhafur-program-for-safe-age-of-marriage-child-marriage-survey)
+- [The World's Women 2010 Trends and Statistics - *UN*](#the-world39s-women-2010-trends-and-statistics)
+- [Working for an Equal Future: Policy on Gender Equality and the Empowerment of Girls and Women - *UN*](#working-for-an-equal-future-policy-on-gender-equality-and-the-empowerment-of-girls-and-women)
+- [Child Marriage in Humanitarian Settings - *Girls Not Brides*](#child-marriage-in-humanitarian-settings)
+- [Child Marriage in Turkey (Overview) - *UNFPA*](#child-marriage-in-turkey-overview)
+- [Who Speaks for Me? Ending Child Marriage - *Population Reference Bureau*](#who-speaks-for-me-ending-child-marriage)
+- [Aile Yapısı Araştırması 2006 - *Türkiye İstatistik Kurumu*](#aile-yapısı-araştırması-2006)
+- [Türkiye Aile Yapısı Araştırması - *Aile ve Sosyal Politikalar Bakanlığı*](#türkiye-aile-yapısı-araştırması)
+- [Türkiye Aile Yapısı Araştırması - *Aile ve Sosyal Politikalar Bakanlığı*](#türkiye-aile-yapısı-araştırması-1)
+- [Türkiye Aile Yapısı Araştırması Tespitler, Öneriler - *Aile ve Sosyal Politikalar Bakanlığı*](#türkiye-aile-yapısı-araştırması-tespitler-Öneriler)
+- [Türkiye'de Aile Yapısı Araştırması - *Aile ve Sosyal Politikalar Bakanlığı*](#türkiye39de-aile-yapısı-araştırması)
+- [Türkiye - UNICEF Ülke İşbirliği Programı 2016-2020, Yıllık Raporu 2018 - *UNICEF*](#türkiye-unicef-Ülke-İşbirliği-programı-2016-2020-yıllık-raporu-2018)
+
 
 
 
