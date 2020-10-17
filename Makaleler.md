@@ -175,6 +175,36 @@
 - [Own-Choice Marriage and Fertility in Turkey - *Weber Kansas State University, The University of Texas at Austin*](#own-choice-marriage-and-fertility-in-turkey)
 - [Predictors of Marital Adjustment among Child Brides - *Bitlis Government Hospital, Oslo Metropolitan University*](id="predictors-of-marital-adjustment-among-child-brides")
 - [Suicide Rates among Turkish and American Youth: A Cross-Cultural Comparison - *Numune Training and Research Hospital, İstanbul University, University of Michigan*](#suicide-rates-among-turkish-and-american-youth-a-cross-cultural-comparison)
+- [The Effect of Compulsory Schooling Laws on Teenage Marriage and Births in Turkey - *Middle East Technical University, IZA, Hacettepe University*](#the-effect-of-compulsory-schooling-laws-on-teenage-marriage-and-births-in-turkey)
+- [The Factors Associated with Adolescent Marriages and Outcomes of Adolescent Pregnancies in Mardin Turkey - *Dicle University*](#the-factors-associated-with-adolescent-marriages-and-outcomes-of-adolescent-pregnancies-in-mardin-turkey)
+- [Three-Generation Marriage Patterns: New Insights from the ‘Dissimilation’ Perspective - *Chemnitz University of Technology*](#three-generation-marriage-patterns-new-insights-from-the-dissimilation-perspective)
+- [Trends, Characteristics, and Outcomes of Adolescent Pregnancy in Eastern Turkey - *University of Yüzüncü Yıl, University of Pamukkale*](#trends-characteristics-and-outcomes-of-adolescent-pregnancy-in-eastern-turkey)
+- [Türkiye'nin Suriyeli Çocuk Gelinleri: Sosyolojik Bir Değerlendirme - *Kırıkkale University*](#türkiye39nin-suriyeli-Çocuk-gelinleri-sosyolojik-bir-değerlendirme)
+- [Sosyo-Kültürel ve Ekonomik Faktörler Çerçevesinde Erken Evlilikler: Ankara Pursaklar Örneği - *Gazi University Institute of Social Sciences - Sociology Department*](#sosyo-kültürel-ve-ekonomik-faktörler-Çerçevesinde-erken-evlilikler-ankara-pursaklar-Örneği)
+- [Çocuk Gelinler (Siverek Örneği) - *Erciyes Üniversitesi Sosyal Bilimler Dergisi*](#Çocuk-gelinler-siverek-Örneği)
+- [Çoklu Rol Sahibi Kadınlarda Erken Yaşta Evlilik, Sosyo Demografik Özellikler ve Psikolojik Sağlık İlişkisi - *Sakarya Üniversitesi*](#Çoklu-rol-sahibi-kadınlarda-erken-yaşta-evlilik-sosyo-demografik-Özellikler-ve-psikolojik-sağlık-İlişkisi)
+- [A Social Dominance Theory Perspective on Attitudes Toward Girl Child Marriages in Turkey: The Legitimizing Role of Ambivalent Sexism - *Ankara University*](#a-social-dominance-theory-perspective-on-attitudes-toward-girl-child-marriages-in-turkey-the-legitimizing-role-of-ambivalent-sexism-1)
+- [Child Marriages in Turkey with Different Aspects - *University of Bingöl International Journal of Human Sciences*](#child-marriages-in-turkey-with-different-aspects)
+- [Çocuk Gelinler Sorununa Toplumsal Duyarlılık Geliştirme - *International Journal of Human Sciences*](#Çocuk-gelinler-sorununa-toplumsal-duyarlılık-geliştirme)
+- [Çocuk Gelinler Sorununa Toplumsal Duyarlılık Geliştirme - *Türk Psikolojik Danışma ve Rehberlik Dergisi*](#Çocuk-gelinler-sorununa-toplumsal-duyarlılık-geliştirme-1)
+- [Legal Violence against Syrian Female Refugees in Turkey - *İstanbul University*](#legal-violence-against-syrian-female-refugees-in-turkey)
+- [Sosyolojik Perspektiften Çocuk Gelinlerin Yaşadıkları Travmalar (Doğu ve Güneydoğu Anadolu Özelinde Anne-Çocuk İlişkisi ve İletişimi Bağlamında Bir Alan Araştırması) - *The Journal of Social Science*](#sosyolojik-perspektiften-Çocuk-gelinlerin-yaşadıkları-travmalar-doğu-ve-güneydoğu-anadolu-Özelinde-anne-Çocuk-İlişkisi-ve-İletişimi-bağlamında-bir-alan-araştırması)
+- [Suriyeli Mülteci Kadınların Kuma Dramı: Kilis İli Örneği - *OPUS - International Journal of Society Researches*](#suriyeli-mülteci-kadınların-kuma-dramı-kilis-İli-Örneği)
+- [Toplumsal Açıdan Çocuk Yaşta Evlilikler Gerçeği: Hemşire ve Ebenin Sorumluluğu - *T.C. Bezmialem Vakıf Üniversitesi Sığınmacılar ve Göçmenlerle Dayanışma Derneği*](#toplumsal-açıdan-Çocuk-yaşta-evlilikler-gerçeği-hemşire-ve-ebenin-sorumluluğu)
+- [Türkiye Üzerine Yapılmış Evlilik ve Akrabalık Araştırmalarının Bir Değerlendirilmesi - *Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi*](#türkiye-Üzerine-yapılmış-evlilik-ve-akrabalık-araştırmalarının-bir-değerlendirilmesi)
+- [Türkiye'nin Suriyeli Çocuk Gelinleri: Sosyolojik Bir Değerlendirme - *Kırıkkale Üniversitesi*](#türkiye39nin-suriyeli-Çocuk-gelinleri-sosyolojik-bir-değerlendirme-1)
+- [Association between Child Marriage and Reproductive Health Outcomes: A-Multi Country Study of Sub-Saharan Africa - *Tulane University*](#association-between-child-marriage-and-reproductive-health-outcomes-a-multi-country-study-of-sub-saharan-africa)
+- [Cross-Sectional Time Series Analysis of Associations between Education and Girl Child Marriage in Bangladesh, India, Nepal and Pakistan, 1991-2011 - *University of California, Boston University*](#cross-sectional-time-series-analysis-of-associations-between-education-and-girl-child-marriage-in-bangladesh-india-nepal-and-pakistan-1991-2011)
+- [Decline in Child Marriage and Changes in Its Effect on Reproductive Outcomes in Bangladesh - *Islamic University*](#decline-in-child-marriage-and-changes-in-its-effect-on-reproductive-outcomes-in-bangladesh)
+- [Girl Child Marriage and Its Effect on Fertility in Pakistan: Findings from Pakistan Demographic and Health Survey, 2006–2007 - *Bielefeld University, Emory University, Wty, Aga Khan University, University of California, Boston University*](#girl-child-marriage-and-its-effect-on-fertility-in-pakistan-findings-from-pakistan-demographic-and-health-survey-20062007-1)
+- [Prevalence of Child Marriage and Its Effect on Fertility and Fertility-Control Outcomes of Young Women in India: A Cross-Sectional, Observational Study - *Boston University, Population Council, Indian Council for Medical Research, Harvard School of Public Health*](#prevalence-of-child-marriage-and-its-effect-on-fertility-and-fertility-control-outcomes-of-young-women-in-india-a-cross-sectional-observational-study-1)
+- [The Effect of Maternal Child Marriage on Morbidity and Mortality of Children under 5 in India: Cross Sectional Study of a Nationally Representative Sample - *Boston University, Population Council, Indian Council for Medical Research, Harvard School of Public Health*](#the-effect-of-maternal-child-marriage-on-morbidity-and-mortality-of-children-under-5-in-india-cross-sectional-study-of-a-nationally-representative-sample)
+- [The Nexus between Child Marriage and Women Empowerment with Physical Violence in Two Culturally Distinct States of India - *Tata Institute of Social Sciences, International Institute for Population Sciences*](#the-nexus-between-child-marriage-and-women-empowerment-with-physical-violence-in-two-culturally-distinct-states-of-india)
+- [UK Initiatives on Forced Marriage: Regulation, Dialogue and Exit - *London School of Economics*](#uk-initiatives-on-forced-marriage-regulation-dialogue-and-exit-1)
+- [Understanding Generational Differences in Early Fertility: Proximate and Social Determinants - *University of California Irvine*](#understanding-generational-differences-in-early-fertility-proximate-and-social-determinants)
+- [BİR ÇOCUK İSTİSMARI FORMU OLARAK ÇOCUK EVLİLİKLERİ: KÜLTÜRE SIĞINMANIN SINIRLARI- *Sosyoloji Araştırmaları Dergisi*](#bİr-Çocuk-İstİsmari-formu-olarak-Çocuk-evlİlİklerİ-kÜltÜre-siĞinmanin-sinirlari)
+- [TÜRKİYE’DE ERKEN VE ZORLA EVLİLİKLER, ÇOCUK GELİNLER - *GENÇLİK VE KÜLTÜREL MİRASIMIZ / ULUSLARARASI KONGRE*](#tÜrkİyede-erken-ve-zorla-evlİlİkler-Çocuk-gelİnler)
+- [Acarlar Beldesinde Okul Terkleri ve Devamsızlık Sorunu - *Aydın Adnan Menderes University*](#acarlar-beldesinde-okul-terkleri-ve-devamsızlık-sorunu)
 
 
 
@@ -4702,7 +4732,7 @@ This study aims to determine the association between early marriage and high fer
 
 ***Key words: Child Marriage, Fertility***
 
-?> *Kuruluş adı: Bielefeld University, Emory University, West Virginia University, Aga Khan University, University of California, Boston University ; 2014, İngilizce*
+?> *Kuruluş adı: Bielefeld University, Emory University, Wty, Aga Khan University, University of California, Boston University ; 2014, İngilizce*
 
 [Dokümanı İncele](downloads\HUNEE\MKL\MKL_195.pdf ':ignore')
 
