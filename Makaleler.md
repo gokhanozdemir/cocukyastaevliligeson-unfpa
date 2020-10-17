@@ -152,6 +152,16 @@
 - [Untangling Sex, Marriage, and Other Criminalities in Forced Marriage - *Goettingen Journal of International Law*](#untangling-sex-marriage-and-other-criminalities-in-forced-marriage)
 - [What is Forced Marriage? Towards a Definition of Forced Marriage as a Crime Against Humanity - *Columbia Journal of Gender and Law*](#what-is-forced-marriage-towards-a-definition-of-forced-marriage-as-a-crime-against-humanity)
 - [When the Mother is a Child: The Impact of Child Marriage on the Health and Human Rights of Girls - *Columbia Journal of Gender and Law*](#when-the-mother-is-a-child-the-impact-of-child-marriage-on-the-health-and-human-rights-of-girls)
+- [WHO Guidelines on Preventing Early Pregnancy and Poor Reproductive Outcomes Among Adolescents in Developing Countries - *WHO*](#who-guidelines-on-preventing-early-pregnancy-and-poor-reproductive-outcomes-among-adolescents-in-developing-countries)
+- [Without Consent: Forced Marriage in Australia - *Melbourne University Law Review*](#without-consent-forced-marriage-in-australia)
+- [Without Consent: Forced Marriage in Australia - *Melbourne University Law Review*](#without-consent-forced-marriage-in-australia-1)
+- [Women’s Perspectives on Marriage and Rights in Morocco: Risk Factors for Forced and Early Marriage in the Marrakech Region - *Culture, Health & Sexuality*](#womens-perspectives-on-marriage-and-rights-in-morocco-risk-factors-for-forced-and-early-marriage-in-the-marrakech-region)
+- [Young Women’s Experience of Adolescent Marriage and Motherhood in Jordan - *The Hashemite University, Amman University, The University of Jordan*](#young-womens-experience-of-adolescent-marriage-and-motherhood-in-jordan)
+- [Child Marriage And Its Impact On Maternal And Child Health In Pakistan - *Bielefeld University*](#child-marriage-and-its-impact-on-maternal-and-child-health-in-pakistan)
+- [17. ve 18. Yüzyılda İstanbul ve Anadolu’da Çocuk Evlilikleri ve Erişkinlik Olgusu Üzerine Bir Değerlendirme - *Kadın/Woman 2000-Journal for Women’s Studies*](#_17-ve-18-yüzyılda-İstanbul-ve-anadoluda-Çocuk-evlilikleri-ve-erişkinlik-olgusu-Üzerine-bir-değerlendirme)
+- [A Community-Based Survey on Syrian Refugee Women’s Health and Its Predictors in Şanlıurfa, Turkey - *Harran University, UNFPA*](#a-community-based-survey-on-syrian-refugee-womens-health-and-its-predictors-in-Şanlıurfa-turkey)
+- [A Social Dominance Theory Perspective on Attitudes Toward Girl Child Marriages in Turkey: The Legitimizing Role of Ambivalent Sexism - *Ankara University*](#a-social-dominance-theory-perspective-on-attitudes-toward-girl-child-marriages-in-turkey-the-legitimizing-role-of-ambivalent-sexism)
+- [Altered Social Trajectories and Risks of Violence Among Young Syrian Women Seeking Refuge in Turkey: A Qualitative Study - *London School of Hygiene and Tropical Medicine, Women and Health Alliance International (WAHA), University of New South Wales, Institut d’études politiques de Paris, University of California, Gobee Group, Relief Society for Syrian Refugees, Beth Israel Deaconess Medical Center, Harvard Medical School*](#altered-social-trajectories-and-risks-of-violence-among-young-syrian-women-seeking-refuge-in-turkey-a-qualitative-study)
 
 
 
