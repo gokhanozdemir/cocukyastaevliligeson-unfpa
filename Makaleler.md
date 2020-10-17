@@ -162,6 +162,20 @@
 - [A Community-Based Survey on Syrian Refugee Women’s Health and Its Predictors in Şanlıurfa, Turkey - *Harran University, UNFPA*](#a-community-based-survey-on-syrian-refugee-womens-health-and-its-predictors-in-Şanlıurfa-turkey)
 - [A Social Dominance Theory Perspective on Attitudes Toward Girl Child Marriages in Turkey: The Legitimizing Role of Ambivalent Sexism - *Ankara University*](#a-social-dominance-theory-perspective-on-attitudes-toward-girl-child-marriages-in-turkey-the-legitimizing-role-of-ambivalent-sexism)
 - [Altered Social Trajectories and Risks of Violence Among Young Syrian Women Seeking Refuge in Turkey: A Qualitative Study - *London School of Hygiene and Tropical Medicine, Women and Health Alliance International (WAHA), University of New South Wales, Institut d’études politiques de Paris, University of California, Gobee Group, Relief Society for Syrian Refugees, Beth Israel Deaconess Medical Center, Harvard Medical School*](#altered-social-trajectories-and-risks-of-violence-among-young-syrian-women-seeking-refuge-in-turkey-a-qualitative-study)
+- [Bone And Flesh, Seed And Soil: Patriliny by Father’s Brother’s Daughter Marriage - *Hacettepe University*](#bone-and-flesh-seed-and-soil-patriliny-by-fathers-brothers-daughter-marriage)
+- [Childhood Trauma, Type of Marriage and Self-Esteem as Correlates of Domestic Violence in Married Women in Turkey - *İstanbul University, İnönü University, Kocaeli University, Celal Bayar University, Adnan Menderes University, Trakya University*](#childhood-trauma-type-of-marriage-and-self-esteem-as-correlates-of-domestic-violence-in-married-women-in-turkey)
+- [Collective Action, Civil Society, and Public Policy in Turkey - *Koç University*](#collective-action-civil-society-and-public-policy-in-turkey)
+- [Determinants Of Adolescent Pregnancy In An Urban Area In Turkey: A Population-Based Case-Control Study - *Pamukkale University*](#determinants-of-adolescent-pregnancy-in-an-urban-area-in-turkey-a-population-based-case-control-study)
+- [Early Marriage: Trends in Turkey, 1978-2008 - *Hacettepe University*](#early-marriage-trends-in-turkey-1978-2008)
+- [Early-Married and Sexually Abused Girls Differ in Their Psychiatric Outcomes - *İnönü University, İstanbul Arel University, Dicle University*](#early-married-and-sexually-abused-girls-differ-in-their-psychiatric-outcomes)
+- [Küçük Yaşta Evlenmenin Müeyyidesi - *Gazi Üniversitesi Hukuk Fakültesi Dergisi*](#küçük-yaşta-evlenmenin-müeyyidesi)
+- [Mental Assessment of Girls Consulting for Early Marriage and Identifying Risk Factors - *Anatolian Journal of Psychiatry*](#mental-assessment-of-girls-consulting-for-early-marriage-and-identifying-risk-factors)
+- [Negative Reactions to the Sexually Abused Victims, Withdrawing the Complaint and Outcomes of the Litigation: The First Data From Turkey - *Yıldırım Beyazıt University, Karadeniz Technical University*](#negative-reactions-to-the-sexually-abused-victims-withdrawing-the-complaint-and-outcomes-of-the-litigation-the-first-data-from-turkey)
+- [Opinions on Early-Age Marriage and Marriage Customs among Kurdish-Speaking Women in Southeast Turkey - *Dicle University, Karolinska Institute*](#opinions-on-early-age-marriage-and-marriage-customs-among-kurdish-speaking-women-in-southeast-turkey)
+- [Own-Choice Marriage and Fertility in Turkey - *Weber Kansas State University, The University of Texas at Austin*](#own-choice-marriage-and-fertility-in-turkey)
+- [Predictors of Marital Adjustment among Child Brides - *Bitlis Government Hospital, Oslo Metropolitan University*](id="predictors-of-marital-adjustment-among-child-brides")
+- [Suicide Rates among Turkish and American Youth: A Cross-Cultural Comparison - *Numune Training and Research Hospital, İstanbul University, University of Michigan*](#suicide-rates-among-turkish-and-american-youth-a-cross-cultural-comparison)
+
 
 
 
