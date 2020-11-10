@@ -9,7 +9,7 @@ Tüm materyallerin sıralı listesine aşağıda yer alan bağlantılardan ulaş
 
 
 
-- Materyal Listesi:  [Türkçe](.\downloads\trlist.xlsx ':ignore') [İngilizce](download\englist.xlsx ':ignore')
+- Materyal Listesi:  [Türkçe](.\downloads\trlist.xlsx ':ignore') [İngilizce](.\downloads\englist1.xlsx ':ignore')
 
 
 ?> *Çocuk Yaşta, Erken ve Zorla Evliliklerin Önlenmesine Yönelik Birleşmiş Milletler Ortak Programı, İsveç Uluslararası Kalkınma İşbirliği Ajansı’nın (SIDA) finansal desteğiyle yürütülmektedir. Bu içerik herhangi bir biçimde İsveç Uluslararası Kalkınma İşbirliği Ajansı’nın (SIDA) görüşlerini yansıtmamaktadır.* 
