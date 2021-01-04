@@ -26,6 +26,6 @@
 * İletişim Materyalleri
   * [Filmler](Filmler.md)
   * [Slaytlar](Slaytlar.md)
-  * [Radyo Spotları](Radyo-spotu.md)
+  * [Radyo Spotları / Podcast](Radyo-spotu.md)
 
 * [Bütün Materyaller](Butun_Materyaller_new.md)
