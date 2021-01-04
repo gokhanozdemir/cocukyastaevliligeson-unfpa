@@ -3,7 +3,7 @@
 #### __Materyal Listesi__
 
 - [Erken Yaşta Evlilik - *Harran Üniversitesi, UNFPA](#erken-yaşta-evlilik)
-- [Çocuk ve Ergen Odağında Cinsel Haklar Podcast Serisi - *Cinsel Şiddetle Mücadele Derneği]
+<!--- [Çocuk ve Ergen Odağında Cinsel Haklar Podcast Serisi - *Cinsel Şiddetle Mücadele Derneği] -->
 
 
 ## Erken Yaşta Evlilik 
@@ -19,7 +19,7 @@ Contains basic information and messages about the consequences of early marriage
 
 [https://www.youtube.com/watch?time_continue=16&v=0k0Pctx3emM]
 
-## Çocuk ve Ergen Odağında Cinsel Haklar Podcast Serisi
+<!--## Çocuk ve Ergen Odağında Cinsel Haklar Podcast Serisi
 *SPT_02*
 
 **ÖZET**  
@@ -30,4 +30,4 @@ This podcast series aims to discuss the sexual abuse of children through marriag
 
 ?> *Kuruluş adı: Cinsel Şiddetle Mücadele Derneği; Türkçe Tema: Cinsel İstismar, Cinsel Şiddet, Çocuk Yaşta Evlilik*
 
-[https://cinselsiddetlemucadele.org/projeler/cocuk-ve-ergen-odaginda-cinsel-haklar]
+[https://cinselsiddetlemucadele.org/projeler/cocuk-ve-ergen-odaginda-cinsel-haklar]-->
