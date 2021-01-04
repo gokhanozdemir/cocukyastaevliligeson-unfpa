@@ -30,4 +30,4 @@ This podcast series aims to discuss the sexual abuse of children through marriag
 
 ?> *Kuruluş adı: Cinsel Şiddetle Mücadele Derneği; Türkçe Tema: Cinsel İstismar, Cinsel Şiddet, Çocuk Yaşta Evlilik*
 
-[https://cinselsiddetlemucadele.org/projeler/cocuk-ve-ergen-odaginda-cinsel-haklar/]
+[https://cinselsiddetlemucadele.org/projeler/cocuk-ve-ergen-odaginda-cinsel-haklar]
