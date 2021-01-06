@@ -7,7 +7,7 @@
 - [Küçük Yaşta Evlilik Büyük Geliyor: Çocuk Gelinler - *Uçan Süpürge*](#küçük-yaşta-evlilik-büyük-geliyor-Çocuk-gelinler)
 - [Daha Dün Çocuktum - *Bursa Büyükşehir Belediyesi*](#daha-dün-Çocuktum)
 - [Çocuk Gelinler Belgeseli - *CNN Türk*](#Çocuk-gelinler-belgeseli)
-- [Çocuk Gelinler Fark Yaratanlar Belgeseli - *Sabancı Üniversitesi*](#Çocuk-gelinler-fark-yaratanlar-belgeseli)
+- [Çocuk Gelinler Fark Yaratanlar Belgeseli - *Sabancı Vakfı*](#Çocuk-gelinler-fark-yaratanlar-belgeseli)
 
 ## Kısa Filmler
 *FLM_01 Klasör*  
@@ -98,7 +98,7 @@ Filmde kadınların anlatıları, uzmanların görüşleri, temel veriler yer al
 **SUMMARY**  
  The film includes women’s stories, expert opinions, and basic data.
 
-?> *Kuruluş adı: Sabancı Üniversitesi; 2011, Türkçe Tema: Çocuk yaşta evlilik*
+?> *Kuruluş adı: Sabancı Vakfı; 2011, Türkçe Tema: Çocuk yaşta evlilik*
 
 [Video kullanılabilir değil]  
 
