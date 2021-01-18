@@ -95,10 +95,10 @@ UNICEF Türkiye Web Sayfası https://www.unicef.org/turkey/
 *KIT_04*
 
 **ÖZET**  
-Selen Doğan tarafından hazırlanan ve Uçan Süpürge Yayını olan set; Çocuk evlilikleri ve hukuk, çocuk evililikleri ve eğitim, çocuk evlilikleri ve sağlık, çocuk evlilikleri ve şiddet, çocuk evlilikleri ve ensest, çocuk evlilikleri ve insan ticareti, çocuk evlilikleri ve göç, çocuk evlilikleri ve medya, çocuk evlilikleri ve ekonomi, çocuk evlilikleri ve uluslararası sözleşmeler olmak üzere 10 kitapçıktan oluşmaktadır.
+Selen Doğan tarafından hazırlanan ve Uçan Süpürge Yayını olan set; Çocuk evlilikleri ve hukuk, çocuk evililikleri ve eğitim, çocuk evlilikleri ve sağlık, çocuk evlilikleri ve şiddet, çocuk evlilikleri ve ensest, çocuk evlilikleri ve insan ticareti, çocuk evlilikleri ve göç, çocuk evlilikleri ve medya, çocuk evlilikleri ve ekonomi, çocuk evlilikleri ve uluslararası sözleşmeler olmak üzere 10 kitapçıktan oluşmaktadır. Bu set Sabancı Vakfı katkılarıyla hazırlanmıştır.
 
 **SUMMARY**  
-The set that was prepared by Selen Doğan and published by Flying Broom contains 10 booklets on child marriage and law, child marriage and education, child marriage and health, child marriage and violence, child marriage and incest, child marriage and human trafficking, child marriage and migration, child marriage and the media, child marriage and the economy, and child marriage and international agreements.
+The set that was prepared by Selen Doğan and published by Flying Broom contains 10 booklets on child marriage and law, child marriage and education, child marriage and health, child marriage and violence, child marriage and incest, child marriage and human trafficking, child marriage and migration, child marriage and the media, child marriage and the economy, and child marriage and international agreements. This set has been prepared with the contributions of Sabanci Foundation.
 
 ?> *Kuruluş adı: Uçan Süpürge; 2013, Türkçe Tema: Çocuk yaşta evlilik*
 

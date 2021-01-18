@@ -9,6 +9,7 @@ Tüm materyallerin kategorize edilmiş listesine ve UNFPA tarafından kapasite g
 
 - Materyal Listesi:  [Türkçe](.\downloads\trlist.xlsx ':ignore') [İngilizce](.\downloads\englist1.xlsx ':ignore')
 - Materyal Analiz Raporu: [Türkçe](.\downloads\materyalanaliz.pdf ':ignore') [İngilizce](.\downloads\materialoverview.pdf ':ignore')
+- *Siz de yayınınızın cocukyastaevliligeson.org veritabanında yer almasını istiyorsanız materyal formunu doldurup cefm-feedback@unfpa.org adresine iletebilirsiniz.* <br> [Materyal Formu](.\downloads\form.docx ':ignore' )
 
 ?> *Çocuk Yaşta, Erken ve Zorla Evliliklerin Önlenmesine Yönelik Birleşmiş Milletler Ortak Programı, İsveç Uluslararası Kalkınma İşbirliği Ajansı’nın (SIDA) finansal desteğiyle yürütülmektedir. Bu içerik herhangi bir biçimde İsveç Uluslararası Kalkınma İşbirliği Ajansı’nın (SIDA) görüşlerini yansıtmamaktadır.* 
 
@@ -23,6 +24,7 @@ You can access the categorized list of all materials and "An Overview to the Chi
 
 - Material List: [Turkish](.\downloads\trlist.xlsx ':ignore') [English](.\downloads\englist1.xlsx ':ignore')
 - Material Overview Report: [Turkish](.\downloads\materyalanaliz.pdf ':ignore') [English](.\downloads\materialoverview.pdf ':ignore')
+- *If you would like your publication to be on the cocukyastaevliligeson.org portal, please fill out this material form and send it to cefm-feedback@unfpa.org* <br> [Material Form](.\downloads\form.docx ':ignore' )
 
 ?> *This material/production has been financed by the Swedish International Development Cooperation Agency, Sida. Responsibility for the content rests entirely with the creator. Sida does not necessarily share the expressed views and interpretations.* 
 

@@ -14,6 +14,7 @@
 - [Çocuğa Karşı Şiddet - *Genç Hayat Vakfı, Uluslararası Çocuk Merkezi Derneği, Geleceğimizin Çocukları Vakfı*](#Çocuğa-karşı-Şiddet)
 - [Zorla Evlilik - *İskoçya Hükümeti*](#zorla-evlilik)
 - [Cinsel Şiddet - *Mor Çatı*](#cinsel-Şiddet)
+- [Çocuk Yaşta Evlilik ve Sağlık Sonuçları - Çocuk Ergen Genç ve Yetişkin Olmak - *BÜKÇAM, UNFPA*](#çocuk-yaşta-evlilik-ve-sağlık-sonuçları)
 
 
 ## Daha Dün Çocuktum
@@ -223,5 +224,21 @@ It offers guidance to women regarding sexual violence.
 ?> *Kuruluş adı: Mor Çatı; Türkçe Tema: Cinsel şiddet*
 
 [Dokümanı İncele](downloads\BRS\BRS_12.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Çocuk Yaşta Evlilik ve Sağlık Sonuçları
+## Çocuk Ergen Genç ve Yetişkin Olmak
+*BRS_13*
+
+**ÖZET**  
+Başkent Üniversitesi Kadın- Çocuk Sağlığı ve Aile Planlaması Araştırma ve Uygulama Merkezi (BÜKÇAM) ve UNFPA ortaklığıyla ve Sabancı Vakfı destekleriyle 2019 yılında gerçekleştirilen “Çocuk Yaşta Evliliklerin Önlenmesi Projesi: Nevşehir Modeli” çalışması kapsamında geliştirilen bu broşürler hem çocuk yaşta evliliklerin sağlık sonuçlarına hem de çocuk, ergen, genç ve yetişkin kavramlarına odaklanıyor.
+
+**SUMMARY**  
+Brochures developed within the scope of the "Prevention of Child Marriages: Nevşehir Model" realized in 2019 with the partnership of Başkent University Women and Child Health and Family Planning Research and Application Center (BÜKÇAM) and UNFPA and with the support of Sabanci Foundation, are focuses on child marriages, childhood, adolescence, youth and adulthood.
+
+?> *Kuruluş adı: BÜKÇAM, UNFPA; Türkçe Tema: Çocuk Yaşta Evlilik, Sağlık, Ergenlik, Yetişkinlik*
+
+[Dokümanı İncele](downloads\BRS\BRS_13.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)

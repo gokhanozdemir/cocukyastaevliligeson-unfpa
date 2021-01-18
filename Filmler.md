@@ -8,6 +8,8 @@
 - [Daha Dün Çocuktum - *Bursa Büyükşehir Belediyesi*](#daha-dün-Çocuktum)
 - [Çocuk Gelinler Belgeseli - *CNN Türk*](#Çocuk-gelinler-belgeseli)
 - [Çocuk Gelinler Fark Yaratanlar Belgeseli - *Sabancı Vakfı*](#Çocuk-gelinler-fark-yaratanlar-belgeseli)
+- [Çocuk Yaşta Evliliklerin Önlenmesi Projesi Nevşehir Modeli  - *BÜKÇAM, UNFPA, Sabancı Vakfı*](#Çocuk-yaşta-evliliklerin-önlenmesi-projesi-nevşehir-modeli)
+- [Kız Leyla Müzik Videosu - *Sabancı Vakfı*](#kız-leyla-müzik-videosu)
 
 ## Kısa Filmler
 *FLM_01 Klasör*  
@@ -101,5 +103,33 @@ Filmde kadınların anlatıları, uzmanların görüşleri, temel veriler yer al
 ?> *Kuruluş adı: Sabancı Vakfı; 2011, Türkçe Tema: Çocuk yaşta evlilik*
 
 [Video kullanılabilir değil]  
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Çocuk Yaşta Evliliklerin Önlenmesi Projesi Nevşehir Modeli 
+*FLM_07*
+
+**ÖZET**  
+Birleşmiş Milletler Nüfus Fonu ve BÜKÇAM, Sabancı Vakfı katkısı ile 2019 yılında yürütülen ‘Çocuk Yaşta Evliliklerin Önlenmesi: Nevşehir Modeli’ çalışması kapsamında geliştirilen ve Sabancı Vakfı tarafından düzenlenen Ekim Zamanı etkinliğinde gösterilen video klip, Sağlık Aracılarının deneyimlerini sunuyor.
+
+**SUMMARY**  
+ The video clip created within the scope of the "Prevention of Child Marriages: Nevşehir Model" realized in 2019 with the partnership of Başkent University Women and Child Health and Family Planning Research and Application Center (BÜKÇAM) and UNFPA and with the support of Sabanci Foundation, was premired in “Ekim Zamanı” event and presents Health Mediators’ experiences.
+
+?> *Kuruluş adı: BÜKÇAM, UNFPA, Sabancı Vakfı; 2019, Türkçe Tema: Çocuk Yaşta Evlilik, Sağlık Aracıları, Sağlık Aracısı Modeli*
+
+https://www.youtube.com/watch?v=Oh__Fa3czfo 
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Kız Leyla Müzik Videosu 
+*FLM_08*
+
+**ÖZET**  
+Sezen Aksu'nun söz ve müziğini yazdığı, Sertab Erener’in seslendirdiği ve Sabancı Vakfı’na armağan ettikleri “Kız Leyla” şarkısı çocuk yaşta evliliklere dikkat çekiyor.
+
+**SUMMARY**  
+ The song "Kız Leyla", written by Sezen Aksu, performed by Sertab Erener and given as a gift to the Sabancı Foundation, draws attention to child marriages
+
+?> *Kuruluş adı: Sabancı Vakfı; 2016, Türkçe Tema: Çocuk Yaşta Evlilik, Sağlık Aracıları, Sağlık Aracısı Modeli*
 
 [Materyal Listesine Geri Dön](#materyal-listesi)

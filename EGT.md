@@ -15,7 +15,9 @@
 - [Acil Durumlarda Çocuk Koruma Eğitimi Katılımcı El Kitabı - *UNICEF*](#acil-durumlarda-Çocuk-koruma-eğitimi-katılımcı-el-kitabı)
 - [Hakları Gerçeğe Dönüştürmek: Toplumsal Cinsiyet Farkındalığının Artırılmasına Yönelik Atölye Çalışmaları *Uluslararası Af Örgütü*](#hakları-gerçeğe-dönüştürmek-toplumsal-cinsiyet-farkındalığının-artırılmasına-yönelik-atölye-Çalışmaları)
 - [Draft Women’s Campaign Manual - *UN Women*](#draft-womens-campaign-manual)   
-
+- [Sağlık Aracıları İçin Kaynak Kitap - *BÜKÇAM, UNFPA*](#Sağlık-Aracıları-İçin-Kaynak-Kitap)
+- [Sağlık Hizmet Sunucuları ve Sosyal Hizmet Sunucular İçin Kaynak Kitap - *BÜKÇAM, UNFPA*](#Sağlık-Hizmet-Sunucuları-ve-Sosyal-Hizmet-Sunucular-İçin-Kaynak-Kitap) 
+ 
 
 ## Çocuk Adalet Sistemi Çalışanları Eğitim Programı: Kolaylaştırıcılar için Vaka Temelli Eğitim Kitabı
 *EGT_01*
@@ -272,3 +274,35 @@ The material, composed of 5 modules but still in the draft phase, aims to give s
 [Materyal Listesine Geri Dön](#materyal-listesi)
 ***
 
+***
+## Sağlık Aracıları İçin Kaynak Kitap    
+*EGT_14*
+
+**ÖZET**  
+Başkent Üniversitesi Kadın- Çocuk Sağlığı ve Aile Planlaması Araştırma ve Uygulama Merkezi (BÜKÇAM) ve UNFPA ortaklığıyla ve Sabancı Vakfı destekleriyle 2019 yılında gerçekleştirilen “Çocuk Yaşta Evliliklerin Önlenmesi Projesi: Nevşehir Modeli” çalışması kapsamında geliştirilen bu kaynak kitap Nevşehir ili merkezinde çocuk yaşta evliliklerin sağlık sonuçları konusunda farkındalık faaliyetlerini yürütecek olan “sağlık aracılarının eğitim programına” rehberlik etmesi amacıyla hazırlanmıştır.
+
+**SUMMARY**  
+The training book developed within the scope of the "Prevention of Child Marriages: Nevşehir Model" realized in 2019 with the partnership of Başkent University Women and Child Health and Family Planning Research and Application Center (BÜKÇAM) and UNFPA and with the support of Sabanci Foundation, was prepared in order to guide the "training program of health mediators" that will carry out awareness raising activities about the health consequences of child marriages in the city center of Nevşehir.
+
+?> *Kuruluş adı: BÜKÇAM, UNFPA; 2019, Türkçe Tema: Çocuk Yaşta Evlilik, Sağlık Aracıları, Sağlık Aracısı Modeli*
+
+[Dokümanı İncele](downloads\EGT\EGT_14.pdf ':ignore')
+
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+***
+## Sağlık Hizmet Sunucuları ve Sosyal Hizmet Sunucular İçin Kaynak Kitap    
+*EGT_15*
+
+**ÖZET**  
+Başkent Üniversitesi Kadın- Çocuk Sağlığı ve Aile Planlaması Araştırma ve Uygulama Merkezi (BÜKÇAM) ve UNFPA ortaklığıyla ve Sabancı Vakfı destekleriyle 2019 yılında gerçekleştirilen “Çocuk Yaşta Evliliklerin Önlenmesi Projesi: Nevşehir Modeli” çalışması kapsamında geliştirilen bu kaynak kitap Nevşehir ili merkezinde çocuk yaşta evliliklerle ilgili yürütülen çalışmada, mücadelede yer alan “sağlık hizmet sunucuları ve sosyal hizmet sunuculara”, konu ve çalışmalarla ilgili bilgi vermek amacıyla hazırlanmıştır.
+
+**SUMMARY**  
+The training book developed within the scope of the "Prevention of Child Marriages: Nevşehir Model" realized in 2019 with the partnership of Başkent University Women and Child Health and Family Planning Research and Application Center (BÜKÇAM) and UNFPA and with the support of Sabanci Foundation, was prepared in order to guide the "health service providers and social service providers" who take part in prevention of child marriages in the city center of Nevşehir.
+
+?> *Kuruluş adı: BÜKÇAM, UNFPA; 2019, Türkçe Tema: Çocuk Yaşta Evlilik, Sosyal Hizmet, Sağlık*
+
+[Dokümanı İncele](downloads\EGT\EGT_15.pdf ':ignore')
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+***
