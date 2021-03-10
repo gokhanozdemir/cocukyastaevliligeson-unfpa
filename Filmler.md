@@ -95,14 +95,14 @@ The film includes women’s stories, expert opinions, and basic data.
 *FLM_06*
 
 **ÖZET**  
-Filmde kadınların anlatıları, uzmanların görüşleri, temel veriler yer almaktadır.
+Sabancı Vakfı katkılarıyla hazırlanan bu filmde kadınların anlatıları, uzmanların görüşleri, temel veriler yer almaktadır. 
 
 **SUMMARY**  
- The film includes women’s stories, expert opinions, and basic data.
+ The film which was prepared with the contributions of Sabanci Foundation includes women’s stories, expert opinions, and basic data. 
 
 ?> *Kuruluş adı: Sabancı Vakfı; 2011, Türkçe Tema: Çocuk yaşta evlilik*
 
-[Video kullanılabilir değil]  
+https://www.youtube.com/watch?v=cY_Hctc5kvk
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
 

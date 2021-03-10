@@ -245,10 +245,10 @@ This document elaborates on the approach, methodology, techniques, and assessmen
 *RHB_11*
 
 **ÖZET**  
-Selen Doğan tarafından hazırlanan yayında çocuk yaşta evlilik ile ilişkili 100'ün üzerinde kavram açıklanmıştır.
+Selen Doğan tarafından hazırlanan yayında çocuk yaşta evlilik ile ilişkili 100'ün üzerinde kavram açıklanmıştır. Bu rehber Sabancı Vakfı Hibe Programları desteği ile üretilmiştir.
 
 **SUMMARY**  
-The publication, written by Selen Doğan, explains more than 100 concepts associated with child marriage.
+The publication, written by Selen Doğan, explains more than 100 concepts associated with child marriage.This guideline has been prepared with the support of Sabanci Foundation Grant Programs.
 
 ?> *Kuruluş adı:Uçan Süpürge; 2014, Türkçe Tema: Çocuk yaşta evlilik*
 
@@ -258,7 +258,7 @@ The publication, written by Selen Doğan, explains more than 100 concepts associ
 ***
 
 ## Gücümüzü Fark Etmek: Kadınlarla Grup Çalışması için Rehber 
-*RHB_12_H*
+*RHB_12*
 
 **ÖZET**  
 Aksu Bora tarafından hazırlanan rehberde, kadınlarla gerçekleştirilen grup çalışmalarında dikkat edilmesi gerekenler, kullanılabilecek yöntem ve araçlara yer verilmektedir.
@@ -274,7 +274,7 @@ The guidebook, prepared by Aksu Bora, contains considerations for those conducti
 ***
 
 ## Mağdura Yaklaşım Kılavuzu 
-*RHB_13_H*
+*RHB_13*
 
 **ÖZET**  
 Rehber mağdura yaklaşımın temel ilkeleri hakkında bilgi vermekte; kolluk, sağlık ve yargı sürecinde mağdura nasıl yaklaşılması gerektiğini aşama aşama açıklamaktadır.

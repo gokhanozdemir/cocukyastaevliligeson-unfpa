@@ -284,10 +284,10 @@ The report evaluates the status of the youth population in Turkey under various 
 *RPR_14*
 
 **ÖZET**  
-Uçan Süpürge tarafından 2010 yılında gazetelere yansıyan çocuk yaşta, zorla evlilike ilişkin haberlerin Dokümünü içermektedir.
+Uçan Süpürge tarafından 2010 yılında gazetelere yansıyan çocuk yaşta, zorla evlilike ilişkin haberlerin Dokümünü içermektedir.Bu rapor Sabancı Vakfı Hibe Programları desteği ile üretilmiştir.
 
 **SUMMARY**  
-By the Flying Broom, it includes a breakdown of news on child and forced marriage published in newspapers in 2010.
+By the Flying Broom, it includes a breakdown of news on child and forced marriage published in newspapers in 2010. This report has been prepared with the support of Sabanci Foundation Grant Programs.
 
 ?> *Kuruluş adı: Uçan Süpürge; 2011, Türkçe Tema: Çocuk yaşta, Zorla evlilik*
 
