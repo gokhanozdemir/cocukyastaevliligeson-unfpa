@@ -65,6 +65,9 @@
 - [Türkiye Aile Yapısı Araştırması Tespitler, Öneriler - *Aile ve Sosyal Politikalar Bakanlığı*](#türkiye-aile-yapısı-araştırması-tespitler-Öneriler)
 - [Türkiye'de Aile Yapısı Araştırması - *Aile ve Sosyal Politikalar Bakanlığı*](#türkiye39de-aile-yapısı-araştırması)
 - [Türkiye - UNICEF Ülke İşbirliği Programı 2016-2020, Yıllık Raporu 2018 - *UNICEF*](#türkiye-unicef-Ülke-İşbirliği-programı-2016-2020-yıllık-raporu-2018)
+- [Çocuk Yaşta, Erken ve Zorla Evliliklerin Sağlık Riskleri ve Sonuçlarına Çok Sektörlü Yaklaşım - *UNFPA*][]
+- [Türkiye’de Çocuk Yaşta, Erken ve Zorla Evlilikler: 1993-2018 Türkiye Nüfus ve Sağlık Araştırmaları Veri Analizi - *UNFPA, HUNEE*][]
+
 
 
 
@@ -1112,3 +1115,43 @@ This report represents various activities and developments in different sectors 
 [Dokümanı İncele](downloads\RPR\RPR_63.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Çocuk Yaşta, Erken ve Zorla Evliliklerin Sağlık Riskleri ve Sonuçlarına Çok Sektörlü Yaklaşım
+*RPR_64*
+
+**ÖZET** 
+
+Bu rapor, çocuk yaşta, erken ve zorla evliliklerin sağlık risklerine ve sonuçlarına odaklanan, sahada faaliyet gösteren ilgili tüm hizmet sunucular, kamu görevlileri, sivil toplum kuruluşu çalışanları ve akademisyenler ile gerçekleştirilen derinlemesine mülakatlar ve odak grup çalışmaları aracılığı ile ortaya çıkmış niteliksel bir araştırmadır. Araştırma kapsamında, ayrıca, çocuk yaşta evliliklerin nedenlerine, çocuk yaşta evliliklere dair ulusal ve uluslararası mevzuata ve güncel verilere de yer veriliyor.
+
+**SUMMARY**  
+
+This is a qualitative study focusing on the risks and results of child, early, and forced marriages on health and has been prepared based on in-depth interviews and focus group discussions with relevant service providers, public officials, civil society workers, and academics working in this field. The research also presents the reasons of child marriages, domestic and international legislation on child marriage, and current data on the subject.
+
+?> *Kuruluş adı: UNFPA; 2020, Türkçe ve İngilizce Tema: Çocuk Yaşta Evlilik, Erken Yaşta Evlilik, Zorla Evlilik*
+
+[Dokümanı İncele - Türkçe](https://turkey.unfpa.org/tr/publications/%C3%A7ocuk-ya%C5%9Fta-erken-ve-zorla-evliliklerin-sa%C4%9Fl%C4%B1k-riskleri-ve-sonu%C3%A7lar%C4%B1na-%C3%A7ok-sekt%C3%B6rl%C3%BC)
+
+[Dokümanı İncele - İngilizce](https://turkey.unfpa.org/en/publicationsmulti-sector-approach-health-risks-and-consequences-child-early-and-forced-marriage)
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Türkiye’de Çocuk Yaşta, Erken ve Zorla Evlilikler: 1993-2018 Türkiye Nüfus ve Sağlık Araştırmaları Veri Analizi
+*RPR_65*
+
+**ÖZET** 
+
+Birleşmiş Milletler Nüfus Fonu, UNFPA Türkiye’nin, Hacettepe Üniversitesi Nüfus Etütleri Enstitüsü iş birliğinde işbirliğinde hazırladığı “Türkiye’de Çocuk Yaşta, Erken ve Zorla Evlilikler: 1993-2018 Türkiye Nüfus ve Sağlık Araştırmaları Veri Analizi” raporu yayımlandı. Raporun, Türkiye’deki çocuk yaşta evliliklerin son 25 yılına ışık tutması ve çocuk yaşta evliliklere yönelik mücadele programları ve savunuculuk çalışmaları için yol gösterici olması hedefleniyor.
+
+**SUMMARY**  
+
+The “Child, Early and Forced Marriage in Turkey: Data Analysis of Turkey Demographic and Health Surveys 1993-2018” report prepared by the United Nations Population Fund, UNFPA Turkey, in cooperation with Hacettepe University Institute of Population Studies was released. The report aims to shed light on the last 25 years of child marriage and provide a guidance for progammes and advocacy activities against child marriages
+
+?> *Kuruluş adı: UNFPA; 2020, Türkçe ve İngilizce Tema: Çocuk Yaşta Evlilik, Erken Yaşta Evlilik, Zorla Evlilik*
+
+[Dokümanı İncele - Türkçe](https://turkey.unfpa.org/tr/publications/t%C3%BCrkiyede-%C3%A7ocuk-ya%C5%9Fta-erken-ve-zorla-evlilikler)
+
+[Dokümanı İncele - İngilizce](https://turkey.unfpa.org/en/publications/child-early-and-forced-marriage-turkey)
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+
