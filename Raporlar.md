@@ -65,8 +65,8 @@
 - [Türkiye Aile Yapısı Araştırması Tespitler, Öneriler - *Aile ve Sosyal Politikalar Bakanlığı*](#türkiye-aile-yapısı-araştırması-tespitler-Öneriler)
 - [Türkiye'de Aile Yapısı Araştırması - *Aile ve Sosyal Politikalar Bakanlığı*](#türkiye39de-aile-yapısı-araştırması)
 - [Türkiye - UNICEF Ülke İşbirliği Programı 2016-2020, Yıllık Raporu 2018 - *UNICEF*](#türkiye-unicef-Ülke-İşbirliği-programı-2016-2020-yıllık-raporu-2018)
-- [Çocuk Yaşta, Erken ve Zorla Evliliklerin Sağlık Riskleri ve Sonuçlarına Çok Sektörlü Yaklaşım - *UNFPA*][]
-- [Türkiye’de Çocuk Yaşta, Erken ve Zorla Evlilikler: 1993-2018 Türkiye Nüfus ve Sağlık Araştırmaları Veri Analizi - *UNFPA, HUNEE*][]
+- [Çocuk Yaşta, Erken ve Zorla Evliliklerin Sağlık Riskleri ve Sonuçlarına Çok Sektörlü Yaklaşım - *UNFPA*](#Çocuk-yaşta-erken-ve-zorla-evliliklerin-sağlık-riskleri-ve-sonuçlarına-Çok-sektörlü-yaklaşım)
+- [Türkiye’de Çocuk Yaşta, Erken ve Zorla Evlilikler: 1993-2018 Türkiye Nüfus ve Sağlık Araştırmaları Veri Analizi - *UNFPA, HUNEE*](#türkiyede-Çocuk-yaşta-erken-ve-zorla-evlilikler-1993-2018-türkiye-nüfus-ve-sağlık-araştırmaları-veri-analizi)
 
 
 
