@@ -248,13 +248,14 @@ Brochures developed within the scope of the "Prevention of Child Marriages: Nev�
 *BRS_14*
 
 **ÖZET**  
-
+Çocuk yaşta, erken ve zorla evliliklerin tanımı, sonuçları ve önlenmesi ile ilgili sıkça sorulan sorular ve cevapları ele alınmaktadır.
 
 **SUMMARY**  
-
+Frequently asked questions regarding definition of child, early and forced marriage, its consequences and prevention are answered in this brochure.
 
 ?> *Kuruluş adı: UNFPA, Sabancı Vakfı; Türkçe Tema: Çocuk Yaşta Evlilik, Sağlık, Erken Yaşta Evlilik, Zorla Evlilik*
 
 [Dokümanı İncele](downloads\BRS\BRS_14.pdf ':ignore')
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
+

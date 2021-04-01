@@ -11,6 +11,12 @@
 - [Çocuk Yaşta Evliliklerin Önlenmesi Projesi Nevşehir Modeli  - *BÜKÇAM, UNFPA, Sabancı Vakfı*](#Çocuk-yaşta-evliliklerin-önlenmesi-projesi-nevşehir-modeli)
 - [Kız Leyla Müzik Videosu - *Sabancı Vakfı*](#kız-leyla-müzik-videosu)
 - [Çocuk Yaşta Evlilikler - *UNFPA*](#Çocuk-yaşta-evlilikler)
+- [Toplumsal Cinsiyete Dayalı Şiddet - *UNFPA*](#toplumsal-cinsiyete-dayalı-Şiddet)
+- [16 Günlük Aktivizm - Çocuk Yaşta, Erken ve Zorla Evlilikler - *UNFPA*](#_16-günlük-aktivizm-Çocuk-yaşta-erken-ve-zorla-evlilikler)
+- [Çocuk Yaşta, Erken ve Zorla Evliliklerin Önlenmesinde Babaların Rolü ve Önemi - *AÇEV*](#Çocuk-yaşta-erken-ve-zorla-evliliklerin-Önlenmesinde-babaların-rolü-ve-Önemi)
+- [Çocuk Yaşta, Erken ve Zorla Evlilikler - Haber Spikerleri Videosu - *UNFPA*](#Çocuk-yaşta-erken-ve-zorla-evlilikler-haber-spikerleri-videosu)
+- [Hülya'nın Hikayesi - *UNFPA*](#hülya39nın-hikayesi)
+
 
 ## Kısa Filmler
 *FLM_01 Klasör*  
@@ -141,13 +147,88 @@ https://www.youtube.com/watch?v=CiJ-ijsKfQA&list=PLDJ5tRY32s-CnboIyKFkVVa4zYq7LE
 *FLM_09*
 
 **ÖZET**  
-
+Sida desteği ile UNFPA tarafından hazırlanan videoda çocuk yaşta evliliğin ne olduğu, yasal çerçevesi, bireysel ve toplumsal sonuçları ve çocuk yaşta evliliklerin önlenmesi ve müdahale yöntemleri konuları ele alınıyor. 
 
 **SUMMARY**  
-
+In this video made by UNFPA with support of Sida, definition of child marriage, legal framework regulating these marriages, its individual and social consequences, prevention and intervention methods are discussed. 
 
 ?> *Kuruluş adı: UNFPA; 2020, Türkçe Tema: Çocuk Yaşta Evlilik, Erken Yaşta Evlilik, Zorla Evlilik*
 
 [Videoya Erişmek İçin Tıklayınız](https://drive.google.com/file/d/1XiAsBDvWWXHQ2Kn0O-cbckbgusoRiLQQ/view?usp=sharing)
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Toplumsal Cinsiyete Dayalı Şiddet
+*FLM_10*
+
+**ÖZET**  
+Sida desteği ile UNFPA tarafından hazırlanan videoda toplumsal cinsiyete dayalı şiddet, şiddet türleri, şiddete maruz kalan ya da şahit olan kişilerin başvurabilecekleri destek mekanizmaları ve hizmetler ele alınıyor. 
+
+**SUMMARY**  
+In this video made by UNFPA with support of Sida, gender based violence (GBV), different violence types, available support mechanisms and services that can be applied by GBV survivors and witnesses are discussed.
+
+?> *Kuruluş adı: UNFPA; 2020, Türkçe Tema: Toplumsal Cinsiyet, Şiddet*
+
+[Videoya Erişmek İçin Tıklayınız](https://drive.google.com/file/d/1QBQWWMKvURjGXhCTFIJDfEG6YveONSFp/view?usp=sharing)
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## 16 Günlük Aktivizm - Çocuk Yaşta, Erken ve Zorla Evlilikler
+*FLM_11*
+
+**ÖZET**  
+16 Günlük Aktivizm kampanyası kapsamında çocuk yaşta, erken ve zorla evliliklere "yeter" demek için UNFPA tarafından hazırlanan videoda aktör İbrahim Kendirci yer alıyor. 
+
+**SUMMARY**  
+In this video made by UNFPA in the scope of 16 Days of Activism in order to say "enough" to the child, early and forced marriages actor İbrahim Kendirci performs a role. 
+
+?> *Kuruluş adı: UNFPA; 2020, Türkçe Tema: Çocuk Yaşta Evlilik, Erken Yaşta Evlilik, Zorla Evlilik, Şiddet*
+
+[Videoya Erişmek İçin Tıklayınız](https://drive.google.com/file/d/1QstmSKlDB3vjAdgQF_kYy4hZ3vfUYiK2/view?usp=sharing)
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Çocuk Yaşta, Erken ve Zorla Evliliklerin Önlenmesinde Babaların Rolü ve Önemi
+*FLM_12*
+
+**ÖZET**  
+Çocukların gelişimini ve iyi olma hallerini etkileyen bazı uygulamalar, bu uygulamalardan biri olarak çocuk yaşta, erken ve zorla evlilikler ve bu uygulamaların önlenmesinde babaların rolü ele alınıyor. 
+
+**SUMMARY**  
+Some practices affect child development and well-being, child, early and forced marriages as one of those practices, and the role of fathers in prevention of those practices are addressed. 
+
+?> *Kuruluş adı: AÇEV; 2020, Türkçe Tema: Çocuk İhmali ve İstismarı, Çocuk Yaşta Evlilik, Erken Yaşta Evlilik, Zorla Evlilik*
+
+[Videoya Erişmek İçin Tıklayınız](https://drive.google.com/file/d/1qU_tmO6urYJEdg60SqYDtZaje7Gz39mx/view?usp=sharing)
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Çocuk Yaşta, Erken ve Zorla Evlilikler - Haber Spikerleri Videosu
+*FLM_13*
+
+**ÖZET**  
+Çocuk yaşta, erken ve zorla evlilikler ve sonuçlarıyla ile ilgili önemli istatistikler ve bilgiler haber spikerleri tarafından sunuluyor.
+
+**SUMMARY**  
+Important statistics and information on child, early and forced marriage and its consequences are presented by the news anchors.
+
+?> *Kuruluş adı: UNFPA; 2020, Türkçe  Tema: Çocuk Yaşta Evlilik, Erken Yaşta Evlilik, Zorla Evlilik*
+
+[Videoya Erişmek İçin Tıklayınız](https://drive.google.com/file/d/1NSeJ9dBaiYCWMk0_O8OR_c7q7PRQGnYA/view?usp=sharing)
+
+[Materyal Listesine Geri Dön](#materyal-listesi)
+
+## Hülya'nın Hikayesi
+*FLM_14*
+
+**ÖZET**  
+UNFPA'in çocuk yaşta, erken ve zorla evliliklerin önlenmesi ile ilgili yürüttüğü faaliyetlerde sağlık aracısı olarak yer alan ve çocuk yaşta evlendirilmiş olan Hülya'nın hikayesi.
+
+**SUMMARY**  
+Story of Hülya who has experienced child marriage and takes role as a health mediator in the scope of UNFPA activities in order to prevent child, early and forced marriages.
+
+?> *Kuruluş adı: UNFPA; 2021, Türkçe  Tema: Çocuk Yaşta Evlilik, Erken Yaşta Evlilik, Zorla Evlilik*
+
+[Videoya Erişmek İçin Tıklayınız](https://drive.google.com/file/d/1LRVMfB2g0_A0mM1nd6kCxWfZ7DYyuv9V/view?usp=sharing)
 
 [Materyal Listesine Geri Dön](#materyal-listesi)
