@@ -16,7 +16,7 @@ The 26th special issue of the Flying Broom Women's Magazine is dedicated to earl
 
 ?> *Kuruluş adı: Uçan Süpürge; 2010, Türkçe Tema: Erken yaşta ve zorla evlilik*
 
-Uçan Süpürge Web Sayfası: http://ucansupurge.org.tr/
+Uçan Süpürge Web Sayfası: http://ucansupurge.org/
 
 [Basılı Materyal]
 
@@ -33,7 +33,7 @@ The November 2012 special issue of the Flying Broom Women's Magazine in English 
 
 ?> *Kuruluş adı: Uçan Süpürge; 2012, İngilizce Tema: Erken yaşta evlilik*
 
-Uçan Süpürge Web Sayfası: http://ucansupurge.org.tr/
+Uçan Süpürge Web Sayfası: http://ucansupurge.org/
 
 
 [Basılı Materyal]
