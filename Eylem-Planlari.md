@@ -15,7 +15,7 @@
 *EYP_01 Klasör*  
 
 **ÖZET**  
- UNICEF tarafından geliştirilen **taslak** belge, çcouk yaşta veliliklerin önlenmesine ilişkin yerel eylem planı geliştirme yöntemini ve gerçekleştirilebilecek örnek aktiviteleri içermektedir.
+ UNICEF tarafından geliştirilen **taslak** belge, çcouk yaşta evliliklerin önlenmesine ilişkin yerel eylem planı geliştirme yöntemini ve gerçekleştirilebilecek örnek aktiviteleri içermektedir.
 
  **SUMMARY**  
 The draft document developed by UNICEF includes methodology for developing a local action plan related to the prevention of child marriage and some implementable sample activities. 
